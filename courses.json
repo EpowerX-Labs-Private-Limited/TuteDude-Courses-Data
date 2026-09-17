@@ -1,0 +1,719 @@
+{
+    "success": true,
+    "message": "Courses fetched successfully",
+    "data": {
+        "courses": [
+            {
+                "id": 97,
+                "slug": "3dgamedevelopment",
+                "title": "3D Game Development in Unity",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 103,
+                "slug": "indesign",
+                "title": "Adobe Indesign",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2026-01-16T12:32:30.000Z"
+            },
+            {
+                "id": 109,
+                "slug": "photoshop",
+                "title": "Adobe Photoshop",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 113,
+                "slug": "premierepro",
+                "title": "Adobe Premiere Pro",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:42.000Z",
+                "updated_at": "2025-11-19T17:44:42.000Z"
+            },
+            {
+                "id": 127,
+                "slug": "affinitystudio",
+                "title": "Affinity Studio",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-03-25T20:26:23.000Z",
+                "updated_at": "2026-03-25T20:26:23.000Z"
+            },
+            {
+                "id": 110,
+                "slug": "aftereffects",
+                "title": "AfterEffects",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 79,
+                "slug": "aitools",
+                "title": "AI Tools",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 132,
+                "slug": "aivideogen",
+                "title": "AI Video Generation",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-05-19T19:18:20.000Z",
+                "updated_at": "2026-05-19T19:18:20.000Z"
+            },
+            {
+                "id": 80,
+                "slug": "appdevelopment",
+                "title": "App Development",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 117,
+                "slug": "awspractitioner",
+                "title": "AWS Cloud Practitioner",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-12-19T13:33:33.000Z",
+                "updated_at": "2025-12-19T13:33:33.000Z"
+            },
+            {
+                "id": 131,
+                "slug": "blender",
+                "title": "Blender",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-05-18T19:47:57.000Z",
+                "updated_at": "2026-05-18T19:47:57.000Z"
+            },
+            {
+                "id": 90,
+                "slug": "blockchain",
+                "title": "Blockchain",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 126,
+                "slug": "businessanalytics",
+                "title": "Business Analytics",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-03-17T20:46:17.000Z",
+                "updated_at": "2026-03-17T20:46:17.000Z"
+            },
+            {
+                "id": 84,
+                "slug": "cpp",
+                "title": "C++",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 135,
+                "slug": "canva",
+                "title": "Canva",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-07-07T13:12:49.000Z",
+                "updated_at": "2026-07-07T13:12:49.000Z"
+            },
+            {
+                "id": 91,
+                "slug": "cloudcomputing",
+                "title": "Cloud Computing",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 65,
+                "slug": "competitiveprogramming",
+                "title": "Competetive Programming",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 92,
+                "slug": "copywriting",
+                "title": "Copywriting",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 94,
+                "slug": "cybersecurity",
+                "title": "Cybersecurity",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2026-01-22T14:31:55.000Z"
+            },
+            {
+                "id": 141,
+                "slug": "d2cbrandbuilding",
+                "title": "D2C Brand Building",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-09-10T16:45:03.000Z",
+                "updated_at": "2026-09-10T16:45:03.000Z"
+            },
+            {
+                "id": 85,
+                "slug": "dataanalytics",
+                "title": "Data Analytics",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 93,
+                "slug": "dataengineering",
+                "title": "Data Engineering",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 62,
+                "slug": "datastructure",
+                "title": "Data Structures & Algorithms",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 64,
+                "slug": "dbms",
+                "title": "Database Management System",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 95,
+                "slug": "datascience",
+                "title": "Datascience",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 120,
+                "slug": "davinciresolve",
+                "title": "DaVinci Resolve",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-01-15T18:54:30.000Z",
+                "updated_at": "2026-01-15T18:54:30.000Z"
+            },
+            {
+                "id": 108,
+                "slug": "deeplearning",
+                "title": "Deep Learning",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 70,
+                "slug": "devops",
+                "title": "DevOps",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 86,
+                "slug": "digitalmarketing",
+                "title": "Digital Marketing",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2026-04-01T14:10:08.000Z"
+            },
+            {
+                "id": 130,
+                "slug": "dockerandkubernetes",
+                "title": "Docker and Kubernetes",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-05-13T16:09:42.000Z",
+                "updated_at": "2026-05-13T16:09:42.000Z"
+            },
+            {
+                "id": 119,
+                "slug": "dsawithjava",
+                "title": "DSA with Java",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-01-12T19:37:43.000Z",
+                "updated_at": "2026-01-12T19:37:43.000Z"
+            },
+            {
+                "id": 68,
+                "slug": "dsawithpython",
+                "title": "DSA with Python",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 60,
+                "slug": "ethicalhacking",
+                "title": "Ethical Hacking",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 111,
+                "slug": "excel",
+                "title": "Excel",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 87,
+                "slug": "financialanalysis",
+                "title": "Financial Analysis",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 59,
+                "slug": "financialmodelling",
+                "title": "Financial Modelling & Valuation",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2026-04-01T14:09:50.000Z"
+            },
+            {
+                "id": 115,
+                "slug": "flutter",
+                "title": "Flutter",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:42.000Z",
+                "updated_at": "2025-11-19T17:44:42.000Z"
+            },
+            {
+                "id": 77,
+                "slug": "fundamentalanalysis",
+                "title": "Fundamental Analysis",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 118,
+                "slug": "genai",
+                "title": "Gen AI",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-12-19T13:33:35.000Z",
+                "updated_at": "2025-12-19T13:33:35.000Z"
+            },
+            {
+                "id": 96,
+                "slug": "graphicdesign",
+                "title": "Graphic Design",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 104,
+                "slug": "graphicdesignwithai",
+                "title": "Graphic Design With AI",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 139,
+                "slug": "growthhacking",
+                "title": "Growth Hacking",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-08-07T13:28:44.000Z",
+                "updated_at": "2026-08-07T13:28:44.000Z"
+            },
+            {
+                "id": 105,
+                "slug": "hrmanagement",
+                "title": "HR Management",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 112,
+                "slug": "illustrator",
+                "title": "Illustrator",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:42.000Z",
+                "updated_at": "2025-11-19T17:44:42.000Z"
+            },
+            {
+                "id": 134,
+                "slug": "iac",
+                "title": "Infrastructure as Code",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-07-07T13:12:31.000Z",
+                "updated_at": "2026-07-07T13:12:31.000Z"
+            },
+            {
+                "id": 125,
+                "slug": "instagramcreator",
+                "title": "Instagram Content Creation",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-02-05T13:14:13.000Z",
+                "updated_at": "2026-02-05T14:36:32.000Z"
+            },
+            {
+                "id": 71,
+                "slug": "java",
+                "title": "Java",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 107,
+                "slug": "llm",
+                "title": "Large Language Mode(LLM)",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2026-02-05T13:08:24.000Z"
+            },
+            {
+                "id": 123,
+                "slug": "linux",
+                "title": "Linux",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-01-21T15:59:24.000Z",
+                "updated_at": "2026-01-21T15:59:24.000Z"
+            },
+            {
+                "id": 98,
+                "slug": "machinelearning",
+                "title": "Machine learning (ML)",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 63,
+                "slug": "mernstack",
+                "title": "MERN Stack",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 89,
+                "slug": "motiongraphics",
+                "title": "Motion Graphics",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 136,
+                "slug": "n8n",
+                "title": "N8N Automation",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-07-17T11:37:12.000Z",
+                "updated_at": "2026-07-17T11:37:12.000Z"
+            },
+            {
+                "id": 100,
+                "slug": "nlp",
+                "title": "Natural language processing (NLP)",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 74,
+                "slug": "nestjs",
+                "title": "Nestjs",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 99,
+                "slug": "nextjs",
+                "title": "Next Js",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 88,
+                "slug": "performancemarketing",
+                "title": "Performance Marketing",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 83,
+                "slug": "powerbi",
+                "title": "Power BI",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 116,
+                "slug": "python",
+                "title": "Python",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:42.000Z",
+                "updated_at": "2025-11-19T17:44:42.000Z"
+            },
+            {
+                "id": 72,
+                "slug": "reactjs",
+                "title": "React Js",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 69,
+                "slug": "reactnative",
+                "title": "React Native",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 82,
+                "slug": "riskmanagement",
+                "title": "Risk Management",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 114,
+                "slug": "seo",
+                "title": "Search Engine Optimization (SEO) Mastery",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:42.000Z",
+                "updated_at": "2025-11-19T17:44:42.000Z"
+            },
+            {
+                "id": 76,
+                "slug": "sql",
+                "title": "SQL",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2026-04-01T14:10:00.000Z"
+            },
+            {
+                "id": 101,
+                "slug": "systemdesign",
+                "title": "System Design",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 61,
+                "slug": "tableau",
+                "title": "Tableau",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 67,
+                "slug": "technicalanalysis",
+                "title": "Technical Analysis",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 133,
+                "slug": "terraform",
+                "title": "Terraform",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-06-04T14:28:13.000Z",
+                "updated_at": "2026-06-04T14:28:13.000Z"
+            },
+            {
+                "id": 137,
+                "slug": "ugc",
+                "title": "UGC",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-07-17T11:37:31.000Z",
+                "updated_at": "2026-07-17T11:37:31.000Z"
+            },
+            {
+                "id": 73,
+                "slug": "uiux",
+                "title": "UI/UX",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 140,
+                "slug": "unrealengine",
+                "title": "Unreal Engine",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-09-05T11:55:18.000Z",
+                "updated_at": "2026-09-05T11:55:18.000Z"
+            },
+            {
+                "id": 81,
+                "slug": "uxresearch",
+                "title": "UX Research",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 102,
+                "slug": "vfx",
+                "title": "VFX",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:41.000Z",
+                "updated_at": "2025-11-19T17:44:41.000Z"
+            },
+            {
+                "id": 129,
+                "slug": "videoediting",
+                "title": "Video editing",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-04-14T13:52:41.000Z",
+                "updated_at": "2026-04-14T13:52:41.000Z"
+            },
+            {
+                "id": 138,
+                "slug": "vnvideoediting",
+                "title": "VN Mobile Video Editing",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-08-03T21:14:05.000Z",
+                "updated_at": "2026-08-03T21:14:05.000Z"
+            },
+            {
+                "id": 66,
+                "slug": "webdevelopment",
+                "title": "Web Development with PHP/MySQL",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 78,
+                "slug": "web3",
+                "title": "Web3 Mastery",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2025-11-19T17:44:40.000Z",
+                "updated_at": "2025-11-19T17:44:40.000Z"
+            },
+            {
+                "id": 124,
+                "slug": "wordpress",
+                "title": "Wordpress",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-01-21T15:59:58.000Z",
+                "updated_at": "2026-01-21T15:59:58.000Z"
+            },
+            {
+                "id": 142,
+                "slug": "youtubecreator",
+                "title": "Youtube Content Creation",
+                "price": "699.00",
+                "is_active": 1,
+                "created_at": "2026-09-10T16:45:09.000Z",
+                "updated_at": "2026-09-10T16:45:09.000Z"
+            }
+        ]
+    }
+}

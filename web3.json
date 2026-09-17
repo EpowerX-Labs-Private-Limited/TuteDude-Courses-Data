@@ -1,0 +1,824 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680c86eb364f718dc17b7412",
+        "courseName": "Web3 Mastery",
+        "slug": "web3",
+        "category": "technical",
+        "tpFolderId": "5YxTYGEjeEx",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Course Overview",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Course Overview",
+                        "lectureId": "680c86eb364f718dc17b7414",
+                        "lectureLength": "00:10:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48nx5sJft2h/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction To Blockchain",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Welcome To Blockchain",
+                        "lectureId": "680c86eb364f718dc17b7420",
+                        "lectureLength": "00:04:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aUPSThZp2Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Distributed systems",
+                        "lectureId": "680c86eb364f718dc17b7416",
+                        "lectureLength": "00:15:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FamHsSKdyM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "History",
+                        "lectureId": "680c86eb364f718dc17b7417",
+                        "lectureLength": "00:21:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pJXzJcJmsf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to blockchain",
+                        "lectureId": "680c86eb364f718dc17b7418",
+                        "lectureLength": "00:11:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C56MS9NPU9t/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generic Elements Of Blockchain",
+                        "lectureId": "680c86eb364f718dc17b7419",
+                        "lectureLength": "00:18:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TzXnpXtsxM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types Of Consensus",
+                        "lectureId": "680c86eb364f718dc17b741c",
+                        "lectureLength": "00:18:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqYjruN2NEu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Features Of Blockchain",
+                        "lectureId": "680c86eb364f718dc17b741d",
+                        "lectureLength": "00:30:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDb4ureMHSa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applications Of Blockchain",
+                        "lectureId": "680c86eb364f718dc17b741e",
+                        "lectureLength": "00:14:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g4XfQYX9pQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types Of Blockchain",
+                        "lectureId": "680c86eb364f718dc17b741f",
+                        "lectureLength": "00:05:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bHZCGe3mUD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Benefits And Limitations Of Blockchain",
+                        "lectureId": "680c86eb364f718dc17b741a",
+                        "lectureLength": "00:05:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Afum6qQ4DCp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mining",
+                        "lectureId": "680c86eb364f718dc17b741b",
+                        "lectureLength": "00:10:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtacCmPnbhA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Solidity",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction To Solidity",
+                        "lectureId": "680c86eb364f718dc17b7423",
+                        "lectureLength": "00:13:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aa43RR9ExPP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conditional and loops",
+                        "lectureId": "680c86eb364f718dc17b7424",
+                        "lectureLength": "00:18:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mN65HGFNKDT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Arrays And Structure",
+                        "lectureId": "680c86eb364f718dc17b7425",
+                        "lectureLength": "00:24:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4YeMXhRkNd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mapping",
+                        "lectureId": "680c86eb364f718dc17b7426",
+                        "lectureLength": "00:11:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9r4SjhuGRjY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inheritance",
+                        "lectureId": "680c86eb364f718dc17b7427",
+                        "lectureLength": "00:14:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kYhrhmUthC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interfaces",
+                        "lectureId": "680c86eb364f718dc17b7428",
+                        "lectureLength": "00:22:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qScpRfjb9K/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Abstract Contracts",
+                        "lectureId": "680c86eb364f718dc17b7429",
+                        "lectureLength": "00:10:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fq87URjbyH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interfaces,Abstract and Inheritence",
+                        "lectureId": "680c86eb364f718dc17b742a",
+                        "lectureLength": "00:29:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XaXGshaJah/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Functions to revert transactions",
+                        "lectureId": "680c86eb364f718dc17b742b",
+                        "lectureLength": "00:07:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DUM2cFY4dr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploying one contract in another",
+                        "lectureId": "680c86eb364f718dc17b742c",
+                        "lectureLength": "00:16:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QhUCe9j5YJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Injected Web3",
+                        "lectureId": "680c86eb364f718dc17b742d",
+                        "lectureLength": "00:11:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XdCfHrsqFr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Gas",
+                        "lectureId": "680c86eb364f718dc17b742e",
+                        "lectureLength": "00:17:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9Xu33G7nrt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Storage Locations",
+                        "lectureId": "680c86eb364f718dc17b742f",
+                        "lectureLength": "00:07:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gB8xFsdkdE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Oracles",
+                        "lectureId": "680c86eb364f718dc17b7430",
+                        "lectureLength": "00:04:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Q9N5u8jUGf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keeping Private Key Safe",
+                        "lectureId": "680c86eb364f718dc17b7422",
+                        "lectureLength": "00:05:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rs9Mpqe3S6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Remix Simple Storage",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Simple Storage",
+                        "lectureId": "680c86eb364f718dc17b7432",
+                        "lectureLength": "00:21:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/e4suZ7MKxXh/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Remix Fundme",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "FundMe Remix",
+                        "lectureId": "680c86eb364f718dc17b7434",
+                        "lectureLength": "00:12:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9myyr9njDYG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Methods Used to Pay",
+                        "lectureId": "680c86eb364f718dc17b7435",
+                        "lectureLength": "00:08:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NPSEgCKz2K/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Withdraw in Remix",
+                        "lectureId": "680c86eb364f718dc17b7436",
+                        "lectureLength": "00:17:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qsEk5nz9hd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keep track of Funders using Mapping",
+                        "lectureId": "680c86eb364f718dc17b7437",
+                        "lectureLength": "00:10:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BTHs34kNqh/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Javascipt Basics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "JS introduction",
+                        "lectureId": "680c86eb364f718dc17b7439",
+                        "lectureLength": "00:23:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FuPrgyEjPg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "JS functions and Objects",
+                        "lectureId": "680c86eb364f718dc17b743a",
+                        "lectureLength": "00:12:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qXAq6eGYbp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Events in JS",
+                        "lectureId": "680c86eb364f718dc17b743b",
+                        "lectureLength": "00:10:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gPxXN7nzdH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Arrays in JS",
+                        "lectureId": "680c86eb364f718dc17b743c",
+                        "lectureLength": "00:10:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASAsJcKqsZT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conditional Statements and Looping in JS",
+                        "lectureId": "680c86eb364f718dc17b743d",
+                        "lectureLength": "00:12:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E2SSDmmptH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Date in JS",
+                        "lectureId": "680c86eb364f718dc17b743e",
+                        "lectureLength": "00:08:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2Gh5xpBm3c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Callbacks,Async_Await in JS",
+                        "lectureId": "680c86eb364f718dc17b743f",
+                        "lectureLength": "00:11:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmaxY7ra4hH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Ethers.js Simple Storage",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basic Setup",
+                        "lectureId": "680c86eb364f718dc17b7446",
+                        "lectureLength": "00:04:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NJ5dyRMEkF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Simple storage intro",
+                        "lectureId": "680c86eb364f718dc17b7441",
+                        "lectureLength": "00:08:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cBRDpUuy3n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Simple Storage deploy.js",
+                        "lectureId": "680c86eb364f718dc17b7443",
+                        "lectureLength": "00:19:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TR6e6Xr9bg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Signing Transactions",
+                        "lectureId": "680c86eb364f718dc17b7442",
+                        "lectureLength": "00:08:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JdcDPPHj2QP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interacting with Smart Contract",
+                        "lectureId": "680c86eb364f718dc17b7444",
+                        "lectureLength": "00:11:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ujEx63Db9d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Verifying Contracts",
+                        "lectureId": "680c86eb364f718dc17b7445",
+                        "lectureLength": "00:15:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7akxmYtj5h7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Hardhat Simple Storage",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Hardhat",
+                        "lectureId": "680c86eb364f718dc17b7448",
+                        "lectureLength": "00:14:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BeMR2uGuke/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working With Hardhat",
+                        "lectureId": "680c86eb364f718dc17b7449",
+                        "lectureLength": "00:30:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RhgyZhbcP5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dotenv",
+                        "lectureId": "680c86eb364f718dc17b744a",
+                        "lectureLength": "00:05:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JSfNfxRNhK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keeping Private Key Safe",
+                        "lectureId": "680c86eb364f718dc17b744b",
+                        "lectureLength": "00:05:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z4yxcjFgMX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interacting with contract in Hardhat",
+                        "lectureId": "680c86eb364f718dc17b744c",
+                        "lectureLength": "00:04:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJzt4KTejeK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Hardhat Fundme",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Hardhat Fundme",
+                        "lectureId": "680c86eb364f718dc17b744e",
+                        "lectureLength": "00:11:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hJ2SGQuerH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploy for Fundme",
+                        "lectureId": "680c86eb364f718dc17b744f",
+                        "lectureLength": "00:05:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUdNyrKcTXg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customised Deploying of Fundme",
+                        "lectureId": "680c86eb364f718dc17b7450",
+                        "lectureLength": "00:09:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yUtKtZYFaZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploying in Sepolia network",
+                        "lectureId": "680c86eb364f718dc17b7451",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tTzXA4Nmuc4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interact With Contract in Hardhat",
+                        "lectureId": "680c86eb364f718dc17b7453",
+                        "lectureLength": "00:12:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DEMNFYXHYP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploying using Metamask",
+                        "lectureId": "680c86eb364f718dc17b7452",
+                        "lectureLength": "00:09:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ctUZrggbGd/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "HTML/Javascript Fund Me",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Connecting to Browser",
+                        "lectureId": "680c86eb364f718dc17b7455",
+                        "lectureLength": "00:19:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bf7Ry5ghfZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fund frontend",
+                        "lectureId": "680c86eb364f718dc17b7456",
+                        "lectureLength": "00:11:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/732yDGajAcH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fund",
+                        "lectureId": "680c86eb364f718dc17b7457",
+                        "lectureLength": "00:15:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dkTg28xprX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Get Balance Frontend",
+                        "lectureId": "680c86eb364f718dc17b7458",
+                        "lectureLength": "00:14:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dg5JM5k7A4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Withdraw frontend",
+                        "lectureId": "680c86eb364f718dc17b7459",
+                        "lectureLength": "00:13:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pHAsfgh4fn/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "LOR WEB3 Project",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "LOR-Inroduction",
+                        "lectureId": "680c86eb364f718dc17b745b",
+                        "lectureLength": "00:08:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dqAjpAsC2bg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Smart Contract for LOR",
+                        "lectureId": "680c86eb364f718dc17b745c",
+                        "lectureLength": "00:14:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RBbnybsQUy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploy.js for LOR",
+                        "lectureId": "680c86eb364f718dc17b745d",
+                        "lectureLength": "00:08:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RfpZjPqesf/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "LOR Web3 Project Frontend",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "React.js Basics",
+                        "lectureId": "680c86eb364f718dc17b746a",
+                        "lectureLength": "00:10:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkNSPakpsFS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Frontend introduction for LOR",
+                        "lectureId": "680c86eb364f718dc17b745f",
+                        "lectureLength": "00:05:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bTKqeERSne/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connect Metamask to Browser",
+                        "lectureId": "680c86eb364f718dc17b7460",
+                        "lectureLength": "00:12:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78S2HxtSzNE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RequestLetter.js",
+                        "lectureId": "680c86eb364f718dc17b7461",
+                        "lectureLength": "00:07:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ryfnybSxNP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RequestLetter.js Continuation",
+                        "lectureId": "680c86eb364f718dc17b7462",
+                        "lectureLength": "00:07:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35JbREPFAUj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ApproveLetter.js",
+                        "lectureId": "680c86eb364f718dc17b7464",
+                        "lectureLength": "00:09:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqYUQyQBzPx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ApproveLetter.js Continuation",
+                        "lectureId": "680c86eb364f718dc17b7465",
+                        "lectureLength": "00:09:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM7X9jnxndk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GetDetails.js",
+                        "lectureId": "680c86eb364f718dc17b7466",
+                        "lectureLength": "00:04:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75By4P8fGNK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GetDetails.js Continuation",
+                        "lectureId": "680c86eb364f718dc17b7467",
+                        "lectureLength": "00:04:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9x5bxAsdsrh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Displaying in GetDetails.js",
+                        "lectureId": "680c86eb364f718dc17b7468",
+                        "lectureLength": "00:06:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SdhH95sYR9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Demo Of LOR",
+                        "lectureId": "680c86eb364f718dc17b7469",
+                        "lectureLength": "00:02:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mSTtNM3MZ8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RequestLetter.js handleRequest ",
+                        "lectureId": "680c86eb364f718dc17b7463",
+                        "lectureLength": "00:07:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8c59P8kKaah/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Project",
+                "assignmentId": "68f2251683492d3c7b6b5533",
+                "assignmentLink": "https://docs.google.com/document/d/19TYIg8C-hC8AG0YDV6w19NiHPZqTJPjlCyb9s5emK5w/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Hardhat ERC",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Tokens",
+                        "lectureId": "680c86eb364f718dc17b746c",
+                        "lectureLength": "00:23:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACfTBrx7xBj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ERC20",
+                        "lectureId": "680c86eb364f718dc17b746d",
+                        "lectureLength": "00:09:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XauBUu85MU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Example Of ERC tokens",
+                        "lectureId": "680c86eb364f718dc17b746e",
+                        "lectureLength": "00:12:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6x4aJyYYe6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Native vs ERC Tokens",
+                        "lectureId": "680c86eb364f718dc17b746f",
+                        "lectureLength": "00:03:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bbBMyruG8R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ethereum Standards",
+                        "lectureId": "680c86eb364f718dc17b7470",
+                        "lectureLength": "00:08:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDnmfzBXDTS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Hardhat Starter Kit",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Hardhat Starter Kit",
+                        "lectureId": "680c86eb364f718dc17b7472",
+                        "lectureLength": "00:08:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FXzsncQksu8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Hardhat Account To Metamask",
+                        "lectureId": "680c86eb364f718dc17b7473",
+                        "lectureLength": "00:06:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rq9gHTE95yG/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Hardhat NFT",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Hardhat NFT introduction",
+                        "lectureId": "680c86eb364f718dc17b7475",
+                        "lectureLength": "00:09:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7zCT8kqUhS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Writing MyNFT.sol",
+                        "lectureId": "680c86eb364f718dc17b7476",
+                        "lectureLength": "00:17:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YFHxcnxhf7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploy.js for MyNFT",
+                        "lectureId": "680c86eb364f718dc17b7477",
+                        "lectureLength": "00:08:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UexHCsX58U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IPFS",
+                        "lectureId": "680c86eb364f718dc17b7479",
+                        "lectureLength": "00:11:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A9JUExQtRJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploying MyNFT in Sepolia ",
+                        "lectureId": "680c86eb364f718dc17b7478",
+                        "lectureLength": "00:05:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77CgJjfBHZM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Upload files in Pinta",
+                        "lectureId": "680c86eb364f718dc17b747a",
+                        "lectureLength": "00:09:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58ejFuQ36Mr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Hardhat NFT React.js",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "NFT Viewer Introduction",
+                        "lectureId": "680c86eb364f718dc17b747c",
+                        "lectureLength": "00:05:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3t2br5amtUf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NFTGallery.js Connect Function",
+                        "lectureId": "680c86eb364f718dc17b747d",
+                        "lectureLength": "00:06:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AabNRsHe2UN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NFTGallery.js Fetch NFT",
+                        "lectureId": "680c86eb364f718dc17b747e",
+                        "lectureLength": "00:06:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UtkRF93uHC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NFTGallery.js Return",
+                        "lectureId": "680c86eb364f718dc17b747f",
+                        "lectureLength": "00:06:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NEm7KECzSu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NFTGallery.css and Demo",
+                        "lectureId": "680c86eb364f718dc17b7480",
+                        "lectureLength": "00:06:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42K3ccjUtTG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NFTGallery Summary",
+                        "lectureId": "680c86eb364f718dc17b7481",
+                        "lectureLength": "00:08:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYbUfq2qKYS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Hardhat DeFi",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creation Of Token Introduction",
+                        "lectureId": "680c86eb364f718dc17b7483",
+                        "lectureLength": "00:12:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHafeGQSCBd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "MyToken deploy",
+                        "lectureId": "680c86eb364f718dc17b7484",
+                        "lectureLength": "00:05:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YEhmz5GSxG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "MyToken mint",
+                        "lectureId": "680c86eb364f718dc17b7485",
+                        "lectureLength": "00:06:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uJE5ahtsh2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "MyToken burn",
+                        "lectureId": "680c86eb364f718dc17b7486",
+                        "lectureLength": "00:05:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8X8csEMfJA7/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": null,
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

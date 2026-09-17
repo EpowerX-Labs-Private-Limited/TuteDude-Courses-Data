@@ -1,0 +1,1144 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6a3393978668a9279c14e634",
+        "courseName": "Financial Modelling & Valuation",
+        "slug": "financialmodelling",
+        "category": "Finance",
+        "tpFolderId": "7k5GkgZaxDR",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": true,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6a3393978668a9279c14e636",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Intro Video for FMV Course",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Industry Ready Financial Modeling Course Launch",
+                        "lectureId": "6a3406ae8668a9279c1522c2",
+                        "lectureLength": "00:09:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5ty8HY4QnJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Excel",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction and Overview of Excel",
+                        "lectureId": "6a3393978668a9279c14e63a",
+                        "lectureLength": "00:04:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkkJNNmgJbR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Operations and Data Entry",
+                        "lectureId": "6a3393978668a9279c14e63b",
+                        "lectureLength": "00:04:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D6f5NcaJyS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to formatting",
+                        "lectureId": "6a3393978668a9279c14e63c",
+                        "lectureLength": "00:05:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hK2f2xRcMcd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Excel Formulas",
+                        "lectureId": "6a3393978668a9279c14e63d",
+                        "lectureLength": "00:03:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5d2SSm7KUzE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Excel Functions",
+                        "lectureId": "6a3393978668a9279c14e63e",
+                        "lectureLength": "00:04:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yyC7AqbP6A/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cut copy, Paste Special",
+                        "lectureId": "6a3393978668a9279c14e63f",
+                        "lectureLength": "00:02:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BryA5DzZegn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Format Cells",
+                        "lectureId": "6a3393978668a9279c14e640",
+                        "lectureLength": "00:03:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58744pBR3kf/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Excel Basics & Data Management Project",
+                "assignmentId": "6a34f8e78668a9279c1523dc",
+                "assignmentLink": "https://docs.google.com/document/d/1j5BhBqRCcwDlljC_y9gNJF6ohOQXAwtv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Tips & Tricks in Excel",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Excel best practices",
+                        "lectureId": "6a3393978668a9279c14e642",
+                        "lectureLength": "00:06:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brk5XeEzAku/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tips & tricks part 2",
+                        "lectureId": "6a3393978668a9279c14e643",
+                        "lectureLength": "00:08:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dhyu9u493u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Select Special & Dynamic Names",
+                        "lectureId": "6a3393978668a9279c14e644",
+                        "lectureLength": "00:05:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yzCBbPjMG8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Named Range & Hyperlink",
+                        "lectureId": "6a3393978668a9279c14e645",
+                        "lectureLength": "00:05:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T77knHy3AM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Custom Format No.",
+                        "lectureId": "6a3393978668a9279c14e646",
+                        "lectureLength": "00:06:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tJz4que6kSB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Macros",
+                        "lectureId": "6a3393978668a9279c14e647",
+                        "lectureLength": "00:03:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C225SdNYRf5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Freeze Panes & More",
+                        "lectureId": "6a3393978668a9279c14e648",
+                        "lectureLength": "00:04:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68AhAxy2F4y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conditional formatting",
+                        "lectureId": "6a3393978668a9279c14e649",
+                        "lectureLength": "00:03:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SDgTX442Uc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Advanced Excel Productivity & Automation Project",
+                "assignmentId": "6a34f9258668a9279c1523e6",
+                "assignmentLink": "https://docs.google.com/document/d/1cnxpZXu9gDu4D56n3LRw30oWlJahqAAM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Key Excel Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "SUM, SUMIF and SUMIFS",
+                        "lectureId": "6a3393978668a9279c14e64b",
+                        "lectureLength": "00:06:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bJ2RS3Q5Dg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Count, Average",
+                        "lectureId": "6a3393978668a9279c14e64c",
+                        "lectureLength": "00:05:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XPB9gR6jzk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Modif, MaxMin",
+                        "lectureId": "6a3393978668a9279c14e64d",
+                        "lectureLength": "00:06:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m6D3RuJsRe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "VLookUP",
+                        "lectureId": "6a3393978668a9279c14e64e",
+                        "lectureLength": "00:06:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37BPRjUrXMr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "INDEX, MATCH and their combination - the perfect substitute for VLOOKUP",
+                        "lectureId": "6a3393978668a9279c14e64f",
+                        "lectureLength": "00:08:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRbcjMgz7DG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Index Match Match",
+                        "lectureId": "6a3393978668a9279c14e650",
+                        "lectureLength": "00:06:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJdn9n5xN7y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rank and Iferror",
+                        "lectureId": "6a3393978668a9279c14e651",
+                        "lectureLength": "00:03:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5n5nnf4t7kG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Choose and Goal Seek",
+                        "lectureId": "6a3393978668a9279c14e652",
+                        "lectureLength": "00:04:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JRhZkqtBFp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Data Tables",
+                        "lectureId": "6a3393978668a9279c14e653",
+                        "lectureLength": "00:03:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hZhMcdhXZc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pivot Tables",
+                        "lectureId": "6a3393978668a9279c14e654",
+                        "lectureLength": "00:02:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z4hbkcTdEA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Sales Performance & Data Analysis Advanced Excel Project",
+                "assignmentId": "6a34fb088668a9279c152503",
+                "assignmentLink": "https://docs.google.com/document/d/19756BveaJJEfQTh8ImpKkj-Ea-3_G0A9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Financial Functions in Excel",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Net Present Value",
+                        "lectureId": "6a3393978668a9279c14e656",
+                        "lectureLength": "00:05:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pa3pX5F2rG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Internal Rate of Return",
+                        "lectureId": "6a3393978668a9279c14e657",
+                        "lectureLength": "00:02:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6k3UFncXdD6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Loan and Interest Rate",
+                        "lectureId": "6a3393978668a9279c14e658",
+                        "lectureLength": "00:05:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSPMA5JU5rf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Date Functions",
+                        "lectureId": "6a3393978668a9279c14e659",
+                        "lectureLength": "00:04:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KCfz7UxFr4/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Investment & Loan Decision Analysis Using Excel Project",
+                "assignmentId": "6a34fba58668a9279c152508",
+                "assignmentLink": "https://docs.google.com/document/d/18dZt3GBwdWGePQZGnHpcWk2VprVr3JqL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Mastering Excel Pivot Tables",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro Pivot Tables",
+                        "lectureId": "6a3393978668a9279c14e65b",
+                        "lectureLength": "00:02:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SQtygN85up/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modify",
+                        "lectureId": "6a3393978668a9279c14e65c",
+                        "lectureLength": "00:03:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69CdCSTXgQ5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GETPIVOTDATA",
+                        "lectureId": "6a3393978668a9279c14e65d",
+                        "lectureLength": "00:02:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TDMtxBRQ4c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Slicers",
+                        "lectureId": "6a3393978668a9279c14e65e",
+                        "lectureLength": "00:02:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzsMZjjHcA4/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Sales Performance Dashboard Using Pivot Tables Project",
+                "assignmentId": "6a34fbdf8668a9279c15250d",
+                "assignmentLink": "https://docs.google.com/document/d/1cp98iLAZApMHHuQGUWbomPiwUhY0F2MK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Understanding the basics of Finance and relevance in Corporates & Life",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Finance, 12 Key Concepts Explained",
+                        "lectureId": "6a34013f8668a9279c152158",
+                        "lectureLength": "00:58:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eb8Eb76drT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Financial Planning Project",
+                "assignmentId": "6a34fc5d8668a9279c152512",
+                "assignmentLink": "https://docs.google.com/document/d/1T4QbXjRtNUi7UVOxTZeaE_SzS7jG7VbX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Financial Investment & Budgeting Project",
+                "assignmentId": "6a34fc6d8668a9279c152517",
+                "assignmentLink": "https://docs.google.com/document/d/1CJueun3KcbwvSIZ-f-TZwgT25Qk9l_bP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Fundamentals of Accounting",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Accounting_Part 1_A",
+                        "lectureId": "6a34013f8668a9279c15215b",
+                        "lectureLength": "00:27:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/snQEjMux5dh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Accounting_Part 1_B",
+                        "lectureId": "6a3401408668a9279c15215e",
+                        "lectureLength": "00:20:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Z4DqkxR39G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Accounting_Part 1_C",
+                        "lectureId": "6a3401408668a9279c152161",
+                        "lectureLength": "00:35:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RhRChqXecF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Accounting_Part 2_A",
+                        "lectureId": "6a3401408668a9279c152164",
+                        "lectureLength": "00:15:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gjp6p3Rca5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Accounting_Part 2_B",
+                        "lectureId": "6a3401418668a9279c152167",
+                        "lectureLength": "00:35:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uX6QbNcfQU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Accounting_Part 2_C",
+                        "lectureId": "6a3401418668a9279c15216a",
+                        "lectureLength": "00:30:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xMS4JyPb94/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Accounting_Part 2_D",
+                        "lectureId": "6a3401418668a9279c15216d",
+                        "lectureLength": "00:29:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36PPjTj8sDA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Accounting_Part 2_E",
+                        "lectureId": "6a3401428668a9279c152170",
+                        "lectureLength": "00:29:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNZA2r2HA3Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Accounting_Part 3_A",
+                        "lectureId": "6a3401428668a9279c152173",
+                        "lectureLength": "00:34:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gTnjg22SrN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Accounting_Part 3_B",
+                        "lectureId": "6a3401428668a9279c152176",
+                        "lectureLength": "00:40:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JzUB7g6HSc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Accounting_Part 3_C",
+                        "lectureId": "6a3401428668a9279c152179",
+                        "lectureLength": "00:24:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx5z5AT52uD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Accounting_Part 3_D",
+                        "lectureId": "6a3401438668a9279c15217c",
+                        "lectureLength": "00:29:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eJXKyQaQF3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Accounting_Part 3_E",
+                        "lectureId": "6a3401438668a9279c15217f",
+                        "lectureLength": "00:35:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MqNJGYBgdM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Accounting_Part 3_F",
+                        "lectureId": "6a3401438668a9279c152182",
+                        "lectureLength": "00:34:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r7fPk8SNNr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rectification of Errors, Suspense Account & Financial Statements",
+                        "lectureId": "6a3401448668a9279c152185",
+                        "lectureLength": "00:40:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HqDp6n2PqK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Accounting Fundamentals Basics Project",
+                "assignmentId": "6a34fd318668a9279c15251c",
+                "assignmentLink": "https://docs.google.com/document/d/12P36wn0CaQ6VWL5-dHjZIKshBYqWQAtR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Accounting Fundamentals Intermediate Project",
+                "assignmentId": "6a34fd438668a9279c152521",
+                "assignmentLink": "https://docs.google.com/document/d/1H_SfGW_QHl_qAzWu0eoHHoV81XzgIrFy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Accounting Fundamentals Practice Project ",
+                "assignmentId": "6a34fd528668a9279c152526",
+                "assignmentLink": "https://docs.google.com/document/d/1w5UJJo10r27LX7s-g-wF_vbvzAeesH_d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Accounting Fundamentals Advanced Project",
+                "assignmentId": "6a34fd628668a9279c15252b",
+                "assignmentLink": "https://docs.google.com/document/d/1I98-J0WOdB0cvsjTd1R0wKD_LgVLFsI6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Accounting Fundamentals Application Project",
+                "assignmentId": "6a34fd758668a9279c152530",
+                "assignmentLink": "https://docs.google.com/document/d/1fvpsM8uuyEqsI5idpjC23ShA-5RzNhPH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Accounting Fundamentals Final Project",
+                "assignmentId": "6a34fd9d8668a9279c152535",
+                "assignmentLink": "https://docs.google.com/document/d/1Bv59WekvWNNXa301RmXeefSTqHP12O8V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Introduction to basic Financial Statements Terminologies, Ind AS & IFRS",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Significance & Elements of Financial Statements",
+                        "lectureId": "6a3401518668a9279c1521f5",
+                        "lectureLength": "00:25:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7bkE4HfceY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Elements of Financial Statements",
+                        "lectureId": "6a3401528668a9279c1521f8",
+                        "lectureLength": "00:25:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U7ZTCGJ8zc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Proforma of Financial Statements with example",
+                        "lectureId": "6a3401528668a9279c1521fb",
+                        "lectureLength": "00:40:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38TsFNgPXXq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Ind AS & IFRS",
+                        "lectureId": "6a3401528668a9279c1521fe",
+                        "lectureLength": "00:40:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tS2MbGTARq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decoding Adoption of Ind AS & Ind AS 101 to 116 explanation",
+                        "lectureId": "6a3401538668a9279c152201",
+                        "lectureLength": "00:40:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/799MfADRMZ9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decoding Ind AS 1 to 24 explanation",
+                        "lectureId": "6a3401538668a9279c152204",
+                        "lectureLength": "00:27:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpsJfGnfdfJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decoding Ind AS 24 to 41 explanation",
+                        "lectureId": "6a3401538668a9279c152207",
+                        "lectureLength": "00:15:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58g3QhQJZGm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Referencing materials for Ind AS & IFRS and comparison",
+                        "lectureId": "6a3401548668a9279c15220a",
+                        "lectureLength": "00:19:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EKafdzPqMm/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Basics of Financial Statements Project",
+                "assignmentId": "6a34fdba8668a9279c15253a",
+                "assignmentLink": "https://docs.google.com/document/d/1fItcO_13TrGH-lW1hjisMpwH0kqDOpA1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Understanding Ind AS & IFRS Project",
+                "assignmentId": "6a34fdc88668a9279c15253f",
+                "assignmentLink": "https://docs.google.com/document/d/18X8U_zsc2aeMhdxa13PacOnxWMlpT3mx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Ind AS & IFRS Comparative Study Project",
+                "assignmentId": "6a34fdd78668a9279c152544",
+                "assignmentLink": "https://docs.google.com/document/d/1-EVC0DID_O020VZtPlMIK0G2RperS416/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Introduction to 3 Statement Financial Statements",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Decoding Income Statement in depth",
+                        "lectureId": "6a3401548668a9279c15220d",
+                        "lectureLength": "00:17:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bg5KbY2cehA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decoding Balance Sheet Elements in Depth",
+                        "lectureId": "6a3401548668a9279c152210",
+                        "lectureLength": "00:25:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nKuH5YcJeB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decoding the Cash Flow Statement & its types & interconnection",
+                        "lectureId": "6a3401558668a9279c152213",
+                        "lectureLength": "00:14:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99bemkCxhaU/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Financial Statements Decoding Project",
+                "assignmentId": "6a34fdec8668a9279c152549",
+                "assignmentLink": "https://docs.google.com/document/d/1JQG2bc0EFEZ1txwblAnIQNz3EhzgNn6b/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Learning how to do analysis of Financial Statements and take decisions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Analysing Income Statement",
+                        "lectureId": "6a3401448668a9279c152188",
+                        "lectureLength": "00:18:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EhuxMTmyRC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Analysing Balance Sheet",
+                        "lectureId": "6a3401448668a9279c15218b",
+                        "lectureLength": "00:21:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YRgtYNff3q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Analysing CFS & Decision Making",
+                        "lectureId": "6a3401458668a9279c15218e",
+                        "lectureLength": "00:14:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67mZUtexk8h/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Financial Statement Analysis & Decision Making Project",
+                "assignmentId": "6a34fe0a8668a9279c15254e",
+                "assignmentLink": "https://docs.google.com/document/d/1gxYcFAqpxI853-Vb9sErQ_0zn7pSpfrk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Learning Ratio Analysis on Financial Statements",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Ratio Analysis Fundamentals, Liquidity, Solvency & Profitability Ratios",
+                        "lectureId": "6a3401458668a9279c152191",
+                        "lectureLength": "00:24:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6c33mA3rKn7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Turnover, Earning and Other Category Ratios",
+                        "lectureId": "6a3401458668a9279c152194",
+                        "lectureLength": "00:19:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFc7dEHAJjS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Learning Interpretation & Implementation of Ratios with Financial Statements - Part 1",
+                        "lectureId": "6a3401468668a9279c152197",
+                        "lectureLength": "00:21:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89KZTCK9x7P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Learning Interpretation & Implementation of Ratios with Financial Statements - Part 2",
+                        "lectureId": "6a3401468668a9279c15219a",
+                        "lectureLength": "00:17:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FXEJUCJT2t/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comprehensive Stock Analysis of IRFC",
+                        "lectureId": "6a3401478668a9279c15219d",
+                        "lectureLength": "00:39:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66CrgJapeHN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Financial Ratio Analysis Project",
+                "assignmentId": "6a34fe1f8668a9279c152553",
+                "assignmentLink": "https://docs.google.com/document/d/12U-hN5EIublvHKto2yk4EKPwR4Ao1Cr2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Fundamental & Technical Analysis Project",
+                "assignmentId": "6a34fe2e8668a9279c152558",
+                "assignmentLink": "https://docs.google.com/document/d/1rlxwRu-TJvOFoemuTMHF5cW12hZBY8FT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Financial Modelling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to the concept of Financial Modelling & steps",
+                        "lectureId": "6a3401558668a9279c152216",
+                        "lectureLength": "00:21:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgKyCJgzXpG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the format of Financial Model using D-Mart Financiial Model",
+                        "lectureId": "6a3401558668a9279c152219",
+                        "lectureLength": "00:20:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uYduDs7XBC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Uses & Importance of Financial Modelling",
+                        "lectureId": "6a3401568668a9279c15221c",
+                        "lectureLength": "00:24:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mtpXbGQ5bx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Top 10 Careers in Financial Modelling - Part 1",
+                        "lectureId": "6a3401568668a9279c15221f",
+                        "lectureLength": "00:19:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PCEyx8cSe7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Top 10 Careers in Financial Modelling - Part 2 (Job Market)",
+                        "lectureId": "6a3401578668a9279c152222",
+                        "lectureLength": "00:15:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87nqegFQS5X/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": " Financial Modelling basics project",
+                "assignmentId": "6a34fe4a8668a9279c15255d",
+                "assignmentLink": "https://docs.google.com/document/d/1ocdHLtvS8hKDnwqGITvaiUE_Ed-n5fZD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Create a forward looking Intefgrated Financial Model",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Income Statement Forecasting",
+                        "lectureId": "6a3401478668a9279c1521a0",
+                        "lectureLength": "00:32:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kYhyrBSgPy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building Balance Sheet Assumptions and Checks",
+                        "lectureId": "6a3401478668a9279c1521a3",
+                        "lectureLength": "00:24:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Be628aqXdAH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Forecast Cash Flow Statement and Revolver Schedule",
+                        "lectureId": "6a3401488668a9279c1521a6",
+                        "lectureLength": "00:18:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgmanJXXxeH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Three Statement Model Project",
+                "assignmentId": "6a34fe5c8668a9279c152562",
+                "assignmentLink": "https://docs.google.com/document/d/1z8YJ-h3-8HxRWM-9p-or1r2wR05nDawB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Extrapolate and forecast forward looking Financial ratios",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Financial Ratio Analysis in Excel Financial Model",
+                        "lectureId": "6a3401488668a9279c1521a9",
+                        "lectureLength": "00:31:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fpBfbZ7r5c/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Forecasting Ratio Analysis on Financial Model Project",
+                "assignmentId": "6a34fe768668a9279c152567",
+                "assignmentLink": "https://docs.google.com/document/d/1BbViCgeBaWdKnZf_aRxKTLcUmof39dh_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Preparation of Financial Model using Management Discussion & Analysis",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Pyramid Solutions Financial Modeling Case Study Overview - Step 1",
+                        "lectureId": "6a3401488668a9279c1521ac",
+                        "lectureLength": "00:27:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36Eu4UFKPyH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pyramid Financial Model- Analyzing Historical Financial Statements - Step 2",
+                        "lectureId": "6a3401498668a9279c1521af",
+                        "lectureLength": "00:14:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bCmbgQNYmn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pyramid Financial Model- Projecting Revenues and Costs, Step 3&4",
+                        "lectureId": "6a3401498668a9279c1521b2",
+                        "lectureLength": "00:34:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JNgpbCS3c9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pyramid Financial Model - Projecting Depreciation Using CAPEX Schedule,Step 5",
+                        "lectureId": "6a3401498668a9279c1521b5",
+                        "lectureLength": "00:17:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AdahkT7xhE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pyramid Financial Model - Projecting Working Capital in Financial Model, Step 6",
+                        "lectureId": "6a34014a8668a9279c1521b8",
+                        "lectureLength": "00:12:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RdbgjEe3tc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pyramid Financial Model - Projecting Cash Flow, Step 7",
+                        "lectureId": "6a34014a8668a9279c1521bb",
+                        "lectureLength": "00:24:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NmUJn9yuga/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pyramid Financial Model - Projecting Debt and Integrating Statements, Step 8&9",
+                        "lectureId": "6a34014a8668a9279c1521be",
+                        "lectureLength": "00:27:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SyQPMJ7DRa/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Financial Model of a real life Company Project",
+                "assignmentId": "6a34fe888668a9279c15256c",
+                "assignmentLink": "https://docs.google.com/document/d/18hyabQV3uaedF10rAycJ1UA3sS6XqBHM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Calculation of valuation of Company based on instrinsic value",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Instrinsic Valuation (DCF) and the concept of discounting",
+                        "lectureId": "6a34014b8668a9279c1521c1",
+                        "lectureLength": "00:20:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/657RPXAfzpt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding 5 steps of DCF Valuation",
+                        "lectureId": "6a34014b8668a9279c1521c4",
+                        "lectureLength": "00:27:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZN5YdqFZ2R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Performing Case Based DCF Valuation",
+                        "lectureId": "6a34014b8668a9279c1521c7",
+                        "lectureLength": "00:20:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YJmXbS3rXR/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Infosys DCF Model project",
+                "assignmentId": "6a34fe9b8668a9279c152571",
+                "assignmentLink": "https://docs.google.com/document/d/1Z--UrPavUhgfupj0bND-li-c1wAyCrQk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Calculation of valuation of Company based on extrinsic value",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Extrinsic Valuation - Company Valuation Using P_E Multiples",
+                        "lectureId": "6a34014c8668a9279c1521ca",
+                        "lectureLength": "00:23:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFyjcfHTTte/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Extrinsic Valuation - Company Valuation Using EV Sales & EV EBITDA Multiples",
+                        "lectureId": "6a34014c8668a9279c1521cd",
+                        "lectureLength": "00:23:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tRq22Y2tRM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Make flexible & dynamic Financial Model",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Financial Model Types and Uses",
+                        "lectureId": "6a3406618668a9279c152237",
+                        "lectureLength": "00:24:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32yNjSemCQd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Financial Model Examples and OMEGA Startup Financial Model Overview",
+                        "lectureId": "6a34014d8668a9279c1521d1",
+                        "lectureLength": "00:10:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nxfcGhzJHc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building Omega Cost Based Startup Financial Model",
+                        "lectureId": "6a34014d8668a9279c1521d4",
+                        "lectureLength": "00:26:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bc47PTrtMmP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Creating Data Vizualization charts & Dashboard in excel for Financial Models",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating Financial Model Dashboards with Charts",
+                        "lectureId": "6a34014e8668a9279c1521d7",
+                        "lectureLength": "00:26:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7x9EQqxz88j/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Comparable Comps Analysis Project",
+                "assignmentId": "6a34feb18668a9279c152576",
+                "assignmentLink": "https://docs.google.com/document/d/19t1KHkRwmYwc065TDVm0Ama8Skf7aq70/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Using powerpoint for business presentations",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Microsoft Powerpoint Basics & Activation of AI Tool",
+                        "lectureId": "6a34014e8668a9279c1521da",
+                        "lectureLength": "00:27:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6Rmurszzkx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating FinTech PPT Using PowerPoint AI Designer",
+                        "lectureId": "6a34014e8668a9279c1521dd",
+                        "lectureLength": "00:24:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4tfbm7jskq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Internet available AI Tools for making presenatations",
+                        "lectureId": "6a34014f8668a9279c1521e0",
+                        "lectureLength": "00:11:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDptbYdmQT6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Business Powerpoint Presentation project",
+                "assignmentId": "6a34feea8668a9279c15257b",
+                "assignmentLink": "https://docs.google.com/document/d/1nIrTAQpvVqhCNlHH5RCjuPSsZp0TIL88/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Real life Case Studies on Financial Models",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Financial Modeling Case Studies and Templates",
+                        "lectureId": "6a34014f8668a9279c1521e3",
+                        "lectureLength": "00:20:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8MdK6TcSc2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Financial Modelling Capstone Project",
+                "assignmentId": "6a34ff028668a9279c152580",
+                "assignmentLink": "https://docs.google.com/document/d/1PknvaxJwHN9zwOpHX-ccUux0WS5Kp05c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Financial Modelling using AI",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to AI for Finance",
+                        "lectureId": "6a34014f8668a9279c1521e6",
+                        "lectureLength": "00:10:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNQR4PpnmRU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the role of AI in Finance & Financial Modelling",
+                        "lectureId": "6a3401508668a9279c1521e9",
+                        "lectureLength": "00:25:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Es6aMXZEgM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Use of AI Tools to support Financial Analysis_Ratio Analysis",
+                        "lectureId": "6a3401508668a9279c1521ec",
+                        "lectureLength": "00:40:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7r3QsBmBxGD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generating assumptions, forecasting and building Financial Model using AI",
+                        "lectureId": "6a3401518668a9279c1521ef",
+                        "lectureLength": "00:10:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aztt8a2Axcf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI Results for Financial Modelling",
+                        "lectureId": "6a3401518668a9279c1521f2",
+                        "lectureLength": "00:05:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rPBJ6PA4Sb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Exploring the Role of AI in Finance",
+                "assignmentId": "6a34ff258668a9279c152585",
+                "assignmentLink": "https://docs.google.com/document/d/1ol2IGchZUbwMWbrukqah_dvK27IgzCyp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "AI-Assisted Financial Forecasting & Valuation",
+                "assignmentId": "6a34ff368668a9279c15258a",
+                "assignmentLink": "https://docs.google.com/document/d/1qWplgifaRxfrgf9twdtQsNs6UbhEkHwF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Placement Module",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Finance Hiring Toolkit Walkthrough",
+                        "lectureId": "6a3401578668a9279c152225",
+                        "lectureLength": "00:45:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATFR5meDJS6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Resume Mistakes and Winning Format Tips",
+                        "lectureId": "6a3401578668a9279c152228",
+                        "lectureLength": "00:25:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kbq4TygGDn5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building Financial Portfolio_ Website",
+                        "lectureId": "6a3401588668a9279c15222b",
+                        "lectureLength": "00:20:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QpTBkrfGan/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interview Preparation, Question Banks and Mock Practice tools",
+                        "lectureId": "6a3401588668a9279c15222e",
+                        "lectureLength": "00:29:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C5hQn5k7Gr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "LinkedIn Outreach Setup for Referrals Made Easy",
+                        "lectureId": "6a3401588668a9279c152231",
+                        "lectureLength": "00:39:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TuuTZaRE4z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Salary and Stipend Negotiation Range Websites",
+                        "lectureId": "6a3401598668a9279c152234",
+                        "lectureLength": "00:14:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpN4fkTFqRA/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "687f82b64cffeabaa9bfe2cf",
+                "mentor": "Aniket",
+                "start": 20,
+                "end": 23,
+                "time": "8 PM - 11 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db6",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "junior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/11R6CY2NDOXuEzVbDei6hdKdp1PGh8Fe2?usp=sharing"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

@@ -1,0 +1,888 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "68a8c5c7aa7b36a50095b678",
+        "courseName": "Copywriting",
+        "slug": "copywriting",
+        "category": "Technical",
+        "tpFolderId": "AgPgHG2naty",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Copywriting For Newbies ",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction",
+                        "lectureId": "68c036fc265a541c9716f1a4",
+                        "lectureLength": "00:10:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqT3R8DGAHh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Copywriting Defined",
+                        "lectureId": "68a8d272aa7b36a50095ba1e",
+                        "lectureLength": "00:05:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Ah3hSA8tbp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Copywriting Types",
+                        "lectureId": "68a8c7faaa7b36a50095b7bc",
+                        "lectureLength": "00:21:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGnfUhPy8qJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Niches & Know-Hows",
+                        "lectureId": "68a8cb6baa7b36a50095b92d",
+                        "lectureLength": "00:15:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SnBKg5ZGbu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Putting People Before Products",
+                        "lectureId": "68a9712aaa7b36a50095bb2c",
+                        "lectureLength": "00:24:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HkSpZJzN5E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CopyVSContent",
+                        "lectureId": "68a8c76aaa7b36a50095b7b7",
+                        "lectureLength": "00:16:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59tdu3rNkk4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "10Questions",
+                        "lectureId": "68a8c759aa7b36a50095b7b1",
+                        "lectureLength": "00:17:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5f7fsfaJxAx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DigDeeper",
+                        "lectureId": "68a8c804aa7b36a50095b7bf",
+                        "lectureLength": "00:16:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MYd35zbX62/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Writing For Humans, Not Buyers",
+                        "lectureId": "68a97120aa7b36a50095bb29",
+                        "lectureLength": "00:16:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8z9dK4KZSXu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment 1",
+                        "lectureId": "68a8c761aa7b36a50095b7b4",
+                        "lectureLength": "00:11:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A97H6RFUT4x/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 1",
+                "assignmentId": "68f2253583492d3c7b6b5fed",
+                "assignmentLink": "https://drive.google.com/file/d/1WYaDhbkJqESJ6jvcG_HsuRtbtWVEQS6C/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Intermediate Skills Sharpening",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What Levels Up Your Craft_",
+                        "lectureId": "68a8c5c7aa7b36a50095b684",
+                        "lectureLength": "00:21:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRUG9xx9zZa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Crafting Click-Worthy Titles",
+                        "lectureId": "68a8c5c7aa7b36a50095b67c",
+                        "lectureLength": "00:53:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kfBCKAUHhX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Techniques For Endless Ideas",
+                        "lectureId": "68a8c5c7aa7b36a50095b683",
+                        "lectureLength": "00:51:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FT23GYHNkn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Subject Line Sorcery",
+                        "lectureId": "68a8c5c7aa7b36a50095b682",
+                        "lectureLength": "00:15:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qdt9P5hyqP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Short Form Content Hooks",
+                        "lectureId": "68a8c5c7aa7b36a50095b681",
+                        "lectureLength": "00:31:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DYx5mm8ch9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Words That Rule Paid Media",
+                        "lectureId": "68a8c5c7aa7b36a50095b685",
+                        "lectureLength": "00:30:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UNCBZSjj5S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Writing Words For Scrollers",
+                        "lectureId": "68a8c5c7aa7b36a50095b686",
+                        "lectureLength": "00:18:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rUfQbN96a4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Science of Social Media",
+                        "lectureId": "68a8c5c7aa7b36a50095b680",
+                        "lectureLength": "00:20:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RHNtr2S9DH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hero, Hub And Hygiene",
+                        "lectureId": "68a8c5c7aa7b36a50095b67d",
+                        "lectureLength": "00:19:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5q2ysURq35z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ask Those Unignorable Questions",
+                        "lectureId": "68a8c5c7aa7b36a50095b67a",
+                        "lectureLength": "00:13:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yrtx3uyZ4AK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Paint Your Words In Story",
+                        "lectureId": "68a8c5c7aa7b36a50095b67f",
+                        "lectureLength": "00:14:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HGnN7m5nqg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Oops-Proof Guide To Write",
+                        "lectureId": "68a8c5c7aa7b36a50095b67e",
+                        "lectureLength": "00:18:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SPjPUjYGD3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment",
+                        "lectureId": "68a8c5c7aa7b36a50095b67b",
+                        "lectureLength": "00:10:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Z5TNMh22Bj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 2",
+                "assignmentId": "68f2253683492d3c7b6b5fef",
+                "assignmentLink": "https://docs.google.com/spreadsheets/d/13VHjcscPkxyQCA-VdGib_oj2LJXYbixV/edit?gid=48401789#gid=48401789"
+            },
+            {
+                "type": "section",
+                "name": "Expert-Level Excellence",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Tactics For Improving Copy",
+                        "lectureId": "68a8c5c7aa7b36a50095b688",
+                        "lectureLength": "00:13:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDfpHPsHDa2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sales Pitch Powerplays",
+                        "lectureId": "68a8c5c7aa7b36a50095b691",
+                        "lectureLength": "00:31:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/886tzGtczUG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Highlighting Missed Opportunities",
+                        "lectureId": "68a8c5c7aa7b36a50095b68d",
+                        "lectureLength": "00:19:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2sT6G7TzYQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bridging The Gap",
+                        "lectureId": "68a8c5c7aa7b36a50095b689",
+                        "lectureLength": "00:17:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zKAcPhUmsM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Facts That Dominate",
+                        "lectureId": "68a8c5c7aa7b36a50095b68b",
+                        "lectureLength": "00:16:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ysz2cs2zx6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Differentiate Like A Pro",
+                        "lectureId": "68a8c5c7aa7b36a50095b68a",
+                        "lectureLength": "00:14:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Yf5GcsGYbf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Outcome Obsession",
+                        "lectureId": "68a8c5c7aa7b36a50095b68e",
+                        "lectureLength": "00:15:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QUkzKaZDHE4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Feedback Fireproofing",
+                        "lectureId": "68a8c5c7aa7b36a50095b68c",
+                        "lectureLength": "00:13:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UsxP479E42A/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pro Tips & Hacks",
+                        "lectureId": "68a8c5c7aa7b36a50095b68f",
+                        "lectureLength": "00:13:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAF4ZExr5us/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Smooth Sailing For Skimmers",
+                        "lectureId": "68a8c5c7aa7b36a50095b692",
+                        "lectureLength": "00:09:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AtXQ4gC9Ek/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Resource Roundup",
+                        "lectureId": "68a8c5c7aa7b36a50095b690",
+                        "lectureLength": "00:17:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XMpUCYH9DG/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "The Idea Decoder Ring",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Craftsmanship Of An Unforgettable Copy_",
+                        "lectureId": "68a8c5c7aa7b36a50095b695",
+                        "lectureLength": "00:15:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/b7mj4RSsNE4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mining Insight From Data_",
+                        "lectureId": "68a8c5c7aa7b36a50095b69a",
+                        "lectureLength": "00:15:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfQUyecpMuX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Headline Vs. Visual",
+                        "lectureId": "68a8c5c7aa7b36a50095b698",
+                        "lectureLength": "00:12:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHDBYM6FtdX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "One Message, One Copy_",
+                        "lectureId": "68a8c5c7aa7b36a50095b69d",
+                        "lectureLength": "00:07:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jGa5AD8Jjz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What Makes One Read",
+                        "lectureId": "68a8c5c7aa7b36a50095b6a3",
+                        "lectureLength": "00:11:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qgRAXbmzFg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cutting Through The Chaos With Clarity",
+                        "lectureId": "68a8c5c7aa7b36a50095b696",
+                        "lectureLength": "00:09:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nax3hX5qex/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stories That Stick",
+                        "lectureId": "68a8c5c7aa7b36a50095b6a0",
+                        "lectureLength": "00:15:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KP45yrym5Bc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Moment Marketing_",
+                        "lectureId": "68a8c5c7aa7b36a50095b69b",
+                        "lectureLength": "00:08:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UTDnhcr3R5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Emotional Anchors_",
+                        "lectureId": "68a8c5c7aa7b36a50095b697",
+                        "lectureLength": "00:06:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hS8eU4EQ9h/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Navigating Competitive Waters",
+                        "lectureId": "68a8c5c7aa7b36a50095b69c",
+                        "lectureLength": "00:04:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4HB9dDYCSt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Post-Headline Precision",
+                        "lectureId": "68a8c5c7aa7b36a50095b69e",
+                        "lectureLength": "00:05:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UtaGp6UEj5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Less Jargon, More Joy_",
+                        "lectureId": "68a8c5c7aa7b36a50095b699",
+                        "lectureLength": "00:05:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34meS8QkXyE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Back Copy With Credibility",
+                        "lectureId": "68a8c5c7aa7b36a50095b694",
+                        "lectureLength": "00:07:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKZagHpqCGc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "When To Bend The Rules",
+                        "lectureId": "68a8c5c7aa7b36a50095b6a4",
+                        "lectureLength": "00:06:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M8qEFNdXGg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Visual Thinking",
+                        "lectureId": "68a8c5c7aa7b36a50095b6a2",
+                        "lectureLength": "00:19:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJEYxMtszZE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sharpening Sloppy Sentences",
+                        "lectureId": "68a8c5c7aa7b36a50095b69f",
+                        "lectureLength": "00:06:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/879666jtC6N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The Grand Finale_",
+                        "lectureId": "68a8c5c7aa7b36a50095b6a1",
+                        "lectureLength": "00:04:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hdyXb295PU/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Web Copywriting 101",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Clicks, Conversions & Consumers_",
+                        "lectureId": "68a8c5c7aa7b36a50095b6a7",
+                        "lectureLength": "00:13:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yKZkuZyy69/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Landing Page That Lands Well",
+                        "lectureId": "68a8c5c7aa7b36a50095b6a9",
+                        "lectureLength": "00:08:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AcdUH5pXBs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Turning Traffic Into Trusted Viewers",
+                        "lectureId": "68a8c5c7aa7b36a50095b6ad",
+                        "lectureLength": "00:08:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45hq7RH3s5Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Magnetic Messaging Hacks",
+                        "lectureId": "68a8c5c7aa7b36a50095b6ab",
+                        "lectureLength": "00:08:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CA7rZtUXtyP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Resolve Doubts Before They Arise",
+                        "lectureId": "68a8c5c7aa7b36a50095b6ac",
+                        "lectureLength": "00:06:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATRNCnUDjDZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Web Copy Blueprints",
+                        "lectureId": "68a8c5c7aa7b36a50095b6ae",
+                        "lectureLength": "00:11:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfaYqXmQGxb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Clause Commandments",
+                        "lectureId": "68a8c5c7aa7b36a50095b6a6",
+                        "lectureLength": "00:04:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Npn2gXa5Nc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Irresistible Calls-To-Action",
+                        "lectureId": "68a8c5c7aa7b36a50095b6a8",
+                        "lectureLength": "00:04:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sg7KRfS8aY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Launch Day Checklist And Dry Run",
+                        "lectureId": "68a8c5c7aa7b36a50095b6aa",
+                        "lectureLength": "00:06:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nADKz5fHCM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 3",
+                "assignmentId": "68f2253783492d3c7b6b5ff1",
+                "assignmentLink": "https://drive.google.com/file/d/1Lf_AkKIAsHMdkWt9BQ1sb3oqGvv_YvWQ/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "E-Commerce Edge",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Sell Like A Digital Shopkeeper",
+                        "lectureId": "68a8c5c7aa7b36a50095b6b3",
+                        "lectureLength": "00:11:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CMmRa23aSG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Product Page Spotlight",
+                        "lectureId": "68a8c5c7aa7b36a50095b6b2",
+                        "lectureLength": "00:07:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HbuntqPjag/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Guiding Eyes To “Add To Cart”",
+                        "lectureId": "68a8c959aa7b36a50095b7c7",
+                        "lectureLength": "00:05:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZYd2Afzq5H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Titles That Ensure Takeaways",
+                        "lectureId": "68a8c5c7aa7b36a50095b6b4",
+                        "lectureLength": "00:06:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bgeft9R9jzt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Descriptions That Do The Heavy Lifting_",
+                        "lectureId": "68a8c5c7aa7b36a50095b6b0",
+                        "lectureLength": "00:05:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hFjZu8Rxnx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Anticipate The “But…”_",
+                        "lectureId": "68a8c969aa7b36a50095b7ca",
+                        "lectureLength": "00:05:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AnUYe6qdKq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Positioning Deals They Can’t Refuse_",
+                        "lectureId": "68a8c978aa7b36a50095b7cd",
+                        "lectureLength": "00:07:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jHRdBKfKpj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Persuasion In Limited Characters_",
+                        "lectureId": "68a8c5c7aa7b36a50095b6b1",
+                        "lectureLength": "00:06:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/G5dCBy7EUHq/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 4",
+                "assignmentId": "68f2253883492d3c7b6b5ff3",
+                "assignmentLink": "https://drive.google.com/file/d/1UKfHWSFRhs4PeWs1xgIs_Faqlk-k4BNj/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Social Media Savvy",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "The Viral Motive",
+                        "lectureId": "68a8c5c7aa7b36a50095b6bf",
+                        "lectureLength": "00:09:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4MqB8tSZQu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Platform Playbook",
+                        "lectureId": "68a8c5c7aa7b36a50095b6bb",
+                        "lectureLength": "00:14:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CraR3ChKFQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Anatomy Of A Killer Image-Caption Duo",
+                        "lectureId": "68a8c5c7aa7b36a50095b6b8",
+                        "lectureLength": "00:16:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AstpJtGzYsp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Caption Conquest",
+                        "lectureId": "68a8c5c7aa7b36a50095b6b9",
+                        "lectureLength": "00:08:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XBh9P5y8Z2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Researching Trends, Tribes & Taboos",
+                        "lectureId": "68a8c5c7aa7b36a50095b6bd",
+                        "lectureLength": "00:09:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AH2u6CGRmZE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What Makes Audiences Interact_",
+                        "lectureId": "68a8c5c7aa7b36a50095b6c0",
+                        "lectureLength": "00:09:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YY89huxmgU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Professionalism Over Memes",
+                        "lectureId": "68a8c5c7aa7b36a50095b6bc",
+                        "lectureLength": "00:06:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3998NaXz5ze/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Analytics To Action",
+                        "lectureId": "68a8c5c7aa7b36a50095b6b7",
+                        "lectureLength": "00:07:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E5RPbYY4f2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keeping Up With Hashtags & Keywords",
+                        "lectureId": "68a8c5c7aa7b36a50095b6ba",
+                        "lectureLength": "00:07:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bschuCTTAd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Aligning Copy With KPIs",
+                        "lectureId": "68a8c5c7aa7b36a50095b6b6",
+                        "lectureLength": "00:08:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYx5neh4HCA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rules Vs. Aesthetics",
+                        "lectureId": "68a8c5c7aa7b36a50095b6be",
+                        "lectureLength": "00:07:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JfZXfxnhaE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 5",
+                "assignmentId": "68f2253983492d3c7b6b5ff5",
+                "assignmentLink": "https://drive.google.com/file/d/1tyfTinCEu5i2hrERqSBQaRW4_p3S1I2k/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Scriptwriting Secrets",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Building That Screen-Ready Scripts",
+                        "lectureId": "68a8c5c7aa7b36a50095b6c2",
+                        "lectureLength": "00:05:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SzdNgBE93k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "TVCs, DVCs, Shorts, Reels & Beyond",
+                        "lectureId": "68a8c5c7aa7b36a50095b6c8",
+                        "lectureLength": "00:06:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3buRGppgG96/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The Hook Magic",
+                        "lectureId": "68a8c5c7aa7b36a50095b6c7",
+                        "lectureLength": "00:06:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2nKe5Yj7bn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scripting For Heart Dominance",
+                        "lectureId": "68a8c5c7aa7b36a50095b6c6",
+                        "lectureLength": "00:15:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TcqDc4dpYx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scene-Stealing Essentials",
+                        "lectureId": "68a8c5c7aa7b36a50095b6c5",
+                        "lectureLength": "00:19:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5M3Jcr7Hn5A/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Visual Blueprints",
+                        "lectureId": "68a8c5c7aa7b36a50095b6c9",
+                        "lectureLength": "00:06:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75SXSZD99DG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Narration Nuance",
+                        "lectureId": "68a8c5c7aa7b36a50095b6c4",
+                        "lectureLength": "00:23:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACQcaAzPDT9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Edit Like A Pro",
+                        "lectureId": "68a8c5c7aa7b36a50095b6c3",
+                        "lectureLength": "00:06:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A432M5BgffY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scriptwriter’s Toolkit",
+                        "lectureId": "68a8ca59aa7b36a50095b8b0",
+                        "lectureLength": "00:10:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95Dmhh4mpe9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Script bonus",
+                        "lectureId": "68a9651aaa7b36a50095bb1c",
+                        "lectureLength": "00:05:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tX9YttGFRX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Case Study Clinic",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Learn From Legendary Brands",
+                        "lectureId": "68a8c5c7aa7b36a50095b6ce",
+                        "lectureLength": "00:19:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEJUesQxFHE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case Study From Classics Campaigns",
+                        "lectureId": "68a8c5c7aa7b36a50095b6cb",
+                        "lectureLength": "00:16:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62UPcCJqNz5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mapping Their Journey",
+                        "lectureId": "68a8c5c7aa7b36a50095b6cf",
+                        "lectureLength": "00:05:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rdqJS8Xckk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Defining Your Company’s Compass",
+                        "lectureId": "68a8ca8daa7b36a50095b8b3",
+                        "lectureLength": "00:05:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYYNsxFfNMT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Situation Dissection",
+                        "lectureId": "68a8c5c7aa7b36a50095b6d1",
+                        "lectureLength": "00:04:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fMEC7z92NK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Goals That Guide",
+                        "lectureId": "68a8c5c7aa7b36a50095b6cd",
+                        "lectureLength": "00:05:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UKctmGcESQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fixing Problems With Flair",
+                        "lectureId": "68a8c5c7aa7b36a50095b6cc",
+                        "lectureLength": "00:05:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ynUXxxdrNq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Showcasing Wins (Big & Small)",
+                        "lectureId": "68a8c5c7aa7b36a50095b6d0",
+                        "lectureLength": "00:05:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Buf7efy4KnG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The Extra Mile",
+                        "lectureId": "68a8c5c7aa7b36a50095b6d3",
+                        "lectureLength": "00:06:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92f6jK3YfdJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Summarise With Sparkle",
+                        "lectureId": "68a8c5c7aa7b36a50095b6d2",
+                        "lectureLength": "00:05:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/684fhUGtxEs/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 6",
+                "assignmentId": "68f2253a83492d3c7b6b5ff7",
+                "assignmentLink": "https://drive.google.com/file/d/1HxVG9cSeqpsqp3NgxwJ69l2sMC_mJ2wg/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Future-Proof Your Career",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "To 2025 & Beyond_ Thrive In This AI Age",
+                        "lectureId": "68a8c5c7aa7b36a50095b6dd",
+                        "lectureLength": "00:10:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53fME9AE7f7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Idea.AI_ Future-Proofing Your Creative Process",
+                        "lectureId": "68a8c5c7aa7b36a50095b6d8",
+                        "lectureLength": "00:06:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uTztASCS5X/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Discover Your Thriving Copy Zone",
+                        "lectureId": "68a8c5c7aa7b36a50095b6d7",
+                        "lectureLength": "00:07:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8k2ZQxs3reU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Skill Sculpting",
+                        "lectureId": "68a8c5c7aa7b36a50095b6dc",
+                        "lectureLength": "00:08:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/986tU4SC3Ff/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Banish Blunders",
+                        "lectureId": "68a8c5c7aa7b36a50095b6d5",
+                        "lectureLength": "00:07:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FaYkshcrfb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Plot Your Growth Path",
+                        "lectureId": "68a8c5c7aa7b36a50095b6db",
+                        "lectureLength": "00:10:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GUzCJ6n6t2g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Be an AI Ally, Not AI Dependent",
+                        "lectureId": "68a8c5c7aa7b36a50095b6d6",
+                        "lectureLength": "00:07:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B9YE9gmKFs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Marketing Yourself As A Copywriting Asset",
+                        "lectureId": "68a8c5c7aa7b36a50095b6da",
+                        "lectureLength": "00:09:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ENc95PGmzK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keep Learning",
+                        "lectureId": "68a8c5c7aa7b36a50095b6d9",
+                        "lectureLength": "00:06:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gsZbqqyeTT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Final Message from Instructor",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Final message",
+                        "lectureId": "68a9717caa7b36a50095bc98",
+                        "lectureLength": "00:02:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/329dgsXU3Hy/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": null,
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

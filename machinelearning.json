@@ -1,0 +1,1303 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "687b6462aa7b36a500959d51",
+        "courseName": "Machine learning (ML)",
+        "slug": "machinelearning",
+        "category": "Technical",
+        "tpFolderId": "A5fmTtbGfqS",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "69709a6e7a4c1d6f2028887b",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to ML and its types",
+                        "lectureId": "687b6462aa7b36a500959d53",
+                        "lectureLength": "00:29:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95tDjxtt6n9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applications and Challenges",
+                        "lectureId": "687b6462aa7b36a500959d54",
+                        "lectureLength": "00:09:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nNSuP9jPh3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Python Module",
+                        "lectureId": "687b6462aa7b36a500959d55",
+                        "lectureLength": "00:01:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A447XhB2zTb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "68ed30a7c9cf3d230ba67602",
+                        "lectureLength": "00:04:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cx4jtx2d4f/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "How to get certificate and Refund",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to get certificate and Refund",
+                        "lectureId": "68ed30b0c9cf3d230ba67605",
+                        "lectureLength": "00:04:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Zm3ayQsR3r/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Python Programming",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Python Data Types",
+                        "lectureId": "687b6462aa7b36a500959d57",
+                        "lectureLength": "00:15:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7a4aYfdXGHC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Types Practical",
+                        "lectureId": "687b6462aa7b36a500959d58",
+                        "lectureLength": "00:16:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Nrqnkh9M4d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "List in Python",
+                        "lectureId": "687b6462aa7b36a500959d59",
+                        "lectureLength": "00:20:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2Mpgx4mZbr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tuples in Python",
+                        "lectureId": "687b6462aa7b36a500959d5a",
+                        "lectureLength": "00:16:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApDQQKz4S5p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dictionary in Python",
+                        "lectureId": "687b6462aa7b36a500959d5b",
+                        "lectureLength": "00:15:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QAbBRtDnmf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sets in Python",
+                        "lectureId": "687b6462aa7b36a500959d5c",
+                        "lectureLength": "00:15:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83ckMxGckE7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Loops in Python",
+                        "lectureId": "687b6462aa7b36a500959d5d",
+                        "lectureLength": "00:25:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96jf5AR5tjs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comprehension in Python",
+                        "lectureId": "687b6462aa7b36a500959d5e",
+                        "lectureLength": "00:14:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uEJARy2Fnp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Functions in Python",
+                        "lectureId": "687b6462aa7b36a500959d5f",
+                        "lectureLength": "00:25:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah4Ucp5nZ6z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lambda Functions in Python",
+                        "lectureId": "687b6462aa7b36a500959d60",
+                        "lectureLength": "00:11:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74NPQtpyFQy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exception Handling in Python",
+                        "lectureId": "687b6462aa7b36a500959d61",
+                        "lectureLength": "00:13:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KC58aAAk9z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Regular Expressions in Python",
+                        "lectureId": "687b6462aa7b36a500959d62",
+                        "lectureLength": "00:21:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5a8yAa7CAn7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Data Preprocessing in Python",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Dataset Preparation",
+                        "lectureId": "687b6462aa7b36a500959d64",
+                        "lectureLength": "00:15:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QBRXjHcYgP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Training and Testing Set",
+                        "lectureId": "687b6462aa7b36a500959d65",
+                        "lectureLength": "00:15:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zmTsSSeD9X/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Importing Dataset",
+                        "lectureId": "687b6462aa7b36a500959d66",
+                        "lectureLength": "00:23:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR7qxaQnbuU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Essential Libraries for Pre Processing",
+                        "lectureId": "687b6462aa7b36a500959d67",
+                        "lectureLength": "00:05:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Y7N8k9szeR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Numpy Introduction",
+                        "lectureId": "687b6462aa7b36a500959d68",
+                        "lectureLength": "00:22:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ztAFEsUQEY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Numpy Operations & Manipulation",
+                        "lectureId": "687b6462aa7b36a500959d69",
+                        "lectureLength": "00:17:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EuEp8eHKjj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Numpy Bonus Operations",
+                        "lectureId": "687b6462aa7b36a500959d6a",
+                        "lectureLength": "00:12:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96aeCBTGmpR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pandas in Python",
+                        "lectureId": "687b6462aa7b36a500959d6b",
+                        "lectureLength": "00:15:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92jgPx7butm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pandas Operations for Data",
+                        "lectureId": "687b6462aa7b36a500959d6c",
+                        "lectureLength": "00:24:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUuHGm7ufcN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pandas Bonus Operations",
+                        "lectureId": "687b6462aa7b36a500959d6d",
+                        "lectureLength": "00:08:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zH7G3XahZ8E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Matplotlib in Python",
+                        "lectureId": "687b6462aa7b36a500959d6e",
+                        "lectureLength": "00:20:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66X87xZzByE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Handling Missing Data & Feature Scaling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Handling Missing Data",
+                        "lectureId": "687b6462aa7b36a500959d70",
+                        "lectureLength": "00:09:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKm8NT8DPTZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Feature Scaling in ML",
+                        "lectureId": "687b6462aa7b36a500959d71",
+                        "lectureLength": "00:07:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cRuUtasu6X/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Data Preprocessing in R",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is R",
+                        "lectureId": "687b6462aa7b36a500959d73",
+                        "lectureLength": "00:06:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/969SDR2fE97/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "R Installation",
+                        "lectureId": "687b6462aa7b36a500959d74",
+                        "lectureLength": "00:05:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33q8FRUt4pk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Preprocessing Codes in R",
+                        "lectureId": "687b6462aa7b36a500959d75",
+                        "lectureLength": "00:11:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NmFfGYpQ9b/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Linear Regression",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Linear Regression",
+                        "lectureId": "687b6462aa7b36a500959d77",
+                        "lectureLength": "00:17:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3exg2EGXh4f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linear Regression Code",
+                        "lectureId": "687b6462aa7b36a500959d78",
+                        "lectureLength": "00:16:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ceYYRkGuXm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Plot for Predicted vs. Test Data",
+                        "lectureId": "687b6462aa7b36a500959d79",
+                        "lectureLength": "00:15:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdc6ZJreujS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linear Regression using R",
+                        "lectureId": "687b6462aa7b36a500959d7a",
+                        "lectureLength": "00:11:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Hfh3mRhM4Y/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Multiple Linear Regression",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Multiple Linear Regression",
+                        "lectureId": "687b6462aa7b36a500959d7c",
+                        "lectureLength": "00:10:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mRsyQjM4nUR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multiple Linear Regression Code",
+                        "lectureId": "687b6462aa7b36a500959d7d",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34TkdMNAerT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multiple Linear Regression using R",
+                        "lectureId": "687b6462aa7b36a500959d7e",
+                        "lectureLength": "00:11:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADs9255hpBB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Polynomial Regression",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Polynomial Regression",
+                        "lectureId": "687b6462aa7b36a500959d80",
+                        "lectureLength": "00:11:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Cmhc92t3U7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Polynomial Regression Code",
+                        "lectureId": "687b6462aa7b36a500959d81",
+                        "lectureLength": "00:08:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YXxNrSuUkB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Polynomial Regression using R",
+                        "lectureId": "687b6462aa7b36a500959d82",
+                        "lectureLength": "00:07:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KH6tHut2Gb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Support Vector Regression",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Support Vector Regression",
+                        "lectureId": "687b6462aa7b36a500959d84",
+                        "lectureLength": "00:13:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BY79pxpJESe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SVR Code",
+                        "lectureId": "687b6462aa7b36a500959d85",
+                        "lectureLength": "00:08:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZSB9ftJjz8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SVR using R",
+                        "lectureId": "687b6462aa7b36a500959d86",
+                        "lectureLength": "00:13:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97eaGGgA8Eb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Decision Tree Regression",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Decision Tree Regression",
+                        "lectureId": "687b6462aa7b36a500959d88",
+                        "lectureLength": "00:17:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2tyZxtkmXN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decision Tree Code",
+                        "lectureId": "687b6462aa7b36a500959d89",
+                        "lectureLength": "00:06:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKdj4myfSYC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decision Tree using R",
+                        "lectureId": "687b6462aa7b36a500959d8a",
+                        "lectureLength": "00:04:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQGbsYgj9Gs/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Random Forest Regression",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Random Forest Regression",
+                        "lectureId": "687b6462aa7b36a500959d8c",
+                        "lectureLength": "00:15:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axr7CmuHyX2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Random Forest Regression Code",
+                        "lectureId": "687b6462aa7b36a500959d8d",
+                        "lectureLength": "00:07:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7axKytxhUsd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Random Forest in R",
+                        "lectureId": "687b6462aa7b36a500959d8e",
+                        "lectureLength": "00:06:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sn8Ucp2CPg/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Evaluation of Regression Models",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Evaluation of Regression Models",
+                        "lectureId": "687b6462aa7b36a500959d90",
+                        "lectureLength": "00:07:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3Da2C8dEgx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Regression Model Selection in Python",
+                        "lectureId": "687b6462aa7b36a500959d91",
+                        "lectureLength": "00:17:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9e2PpKSe54m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Evaluation Metrics Bonus",
+                        "lectureId": "687b6462aa7b36a500959d92",
+                        "lectureLength": "00:06:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8d7x69tea7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Logistic Regression",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Logistic Regression & Code",
+                        "lectureId": "687b6462aa7b36a500959d94",
+                        "lectureLength": "00:17:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BX56G6mxuY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logistic Regression using R",
+                        "lectureId": "687b6462aa7b36a500959d95",
+                        "lectureLength": "00:10:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3JZ8nRdjPT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 1",
+                "assignmentId": "6901c1d10fb13c2409bfe103",
+                "assignmentLink": "https://docs.google.com/document/d/1o_nCZL1cVMENv--gNZu96fQl9LHPZhXQdrCvSyw_If4/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 2",
+                "assignmentId": "6901c1fb0fb13c2409bfe108",
+                "assignmentLink": "https://docs.google.com/document/d/1X9sj3_aN8aFdP1lUN3Kx3Myd2PqJHllW5mLf7pnf68o/edit?tab=t.0#heading=h.tcn59bszwqiu"
+            },
+            {
+                "type": "section",
+                "name": "Support Vector Machine",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Support Vector Machine and Code",
+                        "lectureId": "687b6462aa7b36a500959d97",
+                        "lectureLength": "00:24:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hdqXKCsmFn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SVM using R",
+                        "lectureId": "687b6462aa7b36a500959d98",
+                        "lectureLength": "00:07:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JSeY8bqFyc7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "K Nearest Neighbors (KNN)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "K Nearest Neighbours",
+                        "lectureId": "687b6462aa7b36a500959d9a",
+                        "lectureLength": "00:21:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3h999kYUHUD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "KNN Code",
+                        "lectureId": "687b6462aa7b36a500959d9b",
+                        "lectureLength": "00:06:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6T3XSPsR8kM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "KNN using R",
+                        "lectureId": "687b6462aa7b36a500959d9c",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKMndJeg8ee/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Decision Tree Classification",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Decision Tree Classification and Code",
+                        "lectureId": "687b6462aa7b36a500959d9e",
+                        "lectureLength": "00:15:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bsx8RfYZMGP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decision Tree using R",
+                        "lectureId": "687b6462aa7b36a500959d9f",
+                        "lectureLength": "00:04:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y7DrKXr4pP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Random Forest Classification",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Random Forest Classification and Code",
+                        "lectureId": "687b6462aa7b36a500959da1",
+                        "lectureLength": "00:07:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CKX3K67fba/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Random Forest Using R",
+                        "lectureId": "687b6462aa7b36a500959da2",
+                        "lectureLength": "00:04:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kjutnrS9NG/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Naive Bayes Classification",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Naive Bayes Classification & Code",
+                        "lectureId": "687b6462aa7b36a500959da4",
+                        "lectureLength": "00:30:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jpX7Y6Q4zF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Naive Bayes using R",
+                        "lectureId": "687b6462aa7b36a500959da5",
+                        "lectureLength": "00:04:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xdkRE9K8yz/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 3",
+                "assignmentId": "6901c21e0fb13c2409bfe10d",
+                "assignmentLink": "https://docs.google.com/document/d/1em8JyhIehJX-x1cjlSK0sONHaniyHM-mWhUwI-e2HUM/edit?usp=sharings"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 4",
+                "assignmentId": "6901df540fb13c2409bfe57a",
+                "assignmentLink": "https://docs.google.com/document/d/1ERpKoZzB4pTuk_hhYHMFfh2zEmgIOToAxQZPb7XJ780/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Evaluation of Classification Models",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Evaluation Metrics in Classification",
+                        "lectureId": "687b6462aa7b36a500959da7",
+                        "lectureLength": "00:17:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ax32MsT9suK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "K Means Clustering",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "K Means Clustering",
+                        "lectureId": "687b6462aa7b36a500959da9",
+                        "lectureLength": "00:31:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Br8N8PKdxUZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "K Means Clustering Code Python",
+                        "lectureId": "687b6462aa7b36a500959daa",
+                        "lectureLength": "00:09:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CCK4p9u6nM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Optimising K Means Clustering and Elbow Method",
+                        "lectureId": "687b6462aa7b36a500959dab",
+                        "lectureLength": "00:20:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U7Hcq732xC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "K Means Clustering using R",
+                        "lectureId": "687b6462aa7b36a500959dac",
+                        "lectureLength": "00:06:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nT3ftQz89K/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Hierarchical Clustering",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Hierarchical Clustering",
+                        "lectureId": "687b6462aa7b36a500959dae",
+                        "lectureLength": "00:18:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bGqFaKeQpRq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hierarchical Clustering using Python Code",
+                        "lectureId": "687b6462aa7b36a500959daf",
+                        "lectureLength": "00:09:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mbSD2NpmPh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hierarchical Clustering using R",
+                        "lectureId": "687b6462aa7b36a500959db0",
+                        "lectureLength": "00:09:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uUhNtra7NG/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 5",
+                "assignmentId": "6901c2460fb13c2409bfe117",
+                "assignmentLink": "https://docs.google.com/document/d/1eW6I9CW-yOci9moidvv8VpNQ-ebJMPxJtbsFFPZ2BQU/edit?tab=t.0#heading=h.2lf1dje7m50s"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 6",
+                "assignmentId": "6901c2520fb13c2409bfe11c",
+                "assignmentLink": "https://docs.google.com/document/d/1zHGg0ztD-X4Jiui8EAaQNRYD1wnSxTkTsOY_j7DdzDE/edit?tab=t.0#heading=h.gl83n7frf3k3"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 7",
+                "assignmentId": "6901c25e0fb13c2409bfe121",
+                "assignmentLink": "https://docs.google.com/document/d/1t7ZBRNngf_opQWDhKaovvRKezfOZbsRCIHjuvCHVqjE/edit?tab=t.0#heading=h.486cyf78u2l2"
+            },
+            {
+                "type": "section",
+                "name": "Apriori Algorithm",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Apriori Algorithm",
+                        "lectureId": "687b6462aa7b36a500959db2",
+                        "lectureLength": "00:30:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TnAURpGPGKE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Market Basket Analysis",
+                        "lectureId": "687b6462aa7b36a500959db3",
+                        "lectureLength": "00:27:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfgxsNcffSQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Apriori Implementation in Python",
+                        "lectureId": "687b6462aa7b36a500959db4",
+                        "lectureLength": "00:14:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JJcHhqfY53/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Apriori Code using R",
+                        "lectureId": "687b6462aa7b36a500959db5",
+                        "lectureLength": "00:09:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kfftYMbSNyG/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 8",
+                "assignmentId": "6901e9380fb13c2409bfe97a",
+                "assignmentLink": "https://docs.google.com/document/d/1nOhYKYrC2X6G8cBD_ebGnO3Y_xkFlLW2NgpWMuky2oU/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 9",
+                "assignmentId": "6901c28a0fb13c2409bfe126",
+                "assignmentLink": "https://docs.google.com/document/d/1Pvq6ySRo3hUofZSP14vK42V9_pAWuiE89gden6Gl_5k/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "ECLAT Algorithm",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "ECLAT Algorithm",
+                        "lectureId": "69159c3ca2ff0abdda44d254",
+                        "lectureLength": "00:08:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhHuQDQDGHK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ECLAT Code",
+                        "lectureId": "69159c69a2ff0abdda44d257",
+                        "lectureLength": "00:07:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bYeYqR9ns7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ECLAT vs Apriori",
+                        "lectureId": "69159c82a2ff0abdda44d25a",
+                        "lectureLength": "00:08:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EU7TqKpcS2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Reinforcement Learning",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Reinforcement Learning",
+                        "lectureId": "691729489809e367fb3d6e06",
+                        "lectureLength": "00:24:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7r5CCfDGU4k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multi-Armed Bandit Exploration vs Exploitation",
+                        "lectureId": "6917294a9809e367fb3d6e09",
+                        "lectureLength": "00:08:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjUhUKyufz3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Upper Confidence Bound Algorithm",
+                        "lectureId": "6917294d9809e367fb3d6e0c",
+                        "lectureLength": "00:08:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/E4PJc5746qh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UCB using Python and R",
+                        "lectureId": "691729509809e367fb3d6e0f",
+                        "lectureLength": "00:10:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Pt4ZyxRXYq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Thompson Sampling Algorithm",
+                        "lectureId": "691729529809e367fb3d6e12",
+                        "lectureLength": "00:15:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JdUpucF8Ks/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deterministic vs Probabilistic UCB & Thompson Sampling",
+                        "lectureId": "691729549809e367fb3d6e15",
+                        "lectureLength": "00:10:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kT9B2aRApx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Thompson Sampling Code",
+                        "lectureId": "691729569809e367fb3d6e18",
+                        "lectureLength": "00:04:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47jZTT6C6cu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Natural Language Processing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "NLP-Introduction, Challenges & Applications",
+                        "lectureId": "69172c7a9809e367fb3d6e2b",
+                        "lectureLength": "00:17:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqTPe5RASNC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to NLTK",
+                        "lectureId": "69172c7c9809e367fb3d6e2e",
+                        "lectureLength": "00:13:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94yMhuRz8pR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stop Word Removal",
+                        "lectureId": "69172c7e9809e367fb3d6e31",
+                        "lectureLength": "00:10:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUAacJzRKbS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tokenization",
+                        "lectureId": "69172c809809e367fb3d6e34",
+                        "lectureLength": "00:16:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CNRD4aFDBQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stemming and Lemmatization",
+                        "lectureId": "69172c829809e367fb3d6e37",
+                        "lectureLength": "00:15:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hG2jGEMfA6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Named Entity Recognition",
+                        "lectureId": "69172c849809e367fb3d6e3a",
+                        "lectureLength": "00:14:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C69XfA6maMD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "POS Tagging",
+                        "lectureId": "69172c869809e367fb3d6e3d",
+                        "lectureLength": "00:11:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xAh9tq9phs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "POS Tagging Approach & Applications",
+                        "lectureId": "69172c889809e367fb3d6e40",
+                        "lectureLength": "00:28:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xgEzkkkQ7E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rare Word Removal",
+                        "lectureId": "69172c8a9809e367fb3d6e43",
+                        "lectureLength": "00:12:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aXBXxmcfyrm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Correcting Words using NLTK",
+                        "lectureId": "69172c8c9809e367fb3d6e46",
+                        "lectureLength": "00:21:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nQH5kmkpUy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bag of Words Technique",
+                        "lectureId": "69172c8e9809e367fb3d6e49",
+                        "lectureLength": "00:27:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaAq2MScZpx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Word Embeddings",
+                        "lectureId": "69172c909809e367fb3d6e4c",
+                        "lectureLength": "00:21:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACfa5SDmxgb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Sentiment Analysis",
+                        "lectureId": "69172c939809e367fb3d6e4f",
+                        "lectureLength": "00:20:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4n5e8MKJXHp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sentiment Analysis Implementation",
+                        "lectureId": "69172c949809e367fb3d6e52",
+                        "lectureLength": "00:10:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6nqGTdnhEK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sentiment Analysis with machine Learning",
+                        "lectureId": "69172c969809e367fb3d6e55",
+                        "lectureLength": "00:16:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MGPFD5Z7yN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ML for Sentiment Analysis Code",
+                        "lectureId": "69172c999809e367fb3d6e58",
+                        "lectureLength": "00:11:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dekBedud3B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Training & Hyperparameter Tuning for Sentiment Analysis",
+                        "lectureId": "69172c9b9809e367fb3d6e5b",
+                        "lectureLength": "00:32:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkZaZD7dnba/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "ML Model Deployment",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Model Deployment",
+                        "lectureId": "69172c9d9809e367fb3d6e5e",
+                        "lectureLength": "00:16:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qbkeDJtYJ4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to streamlit",
+                        "lectureId": "69172c9f9809e367fb3d6e61",
+                        "lectureLength": "00:10:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98rEYah8JNN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Model Deployment using Streamlit",
+                        "lectureId": "69172ca19809e367fb3d6e64",
+                        "lectureLength": "00:24:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BE9Pkkp62J8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Deep Learning : Artificial Neural Networks",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Deep Learning: History and Context",
+                        "lectureId": "69172ca39809e367fb3d6e67",
+                        "lectureLength": "00:16:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GssjAX4Tb2b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Machine Learning vs. Deep Learning",
+                        "lectureId": "69172ca59809e367fb3d6e6a",
+                        "lectureLength": "00:14:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78JZzfX9umj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DL Basics Neurons,Synapses,Activation Funcns",
+                        "lectureId": "69172ca79809e367fb3d6e6d",
+                        "lectureLength": "00:16:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CCydgfQn22/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Activation Functions",
+                        "lectureId": "69172caa9809e367fb3d6e70",
+                        "lectureLength": "00:09:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmQkbsJh885/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Artificial Neural Networks",
+                        "lectureId": "69172cab9809e367fb3d6e73",
+                        "lectureLength": "00:29:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mXtpDfm96r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Gradient Descent vs Brute Force Optimization",
+                        "lectureId": "69172cad9809e367fb3d6e76",
+                        "lectureLength": "00:11:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FzgQBKpAHd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ANN Code in Python",
+                        "lectureId": "69172caf9809e367fb3d6e79",
+                        "lectureLength": "00:13:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38Q4PTf4Qed/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ANN using R code",
+                        "lectureId": "69172cb19809e367fb3d6e7c",
+                        "lectureLength": "00:05:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7adfXBz9Z2h/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Deep Learning : Convolutional Neural Networks",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Convolutional Neural Networks",
+                        "lectureId": "69172cb39809e367fb3d6e7f",
+                        "lectureLength": "00:13:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BY2GKmQyUje/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Layers of CNN",
+                        "lectureId": "69172cb59809e367fb3d6e82",
+                        "lectureLength": "00:10:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADQP9jHy9q3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Convolution in CNN",
+                        "lectureId": "69172cb79809e367fb3d6e85",
+                        "lectureLength": "00:10:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NrKBYFEksmr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keras & TensorFlow for CNN",
+                        "lectureId": "69172cb99809e367fb3d6e88",
+                        "lectureLength": "00:07:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DKCRScXXcr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CNN using Python",
+                        "lectureId": "69172cbb9809e367fb3d6e8b",
+                        "lectureLength": "00:11:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Gkt7gtFNXu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Transformers",
+                        "lectureId": "69172cbd9809e367fb3d6e8e",
+                        "lectureLength": "00:18:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ynge656mMX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Encoder Decoder Achitecture",
+                        "lectureId": "69172cbf9809e367fb3d6e91",
+                        "lectureLength": "00:13:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTjRcAHqyfm/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Dimensionality Reduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Dimensionality Reduction",
+                        "lectureId": "69172cc19809e367fb3d6e94",
+                        "lectureLength": "00:20:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KsCMQZ26XzZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Principal Component Analysis",
+                        "lectureId": "69172cc49809e367fb3d6e97",
+                        "lectureLength": "00:09:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDCuKShq92t/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PCA in Python",
+                        "lectureId": "69172cc59809e367fb3d6e9a",
+                        "lectureLength": "00:07:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgMRjHuPgkB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PCA using R",
+                        "lectureId": "69172cc79809e367fb3d6e9d",
+                        "lectureLength": "00:04:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sgH6kdEKjbb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linear Discriminant Analysis and Code",
+                        "lectureId": "69172cca9809e367fb3d6ea0",
+                        "lectureLength": "00:09:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SB5U3TyYrf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Kernel PCA and Code",
+                        "lectureId": "69172ccb9809e367fb3d6ea3",
+                        "lectureLength": "00:08:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zNpEDxfdJ7f/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Model Selection and Boosting",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "K Fold Cross Validation & Code",
+                        "lectureId": "69172ccd9809e367fb3d6ea6",
+                        "lectureLength": "00:16:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KpUA9NA9qJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Gradient Boosting for Classification Problems",
+                        "lectureId": "69172ccf9809e367fb3d6ea9",
+                        "lectureLength": "00:08:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45H9P76MrCu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Capstone Project",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "ML Project",
+                        "lectureId": "69172cd19809e367fb3d6eac",
+                        "lectureLength": "00:34:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5X2Cr7qbHzj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Conclusion",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "ML - Conclusion & Future Scope",
+                        "lectureId": "69172cd39809e367fb3d6eaf",
+                        "lectureLength": "00:03:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hp2px3xhJ2/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "68c7cf403eb42b2cd45025a9",
+                "mentor": "Chirag Saraswat  (AI Engineer)",
+                "start": 20,
+                "end": 22,
+                "time": "8:00 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=stg",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "chatEnd": 0.01,
+                "chatStart": 0.01,
+                "role": "junior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1_DKT-l7bPrwQotGsrSFP-MlEUcMZyvkb?usp=sharing"
+        ],
+        "notes": [
+            "https://drive.google.com/drive/folders/1_DKT-l7bPrwQotGsrSFP-MlEUcMZyvkb?usp=sharing"
+        ],
+        "name": "Machine Learning",
+        "infoName": "Machine Learning",
+        "title": "Machine Learning Course – Learn ML Algorithms with 100% Fee Refund",
+        "description": "Enroll in our Machine Learning Course to master ML algorithms. Complete the course and receive a 100% fee refund. Gain practical skills with lifetime access. Start today!",
+        "video": "https://www.youtube.com/embed/vOrpu9qYqMY",
+        "introStats": {
+            "ratings": "4.9+",
+            "learners": "90000+",
+            "duration": "30h 43m"
+        },
+        "icon": "ComboPackIcons_MACHINE_LEARNING",
+        "paymentInfo": "Gain expertise in machine learning with a comprehensive course covering advanced models and real-world applications. Perfect for beginners or those with some experience.",
+        "details": {
+            "enrolled": "90000+",
+            "ratings": 4.9,
+            "lectures": "133",
+            "duration": "30h 43m"
+        },
+        "reviews": [
+            {
+                "img": "https://As Multiverse.com/images/reviews/Manish%20Yadav.webp",
+                "name": "Manish Yadav",
+                "review": "The best part about As Multiverse courses are their mentors, they actually help to the extreme. I am glad I took this course and enjoyed learning throughout. The instant 1:1 help I got is what i liked the most and will recommend everyone to go for it."
+            },
+            {
+                "img": "https://As Multiverse.com/images/reviews/Himachal%20Gupta.webp",
+                "name": "Himachal Gupta",
+                "review": "I have been a graphic designer previously but I wanted to switch to UI/UX as it has been recently more rewarding as a field. So took up this course and I am very happy that it matched all my expectations and I am now a professional UI/UX designer. Thanks As Multiverse!"
+            },
+            {
+                "img": "https://As Multiverse.com/images/reviews/Gaurav%20Kumar.webp",
+                "name": "Gaurav Kumar",
+                "review": "Explanation of the concepts is too good, many real world examples have been to used to explain the things. The course feels very interesting, throughout the course I was excited to learn new concepts and apply them. Also mentors have been a really great support for me, helping me wherever I got stuck. Thanks!"
+            },
+            {
+                "img": "https://As Multiverse.com/images/reviews/Harshit%20Joshi.webp",
+                "name": "Harshit Joshi",
+                "review": "The instructor of this course is very sweet, she explains all the concepts very elaboratively. Also mentors are actually the best, if I asked something they will make sure I understand my doubt till the end. Also the assignments and projects they gave me, made sure that I get the industry exposure."
+            }
+        ]
+    },
+    "fromCache": false
+}

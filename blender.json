@@ -1,0 +1,987 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "69cccbfd49153561b6b618d1",
+        "courseName": "Blender",
+        "slug": "blender",
+        "category": "Software Development",
+        "tpFolderId": "APpmFdkQsfn",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6a610a3e8668a9279c162651",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Blender",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Blender",
+                        "lectureId": "69cccbfd49153561b6b618d3",
+                        "lectureLength": "00:01:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPz9AxdAGnu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Basics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basic UI",
+                        "lectureId": "69cccbfd49153561b6b618d5",
+                        "lectureLength": "00:35:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89FCcEksKzC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modeling 1",
+                        "lectureId": "69cccbfd49153561b6b618d6",
+                        "lectureLength": "00:03:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HjaxhQ8gQA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modeling 2",
+                        "lectureId": "69cccbfd49153561b6b618d7",
+                        "lectureLength": "00:08:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DAMQmY2HZX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modeling a Mug",
+                        "lectureId": "69cccbfd49153561b6b618d8",
+                        "lectureLength": "00:28:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sbA6Z2k9CbN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modifier 1 (subdivision)",
+                        "lectureId": "69cccbfd49153561b6b618d9",
+                        "lectureLength": "00:14:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ttskyzxeXQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Street light 1 (subdivision)",
+                        "lectureId": "69cccbfd49153561b6b618da",
+                        "lectureLength": "00:22:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U3Mx2s6CRh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Street Light 2",
+                        "lectureId": "69cccbfd49153561b6b618db",
+                        "lectureLength": "00:23:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bbUAgs7S7Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Street Light 3",
+                        "lectureId": "69cccbfd49153561b6b618dc",
+                        "lectureLength": "00:36:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ep6Er964t3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Table 1",
+                        "lectureId": "69cccbfd49153561b6b618dd",
+                        "lectureLength": "00:12:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NcsseBnCR5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Table 2",
+                        "lectureId": "69cccbfd49153561b6b618de",
+                        "lectureLength": "00:28:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fY9a5XStgE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "texturing basics part 1",
+                        "lectureId": "69cccbfd49153561b6b618df",
+                        "lectureLength": "00:27:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aTPFquQBJG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Texturing Part 2",
+                        "lectureId": "69cccbfd49153561b6b618e0",
+                        "lectureLength": "00:52:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sGtyg49gTD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UV Unwrapping",
+                        "lectureId": "69cccbfd49153561b6b618e1",
+                        "lectureLength": "00:43:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r3ANKPrXuH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rendering Part I",
+                        "lectureId": "69cccbfd49153561b6b618e2",
+                        "lectureLength": "00:20:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRGPsMeXjEb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rendering II",
+                        "lectureId": "69cccbfd49153561b6b618e3",
+                        "lectureLength": "00:57:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxAN59Bq83h/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rendering Part III",
+                        "lectureId": "69cccbfd49153561b6b618e4",
+                        "lectureLength": "01:04:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnczsxffcTb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "The Sentinel Tower ",
+                "assignmentId": "6a3529aa8668a9279c1526f5",
+                "assignmentLink": "https://docs.google.com/document/d/1so72W_LHp3_p0ZQOekkJhJIn4pHYvThD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "The Modular Watchtower",
+                "assignmentId": "6a3529c58668a9279c1526fa",
+                "assignmentLink": "https://docs.google.com/document/d/1Ef1iyE4nk88ONnfNiBNhwK9VZZQtfowZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "The Coffee Mug",
+                "assignmentId": "6a352a038668a9279c152966",
+                "assignmentLink": "https://docs.google.com/document/d/1zWs-j14GFdwaAyB4and5Awwf6N-YYBU6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Street Light Distribution",
+                "assignmentId": "6a352a238668a9279c15296b",
+                "assignmentLink": "https://docs.google.com/document/d/1WljZknQRPd8UJB1v9XJNCyzHm7BLX_JB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "The Ceramic Gallery",
+                "assignmentId": "6a352a708668a9279c152970",
+                "assignmentLink": "https://docs.google.com/document/d/1ye0S7LEjdklZDMhvvgRjLEJOBdSl9kP5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Lantern Project",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Choosing reference image, Screw modifier basics and snap tool basics",
+                        "lectureId": "69cccbfd49153561b6b618e6",
+                        "lectureLength": "00:13:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4T8ZS42a9Ze/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setting up the layout and changing the default startup file",
+                        "lectureId": "69cccbfd49153561b6b618e7",
+                        "lectureLength": "00:08:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZYfuZDdSjz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "3D Modelling the Lantern",
+                        "lectureId": "69cccbfd49153561b6b618e8",
+                        "lectureLength": "00:14:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/x98gQnaaBXj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "3D modeling the holding bars",
+                        "lectureId": "69cccbfd49153561b6b618e9",
+                        "lectureLength": "00:12:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pr9u6hs24m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "3D modeling the handle bars",
+                        "lectureId": "69cccbfd49153561b6b618ea",
+                        "lectureLength": "00:15:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C68ex8aFQz2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Material Sots in Lantern",
+                        "lectureId": "69cccbfd49153561b6b618eb",
+                        "lectureLength": "00:10:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ncQDpa7Qmj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Metal Color 1",
+                        "lectureId": "69cccbfd49153561b6b618ec",
+                        "lectureLength": "00:15:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eGBHCPm7dZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Metal Color 2",
+                        "lectureId": "69cccbfd49153561b6b618ed",
+                        "lectureLength": "00:20:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9YJYGtA7nU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lighting and glass",
+                        "lectureId": "69cccbfd49153561b6b618ee",
+                        "lectureLength": "00:21:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZaX9yrcpE9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "The Lantern (Vertex-to-Volume)",
+                "assignmentId": "6a352a938668a9279c152975",
+                "assignmentLink": "https://docs.google.com/document/d/1JL7dnJgRL8obJPmpw3wgRo_1nluFHO8Y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": " Handlebar Crafting & Asset Organization",
+                "assignmentId": "6a352ab48668a9279c15297a",
+                "assignmentLink": "https://docs.google.com/document/d/1GTTayQieMYgxR4g3gW_147qQHtI1zfin/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "The Weathered Lantern (Final Polish)",
+                "assignmentId": "6a352ad38668a9279c15297f",
+                "assignmentLink": "https://docs.google.com/document/d/1NJc01xWuAp4lnPoudPRCRfZD8msRcaK_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Texturing & Technical Refinement",
+                "assignmentId": "6a352ae88668a9279c152984",
+                "assignmentLink": "https://docs.google.com/document/d/1hdr641UvA34hXf6V3zfMh1FNl0jDBLxN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Advanced Metal & Procedural Rust",
+                "assignmentId": "6a352b308668a9279c152989",
+                "assignmentLink": "https://docs.google.com/document/d/1VAGn0SCqwwmMbX0wQ_5V3x3y5_5B8dQB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "The Eternal Flame",
+                "assignmentId": "6a352b568668a9279c15298e",
+                "assignmentLink": "https://docs.google.com/document/d/1MKKh8H4-Rt_tqiJAZj5_eiUZ2yk1WShY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Fire Hydrant Project",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Fire Hydrant references",
+                        "lectureId": "69cccbfd49153561b6b618f0",
+                        "lectureLength": "00:11:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86392hdDCyf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modeling the base shape",
+                        "lectureId": "69cccbfd49153561b6b618f1",
+                        "lectureLength": "00:14:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bggu2ABU7sH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Bolts",
+                        "lectureId": "69cccbfd49153561b6b618f2",
+                        "lectureLength": "00:14:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTfaA7nSpJA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Top Dome of Hydrant",
+                        "lectureId": "69cccbfd49153561b6b618f3",
+                        "lectureLength": "00:15:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YTZrUtCay5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Boolean of side nozzles",
+                        "lectureId": "69cccbfd49153561b6b618f4",
+                        "lectureLength": "00:07:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JMpdjq3Eku/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Boolean-Cleanup",
+                        "lectureId": "69cccbfd49153561b6b618f5",
+                        "lectureLength": "00:11:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBPXPKnMck8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Boolean-smoothing and Mirror modifier",
+                        "lectureId": "69cccbfd49153561b6b618f6",
+                        "lectureLength": "00:16:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DADdRd8yZq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Boolean Alternative for metal welding",
+                        "lectureId": "69cccbfd49153561b6b618f7",
+                        "lectureLength": "00:10:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99guqJxtSyT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Central Nozzle",
+                        "lectureId": "69cccbfd49153561b6b618f8",
+                        "lectureLength": "00:11:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92BR828SsYk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sky texture settings and base material setup",
+                        "lectureId": "69cccbfd49153561b6b618f9",
+                        "lectureLength": "00:06:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36B2QDkcMsG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sky light and Exposure values",
+                        "lectureId": "69cccbfd49153561b6b618fa",
+                        "lectureLength": "00:12:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64QSKg6ZxRx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Texture Prep",
+                        "lectureId": "69cccbfd49153561b6b618fb",
+                        "lectureLength": "00:09:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXeGfTSMBzk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Mechanical Detailing & High-Poly Workflow",
+                "assignmentId": "6a352c088668a9279c1529a3",
+                "assignmentLink": "https://docs.google.com/document/d/1wN_SAoqcmaFONu-0d89BbsCQyrKvVzcr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Radial Hardware & Offset Arrays",
+                "assignmentId": "6a352c1c8668a9279c1529a8",
+                "assignmentLink": "https://docs.google.com/document/d/1FB_CK9qTX3fx7dPdzfyMtHNpcZyg9tt2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "The Fire Hydrant Dome",
+                "assignmentId": "6a352c388668a9279c1529ad",
+                "assignmentLink": "https://docs.google.com/document/d/1MB1Ofci3PhUNkbwgwQdFjFCzJN5dC1PX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Nozzle Integration & Boolean Logic",
+                "assignmentId": "6a352c4a8668a9279c1529b2",
+                "assignmentLink": "https://docs.google.com/document/d/1deVj_4pWavtIw7d3UUH7bzD7rL5lXXj-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Topology Repair & Local Transforms",
+                "assignmentId": "6a352c698668a9279c1529b7",
+                "assignmentLink": "https://docs.google.com/document/d/1Io0f641Q8DBOzXWT_wUvcNxG7KLY_Wzi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "The Bevel & Mirror Workflow",
+                "assignmentId": "6a352c7b8668a9279c1529bc",
+                "assignmentLink": "https://docs.google.com/document/d/1cjZAS0rAUVd__J0lwNN4WAXb5qqGI7DX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Central Nozzle Assembly",
+                "assignmentId": "6a352d368668a9279c1529c1",
+                "assignmentLink": "https://docs.google.com/document/d/1ANt8ei8rADZThqW47fxlSzfAeCdxp922/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Grenade",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro",
+                        "lectureId": "69cccbfd49153561b6b618fd",
+                        "lectureLength": "00:01:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPz9AxdAGnu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modeling the base of grenade 1",
+                        "lectureId": "69cccbfd49153561b6b618fe",
+                        "lectureLength": "00:08:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEuxmYQGGb2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modeling the top of grenade 1 Part - I",
+                        "lectureId": "69cccbfd49153561b6b618ff",
+                        "lectureLength": "00:13:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c9BE5Nr6ZB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modelling the top of grenade 1 part -II",
+                        "lectureId": "69cccbfd49153561b6b61900",
+                        "lectureLength": "00:12:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AReHttaxdU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "modeling the top of grenade 1 part - III",
+                        "lectureId": "69cccbfd49153561b6b61901",
+                        "lectureLength": "00:09:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CNac5PERU5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Texturing Grenade 1 part - I",
+                        "lectureId": "69cccbfd49153561b6b61902",
+                        "lectureLength": "00:06:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ajPZQtEGm6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Texturing and UV Unwrap Grenade 1 Part - II",
+                        "lectureId": "69cccbfd49153561b6b61903",
+                        "lectureLength": "00:08:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bqe63QSqpsE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Texture Painting of Grenade 1",
+                        "lectureId": "69cccbfd49153561b6b61904",
+                        "lectureLength": "00:11:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CEEPQNSU6Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lighting and Texture Details Part - I",
+                        "lectureId": "69cccbfd49153561b6b61905",
+                        "lectureLength": "00:13:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TK8ScfT4Bz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grenade -2 Modeling Base",
+                        "lectureId": "69cccbfd49153561b6b61906",
+                        "lectureLength": "00:13:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ak2jqh29gt8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grenade 2 - Modelling the top handle",
+                        "lectureId": "69cccbfd49153561b6b61907",
+                        "lectureLength": "00:08:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xNZNrrEyc2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grenade - 2 Modeling the top part",
+                        "lectureId": "69cccbfd49153561b6b61908",
+                        "lectureLength": "00:07:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7G8EuahHgF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grenade 2 Adding the ring",
+                        "lectureId": "69cccbfd49153561b6b61909",
+                        "lectureLength": "00:04:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8t23ksYNjHh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grenade -2 Adding details and bevels",
+                        "lectureId": "69cccbfd49153561b6b6190a",
+                        "lectureLength": "00:08:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJ5B8Rn4UKQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grenade -2 Base Material Setup and UV unwrap",
+                        "lectureId": "69cccbfd49153561b6b6190b",
+                        "lectureLength": "00:04:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ky7DCq3pyF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Texture Details using Texture painting and Layering",
+                        "lectureId": "69cccbfd49153561b6b6190c",
+                        "lectureLength": "00:16:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93UpBdPhS7Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grenade -2 Rendering",
+                        "lectureId": "69cccbfd49153561b6b6190d",
+                        "lectureLength": "00:03:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QSdhdm4p36/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "The Frag Grenade (Lathe Workflow)",
+                "assignmentId": "6a352d518668a9279c1529c6",
+                "assignmentLink": "https://docs.google.com/document/d/1IJkbpBhlb1FAiyDRXoE5svTGcZxUCX-H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Grenade Mechanism (Part I)",
+                "assignmentId": "6a352d658668a9279c1529cb",
+                "assignmentLink": "https://docs.google.com/document/d/1ztgXBdH8Kx6puq7wD0vrw6_Enf_ogA7_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Mechanical Integration & The Safety Clip",
+                "assignmentId": "6a352d798668a9279c1529d0",
+                "assignmentLink": "https://docs.google.com/document/d/144-qEeqXG6chFeuS5DNJi1l2zJdJ56DN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "The Pull Ring & Spring",
+                "assignmentId": "6a352d9d8668a9279c1529d5",
+                "assignmentLink": "https://docs.google.com/document/d/1D6VXoY1T-kCYhGvDbz3yjcCCkow-Fqeq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Texture Prep & UV Foundations",
+                "assignmentId": "6a352dae8668a9279c1529da",
+                "assignmentLink": "https://docs.google.com/document/d/1skqavzc657G4RZV9VmgcCENmWCXszsjQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "PBR Grunge & Advanced Shading",
+                "assignmentId": "6a352dc88668a9279c1529df",
+                "assignmentLink": "https://docs.google.com/document/d/1dSHn-dGINJ3gAjWg6YOmJsvdv_6rz15q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Architectural Visualisation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "archviz one",
+                        "lectureId": "69cccbfd49153561b6b6190f",
+                        "lectureLength": "01:00:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aFUHuB9C9j/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "FSPY tutorial - Importing and setting up in blender",
+                        "lectureId": "69cccbfd49153561b6b61910",
+                        "lectureLength": "00:13:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fYZaC453Ef/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "FSPY tutorial camera projection mapping",
+                        "lectureId": "69cccbfd49153561b6b61911",
+                        "lectureLength": "00:12:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkTQq7XNeGc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "library blockout",
+                        "lectureId": "69cccbfd49153561b6b61912",
+                        "lectureLength": "00:14:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brn8ZQNbGfZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fixing errors",
+                        "lectureId": "69cccbfd49153561b6b61913",
+                        "lectureLength": "00:10:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnrYatkKYfr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explanation to shadow catcher",
+                        "lectureId": "69cccbfd49153561b6b61914",
+                        "lectureLength": "00:14:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mmBqBR82Pj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Use case of shadow catcher",
+                        "lectureId": "69cccbfd49153561b6b61915",
+                        "lectureLength": "00:28:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GjgDZqpCnE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "multiple approach to complex projects",
+                        "lectureId": "69cccbfd49153561b6b61916",
+                        "lectureLength": "00:12:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gk24yreYxx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Very Important Full workflow of archviz from reference",
+                        "lectureId": "69cccbfd49153561b6b61917",
+                        "lectureLength": "01:08:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g6pYAZheCU/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Importing fSpy Data and Scene Blocking in Blender",
+                "assignmentId": "6a352e498668a9279c152add",
+                "assignmentLink": "https://docs.google.com/document/d/11-R1nIRYyt5SWg9_T-BcD-xZ7tBkHy-C/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "ArchViz Workflow and Basic Blockout",
+                "assignmentId": "6a352eb78668a9279c152ae2",
+                "assignmentLink": "https://docs.google.com/document/d/1p3mEUbc2XGLzNIWNGCK7h1GzYQpdOdBF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Architectural Visualization – Initial Scene Blockout",
+                "assignmentId": "6a352ec78668a9279c152ae7",
+                "assignmentLink": "https://docs.google.com/document/d/1bjJWoIOXtglGPoSm-KEcpPFUx-XIcrVA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Shadow Catcher and Compositing Integration",
+                "assignmentId": "6a352f758668a9279c152aec",
+                "assignmentLink": "https://docs.google.com/document/d/1H9Rc4q-a2PPQ1Aei83ls7MwmbyJEdFt0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Space VFX - PART 1",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Setting up scene and Textures",
+                        "lectureId": "69cccbfd49153561b6b61919",
+                        "lectureLength": "00:22:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xk8EdbTPtY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding base texture to surface",
+                        "lectureId": "69cccbfd49153561b6b6191a",
+                        "lectureLength": "00:14:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9StM8DTPBdK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Atmosphere",
+                        "lectureId": "69cccbfd49153561b6b6191b",
+                        "lectureLength": "00:11:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rr6S9he2gJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tweaking atmosphere and subdiv values",
+                        "lectureId": "69cccbfd49153561b6b6191c",
+                        "lectureLength": "00:15:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUE4GrkX7Hp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "adding clouds",
+                        "lectureId": "69cccbfd49153561b6b6191d",
+                        "lectureLength": "00:22:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANQA9thMsrg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Compositing the Entire scene",
+                        "lectureId": "69cccbfd49153561b6b6191e",
+                        "lectureLength": "00:18:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuASta4cxCh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Spaceship-I (Blockout)",
+                        "lectureId": "69cccbfd49153561b6b6191f",
+                        "lectureLength": "00:18:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AtNPAfST6D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "adding material and earth",
+                        "lectureId": "69cccbfd49153561b6b61920",
+                        "lectureLength": "00:23:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GpZ2gSJA9x/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "adding glass material and object",
+                        "lectureId": "69cccbfd49153561b6b61921",
+                        "lectureLength": "00:21:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TeuuqAA9Fe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "adding another glass and fixing the render perspective",
+                        "lectureId": "69cccbfd49153561b6b61922",
+                        "lectureLength": "00:09:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QDJfSaB7Ak/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "adding a different window",
+                        "lectureId": "69cccbfd49153561b6b61923",
+                        "lectureLength": "00:30:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TtJCHf8BfN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Alternate compositing and look",
+                        "lectureId": "69cccbfd49153561b6b61924",
+                        "lectureLength": "00:26:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UHD7e9JrE5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "adding a better texture for spaceship",
+                        "lectureId": "69cccbfd49153561b6b61925",
+                        "lectureLength": "00:16:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JQ5ha5QfS6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Minor final tweaks to get that hollywood look and some tips",
+                        "lectureId": "69cccbfd49153561b6b61926",
+                        "lectureLength": "00:40:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACngxaDz6D5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Planetary Foundations",
+                "assignmentId": "6a352f968668a9279c152af1",
+                "assignmentLink": "https://docs.google.com/document/d/1l5836AFzQI0I0GZc74e64vSAKHAQ8T-z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Adaptive Displacement & Surface Logic",
+                "assignmentId": "6a352faa8668a9279c152af6",
+                "assignmentLink": "https://docs.google.com/document/d/1jDO9Nx_8qZNcuQLDT7kTDDDdubBtoSsv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Volumetric Atmosphere & Composition",
+                "assignmentId": "6a352fbd8668a9279c152afb",
+                "assignmentLink": "https://docs.google.com/document/d/1EDRZRkf_AONdi1OTjH8TyRKJnDF9DwlJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Data Calibration & Atmospheric Rayleigh",
+                "assignmentId": "6a352fd78668a9279c152b00",
+                "assignmentLink": "https://docs.google.com/document/d/1U0Tq2iP6wyZiwslI4ETPqm_I4VKvQnwx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Layering & Cloud Volumetrics",
+                "assignmentId": "6a352fea8668a9279c152b05",
+                "assignmentLink": "https://docs.google.com/document/d/1r4LCNRMqau_KzhxF6oVp5AIOQmw9dKob/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Final Compositing & Volume Isolation",
+                "assignmentId": "6a3530018668a9279c152b0a",
+                "assignmentLink": "https://docs.google.com/document/d/1tsVk9ZLQYpEr5MO2LjqMP8Y4AmBnZ87i/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Cinematic Integration & Optical Systems",
+                "assignmentId": "6a3530268668a9279c152b0f",
+                "assignmentLink": "https://docs.google.com/document/d/1TltemH3bhbVpgxf9FY3gmbldo31olCgN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Terrain FX",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basic sculpting techniques for terrain.mp4",
+                        "lectureId": "6a083ae28668a9279c144dde",
+                        "lectureLength": "00:24:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7azyhNbBcPF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Megascans tutorial.mp4",
+                        "lectureId": "6a083ae38668a9279c144de1",
+                        "lectureLength": "00:09:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BZFNJSM4ds/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Importing megascans assets into blender.mp4",
+                        "lectureId": "6a083ae38668a9279c144de4",
+                        "lectureLength": "00:29:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxBc6rCQ4uT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terrain Material Setup and Weight painting.mp4",
+                        "lectureId": "6a083ae48668a9279c144de7",
+                        "lectureLength": "00:29:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HjuRyuePNX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scattering grass the default way.mp4",
+                        "lectureId": "6a083ae48668a9279c144dea",
+                        "lectureLength": "00:21:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jgKdDDfpyz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Beautiful Pond secene using advanced terrain techniques.mp4",
+                        "lectureId": "6a083ae48668a9279c144ded",
+                        "lectureLength": "00:27:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Qdbg2a7s4H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Detailed assets to the scene with texture painting.mp4",
+                        "lectureId": "6a083ae58668a9279c144df0",
+                        "lectureLength": "00:36:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU5uHRgSz9e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Water shader plugin.mp4",
+                        "lectureId": "6a083ae58668a9279c144df3",
+                        "lectureLength": "00:16:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99daA48Rq2h/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "More Assets.mp4",
+                        "lectureId": "6a083ae58668a9279c144df6",
+                        "lectureLength": "00:23:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cMJPU7UJtR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Boats.mp4",
+                        "lectureId": "6a083ae68668a9279c144df9",
+                        "lectureLength": "00:29:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JkZbPsG8eC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation and Dynamic Paint.mp4",
+                        "lectureId": "6a083ae68668a9279c144dfc",
+                        "lectureLength": "00:38:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mNzn8E7yrY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Dynamic paint to boats and water.mp4",
+                        "lectureId": "6a083ae68668a9279c144dff",
+                        "lectureLength": "00:29:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRh2G4d5YUQ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Designing Custom Realistic Terrain",
+                "assignmentId": "6a35308b8668a9279c152b14",
+                "assignmentLink": "https://docs.google.com/document/d/1kLOY4spXeBN8aVY6MyZR8lfiPyTMgajb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": " Advanced Terrain Creation and Material Masking",
+                "assignmentId": "6a3530a88668a9279c152b19",
+                "assignmentLink": "https://docs.google.com/document/d/1QGnNzQwDllUa8EfW1sWeRFReEB7hGEZf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Advanced Scene Scattering and Environmental Detailing",
+                "assignmentId": "6a3530c18668a9279c152b1e",
+                "assignmentLink": "https://docs.google.com/document/d/1hMfWpkgNOIDRJgBlL4Tx_zNmnUuM0Y5F/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Detailed Environment & Texture Painting",
+                "assignmentId": "6a3530d58668a9279c152b23",
+                "assignmentLink": "https://docs.google.com/document/d/1Pv9FgxBJdmRaFHnNdbFBSYOTM6nFG7X5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Advanced Water Environment Creation",
+                "assignmentId": "6a3530e88668a9279c152b28",
+                "assignmentLink": "https://docs.google.com/document/d/1AQdLZSO54vmacXfgt8Ce_2o5z6fmqkwP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Optimized Nature Scene Population",
+                "assignmentId": "6a3530fd8668a9279c152b2d",
+                "assignmentLink": "https://docs.google.com/document/d/16S7HGwYTAtU80-yuZqNSVXGWwQCTs_my/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Dynamic Paint and Animation Basics",
+                "assignmentId": "6a35310c8668a9279c152b32",
+                "assignmentLink": "https://docs.google.com/document/d/1WxdHHvt0DO9pbiFSbJDKkOJ_hb5vywJG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6a33ef50fc66b37ef64a59bc",
+                "mentor": "Shweta",
+                "start": 20,
+                "end": 22,
+                "chatStart": 20,
+                "chatEnd": 22,
+                "time": "8 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds1",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

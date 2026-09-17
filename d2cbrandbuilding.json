@@ -1,0 +1,420 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6a9eb29fb6907e7275be1286",
+        "courseName": "D2C Brand Building",
+        "slug": "d2cbrandbuilding",
+        "category": "Entrepreneur",
+        "tpFolderId": "A6uPtkEyUN8",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Foundation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to D2C Brand Launching",
+                        "lectureId": "6a9eb29fb6907e7275be128a",
+                        "lectureLength": "00:01:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53GaNu9CdqF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mindset & Foundation",
+                        "lectureId": "6a9eb29fb6907e7275be128b",
+                        "lectureLength": "00:25:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZhEPeCXQZr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Find a problem",
+                        "lectureId": "6a9eb29fb6907e7275be128c",
+                        "lectureLength": "00:28:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6geBCskjMZz/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Growing-Broke",
+                "assignmentId": "6aa3acff0770b38aada30d12",
+                "assignmentLink": "https://docs.google.com/document/d/1ISxJ0zvFVcyTdWkQIMiZsJmHlVIINzP9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Product",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Customer Research and Market Size Estimation",
+                        "lectureId": "6a9eb29fb6907e7275be128e",
+                        "lectureLength": "00:02:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57yCda5P2sE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customer Research",
+                        "lectureId": "6a9eb29fb6907e7275be128f",
+                        "lectureLength": "00:35:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/984Mjt8sa9g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Product Selection",
+                        "lectureId": "6a9eb29fb6907e7275be1290",
+                        "lectureLength": "00:15:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MdKXeGyr6S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Product Development",
+                        "lectureId": "6a9eb29fb6907e7275be1291",
+                        "lectureLength": "00:15:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uETCR5Tx73/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Validating Product Idea",
+                        "lectureId": "6a9eb29fb6907e7275be1292",
+                        "lectureLength": "00:47:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BQDbZnGED6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Second-Order",
+                "assignmentId": "6aa3ad180770b38aada30d17",
+                "assignmentLink": "https://docs.google.com/document/d/1hEU8LyIDGliAwav3I2zrIBwIOG2DDGJK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Money",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Finances, Sourcing, and Unit Economics",
+                        "lectureId": "6a9eb29fb6907e7275be1294",
+                        "lectureLength": "00:02:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Arhtg5bpdKU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Financial Planning",
+                        "lectureId": "6a9eb29fb6907e7275be1295",
+                        "lectureLength": "00:27:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uE8rNCH8Nk9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Finding Manufacturers",
+                        "lectureId": "6a9eb29fb6907e7275be1296",
+                        "lectureLength": "00:25:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KbsQfqDnYx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pricing & Unit Economics",
+                        "lectureId": "6a9eb29fb6907e7275be1297",
+                        "lectureLength": "00:31:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jDcKbYEPF7G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Managing your money",
+                        "lectureId": "6a9eb29fb6907e7275be1298",
+                        "lectureLength": "00:20:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PRSNJDuCSF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Trapped-On-One-Platform",
+                "assignmentId": "6aa3ad2e0770b38aada30d1c",
+                "assignmentLink": "https://docs.google.com/document/d/1GYXdN0LXYAQwJmyGtx1leXxgrOG4BWAy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Getting Started",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Brand Building Overview",
+                        "lectureId": "6a9eb29fb6907e7275be129a",
+                        "lectureLength": "00:02:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxKJyXBrYJp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Legal Requirements for Setting Up a Business",
+                        "lectureId": "6a9eb29fb6907e7275be129b",
+                        "lectureLength": "00:15:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dqbx37hsYMa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Brand name & identity",
+                        "lectureId": "6a9eb29fb6907e7275be129c",
+                        "lectureLength": "00:37:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GxCyeQ9Bdq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Social Media",
+                        "lectureId": "6a9eb29fb6907e7275be129d",
+                        "lectureLength": "00:24:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S8TcfMA6uz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI for business",
+                        "lectureId": "6a9eb29fb6907e7275be129e",
+                        "lectureLength": "00:31:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GBXzfHtg36/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Website Create",
+                        "lectureId": "6a9eb29fb6907e7275be129f",
+                        "lectureLength": "00:46:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQhkdQPtz84/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Nobody-Comes-Back",
+                "assignmentId": "6aa3ad480770b38aada30d21",
+                "assignmentLink": "https://docs.google.com/document/d/1DMmu9BzgtChX2Xay466IvWV9_bCNz58L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Content",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Content Strategy and Marketing",
+                        "lectureId": "6a9eb29fb6907e7275be12a1",
+                        "lectureLength": "00:02:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ATdurxJtsF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Content Strategy & Creation",
+                        "lectureId": "6a9eb29fb6907e7275be12a2",
+                        "lectureLength": "00:26:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDtU8xCA7NZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UGC & Influencer Marketing",
+                        "lectureId": "6a9eb29fb6907e7275be12a3",
+                        "lectureLength": "00:40:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnpjT3bqUBZ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Festive-Bet",
+                "assignmentId": "6aa3ad610770b38aada30d26",
+                "assignmentLink": "https://docs.google.com/document/d/1_uFUO0SHafTe4M3PDmLPSnwGfkXqAxU6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Launch & Operations",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Overview of Brand Launch and Operations",
+                        "lectureId": "6a9eb29fb6907e7275be12a5",
+                        "lectureLength": "00:03:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7THmJSftnh6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setting Up Meta Business Suite and Ad Campaigns",
+                        "lectureId": "6a9eb29fb6907e7275be12a6",
+                        "lectureLength": "00:37:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sGPj3xta33Y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pre-Launch & Launch",
+                        "lectureId": "6a9eb29fb6907e7275be12a7",
+                        "lectureLength": "00:16:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XqfA3u72BT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Brand Positioning",
+                        "lectureId": "6a9eb29fb6907e7275be12a8",
+                        "lectureLength": "00:32:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Kp4Y6DSnKm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Operations & Fulfillment",
+                        "lectureId": "6a9eb29fb6907e7275be12a9",
+                        "lectureLength": "00:30:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7STa8mkyBJS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Number-Detective",
+                "assignmentId": "6aa3ad760770b38aada30d2b",
+                "assignmentLink": "https://docs.google.com/document/d/1dnjpyTHYxtYGH1cKyqaSacxtLynn2cvO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Customer Retention",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Customer Feedback, Support, and Retention Strategies",
+                        "lectureId": "6a9eb29fb6907e7275be12ab",
+                        "lectureLength": "00:02:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GTUF4rZ9uu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customer Feedback",
+                        "lectureId": "6a9eb29fb6907e7275be12ac",
+                        "lectureLength": "00:29:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TkBS8YMadC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customer Support",
+                        "lectureId": "6a9eb29fb6907e7275be12ad",
+                        "lectureLength": "00:30:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PjH5QM7cmh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Product Iteration",
+                        "lectureId": "6a9eb29fb6907e7275be12ae",
+                        "lectureLength": "00:23:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yrjXMH3XEr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Retention & Repeat Purchases",
+                        "lectureId": "6a9eb29fb6907e7275be12af",
+                        "lectureLength": "00:28:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bzAZERYHqK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Three-Debates",
+                "assignmentId": "6aa3ad8d0770b38aada30d30",
+                "assignmentLink": "https://docs.google.com/document/d/1X5NlM4lrOXwBbC7bGXLYywnMuU7hMKtx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Scaling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Key Business Metrics, Distribution, and Marketing Channels",
+                        "lectureId": "6a9eb29fb6907e7275be12b1",
+                        "lectureLength": "00:03:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bqbKFC84DG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Key E-Commerce Analytics and Business Metrics",
+                        "lectureId": "6a9eb29fb6907e7275be12b2",
+                        "lectureLength": "00:23:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6P6xKkRdyQb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Distribution & Scale",
+                        "lectureId": "6a9eb29fb6907e7275be12b3",
+                        "lectureLength": "00:52:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7h7Etsqqhye/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scaling beyond Meta",
+                        "lectureId": "6a9eb29fb6907e7275be12b4",
+                        "lectureLength": "00:36:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J9bMcpk3ST/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shopify Toolkit",
+                        "lectureId": "6a9eb29fb6907e7275be12b5",
+                        "lectureLength": "00:17:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8c4sMTJ38fp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Teardown-Atomberg",
+                "assignmentId": "6aa3ada30770b38aada30d35",
+                "assignmentLink": "https://docs.google.com/document/d/1NSObpwUG5DzZiBQ6AqosTek87v61DX1d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Beyond Scaling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Building Systems, Festive Playbooks, and 90-Day Plans",
+                        "lectureId": "6a9eb29fb6907e7275be12b7",
+                        "lectureLength": "00:02:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mqYP6XhC6hc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a 90-Day D2C Action Plan",
+                        "lectureId": "6a9eb29fb6907e7275be12b8",
+                        "lectureLength": "00:34:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/767g9CgAeqb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building Systems",
+                        "lectureId": "6a9eb29fb6907e7275be12b9",
+                        "lectureLength": "00:29:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SaxC9Djxxn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Festive Playbook",
+                        "lectureId": "6a9eb29fb6907e7275be12ba",
+                        "lectureLength": "00:29:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tRg7K6DZDa/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Monday-Triage",
+                "assignmentId": "6aa3ae180770b38aada30db3",
+                "assignmentLink": "https://docs.google.com/document/d/1xo8sY9VHpuKt9T4e66R-2xBN-5Ciqf-D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": null,
+        "resource": [
+            "https://drive.google.com/drive/folders/1jfUPpGdrxaNUF2m-MqTTX7ZgueQaXoJz?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

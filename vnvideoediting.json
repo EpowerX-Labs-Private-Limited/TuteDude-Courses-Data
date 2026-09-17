@@ -1,0 +1,226 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6a59ed6d8668a9279c1605f2",
+        "courseName": "VN Mobile Video Editing",
+        "slug": "vnvideoediting",
+        "category": "Video Editing",
+        "tpFolderId": "BdnrHuM6GHZ",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Smartphone Editing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to VN Editor and Installation",
+                        "lectureId": "6a59ed6d8668a9279c1605f4",
+                        "lectureLength": "00:20:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bCxyBanECR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Concept of Smart Video Editing in VN",
+                        "lectureId": "6a59ed6d8668a9279c1605f5",
+                        "lectureLength": "00:23:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JgsuTKgPFM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Widescreen vs Vertical Screen Editing",
+                        "lectureId": "6a59ed6d8668a9279c1605f6",
+                        "lectureLength": "00:13:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jRjjB87mec/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Installing VN Editor and Exploring the Interf",
+                "assignmentId": "6a7330f5b6907e7275bd81c4",
+                "assignmentLink": "https://docs.google.com/document/d/1A8YLBgHprK4picgf-V6WZUMya22CN1Am/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Smart Video Editing Concepts and Editing Term",
+                "assignmentId": "6a73311fb6907e7275bd81c9",
+                "assignmentLink": "https://docs.google.com/document/d/1MI78vT5MjGiwmdPQYpFfml7OTnF9UNTz/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Widescreen vs Vertical Screen Editing.",
+                "assignmentId": "6a733161b6907e7275bd81ce",
+                "assignmentLink": "https://docs.google.com/document/d/1BHJ5SrpAuOE1ix46_pPWM1srYBQoPDn0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Introduction to VN Editor",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the VN Editor Interface",
+                        "lectureId": "6a59ed6d8668a9279c1605f8",
+                        "lectureLength": "00:23:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RDzaAtNUSh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Software vs Mobile Video Editing",
+                        "lectureId": "6a59ed6d8668a9279c1605f9",
+                        "lectureLength": "00:17:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hzxzcHa6fs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Smartphone Video Editing Terms",
+                        "lectureId": "6a59ed6d8668a9279c1605fa",
+                        "lectureLength": "00:09:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SBh27apRTF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Software vs Mobile Video Editing.",
+                "assignmentId": "6a73319eb6907e7275bd81d3",
+                "assignmentLink": "https://docs.google.com/document/d/1IS9zKqrmrefWOqzZNVPSHt8p-Uhcb7Jn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Editing Reels and Shorts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Concepts of Audio in Video Editing",
+                        "lectureId": "6a59ed6d8668a9279c1605fc",
+                        "lectureLength": "00:15:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf5tx5tZnzz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Professional Reels in VN Editor",
+                        "lectureId": "6a59ed6d8668a9279c1605fd",
+                        "lectureLength": "00:15:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf5tx5tZnzz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tools and Effects in VN Video Editor",
+                        "lectureId": "6a59ed6d8668a9279c1605fe",
+                        "lectureLength": "00:19:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cqyk4TCHAJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Audio Editing in VN.",
+                "assignmentId": "6a7331f5b6907e7275bd81d8",
+                "assignmentLink": "https://docs.google.com/document/d/1UKFVuBdjYFbZRqQX058OSssA3i302s_L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Creating a Professional Reel in VN.",
+                "assignmentId": "6a733207b6907e7275bd81dd",
+                "assignmentLink": "https://docs.google.com/document/d/1WnHXFCPdjyusefTD_r910rG_UaoYQQ3y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Tools and Effects Exploration in VN",
+                "assignmentId": "6a733220b6907e7275bd81e2",
+                "assignmentLink": "https://docs.google.com/document/d/1RPRE7WQEfWC4mQAj0uyWqY8A5z-imIjB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Advanced Video Editing in VN",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Using Predefined Templates in VN Editor",
+                        "lectureId": "6a59ed6d8668a9279c160600",
+                        "lectureLength": "00:21:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bksdtrt8peX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Motion and Sky Replacement in VN",
+                        "lectureId": "6a59ed6d8668a9279c160601",
+                        "lectureLength": "00:25:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69UAknGbbRE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Masking Like a Pro in VN",
+                        "lectureId": "6a59ed6d8668a9279c160602",
+                        "lectureLength": "00:10:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Y2qBfCHyfE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dynamic Time Freeze Effect in VN",
+                        "lectureId": "6a59ed6d8668a9279c160603",
+                        "lectureLength": "00:11:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSr23xJPS3m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Masking and Chroma Editing in VN",
+                        "lectureId": "6a59ed6d8668a9279c160604",
+                        "lectureLength": "00:16:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66XGYse3nj5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Editing with Predefined Templates in VN",
+                "assignmentId": "6a73323ab6907e7275bd81e7",
+                "assignmentLink": "https://docs.google.com/document/d/1KoFi7yBBre8kpGCwC7Q_tubFLyPVWyH3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Text Motion and Sky Replacement in VN",
+                "assignmentId": "6a73324fb6907e7275bd81ec",
+                "assignmentLink": "https://docs.google.com/document/d/1B18gLwgqOBjqCiCA0myszCjy3I1110hR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Advanced Masking, Time Freeze and Chroma Key",
+                "assignmentId": "6a733260b6907e7275bd81f1",
+                "assignmentLink": "https://docs.google.com/document/d/1xE2rVf1JPke2tGakaWSKo21W3BVqc2Ee/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6aa2fc1ffc66b37ef64abaac",
+                "mentor": "Piyush",
+                "start": 20,
+                "end": 22,
+                "chatStart": 20,
+                "chatEnd": 22,
+                "time": "8:00 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db5",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "junior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

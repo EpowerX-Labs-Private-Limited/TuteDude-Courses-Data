@@ -1,0 +1,449 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680c86eb364f718dc17b74b9",
+        "courseName": "SQL Course",
+        "slug": "sql",
+        "category": "technical",
+        "tpFolderId": "BqhUXXayB4n",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": true,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6901d58f0fb13c2409bfe3dc",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to DBMS",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "DBMS",
+                        "lectureId": "680c86eb364f718dc17b74bb",
+                        "lectureLength": "00:45:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RXTeuJ6Z2d/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "SQL Commands",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Overview of SQL Commands",
+                        "lectureId": "680c86eb364f718dc17b74bd",
+                        "lectureLength": "00:52:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PAtB9jPaRH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Detailed Study of SQL Command Types (DDL, DML, DCL, TCL)",
+                        "lectureId": "680c86eb364f718dc17b74be",
+                        "lectureLength": "00:42:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CEjD7mq89K/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "SQL Fundamentals (Sorting, Filtering, Logical Operators, String Operators)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "SQL Basics",
+                        "lectureId": "680c86eb364f718dc17b74c0",
+                        "lectureLength": "01:21:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RA9rUKddPP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Database & Schema Setup",
+                "assignmentId": "68f2251283492d3c7b6b54d9",
+                "assignmentLink": "https://docs.google.com/document/d/1QayB6RHDFP2JBWQPy5IgsIKMZUsSt3RM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Aggregate Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Aggregate Functions (Common Aggregate Functions, Group By and Having Clauses, Use of Coalesce and Other Functions)",
+                        "lectureId": "680c86eb364f718dc17b74c2",
+                        "lectureLength": "01:11:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56kAzzG9QD2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Joins (Inner Join, Left Join, Right Join, Full Join, Self Join, Cross Join)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Theoretical Understanding of Different Types of Joins",
+                        "lectureId": "680c86eb364f718dc17b74c4",
+                        "lectureLength": "00:53:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B7muEFFy6k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Practical Implementation of Joins",
+                        "lectureId": "680c86eb364f718dc17b74c5",
+                        "lectureLength": "00:48:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FmH5J9cQet/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Practice Exercises on Joins",
+                        "lectureId": "680c86eb364f718dc17b74c6",
+                        "lectureLength": "00:28:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6H8Jg9PEH6z/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Basic & Intermediate Queries",
+                "assignmentId": "68f2251283492d3c7b6b54db",
+                "assignmentLink": "https://docs.google.com/document/d/1-IGvruvGmYeB1XFwVsIhHK17wRzN0B7n/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Case Statements",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Working with CASE Statements",
+                        "lectureId": "680c86eb364f718dc17b74c8",
+                        "lectureLength": "01:21:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbcM5rs6crh/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Date Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Date and Time Functions in SQL",
+                        "lectureId": "680c86eb364f718dc17b74ca",
+                        "lectureLength": "00:50:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EHBGse8Yrb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Set Operators",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "SET Operators (Union, Union All, Intersect, Minus/Except)",
+                        "lectureId": "680c86eb364f718dc17b74cc",
+                        "lectureLength": "00:32:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TPFSyxBYFc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "SubQuery",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Sub Queries (Correlated, Non Correlated)",
+                        "lectureId": "680c86eb364f718dc17b74ce",
+                        "lectureLength": "00:57:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fyCd5fqatt/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "CTE & View",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Common Table Expressions (CTEs) and Views",
+                        "lectureId": "680c86eb364f718dc17b74d0",
+                        "lectureLength": "01:09:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8UnTBQKcF9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Advanced SQL Queries",
+                "assignmentId": "68f2251283492d3c7b6b54dd",
+                "assignmentLink": "https://docs.google.com/document/d/1IYdVMvIz7bwk7cm4Fs18w6toEfjaRrDK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Window Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Rank Functions and Running Total",
+                        "lectureId": "680c86eb364f718dc17b74d2",
+                        "lectureLength": "01:01:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MGNteCKXm4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lead and Lag Functions, Working with Window Frames",
+                        "lectureId": "680c86eb364f718dc17b74d3",
+                        "lectureLength": "00:25:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nrkMS8Gcuc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Normalization",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Database Normalization",
+                        "lectureId": "680c86eb364f718dc17b74d5",
+                        "lectureLength": "00:41:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qQqm92dNJe/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "ACID Properties",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "ACID Properties in Database",
+                        "lectureId": "680c86eb364f718dc17b74d7",
+                        "lectureLength": "00:23:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KA8rh4ab7m/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Query Optimization",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Query Optimization Techniques(Indexing, Other Optimization Strategies)",
+                        "lectureId": "680c86eb364f718dc17b74d9",
+                        "lectureLength": "00:24:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYjMj3ZcsKd/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Advanced Topics (Bonus)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Import and Export ERD",
+                        "lectureId": "680c86eb364f718dc17b74db",
+                        "lectureLength": "00:41:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jP83X6D4BY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Users & Privileges",
+                        "lectureId": "680c86eb364f718dc17b74dc",
+                        "lectureLength": "00:14:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZMSsh2zMq8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Locking and Unlocking Tables",
+                        "lectureId": "680c86eb364f718dc17b74dd",
+                        "lectureLength": "00:03:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pKY7fj3Q3z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Variables",
+                        "lectureId": "680c86eb364f718dc17b74de",
+                        "lectureLength": "00:06:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Z9pNtTzb5q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stored Procedures",
+                        "lectureId": "680c86eb364f718dc17b74df",
+                        "lectureLength": "00:44:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzgHrknatQK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Data Modification & Integrity",
+                "assignmentId": "68f2251283492d3c7b6b54df",
+                "assignmentLink": "https://docs.google.com/document/d/12z4P_Z6HDQsTqdJmQzrAAZLgTaiDcUaj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Final Project: Ecommerce Store -- Insights and Analytics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "General Sales Insights",
+                        "lectureId": "680c86eb364f718dc17b74e1",
+                        "lectureLength": "00:58:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BmeU6HjxSR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customer Insights",
+                        "lectureId": "680c86eb364f718dc17b74e2",
+                        "lectureLength": "00:48:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pFfa6QUgef/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Product and Order Insights",
+                        "lectureId": "680c86eb364f718dc17b74e3",
+                        "lectureLength": "00:33:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76pSBjF795N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Temporal Trends, Regional Insights, Return and Refund",
+                        "lectureId": "680c86eb364f718dc17b74e4",
+                        "lectureLength": "00:38:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8FsMZuDNGe/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Transactions, Logic & Analysis",
+                "assignmentId": "68f2251283492d3c7b6b54e1",
+                "assignmentLink": "https://docs.google.com/document/d/1Wl6fEQ_SVEk0kXe53R6fqY0B76VqKG8I/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Job Readiness & Placement Support",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Building a Resume",
+                        "lectureId": "69d0bbd649153561b6b61c51",
+                        "lectureLength": "00:58:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ErYdzDqsT7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customizing the Resume as per Job Description",
+                        "lectureId": "69d0bc2249153561b6b61c60",
+                        "lectureLength": "00:16:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/\t7x7F5B8Q478/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to Apply for Jobs Internships",
+                        "lectureId": "69d0bbd649153561b6b61c55",
+                        "lectureLength": "00:56:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YGJHSZ93x3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interview Preparation tricks and tips",
+                        "lectureId": "69d0bbd749153561b6b61c58",
+                        "lectureLength": "00:24:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Yfxz5HaPTN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mock Interview Flow",
+                        "lectureId": "69d0bc3749153561b6b61c63",
+                        "lectureLength": "00:36:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5rP6pD8yBC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Additional things to make profile stronger",
+                        "lectureId": "69d0bc4849153561b6b61c66",
+                        "lectureLength": "00:26:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/\t8DbKQuMpc68/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SQL Career Paths",
+                        "lectureId": "69d0bbd749153561b6b61c5d",
+                        "lectureLength": "00:35:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZK5T7md88q/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6921a87725c1857ee1ae3a14",
+                "mentor": "Divya ",
+                "start": 19,
+                "end": 22,
+                "chatStart": 0,
+                "chatEnd": 0,
+                "time": "7 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db2",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            },
+            {
+                "_id": "69804935959c4775ed08ff3b",
+                "mentor": "Rahul ",
+                "start": 21,
+                "end": 23.5,
+                "chatStart": 20.5,
+                "chatEnd": 23.5,
+                "time": "9:00 PM - 11:30 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db7",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "junior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1sdR6agsT-9UKDLSKNL5-3xNDvGz7g-pr?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

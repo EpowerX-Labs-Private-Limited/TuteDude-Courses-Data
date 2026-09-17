@@ -1,0 +1,1640 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680c86ea364f718dc17b6bb1",
+        "courseName": "Database Management System",
+        "slug": "dbms",
+        "category": "technical",
+        "tpFolderId": "AqKfjRn9xRn",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Concepts and Characteristics of DBMS",
+                        "lectureId": "680c86ea364f718dc17b6bb3",
+                        "lectureLength": "00:20:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGP8daSuzK4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "History and Evolution of Database",
+                        "lectureId": "680c86ea364f718dc17b6bb4",
+                        "lectureLength": "00:12:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kpSNRTKQtq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Database System Architecture",
+                        "lectureId": "680c86ea364f718dc17b6bb5",
+                        "lectureLength": "00:13:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kT4UMBbyZ7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Data Modelling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Relational Database Model",
+                        "lectureId": "680c86ea364f718dc17b6bb7",
+                        "lectureLength": "00:12:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8baxZKNuPYE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Entity Relationship Model",
+                        "lectureId": "680c86ea364f718dc17b6bb8",
+                        "lectureLength": "00:11:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aP3jssbGXu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of Attributes and their Symbols",
+                        "lectureId": "680c86ea364f718dc17b6bb9",
+                        "lectureLength": "00:10:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M8NbS4gb5G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connectivity of Relationships",
+                        "lectureId": "680c86ea364f718dc17b6bba",
+                        "lectureLength": "00:12:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xeNMbqphPk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Degree of a Relationship",
+                        "lectureId": "680c86ea364f718dc17b6bbb",
+                        "lectureLength": "00:04:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MxJ2kDDJbu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing an ER Model",
+                        "lectureId": "680c86ea364f718dc17b6bbc",
+                        "lectureLength": "00:15:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59nPTkDBh7a/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conversion from ER Model to Relational Model",
+                        "lectureId": "680c86ea364f718dc17b6bbd",
+                        "lectureLength": "00:03:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Hg39qAaMxD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conversion from ER Model to Relational Model_Composite Attributes",
+                        "lectureId": "680c86ea364f718dc17b6bbe",
+                        "lectureLength": "00:07:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aus8Chnx7M7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conversion from ER Model to Relational Model - Derived and Multi-valued Attributes",
+                        "lectureId": "680c86ea364f718dc17b6bbf",
+                        "lectureLength": "00:11:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JY2YP2UT2b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Many to Many Relationship",
+                        "lectureId": "680c86ea364f718dc17b6bc0",
+                        "lectureLength": "00:08:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tcXbrHKj8u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Many to One Relationships",
+                        "lectureId": "680c86ea364f718dc17b6bc1",
+                        "lectureLength": "00:06:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8f2MS4ZAxfh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "One to Many Relationships",
+                        "lectureId": "680c86ea364f718dc17b6bc2",
+                        "lectureLength": "00:06:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dRtBYtZBQK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "One to One Relationships",
+                        "lectureId": "680c86ea364f718dc17b6bc3",
+                        "lectureLength": "00:09:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7h8yT3muQBr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Strong and Weak Entity Sets",
+                        "lectureId": "680c86ea364f718dc17b6bc4",
+                        "lectureLength": "00:07:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XGZZNBJeT9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Strong and Weak Entity Sets_2",
+                        "lectureId": "680c86ea364f718dc17b6bc5",
+                        "lectureLength": "00:04:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tAUKS68gHS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cardinality of a Relationship",
+                        "lectureId": "680c86ea364f718dc17b6bc6",
+                        "lectureLength": "00:08:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nr7ZepCF4k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Total and Partial Participation",
+                        "lectureId": "680c86ea364f718dc17b6bc7",
+                        "lectureLength": "00:05:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3r75j6Rr9Uf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cardinality and Participation",
+                        "lectureId": "680c86ea364f718dc17b6bc8",
+                        "lectureLength": "00:06:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4x2uUnsUxxs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Examples",
+                        "lectureId": "680c86ea364f718dc17b6bc9",
+                        "lectureLength": "00:06:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aQaQzSHS2a/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Codd's Rules",
+                        "lectureId": "680c86ea364f718dc17b6bca",
+                        "lectureLength": "00:15:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RhDUhE6UAB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "ER Modelling",
+                "assignmentId": "68f224b383492d3c7b6b53fc",
+                "assignmentLink": "https://docs.google.com/document/d/10xtdvmOs2AdMWWpeb16JrXXdS4coBXOx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Database Design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Data Independence",
+                        "lectureId": "680c86ea364f718dc17b6bcc",
+                        "lectureLength": "00:05:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3x3HADNc34x/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keys in DBMS",
+                        "lectureId": "680c86ea364f718dc17b6bcd",
+                        "lectureLength": "00:19:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47bBhnfqSet/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Functional Dependence",
+                        "lectureId": "680c86ea364f718dc17b6bce",
+                        "lectureLength": "00:12:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dF2H5XqFFK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inference Rules",
+                        "lectureId": "680c86ea364f718dc17b6bcf",
+                        "lectureLength": "00:05:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnCyMBHtmJy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Closure of Functional Dependencies",
+                        "lectureId": "680c86ea364f718dc17b6bd0",
+                        "lectureLength": "00:11:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mNDZMx565C/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Minimal Cover",
+                        "lectureId": "680c86ea364f718dc17b6bd1",
+                        "lectureLength": "00:10:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zGDyhdpBzt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fully Functional Dependency",
+                        "lectureId": "680c86ea364f718dc17b6bd2",
+                        "lectureLength": "00:10:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GfffKaxck7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transitive Dependency",
+                        "lectureId": "680c86ea364f718dc17b6bd3",
+                        "lectureLength": "00:03:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38aagMmnmge/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multi Valued Dependency",
+                        "lectureId": "680c86ea364f718dc17b6bd4",
+                        "lectureLength": "00:02:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pDuEksm82b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Normalization Process",
+                        "lectureId": "680c86ea364f718dc17b6bd5",
+                        "lectureLength": "00:08:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/T3NJrmHUxc3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Computer Center Case Study",
+                        "lectureId": "680c86ea364f718dc17b6bd6",
+                        "lectureLength": "00:06:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GnEfbetSTs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "First Normal Form_1",
+                        "lectureId": "680c86ea364f718dc17b6bd7",
+                        "lectureLength": "00:05:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95ydCtRGHhs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Anomalies of the First Normal Form",
+                        "lectureId": "680c86ea364f718dc17b6bd8",
+                        "lectureLength": "00:10:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JZ8QRS437q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "First Normal Form_2",
+                        "lectureId": "680c86ea364f718dc17b6bd9",
+                        "lectureLength": "00:05:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bp89kumdpk7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Second Normal Form",
+                        "lectureId": "680c86ea364f718dc17b6bda",
+                        "lectureLength": "00:09:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AN5GqrKDNfG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "1Third Normal Form",
+                        "lectureId": "680c86ea364f718dc17b6bdb",
+                        "lectureLength": "00:04:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hdKUx5dyyX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "1Boyce Codd Normal Form",
+                        "lectureId": "680c86ea364f718dc17b6bdc",
+                        "lectureLength": "00:05:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dXcjFRSyB4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "1Fourth Normal Form",
+                        "lectureId": "680c86ea364f718dc17b6bdd",
+                        "lectureLength": "00:14:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZtkfD4PCr5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "1Fifth Normal Form",
+                        "lectureId": "680c86ea364f718dc17b6bde",
+                        "lectureLength": "00:11:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TMnjxjf2hC/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Relational Schema and Normalization",
+                "assignmentId": "68f224b483492d3c7b6b53fe",
+                "assignmentLink": "https://docs.google.com/document/d/1LdhEhWEWCcVD6eYpBmxsVHdAOXI3hIz0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Relational Algebra",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Relational Query Languages",
+                        "lectureId": "680c86ea364f718dc17b6be0",
+                        "lectureLength": "00:06:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YUZ6M2fzsS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Relational Algebra",
+                        "lectureId": "680c86ea364f718dc17b6be1",
+                        "lectureLength": "00:04:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pzFCAjQGMj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Select Operation",
+                        "lectureId": "680c86ea364f718dc17b6be2",
+                        "lectureLength": "00:09:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH2z6CkxDkb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Projection Operation",
+                        "lectureId": "680c86ea364f718dc17b6be3",
+                        "lectureLength": "00:07:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NQkeHpT36N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rename Operation",
+                        "lectureId": "680c86ea364f718dc17b6be4",
+                        "lectureLength": "00:06:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64QY88xhFg6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Union Operation",
+                        "lectureId": "680c86ea364f718dc17b6be5",
+                        "lectureLength": "00:07:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYesSSHG4Hc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Intersection Operation",
+                        "lectureId": "680c86ea364f718dc17b6be6",
+                        "lectureLength": "00:04:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/658ykSepk4Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Set Difference Operation",
+                        "lectureId": "680c86ea364f718dc17b6be7",
+                        "lectureLength": "00:05:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42SrBc6ZK4f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cartesian Product Operation",
+                        "lectureId": "680c86ea364f718dc17b6be8",
+                        "lectureLength": "00:11:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SRm6YE9EEu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Joins",
+                        "lectureId": "680c86ea364f718dc17b6be9",
+                        "lectureLength": "00:15:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HUQDHbT4YP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Relational Algebra Queries_1",
+                        "lectureId": "680c86ea364f718dc17b6bea",
+                        "lectureLength": "00:14:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8x9syeEuUk6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Relational Algebra Queries_2",
+                        "lectureId": "680c86ea364f718dc17b6beb",
+                        "lectureLength": "00:10:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ekFHTZXNyX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Relational Algebra",
+                "assignmentId": "68f224b583492d3c7b6b5400",
+                "assignmentLink": "https://docs.google.com/document/d/1ztv-l5hE_kMWQCuymHaHOBsygq5IbpMO/edit?usp=drive_link&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Oracle Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction",
+                        "lectureId": "680c86ea364f718dc17b6bed",
+                        "lectureLength": "00:07:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4knKb74X77k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DESCRIBE Command",
+                        "lectureId": "680c86ea364f718dc17b6bee",
+                        "lectureLength": "00:07:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UHqANSsexM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SQL Statement Basics",
+                        "lectureId": "680c86ea364f718dc17b6bef",
+                        "lectureLength": "00:08:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpqBGgUpJSg/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Oracle Retrieving Data",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Select Statements",
+                        "lectureId": "680c86ea364f718dc17b6bf1",
+                        "lectureLength": "00:03:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RMfzZ263cJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Column Aliases",
+                        "lectureId": "680c86ea364f718dc17b6bf2",
+                        "lectureLength": "00:06:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95zKnsMpGrF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Quote Operator",
+                        "lectureId": "680c86ea364f718dc17b6bf3",
+                        "lectureLength": "00:05:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TfyKBNJArz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DISTINCT and UNIQUE Operator",
+                        "lectureId": "680c86ea364f718dc17b6bf4",
+                        "lectureLength": "00:08:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4B9gGAA2GMS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Concatenation Operator",
+                        "lectureId": "680c86ea364f718dc17b6bf5",
+                        "lectureLength": "00:06:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6A2SYRYzxx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Arithmetic Expressions",
+                        "lectureId": "680c86ea364f718dc17b6bf6",
+                        "lectureLength": "00:08:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34f5baA2jmH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Oracle Receiving",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "WHERE Clause",
+                        "lectureId": "680c86ea364f718dc17b6bf8",
+                        "lectureLength": "00:04:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DE3BEz7N45/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comparison Operators",
+                        "lectureId": "680c86ea364f718dc17b6bf9",
+                        "lectureLength": "00:03:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qqHBr37scy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "BETWEEN ... AND Operator",
+                        "lectureId": "680c86ea364f718dc17b6bfa",
+                        "lectureLength": "00:03:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Adjh43mTKBr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IN Operator",
+                        "lectureId": "680c86ea364f718dc17b6bfb",
+                        "lectureLength": "00:04:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9au2DTy4Jz2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "LIKE Operator",
+                        "lectureId": "680c86ea364f718dc17b6bfc",
+                        "lectureLength": "00:08:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88ajFHARmF7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IS NULL Operator",
+                        "lectureId": "680c86ea364f718dc17b6bfd",
+                        "lectureLength": "00:03:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6puBaUf9dBx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logical Operators",
+                        "lectureId": "680c86ea364f718dc17b6bfe",
+                        "lectureLength": "00:07:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73xHGJmPjJr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rules of Precedence",
+                        "lectureId": "680c86ea364f718dc17b6bff",
+                        "lectureLength": "00:07:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uMYUqDTKcb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Oracle Sorting Data",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "ORDER BY Clause",
+                        "lectureId": "680c86ea364f718dc17b6c01",
+                        "lectureLength": "00:06:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CFmdR635SC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ASC and DESC Operators",
+                        "lectureId": "680c86ea364f718dc17b6c02",
+                        "lectureLength": "00:03:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XyR7XxQKKm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NULLS FIRST and NULLS LAST",
+                        "lectureId": "680c86ea364f718dc17b6c03",
+                        "lectureLength": "00:03:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aeqa5XbamJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ROWID and ROWNUM",
+                        "lectureId": "680c86ea364f718dc17b6c04",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G8kgYHYD9G/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Oracle Single-Row Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Single Row Functions",
+                        "lectureId": "680c86ea364f718dc17b6c06",
+                        "lectureLength": "00:04:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78kUPjSsAsh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case Conversion Functions",
+                        "lectureId": "680c86ea364f718dc17b6c07",
+                        "lectureLength": "00:04:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yhbS4h7yDN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Character Manipulation Functions",
+                        "lectureId": "680c86ea364f718dc17b6c08",
+                        "lectureLength": "00:10:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZH8fGQGfZC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Numeric Functions",
+                        "lectureId": "680c86ea364f718dc17b6c09",
+                        "lectureLength": "00:05:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fj8na3KaR8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nested Functions",
+                        "lectureId": "680c86ea364f718dc17b6c0a",
+                        "lectureLength": "00:07:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeqrdB5dx4Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Date Values and Formats",
+                        "lectureId": "680c86ea364f718dc17b6c0b",
+                        "lectureLength": "00:02:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3SjEauUGa5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Date Format Models",
+                        "lectureId": "680c86ea364f718dc17b6c0c",
+                        "lectureLength": "00:05:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ydN6JdKhs6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Date Functions and Arithmetic Operators",
+                        "lectureId": "680c86ea364f718dc17b6c0d",
+                        "lectureLength": "00:05:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YDXJJugMm3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Date Manipulation Functions",
+                        "lectureId": "680c86ea364f718dc17b6c0e",
+                        "lectureLength": "00:02:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sr9yZehdT7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Number Format Models",
+                        "lectureId": "680c86ea364f718dc17b6c0f",
+                        "lectureLength": "00:05:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jzgUbaD4cA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Oracle Conversion Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Oracle Conversion Functions",
+                        "lectureId": "680c86ea364f718dc17b6c11",
+                        "lectureLength": "00:02:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gKESyTtHPQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Implicit Conversion Examples",
+                        "lectureId": "680c86ea364f718dc17b6c12",
+                        "lectureLength": "00:01:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xnj6gfg45Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "TO_CHAR Function",
+                        "lectureId": "680c86ea364f718dc17b6c13",
+                        "lectureLength": "00:02:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JJqEBEyMjK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NVL, NVL2, NULLIF and COALESCE Functions",
+                        "lectureId": "680c86ea364f718dc17b6c14",
+                        "lectureLength": "00:11:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f27eUC9JJz8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Oracle Group Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Group Functions",
+                        "lectureId": "680c86ea364f718dc17b6c16",
+                        "lectureLength": "00:03:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HYtd7PZag3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AVG Function",
+                        "lectureId": "680c86ea364f718dc17b6c17",
+                        "lectureLength": "00:04:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GdPJy88xEh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "COUNT Function",
+                        "lectureId": "680c86ea364f718dc17b6c18",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ruke2FRyuxn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "MAX Function",
+                        "lectureId": "680c86ea364f718dc17b6c19",
+                        "lectureLength": "00:03:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9neaSszGRMy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "MIN Function",
+                        "lectureId": "680c86ea364f718dc17b6c1a",
+                        "lectureLength": "00:03:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4feX344arP6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SUM Function",
+                        "lectureId": "680c86ea364f718dc17b6c1b",
+                        "lectureLength": "00:03:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BabkHjDytpZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "LISTAGG Function",
+                        "lectureId": "680c86ea364f718dc17b6c1c",
+                        "lectureLength": "00:03:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dmZfhh4D7y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Overview of Group Functions",
+                        "lectureId": "680c86ea364f718dc17b6c1d",
+                        "lectureLength": "00:02:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hhnFfN2mK2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Oracle Grouping Data",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "GROUP BY Clause - 1",
+                        "lectureId": "680c86ea364f718dc17b6c1f",
+                        "lectureLength": "00:07:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aQ2uzHG9cZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GROUP BY Clause - 2",
+                        "lectureId": "680c86ea364f718dc17b6c20",
+                        "lectureLength": "00:08:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fybUpCpAsn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "HAVING Clause",
+                        "lectureId": "680c86ea364f718dc17b6c21",
+                        "lectureLength": "00:05:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57SK4j4MEXG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nested Group Functions",
+                        "lectureId": "680c86ea364f718dc17b6c22",
+                        "lectureLength": "00:03:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kfuupfK2SQ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Oracle Joins",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Join",
+                        "lectureId": "680c86ea364f718dc17b6c24",
+                        "lectureLength": "00:01:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5j7mj9ceFZk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a Join",
+                        "lectureId": "680c86ea364f718dc17b6c25",
+                        "lectureLength": "00:02:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z2sF284R8G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Natural Join",
+                        "lectureId": "680c86ea364f718dc17b6c26",
+                        "lectureLength": "00:05:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qGn8dueXdgr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Join with USING Clause",
+                        "lectureId": "680c86ea364f718dc17b6c27",
+                        "lectureLength": "00:02:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgAry6Kd7kx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Handling Ambiguous Column Names",
+                        "lectureId": "680c86ea364f718dc17b6c28",
+                        "lectureLength": "00:03:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42ssZZzszMp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "INNER Join",
+                        "lectureId": "680c86ea364f718dc17b6c29",
+                        "lectureLength": "00:03:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BdeBEfGrKs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multiple Join Operations",
+                        "lectureId": "680c86ea364f718dc17b6c2a",
+                        "lectureLength": "00:03:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Aj4hugkPZs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Restricting Joins",
+                        "lectureId": "680c86ea364f718dc17b6c2b",
+                        "lectureLength": "00:02:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U9ZrQBgGEh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SELF Join",
+                        "lectureId": "680c86ea364f718dc17b6c2c",
+                        "lectureLength": "00:03:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5NsHPMHCNg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Non-Equijoins",
+                        "lectureId": "680c86ea364f718dc17b6c2d",
+                        "lectureLength": "00:03:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyyHCS5f9zH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OUTER Joins",
+                        "lectureId": "680c86ea364f718dc17b6c2e",
+                        "lectureLength": "00:07:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Gc5k6z9FGF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CROSS Join",
+                        "lectureId": "680c86ea364f718dc17b6c2f",
+                        "lectureLength": "00:06:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9g8XkQ5rm96/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Join Types",
+                        "lectureId": "680c86ea364f718dc17b6c30",
+                        "lectureLength": "00:01:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54G4kTQpMMf/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Oracle SQL Queries and Joins",
+                "assignmentId": "68f224b683492d3c7b6b5402",
+                "assignmentLink": "https://docs.google.com/document/d/1JBjHxwdYen5sGPwlFg_T3Atxr4BUSKy0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Oracle Subqueries",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Subqueries",
+                        "lectureId": "680c86ea364f718dc17b6c32",
+                        "lectureLength": "00:04:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8J6cRJCXHsZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Single Row Subqueries",
+                        "lectureId": "680c86ea364f718dc17b6c33",
+                        "lectureLength": "00:06:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XqUsJCFQhf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multiple Row Subqueries",
+                        "lectureId": "680c86ea364f718dc17b6c34",
+                        "lectureLength": "00:06:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6B7xCeFHqxd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multiple Column Subqueries",
+                        "lectureId": "680c86ea364f718dc17b6c35",
+                        "lectureLength": "00:06:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C49EpB6nRem/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Oracle Set Operators",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "SET Operators",
+                        "lectureId": "680c86ea364f718dc17b6c37",
+                        "lectureLength": "00:07:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bRnjppjbEG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UNION and UNION ALL Operators",
+                        "lectureId": "680c86ea364f718dc17b6c38",
+                        "lectureLength": "00:05:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ggRAUrMF4d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "INTERSECT Operator",
+                        "lectureId": "680c86ea364f718dc17b6c39",
+                        "lectureLength": "00:01:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sP7ja2hJSj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "MINUS Operator",
+                        "lectureId": "680c86ea364f718dc17b6c3a",
+                        "lectureLength": "00:03:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DhMseJRagJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Matching Unmatched Queries",
+                        "lectureId": "680c86ea364f718dc17b6c3b",
+                        "lectureLength": "00:04:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/thpkJ87ZgnJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ORDER BY with SET Operators",
+                        "lectureId": "680c86ea364f718dc17b6c3c",
+                        "lectureLength": "00:03:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h34tqMZhH8U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Combining Multiple Queries with SET Operators",
+                        "lectureId": "680c86ea364f718dc17b6c3d",
+                        "lectureLength": "00:03:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ycs79Zkpny/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Oracle DDL Commands",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Data Definition Language",
+                        "lectureId": "680c86ea364f718dc17b6c3f",
+                        "lectureLength": "00:01:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ED7kTzFR4a/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Database Object Naming Rules",
+                        "lectureId": "680c86ea364f718dc17b6c40",
+                        "lectureLength": "00:03:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pnGaDqbyKNZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CREATE TABLE Statement",
+                        "lectureId": "680c86ea364f718dc17b6c41",
+                        "lectureLength": "00:04:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cxEtf3FafR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ALTER TABLE Statement",
+                        "lectureId": "680c86ea364f718dc17b6c42",
+                        "lectureLength": "00:08:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CPCksMDPHK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DROP TABLE Command",
+                        "lectureId": "680c86ea364f718dc17b6c43",
+                        "lectureLength": "00:03:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FMmrchzrnC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "TRUNCATE TABLE Statement",
+                        "lectureId": "680c86ea364f718dc17b6c44",
+                        "lectureLength": "00:04:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KmYQjEXpMS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RENAME TABLE Statement",
+                        "lectureId": "680c86ea364f718dc17b6c45",
+                        "lectureLength": "00:04:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uB8RmrBsZK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Oracle DML Commands",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Data Manipulation Language",
+                        "lectureId": "680c86ea364f718dc17b6c47",
+                        "lectureLength": "00:01:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DJb3e876ZY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "INSERT Statement",
+                        "lectureId": "680c86ea364f718dc17b6c48",
+                        "lectureLength": "00:05:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6emzHrQzq6t/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "INSERT INTO SELECT Statement",
+                        "lectureId": "680c86ea364f718dc17b6c49",
+                        "lectureLength": "00:04:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4guTYShGagc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UPDATE Statement",
+                        "lectureId": "680c86ea364f718dc17b6c4a",
+                        "lectureLength": "00:06:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6ad5JGqpDB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DELETE Statement",
+                        "lectureId": "680c86ea364f718dc17b6c4b",
+                        "lectureLength": "00:04:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3A6JFstB2b4/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Oracle SQL Functions Subqueries DDL DML",
+                "assignmentId": "68f224b783492d3c7b6b5404",
+                "assignmentLink": "https://docs.google.com/document/d/1YINaFvsxhH6byaKuvX8POEkCOnQme-X6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Oracle Constraints",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Constraints",
+                        "lectureId": "680c86ea364f718dc17b6c4d",
+                        "lectureLength": "00:05:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6azXs29T58/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NOT NULL Constraint",
+                        "lectureId": "680c86ea364f718dc17b6c4e",
+                        "lectureLength": "00:02:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8x59jATJjtM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UNIQUE Constraint",
+                        "lectureId": "680c86ea364f718dc17b6c4f",
+                        "lectureLength": "00:04:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39PEQXgcbhz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Primary Key Constraint",
+                        "lectureId": "680c86ea364f718dc17b6c50",
+                        "lectureLength": "00:02:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S7JeqGA5Bf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Foreign Key Constraint",
+                        "lectureId": "680c86ea364f718dc17b6c51",
+                        "lectureLength": "00:03:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MDSZZEctC8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Check Constraint",
+                        "lectureId": "680c86ea364f718dc17b6c52",
+                        "lectureLength": "00:02:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b53PKYsGg8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Oracle PLSQL",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction",
+                        "lectureId": "680c86ea364f718dc17b6c54",
+                        "lectureLength": "00:07:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xhHQYhZqet/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Procedure",
+                        "lectureId": "680c86ea364f718dc17b6c55",
+                        "lectureLength": "00:11:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8meJapsa4Jm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Trigger",
+                        "lectureId": "680c86ea364f718dc17b6c56",
+                        "lectureLength": "00:06:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JmaCkmJSSE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Functions",
+                        "lectureId": "680c86ea364f718dc17b6c57",
+                        "lectureLength": "00:06:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XpAcCaQUGB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Storage and Querying",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Disk Management",
+                        "lectureId": "680c86ea364f718dc17b6c59",
+                        "lectureLength": "00:10:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8ZKefGnAzg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pages and Blocks",
+                        "lectureId": "680c86ea364f718dc17b6c5a",
+                        "lectureLength": "00:05:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fTt8N5TnHG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Time to Access a Page",
+                        "lectureId": "680c86ea364f718dc17b6c5b",
+                        "lectureLength": "00:04:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FPs4xKGQDH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Heap Files",
+                        "lectureId": "680c86ea364f718dc17b6c5c",
+                        "lectureLength": "00:09:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JNExRzKX2gT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Index and Index Structure",
+                        "lectureId": "680c86ea364f718dc17b6c5d",
+                        "lectureLength": "00:04:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sm7hNJSxR8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sorted Files",
+                        "lectureId": "680c86ea364f718dc17b6c5e",
+                        "lectureLength": "00:10:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYByaXUF63/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Storage Structure",
+                        "lectureId": "680c86ea364f718dc17b6c5f",
+                        "lectureLength": "00:05:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jnkzhPpqZB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Clustered Index",
+                        "lectureId": "680c86ea364f718dc17b6c60",
+                        "lectureLength": "00:03:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BetuetURzqt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Unclustered Index",
+                        "lectureId": "680c86ea364f718dc17b6c61",
+                        "lectureLength": "00:05:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68Ea9quQmmq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem on Cost of Range Search",
+                        "lectureId": "680c86ea364f718dc17b6c62",
+                        "lectureLength": "00:05:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KyqZgYJTep/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sparse Versus Dense Index",
+                        "lectureId": "680c86ea364f718dc17b6c63",
+                        "lectureLength": "00:06:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MYC3dMatFP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Two Level Index",
+                        "lectureId": "680c86ea364f718dc17b6c64",
+                        "lectureLength": "00:04:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DXPt7UJysS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multi Level Index",
+                        "lectureId": "680c86ea364f718dc17b6c65",
+                        "lectureLength": "00:04:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Qcf5JKq6s7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Query Processing",
+                        "lectureId": "680c86ea364f718dc17b6c66",
+                        "lectureLength": "00:16:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34rM9XczjPM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Query Optimization",
+                        "lectureId": "680c86ea364f718dc17b6c67",
+                        "lectureLength": "00:08:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXYbbJqB2fe/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Transaction Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Transactions",
+                        "lectureId": "680c86ea364f718dc17b6c69",
+                        "lectureLength": "00:09:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GbzqENXhUg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Concurrent Execution of Transactions",
+                        "lectureId": "680c86ea364f718dc17b6c6a",
+                        "lectureLength": "00:08:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jCCSsStGMr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inconsistency Problem",
+                        "lectureId": "680c86ea364f718dc17b6c6b",
+                        "lectureLength": "00:10:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KzYghbaZpYm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "States of a Transaction",
+                        "lectureId": "680c86ea364f718dc17b6c6c",
+                        "lectureLength": "00:10:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BgCaTE2nZC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ACID Properties",
+                        "lectureId": "680c86ea364f718dc17b6c6d",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58t5NRpF7bQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Schedules",
+                        "lectureId": "680c86ea364f718dc17b6c6e",
+                        "lectureLength": "00:05:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/427dMp8PxZR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lost Update Problem",
+                        "lectureId": "680c86ea364f718dc17b6c6f",
+                        "lectureLength": "00:09:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fak5CqyeNh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dirty Read Problem",
+                        "lectureId": "680c86ea364f718dc17b6c70",
+                        "lectureLength": "00:08:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bmsYjuMTtzU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Unrepeatable Read Problem",
+                        "lectureId": "680c86ea364f718dc17b6c71",
+                        "lectureLength": "00:06:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/528KmKd9UyN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Phantom Read Problem",
+                        "lectureId": "680c86ea364f718dc17b6c72",
+                        "lectureLength": "00:04:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xXpDtfQQzd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Recoverable and Non-Recoverable Schedule",
+                        "lectureId": "680c86ea364f718dc17b6c73",
+                        "lectureLength": "00:08:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6z5gdQYK3y9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cascadeless and Cascading Schedules",
+                        "lectureId": "680c86ea364f718dc17b6c74",
+                        "lectureLength": "00:15:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G8NpFp8S6z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Recoverable and Cascadeless Schedules",
+                        "lectureId": "680c86ea364f718dc17b6c75",
+                        "lectureLength": "00:06:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TP9r6gUHFq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Example Problem",
+                        "lectureId": "680c86ea364f718dc17b6c76",
+                        "lectureLength": "00:05:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GNJmC5czYE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Strict Schedule",
+                        "lectureId": "680c86ea364f718dc17b6c77",
+                        "lectureLength": "00:04:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Gjdf6zaM5h/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Recoverable, Cascadeless and Strict Schedules",
+                        "lectureId": "680c86ea364f718dc17b6c78",
+                        "lectureLength": "00:06:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64QdxgF9JD8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Important Point",
+                        "lectureId": "680c86ea364f718dc17b6c79",
+                        "lectureLength": "00:08:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSUZ3P9PKk4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Equivalence of Schedules",
+                        "lectureId": "680c86ea364f718dc17b6c7a",
+                        "lectureLength": "00:06:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jgmPaGeamQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conflicting Actions",
+                        "lectureId": "680c86ea364f718dc17b6c7b",
+                        "lectureLength": "00:10:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ek9Jj2b7SA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conflict Equivalence and Equivalence of Schedules",
+                        "lectureId": "680c86ea364f718dc17b6c7c",
+                        "lectureLength": "00:09:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73ReanUT6cY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conflict Serializability of a Schedule",
+                        "lectureId": "680c86ea364f718dc17b6c7d",
+                        "lectureLength": "00:14:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xs8zFPjg9r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Test for Conflict Serializability",
+                        "lectureId": "680c86ea364f718dc17b6c7e",
+                        "lectureLength": "00:19:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rCrZzur7P5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Number of Conflict Serializable Schedules",
+                        "lectureId": "680c86ea364f718dc17b6c7f",
+                        "lectureLength": "00:09:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Nd7KyPADft7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Example Problems",
+                        "lectureId": "680c86ea364f718dc17b6c80",
+                        "lectureLength": "00:11:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59JDHJxanMK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "View Equivalence and View Serializability",
+                        "lectureId": "680c86ea364f718dc17b6c81",
+                        "lectureLength": "00:08:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tQg57tJUQr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problems on View Serializability",
+                        "lectureId": "680c86ea364f718dc17b6c82",
+                        "lectureLength": "00:15:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78bkUEA7k7u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Additional Problems on View Serializability",
+                        "lectureId": "680c86ea364f718dc17b6c83",
+                        "lectureLength": "00:23:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AypAHdTJaCY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shared and Exclusive Locking Protocol",
+                        "lectureId": "680c86ea364f718dc17b6c84",
+                        "lectureLength": "00:14:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EYks25mYRY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Two Phase Locking",
+                        "lectureId": "680c86ea364f718dc17b6c85",
+                        "lectureLength": "00:09:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XAtDzG8hqX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Strict and Rigorous Phase Locking Protocols",
+                        "lectureId": "680c86ea364f718dc17b6c86",
+                        "lectureLength": "00:12:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5z7mYgnTBzj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Recovery Techniques",
+                        "lectureId": "680c86ea364f718dc17b6c87",
+                        "lectureLength": "00:09:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tssQCuEPNg/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "NoSQL Databases and Big Data Storage Systems",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to NoSQL Databases",
+                        "lectureId": "680c86ea364f718dc17b6c89",
+                        "lectureLength": "00:16:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RkRAAjsR2Y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of NoSQL Databases",
+                        "lectureId": "680c86ea364f718dc17b6c8a",
+                        "lectureLength": "00:09:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZJPjGnsdbc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "BASE Properties",
+                        "lectureId": "680c86ea364f718dc17b6c8b",
+                        "lectureLength": "00:02:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GRxuN7B7Y9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CAP Theorem",
+                        "lectureId": "680c86ea364f718dc17b6c8c",
+                        "lectureLength": "00:06:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tJh9g4mpZ8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Big Data",
+                        "lectureId": "680c86ea364f718dc17b6c8d",
+                        "lectureLength": "00:11:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bn3zr3N2kRU/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Data Warehousing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction",
+                        "lectureId": "680c86ea364f718dc17b6c8f",
+                        "lectureLength": "00:07:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6QAfQYXFrJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Components of Data Warehouse",
+                        "lectureId": "680c86ea364f718dc17b6c90",
+                        "lectureLength": "00:08:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9scTxTXCkFe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Warehouse Architecture",
+                        "lectureId": "680c86ea364f718dc17b6c91",
+                        "lectureLength": "00:06:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BahXaTtSEUs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Online Analytical Processing",
+                        "lectureId": "680c86ea364f718dc17b6c92",
+                        "lectureLength": "00:08:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35mC9P5DTsA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Online Transaction Processing",
+                        "lectureId": "680c86ea364f718dc17b6c93",
+                        "lectureLength": "00:13:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66hpHf4XJeH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OLAP Versus OLTP",
+                        "lectureId": "680c86ea364f718dc17b6c94",
+                        "lectureLength": "00:09:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zsCB9YE5ep/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "69d104df959c4775ed11d2a1",
+                "mentor": "Rahul",
+                "start": 21,
+                "end": 23.5,
+                "chatStart": 19,
+                "chatEnd": 22,
+                "time": "9:00 PM - 11:30 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db7",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

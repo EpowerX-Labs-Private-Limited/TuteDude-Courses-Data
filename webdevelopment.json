@@ -1,0 +1,1178 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680c86ea364f718dc17b651c",
+        "courseName": "Web Development with PHP/MySQL",
+        "slug": "webdevelopment",
+        "category": "technical",
+        "tpFolderId": "9D8a8mHZjnf",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "HTML",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to HTML",
+                        "lectureId": "680c86ea364f718dc17b651f",
+                        "lectureLength": "00:12:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tgHJmgtKqz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Head Tag in HTML",
+                        "lectureId": "680c86ea364f718dc17b6520",
+                        "lectureLength": "00:20:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eCTqnUdQgz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Formatters",
+                        "lectureId": "680c86ea364f718dc17b6521",
+                        "lectureLength": "00:22:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqgyxfKHrYJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fundamentals of Web Applications",
+                        "lectureId": "680c86ea364f718dc17b651e",
+                        "lectureLength": "00:22:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EMaXbgqa9d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Images in HTML",
+                        "lectureId": "680c86ea364f718dc17b6522",
+                        "lectureLength": "00:22:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4GPzP5NY9P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lists in HTML",
+                        "lectureId": "680c86ea364f718dc17b6523",
+                        "lectureLength": "00:21:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qUHxXfp4ad/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tables in HTML",
+                        "lectureId": "680c86ea364f718dc17b6524",
+                        "lectureLength": "00:24:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62c4SxNRb9D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Web Resume",
+                        "lectureId": "680c86ea364f718dc17b6525",
+                        "lectureLength": "00:25:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HampMXQCrpA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Links in HTML",
+                        "lectureId": "680c86ea364f718dc17b6526",
+                        "lectureLength": "00:24:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/edp8nZs4udz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Forms in HTML - 01",
+                        "lectureId": "680c86ea364f718dc17b6527",
+                        "lectureLength": "00:40:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SuYfMpeAAC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Forms 2.2",
+                        "lectureId": "680c86ea364f718dc17b6528",
+                        "lectureLength": "00:29:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4azdJHBDcKA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Semantic Tags in HTML",
+                        "lectureId": "680c86ea364f718dc17b6529",
+                        "lectureLength": "00:25:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mp7xgAbyHR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hosting the application",
+                        "lectureId": "680c86ea364f718dc17b652a",
+                        "lectureLength": "00:18:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FdGCKBKFrk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 1",
+                "assignmentId": "68f224de83492d3c7b6b544b",
+                "assignmentLink": "https://www.canva.com/design/DAG0tsNZwbs/HdWN0ouG-BmMSt9KgoT6Bg/edit?utm_content=DAG0tsNZwbs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "section",
+                "name": "CSS",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to CSS",
+                        "lectureId": "680c86ea364f718dc17b652c",
+                        "lectureLength": "00:25:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q4eNXmqmYk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CSS Selectors",
+                        "lectureId": "680c86ea364f718dc17b652d",
+                        "lectureLength": "00:41:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UM4HyyqTaj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Colors in CSS",
+                        "lectureId": "680c86ea364f718dc17b652e",
+                        "lectureLength": "00:26:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pGmbpXGhGnQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Units in CSS",
+                        "lectureId": "680c86ea364f718dc17b652f",
+                        "lectureLength": "00:31:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54hEHd4AxkE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Box Model in CSS",
+                        "lectureId": "680c86ea364f718dc17b6530",
+                        "lectureLength": "00:23:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FTDN85j5tg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Texts and Fonts in CSS",
+                        "lectureId": "680c86ea364f718dc17b6531",
+                        "lectureLength": "00:38:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gnbppYTgXZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Display in CSS",
+                        "lectureId": "680c86ea364f718dc17b6532",
+                        "lectureLength": "00:28:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xKn2uCnYT5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Positions in CSS",
+                        "lectureId": "680c86ea364f718dc17b6533",
+                        "lectureLength": "00:24:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7KYkhu8tRa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Overflow, Float and Clear in CSS",
+                        "lectureId": "680c86ea364f718dc17b6534",
+                        "lectureLength": "00:22:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SUnNRfRXtJF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "FlexBox in CSS",
+                        "lectureId": "680c86ea364f718dc17b6535",
+                        "lectureLength": "00:40:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GkX7JFxyaD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grid in CSS",
+                        "lectureId": "680c86ea364f718dc17b6536",
+                        "lectureLength": "00:37:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpqfKhtQmPU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grid Portfolio in CSS",
+                        "lectureId": "680c86ea364f718dc17b6537",
+                        "lectureLength": "00:28:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8behFqCy8qA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Media Queries in CSS",
+                        "lectureId": "680c86ea364f718dc17b6538",
+                        "lectureLength": "00:26:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeFy9cuxSY5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CSS Variables",
+                        "lectureId": "680c86ea364f718dc17b6539",
+                        "lectureLength": "00:29:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PTt9FaF8Qc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transform in CSS",
+                        "lectureId": "680c86ea364f718dc17b653a",
+                        "lectureLength": "00:25:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h2N8JDAKPt7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tranistion in CSS",
+                        "lectureId": "680c86ea364f718dc17b653b",
+                        "lectureLength": "00:30:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgDayzbBr6H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keyframe Animations",
+                        "lectureId": "680c86ea364f718dc17b653c",
+                        "lectureLength": "00:38:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5exz3Zbj9jH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 2",
+                "assignmentId": "68f224df83492d3c7b6b544d",
+                "assignmentLink": "https://www.canva.com/design/DAG0tkiVXUk/r-PtZSjPlQfClwIk6e8c8g/edit?utm_content=DAG0tkiVXUk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "section",
+                "name": "JavaScript-I",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Inline javascript",
+                        "lectureId": "680c86ea364f718dc17b653e",
+                        "lectureLength": "00:05:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bHbtGqPKn3c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Internal javascript",
+                        "lectureId": "680c86ea364f718dc17b653f",
+                        "lectureLength": "00:05:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/puHCYsB4kYD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Accessing elements",
+                        "lectureId": "680c86ea364f718dc17b6540",
+                        "lectureLength": "00:07:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ynZ7TY3kZm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Onclick event",
+                        "lectureId": "680c86ea364f718dc17b6541",
+                        "lectureLength": "00:07:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGJdTUDyKQu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Changing Website content",
+                        "lectureId": "680c86ea364f718dc17b6542",
+                        "lectureLength": "00:11:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GdxaUTcfTr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Manupulating styles with javascript",
+                        "lectureId": "680c86ea364f718dc17b6543",
+                        "lectureLength": "00:04:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4j34EQy6znG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Disappearing circles",
+                        "lectureId": "680c86ea364f718dc17b6544",
+                        "lectureLength": "00:07:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tUD8GNb57s/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Variables",
+                        "lectureId": "680c86ea364f718dc17b6545",
+                        "lectureLength": "00:11:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HQymAp7kFS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Array",
+                        "lectureId": "680c86ea364f718dc17b6546",
+                        "lectureLength": "00:07:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6n9DXmPQ93p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "If statement",
+                        "lectureId": "680c86ea364f718dc17b6547",
+                        "lectureLength": "00:06:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DKk7ZQH2KR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Random number guessing game",
+                        "lectureId": "680c86ea364f718dc17b6548",
+                        "lectureLength": "00:11:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93UNf5AqzRH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "For loop",
+                        "lectureId": "680c86ea364f718dc17b6549",
+                        "lectureLength": "00:12:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kkXJadttgE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "While loop",
+                        "lectureId": "680c86ea364f718dc17b654a",
+                        "lectureLength": "00:05:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FRY9SsyfjC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PROJECT-Reaction tester project",
+                        "lectureId": "680c86ea364f718dc17b654b",
+                        "lectureLength": "00:22:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s6xzxGKb87/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "External javascript",
+                        "lectureId": "680c86ea364f718dc17b654c",
+                        "lectureLength": "00:03:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RRBd7qrNsR/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "JavaScript-II",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "DOM intro",
+                        "lectureId": "680c86ea364f718dc17b654e",
+                        "lectureLength": "00:15:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HfgqfxtqRu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Naming conventions",
+                        "lectureId": "680c86ea364f718dc17b654f",
+                        "lectureLength": "00:05:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EUmHb2uBjg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "String concat",
+                        "lectureId": "680c86ea364f718dc17b6550",
+                        "lectureLength": "00:03:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ArhYxDQNhx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Length property in strings",
+                        "lectureId": "680c86ea364f718dc17b6551",
+                        "lectureLength": "00:04:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuU7RHRng7X/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Slicing",
+                        "lectureId": "680c86ea364f718dc17b6552",
+                        "lectureLength": "00:04:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9F5bG5pRh97/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Changing Case of string",
+                        "lectureId": "680c86ea364f718dc17b6553",
+                        "lectureLength": "00:02:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97tFGCaHNuS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Operators in js",
+                        "lectureId": "680c86ea364f718dc17b6554",
+                        "lectureLength": "00:40:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jFpkUH6D4M/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Functions",
+                        "lectureId": "680c86ea364f718dc17b6555",
+                        "lectureLength": "00:06:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uFRjzCbf4U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Objects",
+                        "lectureId": "680c86ea364f718dc17b6556",
+                        "lectureLength": "00:05:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/332x6gQJypP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to add event listener in js",
+                        "lectureId": "680c86ea364f718dc17b6557",
+                        "lectureLength": "00:08:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aub8rPDmz4/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 3",
+                "assignmentId": "68f224e183492d3c7b6b544f",
+                "assignmentLink": "https://www.canva.com/design/DAGtbr6eZWQ/SpYOfT6fAV8sGn_jzo9jLQ/edit"
+            },
+            {
+                "type": "section",
+                "name": "jQuery",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is jQuery",
+                        "lectureId": "680c86ea364f718dc17b6559",
+                        "lectureLength": "00:02:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gsYQ8DxKKb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Including jQuery on our webpage",
+                        "lectureId": "680c86ea364f718dc17b655a",
+                        "lectureLength": "00:07:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXhCN3JrFT5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Detecting a click",
+                        "lectureId": "680c86ea364f718dc17b655b",
+                        "lectureLength": "00:10:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8hjQk2ufCh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Changing website content using jQuery",
+                        "lectureId": "680c86ea364f718dc17b655c",
+                        "lectureLength": "00:08:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DEd3yCRTzY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Changing website styles",
+                        "lectureId": "680c86ea364f718dc17b655d",
+                        "lectureLength": "00:10:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fkQjZQ6K2N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fading content",
+                        "lectureId": "680c86ea364f718dc17b655e",
+                        "lectureLength": "00:11:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PTBBtHz9k2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Regular expression",
+                        "lectureId": "680c86ea364f718dc17b655f",
+                        "lectureLength": "00:06:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jrY7qT62Ny/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PROJECT-Form Validation",
+                        "lectureId": "680c86ea364f718dc17b6560",
+                        "lectureLength": "00:40:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HKPB6Z59hz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Droppable",
+                        "lectureId": "680c86ea364f718dc17b6561",
+                        "lectureLength": "00:11:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUAYbdJ4kZG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Jqui widget",
+                        "lectureId": "680c86ea364f718dc17b6562",
+                        "lectureLength": "00:06:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fYt5JYm546/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 4",
+                "assignmentId": "68f224e283492d3c7b6b5451",
+                "assignmentLink": "https://www.canva.com/design/DAGzaeKdkvM/Kfuzs-j0SkDH0zhkUvNEpg/edit?utm_content=DAGzaeKdkvM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "section",
+                "name": "Bootstrap",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Bootstrap",
+                        "lectureId": "680c86ea364f718dc17b6564",
+                        "lectureLength": "00:03:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PRsXdankAR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Your first bootstrap site",
+                        "lectureId": "680c86ea364f718dc17b6565",
+                        "lectureLength": "00:04:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqsUtEDC7RU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grid",
+                        "lectureId": "680c86ea364f718dc17b6566",
+                        "lectureLength": "00:12:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UACbQcNRey/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bootstrap components",
+                        "lectureId": "680c86ea364f718dc17b6567",
+                        "lectureLength": "00:05:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bC5xmfUEnk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tables and Form",
+                        "lectureId": "680c86ea364f718dc17b6568",
+                        "lectureLength": "00:14:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JDcYRftM5d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modals,popover and tooltips",
+                        "lectureId": "680c86ea364f718dc17b6569",
+                        "lectureLength": "00:18:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PbDRGhfjhT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scrollspy",
+                        "lectureId": "680c86ea364f718dc17b656a",
+                        "lectureLength": "00:09:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4H47rbFrBsd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PROJECT-App landing project",
+                        "lectureId": "680c86ea364f718dc17b656b",
+                        "lectureLength": "00:28:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9b2ch8b7K8T/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Themes in bootstrap",
+                        "lectureId": "680c86ea364f718dc17b656c",
+                        "lectureLength": "00:04:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8K9ctFHfa2s/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Card in bootstrap",
+                        "lectureId": "680c86ea364f718dc17b656d",
+                        "lectureLength": "00:08:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYEnAjSGNqd/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 5",
+                "assignmentId": "68f224e383492d3c7b6b5453",
+                "assignmentLink": "https://www.canva.com/design/DAGzaUmY120/aOKvZ0PxqDIDLRo2UEYN9Q/edit?utm_content=DAGzaUmY120&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "section",
+                "name": "The Killer Website(Frontend project)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Setting up the folder structure",
+                        "lectureId": "680c86ea364f718dc17b656f",
+                        "lectureLength": "00:20:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gjYez2mU8c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Responsive grid system",
+                        "lectureId": "680c86ea364f718dc17b6570",
+                        "lectureLength": "00:06:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BperaaHGTBe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Header section Part-1",
+                        "lectureId": "680c86ea364f718dc17b6571",
+                        "lectureLength": "00:12:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdUnzbU5u39/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Header section Part-2",
+                        "lectureId": "680c86ea364f718dc17b6572",
+                        "lectureLength": "00:18:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gtH8P93dSC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Header section Part-3",
+                        "lectureId": "680c86ea364f718dc17b6573",
+                        "lectureLength": "00:14:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tGYpm4H23C/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Feature section Part-1",
+                        "lectureId": "680c86ea364f718dc17b6574",
+                        "lectureLength": "00:11:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5a88hXRauE5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Feature section Part-2",
+                        "lectureId": "680c86ea364f718dc17b6575",
+                        "lectureLength": "00:11:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5p9ta99ktTF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Favorite meal section Part-1",
+                        "lectureId": "680c86ea364f718dc17b6576",
+                        "lectureLength": "00:10:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99nEMT26FF2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Favorite meal section Part-2",
+                        "lectureId": "680c86ea364f718dc17b6577",
+                        "lectureLength": "00:09:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56zubAnSj87/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating how it works section Part-1",
+                        "lectureId": "680c86ea364f718dc17b6578",
+                        "lectureLength": "00:10:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcgAUzE2xdQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating how it works section Part-2",
+                        "lectureId": "680c86ea364f718dc17b6579",
+                        "lectureLength": "00:16:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78jrQ6rbQH9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the city section Part-1",
+                        "lectureId": "680c86ea364f718dc17b657a",
+                        "lectureLength": "00:13:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BysXCBqdkC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the city section Part-2",
+                        "lectureId": "680c86ea364f718dc17b657b",
+                        "lectureLength": "00:12:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JqNBMpxQJ4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Customer testimonial section Part-1",
+                        "lectureId": "680c86ea364f718dc17b657c",
+                        "lectureLength": "00:06:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fz7Tp5EYKJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Customer testimonial section Part-2",
+                        "lectureId": "680c86ea364f718dc17b657d",
+                        "lectureLength": "00:10:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQJQ2Hn3hQY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Sign up section Part-1",
+                        "lectureId": "680c86ea364f718dc17b657e",
+                        "lectureLength": "00:11:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tEJTdnEYbY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Sign up section Part-2",
+                        "lectureId": "680c86ea364f718dc17b657f",
+                        "lectureLength": "00:12:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEcKYSxFCab/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the contact form section Part-1",
+                        "lectureId": "680c86ea364f718dc17b6580",
+                        "lectureLength": "00:14:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xxx23HxACJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the contact form section Part-2",
+                        "lectureId": "680c86ea364f718dc17b6581",
+                        "lectureLength": "00:07:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMBDTyM698j/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the footer section Part-1",
+                        "lectureId": "680c86ea364f718dc17b6582",
+                        "lectureLength": "00:06:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5r6xCgXqMGt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the footer section Part-2",
+                        "lectureId": "680c86ea364f718dc17b6583",
+                        "lectureLength": "00:14:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RqRdahfjAd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Making webpage responsive Part-1",
+                        "lectureId": "680c86ea364f718dc17b6584",
+                        "lectureLength": "00:17:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69eU6tg8Afe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Making webpage responsive Part-2",
+                        "lectureId": "680c86ea364f718dc17b6585",
+                        "lectureLength": "00:18:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/peqmymtkb4a/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Including jquery",
+                        "lectureId": "680c86ea364f718dc17b6586",
+                        "lectureLength": "00:03:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6f3h5CFg22U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scrolling effect",
+                        "lectureId": "680c86ea364f718dc17b6587",
+                        "lectureLength": "00:07:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NaJ9ZB2y2u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding animations",
+                        "lectureId": "680c86ea364f718dc17b6588",
+                        "lectureLength": "00:12:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A39NtHqQcdZ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Website Hosting",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is hosting",
+                        "lectureId": "680c86ea364f718dc17b658a",
+                        "lectureLength": "00:04:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gU2bPnSsFA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hosting your website",
+                        "lectureId": "680c86ea364f718dc17b658b",
+                        "lectureLength": "00:07:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S2dAFjHkAr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Wordpress",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Wordpress",
+                        "lectureId": "680c86ea364f718dc17b658d",
+                        "lectureLength": "00:06:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QsTsB26AsB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The wordpress dashboard",
+                        "lectureId": "680c86ea364f718dc17b658e",
+                        "lectureLength": "00:15:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcxCqYUBjGE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Wordpress themes",
+                        "lectureId": "680c86ea364f718dc17b658f",
+                        "lectureLength": "00:12:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tCCEZmAnjq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PROJECT-Creating a Ecommerce website",
+                        "lectureId": "680c86ea364f718dc17b6590",
+                        "lectureLength": "00:23:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yEpDeq4Yyj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "PHP",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is PHP",
+                        "lectureId": "680c86ea364f718dc17b6592",
+                        "lectureLength": "00:05:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AQBJFPYf26/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hello world in PHP",
+                        "lectureId": "680c86ea364f718dc17b6593",
+                        "lectureLength": "00:06:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94ubUggnzxq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Variables in PHP",
+                        "lectureId": "680c86ea364f718dc17b6594",
+                        "lectureLength": "00:06:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XspYtbdBU4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Arrays in PHP",
+                        "lectureId": "680c86ea364f718dc17b6595",
+                        "lectureLength": "01:40:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55REmasqaJ2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conditional statements in PHP",
+                        "lectureId": "680c86ea364f718dc17b6596",
+                        "lectureLength": "00:08:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GXa5npfRD7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "For loop",
+                        "lectureId": "680c86ea364f718dc17b6597",
+                        "lectureLength": "00:12:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgDkhBejF57/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "While loop",
+                        "lectureId": "680c86ea364f718dc17b6598",
+                        "lectureLength": "00:05:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByzgrDyTfgM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Get variables",
+                        "lectureId": "680c86ea364f718dc17b6599",
+                        "lectureLength": "02:19:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36RC4HDee3c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Post variables",
+                        "lectureId": "680c86ea364f718dc17b659a",
+                        "lectureLength": "00:10:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73RK9en8sZM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sending mail with PHP",
+                        "lectureId": "680c86ea364f718dc17b659b",
+                        "lectureLength": "00:06:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xU8ZdHjCJB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PROJECT-Contact Form",
+                        "lectureId": "680c86ea364f718dc17b659c",
+                        "lectureLength": "00:35:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8njfXjjHJH7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Getting content of other scripts",
+                        "lectureId": "680c86ea364f718dc17b659d",
+                        "lectureLength": "00:04:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhHChgH4us7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "MySQL",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to MySQL",
+                        "lectureId": "680c86ea364f718dc17b659f",
+                        "lectureLength": "00:08:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeeCPZGstdj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connecting with MySQL",
+                        "lectureId": "680c86ea364f718dc17b65a0",
+                        "lectureLength": "00:06:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6axPBttchFr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Insert and Update record",
+                        "lectureId": "680c86ea364f718dc17b65a1",
+                        "lectureLength": "00:12:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhnEzA32fBu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Retriving data from database",
+                        "lectureId": "680c86ea364f718dc17b65a2",
+                        "lectureLength": "00:04:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QfZ4EfPPjj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sign up form",
+                        "lectureId": "680c86ea364f718dc17b65a3",
+                        "lectureLength": "00:28:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NMkj6YTYb48/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Session Variables",
+                        "lectureId": "680c86ea364f718dc17b65a4",
+                        "lectureLength": "00:09:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gKBXtqJaYY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cookies",
+                        "lectureId": "680c86ea364f718dc17b65a5",
+                        "lectureLength": "00:04:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaZxnyqZnTH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Storing password securely",
+                        "lectureId": "680c86ea364f718dc17b65a6",
+                        "lectureLength": "00:07:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC9FMKaHpca/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "API",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "API",
+                        "lectureId": "680c86ea364f718dc17b65a8",
+                        "lectureLength": "00:27:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BESetJs89tZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Authentication and JSON",
+                        "lectureId": "680c86ea364f718dc17b65a9",
+                        "lectureLength": "00:04:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NZ55FjmN66/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using- open weather map API",
+                        "lectureId": "680c86ea364f718dc17b65aa",
+                        "lectureLength": "00:15:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/syA9r3Dhc7T/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Git and Github",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Git",
+                        "lectureId": "680c86ea364f718dc17b65ac",
+                        "lectureLength": "00:27:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a8JCezbG8R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Version control using git",
+                        "lectureId": "680c86ea364f718dc17b65ad",
+                        "lectureLength": "00:14:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARsuzKhPZX2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Github and remote repositories",
+                        "lectureId": "680c86ea364f718dc17b65ae",
+                        "lectureLength": "00:08:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/836gUnfhJq3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Clonning",
+                        "lectureId": "680c86ea364f718dc17b65af",
+                        "lectureLength": "00:03:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Q6UKHBAHn5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Forking and pulling request",
+                        "lectureId": "680c86ea364f718dc17b65b0",
+                        "lectureLength": "00:09:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YG5hnGC6y8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Mobile apps",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to app js",
+                        "lectureId": "680c86ea364f718dc17b65b2",
+                        "lectureLength": "00:02:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RZ4Cufh2jQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "First webapp using App.js",
+                        "lectureId": "680c86ea364f718dc17b65b3",
+                        "lectureLength": "00:21:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/438sFjtj4XZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Storing data using LocalStorage",
+                        "lectureId": "680c86ea364f718dc17b65b4",
+                        "lectureLength": "00:06:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMRZJc59Dmb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PROJECT-Color changing web app",
+                        "lectureId": "680c86ea364f718dc17b65b5",
+                        "lectureLength": "00:25:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xzGhpyrTyy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Accessing your app using PHONEGAP",
+                        "lectureId": "680c86ea364f718dc17b65b6",
+                        "lectureLength": "00:04:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xjTXXsngyb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Python",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Why python",
+                        "lectureId": "680c86ea364f718dc17b65b8",
+                        "lectureLength": "00:03:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64SmKMsHeZm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hello world in python",
+                        "lectureId": "680c86ea364f718dc17b65b9",
+                        "lectureLength": "00:03:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qKhMnT6nFE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Variables and Array",
+                        "lectureId": "680c86ea364f718dc17b65ba",
+                        "lectureLength": "00:15:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RKPxK885xM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conditional statements",
+                        "lectureId": "680c86ea364f718dc17b65bb",
+                        "lectureLength": "00:05:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dazxgaYK5g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Loops",
+                        "lectureId": "680c86ea364f718dc17b65bc",
+                        "lectureLength": "00:10:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5anhssDJ7dp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Functions in python",
+                        "lectureId": "680c86ea364f718dc17b65bd",
+                        "lectureLength": "00:09:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BdBkYjCkDEd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PROJECT-Rock Paper Scissors",
+                        "lectureId": "680c86ea364f718dc17b65be",
+                        "lectureLength": "00:19:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SbcBRcgtmp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Final project",
+                "assignmentId": "68f224e483492d3c7b6b5455",
+                "assignmentLink": "https://docs.google.com/document/d/1nS-og-Hzgj61RpC9EwmTBNb0nRkMtYR6/edit?usp=sharing&ouid=104032267420242941965&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": null,
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

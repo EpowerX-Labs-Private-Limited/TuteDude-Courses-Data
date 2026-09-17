@@ -1,0 +1,261 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "68b54dbbaa7b36a50095dd56",
+        "courseName": "HR Management",
+        "slug": "hrmanagement",
+        "category": "Technical",
+        "tpFolderId": "9tKGfxCUzXN",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Introduction & Basics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to HRMS course",
+                        "lectureId": "68b54dbbaa7b36a50095dd58",
+                        "lectureLength": "00:31:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ezcgadQ6bch/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to HRM & Key",
+                        "lectureId": "68b54dbbaa7b36a50095dd59",
+                        "lectureLength": "00:19:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sU2mHAB9MNK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction and Evolution of HRM functions",
+                        "lectureId": "68b54dbbaa7b36a50095dd5a",
+                        "lectureLength": "00:25:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gnSknYq7jJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scope of HRM functions",
+                        "lectureId": "68b54dbbaa7b36a50095dd5b",
+                        "lectureLength": "00:14:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6ujTFdDC69/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Core HR Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Recruitment HRM function",
+                        "lectureId": "68b54dbbaa7b36a50095dd5d",
+                        "lectureLength": "00:30:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jGGTzpy53Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Onboarding process_HRM function_Final",
+                        "lectureId": "68b54dbbaa7b36a50095dd5e",
+                        "lectureLength": "00:48:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xhzpBsBg4E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Termination process",
+                        "lectureId": "68b54dbbaa7b36a50095dd5f",
+                        "lectureLength": "00:42:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mxESGgxNHUM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Offboarding process",
+                        "lectureId": "68b54dbbaa7b36a50095dd60",
+                        "lectureLength": "00:27:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgmMeYdAA4A/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Employee Management & Relations",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Employee Relations of HRM",
+                        "lectureId": "68b54dbbaa7b36a50095dd62",
+                        "lectureLength": "00:33:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bbkgkGnB8Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Employee Grievance handling",
+                        "lectureId": "68b54dbbaa7b36a50095dd63",
+                        "lectureLength": "00:29:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7s5udyp4hQ3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conflict Resolution",
+                        "lectureId": "68b54dbbaa7b36a50095dd64",
+                        "lectureLength": "00:54:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r3777kXNXAm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Background Verification of HRM function",
+                        "lectureId": "68b54dbbaa7b36a50095dd65",
+                        "lectureLength": "00:18:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5R52tjaDtkA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Compensation & Benefits",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Compensation and Benefits",
+                        "lectureId": "68b54dbbaa7b36a50095dd67",
+                        "lectureLength": "00:45:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Yujebkq7dX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rewards and Recognition",
+                        "lectureId": "68b54dbbaa7b36a50095dd68",
+                        "lectureLength": "00:25:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4uzJ3PC2NJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Salary Structure & Income Tax laws",
+                        "lectureId": "68b54dbbaa7b36a50095dd69",
+                        "lectureLength": "01:04:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62aXfyz5TrC/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Learning & Growth",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Learning and Development",
+                        "lectureId": "68b54dbbaa7b36a50095dd6b",
+                        "lectureLength": "00:35:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3k3Y3fF7puP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Retention process",
+                        "lectureId": "68b54dbbaa7b36a50095dd6c",
+                        "lectureLength": "00:26:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XbYZDMRy8d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Organisational Development",
+                        "lectureId": "68b54dbbaa7b36a50095dd6d",
+                        "lectureLength": "00:47:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKe3FdCeKp6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Analytics, Compliance & Documents",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "HR Analytics & Metrics",
+                        "lectureId": "68b54dbbaa7b36a50095dd6f",
+                        "lectureLength": "00:46:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmANYkJJfdn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Important HR documents",
+                        "lectureId": "68b54dbbaa7b36a50095dd70",
+                        "lectureLength": "00:32:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45fHQ7bSKEF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Organisational Compliance",
+                        "lectureId": "68b54dbbaa7b36a50095dd71",
+                        "lectureLength": "00:39:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HxTMMHbrPp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Employee Engagement & Workforce Planning",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "EmployeeEngagement",
+                        "lectureId": "68b54dbbaa7b36a50095dd73",
+                        "lectureLength": "00:51:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7z5pmGdctzN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "WorkforcePlanning",
+                        "lectureId": "68b54dbbaa7b36a50095dd74",
+                        "lectureLength": "00:21:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hBMJ5yQusA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Labour Laws & Change Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Indian Labour Laws",
+                        "lectureId": "68b54dbbaa7b36a50095dd76",
+                        "lectureLength": "01:03:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GTZ6gtpCXY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Change Managment",
+                        "lectureId": "68b54dbbaa7b36a50095dd77",
+                        "lectureLength": "00:45:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UUDh5fAS5hX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Change Management Modles",
+                        "lectureId": "68b54dbbaa7b36a50095dd78",
+                        "lectureLength": "01:18:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C93gPXGg5TT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Final Assignment",
+                "assignmentId": "6948eaa3211399259c653c80",
+                "assignmentLink": "https://docs.google.com/document/d/1ApVEm-U23Ggx9LavzQhxUvtnqoSJciCnRz8M7ztHYE4/edit?usp=sharing"
+            }
+        ],
+        "liveMentorship": null,
+        "resource": [
+            "https://drive.google.com/drive/folders/1O7neHzfyIfy-KP07jwjJOl09ACCvkOJr"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

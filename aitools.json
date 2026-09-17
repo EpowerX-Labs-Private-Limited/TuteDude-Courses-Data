@@ -1,0 +1,1535 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6a085cf38668a9279c144e02",
+        "courseName": "AI Tools",
+        "slug": "aitools",
+        "category": "AI & ML",
+        "tpFolderId": "6YZm8JXUrxz",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6aa2d5e00770b38aada30c2a",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "AI tools course",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Master Generative AI Course Introduction",
+                        "lectureId": "6a085cf38668a9279c144e04",
+                        "lectureLength": "00:09:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NgZ94MYSs9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Getting Started with ChatGPT",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "ChatGPT Interface Walkthrough and Pricing",
+                        "lectureId": "6a085cf38668a9279c144e06",
+                        "lectureLength": "00:15:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmupDghekn7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Personalize ChatGPT",
+                        "lectureId": "6a085cf38668a9279c144e07",
+                        "lectureLength": "00:19:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75u4nNnGhkq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Foundation for Effective Prompting",
+                        "lectureId": "6a085cf38668a9279c144e08",
+                        "lectureLength": "00:11:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5e9MJpyUcsx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Anatomy of a Great Prompt",
+                        "lectureId": "6a085cf38668a9279c144e09",
+                        "lectureLength": "00:07:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMKb2mUEBuz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Key Concepts to Creatively Craft Your Prompt",
+                        "lectureId": "6a085cf38668a9279c144e0a",
+                        "lectureLength": "00:12:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uEJxYmMNpg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Prompting Frameworks and When to Use Them",
+                        "lectureId": "6a085cf38668a9279c144e0b",
+                        "lectureLength": "00:32:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65MSQqd4gNZ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Personalize your ChatGPT",
+                "assignmentId": "6a16e2108668a9279c14b736",
+                "assignmentLink": "https://docs.google.com/document/d/1-mzCGEz3Q9rpjXgf24-19hl4AKpqYLd1wmf3mjdK1l0/edit?usp=drive_link"
+            },
+            {
+                "type": "assignment",
+                "name": "Generate a Modular Prompt",
+                "assignmentId": "6a16e2198668a9279c14b73b",
+                "assignmentLink": "https://docs.google.com/document/d/1jSGkxpb0hvtJ26ZrZgvRth326OdyzBFOlKLlOy2_2k0/edit?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "ChatGPT in Action",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Life-Changing Ways to Use ChatGPT",
+                        "lectureId": "6a085cf38668a9279c144e0d",
+                        "lectureLength": "00:32:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/abhMY6EfpcZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Custom GPTs",
+                        "lectureId": "6a085cf38668a9279c144e0e",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36kmFgm6gFp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "5 Practical Custom GPTs Use Cases",
+                        "lectureId": "6a085cf38668a9279c144e0f",
+                        "lectureLength": "00:16:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAdEPEUrDBQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ChatGPT's Features",
+                        "lectureId": "6a085cf38668a9279c144e10",
+                        "lectureLength": "00:19:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/864EX5HUCq2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ChatGPT Image Generation and Image Generation Models",
+                        "lectureId": "6a085cf38668a9279c144e11",
+                        "lectureLength": "00:26:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Suua3MmjNH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Our Own CustomGPT",
+                        "lectureId": "6a085cf38668a9279c144e12",
+                        "lectureLength": "00:11:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Jrgn5z8k4r/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Try Different Type of Prompting Styles",
+                "assignmentId": "6a16e3cf8668a9279c14b747",
+                "assignmentLink": "https://docs.google.com/document/d/1rLae7-aAZ8BaTMQDSwNeWIYxW-KGSZgVF4vMZejPl5s/edit?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Prompt Engineering",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "ChatGPT Formula and Modifiers",
+                        "lectureId": "6a085cf38668a9279c144e14",
+                        "lectureLength": "00:14:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EMn9HYk4jr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Prompt Priming",
+                        "lectureId": "6a085cf38668a9279c144e15",
+                        "lectureLength": "00:09:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CT2auEPhFc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Brainstorming New Ideas and Copy Generation",
+                        "lectureId": "6a085cf38668a9279c144e16",
+                        "lectureLength": "00:06:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sBANnJyNr7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customer Support Email and Analogies",
+                        "lectureId": "6a085cf38668a9279c144e17",
+                        "lectureLength": "00:06:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jAGdet2pDa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Chain of Thought Reasoning",
+                        "lectureId": "6a085cf38668a9279c144e18",
+                        "lectureLength": "00:05:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u7qCRtaUSu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tabular Format Prompting",
+                        "lectureId": "6a085cf38668a9279c144e19",
+                        "lectureLength": "00:05:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YNEzh7kAJEu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Zero Shot, One Shot & Few Shot Prompting",
+                        "lectureId": "6a085cf38668a9279c144e1a",
+                        "lectureLength": "00:02:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Q85UsGYZnZ8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ask Before Answer Prompting",
+                        "lectureId": "6a085cf38668a9279c144e1b",
+                        "lectureLength": "00:05:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UB9mprhfd6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fill In The Blank Prompting",
+                        "lectureId": "6a085cf38668a9279c144e1c",
+                        "lectureLength": "00:04:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYcCBxBXj3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Perspective Prompting",
+                        "lectureId": "6a085cf38668a9279c144e1d",
+                        "lectureLength": "00:08:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6H4jf5JSmuG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Constructive Critique Prompting",
+                        "lectureId": "6a085cf38668a9279c144e1e",
+                        "lectureLength": "00:06:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YyxeTme4amP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comparative Prompting",
+                        "lectureId": "6a085cf38668a9279c144e1f",
+                        "lectureLength": "00:06:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4kfTAG5K2s/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RGC Prompting",
+                        "lectureId": "6a085cf38668a9279c144e20",
+                        "lectureLength": "00:05:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37XdguHUFUT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "I Want You To Act As Prompting",
+                        "lectureId": "6a085cf38668a9279c144e21",
+                        "lectureLength": "00:06:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsbA4xU2HDq/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "ChatGPT: Enhancements and Advanced Features",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Custom Instructions Hotkeys",
+                        "lectureId": "6a085cf38668a9279c144e23",
+                        "lectureLength": "00:08:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ErKdxmZ6Uq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ChatGPT Computer Vision",
+                        "lectureId": "6a085cf38668a9279c144e24",
+                        "lectureLength": "00:06:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuzKzAUM9C6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Analyze Graphs and Sentiments",
+                        "lectureId": "6a085cf38668a9279c144e25",
+                        "lectureLength": "00:10:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2RkmZ4Tre8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ChatGPT Expanded Knowledge Base",
+                        "lectureId": "6a085cf38668a9279c144e26",
+                        "lectureLength": "00:07:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pKeumXxZHS6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ChatGPT Canvas",
+                        "lectureId": "6a085cf38668a9279c144e27",
+                        "lectureLength": "00:08:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ytn4MbgeA4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shared and Temporary Chats",
+                        "lectureId": "6a085cf38668a9279c144e28",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72YygUb3h42/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ChatGPT Desktop App",
+                        "lectureId": "6a085cf38668a9279c144e29",
+                        "lectureLength": "00:09:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PF53qPjh4E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ChatGPT Voice Mode and Mobile App",
+                        "lectureId": "6a085cf38668a9279c144e2a",
+                        "lectureLength": "00:34:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cGAee3P4XM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Codex and ChatGPT Agent Mode",
+                        "lectureId": "6a085cf38668a9279c144e2b",
+                        "lectureLength": "00:09:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ykHuhBZTMP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Use ChatGPTs Computer Vision and Analyze Graphs",
+                "assignmentId": "6a16e56e8668a9279c14b74c",
+                "assignmentLink": "https://docs.google.com/document/d/1PPw5PSJmHtaSY8dOD9KXZuW7G4zGwSJvkQneZV-ofb0/edit?usp=drive_link"
+            },
+            {
+                "type": "assignment",
+                "name": "Use ChatGPT for Translation",
+                "assignmentId": "6a16e5798668a9279c14b751",
+                "assignmentLink": "https://docs.google.com/document/d/1-HaPRAILl9zS1UdkOwCoPLFLQYWjFXirH1xYPQCfIFk/edit?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "ChatGPT Quickskills: Simplify Information, Proofread and Organize Data",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Summarzing Dense Text",
+                        "lectureId": "6a085cf38668a9279c144e2d",
+                        "lectureLength": "00:12:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mS29849xAe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Re-write Text for a Specific Audience",
+                        "lectureId": "6a085cf38668a9279c144e2e",
+                        "lectureLength": "00:06:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NQtK9G5rSH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Health Optimization",
+                        "lectureId": "6a085cf38668a9279c144e2f",
+                        "lectureLength": "00:06:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C7UjxZKhJf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Translating Languages",
+                        "lectureId": "6a085cf38668a9279c144e30",
+                        "lectureLength": "00:10:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PP8Kny3KCg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Summarize YouTube Videos",
+                        "lectureId": "6a085cf38668a9279c144e31",
+                        "lectureLength": "00:06:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Z86JPXbxkG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Proofread",
+                        "lectureId": "6a085cf38668a9279c144e32",
+                        "lectureLength": "00:04:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJBtepH66UJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Re-organize Data",
+                        "lectureId": "6a085cf38668a9279c144e33",
+                        "lectureLength": "00:11:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TBYrQmgPJ6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Plotting",
+                        "lectureId": "6a085cf38668a9279c144e34",
+                        "lectureLength": "00:05:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ufUKRdNuuu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Review and Improve Writing",
+                        "lectureId": "6a085cf38668a9279c144e35",
+                        "lectureLength": "00:07:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HN49UByU6p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Essay Questions, Multiple Choice, True or False",
+                        "lectureId": "6a085cf38668a9279c144e36",
+                        "lectureLength": "00:05:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hb8dr8nxyz/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": " Use ChatGPT for Plotting",
+                "assignmentId": "6a16e58c8668a9279c14b756",
+                "assignmentLink": "https://docs.google.com/document/d/1OjnP4q85NKL14Qyd-kyVMMRac6FaVlpYN0NKIIuFqZg/edit?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "ChatGPT Quickskills: Content Creation, Copywriting, SEO, and Scripts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Write Articles and Blogs",
+                        "lectureId": "6a0868208668a9279c144ea0",
+                        "lectureLength": "00:05:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3e3Xx9TmQaB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Write and Rephrase",
+                        "lectureId": "6a0868208668a9279c144ea3",
+                        "lectureLength": "00:07:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Mcpyz46cR5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create an Ad for your Product",
+                        "lectureId": "6a0868218668a9279c144ea6",
+                        "lectureLength": "00:05:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JRGnnPnZk2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Write Script for Videos",
+                        "lectureId": "6a0868218668a9279c144ea9",
+                        "lectureLength": "00:07:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XpFmcTzgnS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Product Specific Content",
+                        "lectureId": "6a0868228668a9279c144eac",
+                        "lectureLength": "00:04:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Zj65PRxYZN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Video Description, Titles and Tags",
+                        "lectureId": "6a0868228668a9279c144eaf",
+                        "lectureLength": "00:03:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABQ9jNGjP2J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SEO Optimization and Keywords",
+                        "lectureId": "6a0868228668a9279c144eb2",
+                        "lectureLength": "00:07:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42pMHkRAKs4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Write Script for Podcasts",
+                        "lectureId": "6a0868238668a9279c144eb5",
+                        "lectureLength": "00:04:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3su4Z9MypsX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Craft your Resume",
+                        "lectureId": "6a0868238668a9279c144eb8",
+                        "lectureLength": "00:06:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AZEzaq6qDn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Craft you Linkedin Bio",
+                        "lectureId": "6a0868238668a9279c144ebb",
+                        "lectureLength": "00:05:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5psChc5ucsk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Write Speeches",
+                        "lectureId": "6a0868248668a9279c144ebe",
+                        "lectureLength": "00:03:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6A3xN9YTeKK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Write an Entire E-Book",
+                        "lectureId": "6a0868248668a9279c144ec1",
+                        "lectureLength": "00:06:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KzYkCzAb38/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ChatGPT for Gmail",
+                        "lectureId": "6a0868258668a9279c144ec4",
+                        "lectureLength": "00:08:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eXeU8FExXD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Use ChatGPT for SEO",
+                "assignmentId": "6a16e59f8668a9279c14b75b",
+                "assignmentLink": "https://docs.google.com/document/d/1F2Qa_BC46Rv1cilWjiz6pLZNIcFRiYxgWjfZj5eVR6k/edit?usp=drive_link"
+            },
+            {
+                "type": "assignment",
+                "name": "Use ChatGPT and Overleaf to Build Your Resume",
+                "assignmentId": "6a16e5cd8668a9279c14b760",
+                "assignmentLink": "https://docs.google.com/document/d/1-JBrFHlxCxYxl8JCzx1GNCl06UwlVEEI_88zBjhKNvo/edit?usp=drive_link"
+            },
+            {
+                "type": "assignment",
+                "name": "Use ChatGPT as your Travel Guide",
+                "assignmentId": "6a16e5dd8668a9279c14b765",
+                "assignmentLink": "https://docs.google.com/document/d/16w0X2RXr4W6yPCuJUa1MeYWiB9dp4c2oemqPhlMCa7Q/edit?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "ChatGPT Quickskills: Self-guided Learning, Qualitative and Quantitative Analysis",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Asking the Right Questions",
+                        "lectureId": "6a085cf38668a9279c144e46",
+                        "lectureLength": "00:12:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJnsAeb2Sba/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Questions for Growing Your Business",
+                        "lectureId": "6a085cf38668a9279c144e47",
+                        "lectureLength": "00:09:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYJX7knRYTc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Job Search",
+                        "lectureId": "6a085cf38668a9279c144e48",
+                        "lectureLength": "00:05:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHA2EEEums5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interview Questions",
+                        "lectureId": "6a085cf38668a9279c144e49",
+                        "lectureLength": "00:05:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9a65RQUZHfX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Draft Emails to Employers",
+                        "lectureId": "6a085cf38668a9279c144e4a",
+                        "lectureLength": "00:04:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KNHUBXeYjn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Research about People",
+                        "lectureId": "6a085cf38668a9279c144e4b",
+                        "lectureLength": "00:10:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94Y9nmkFCMK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Learn from Past Events",
+                        "lectureId": "6a085cf38668a9279c144e4c",
+                        "lectureLength": "00:11:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aC7C9hqg6A/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Learn Software and Other Tools",
+                        "lectureId": "6a085cf38668a9279c144e4d",
+                        "lectureLength": "00:07:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AuuAaaDf6Tt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "General Learning and Tutorials",
+                        "lectureId": "6a085cf38668a9279c144e4e",
+                        "lectureLength": "00:03:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66HsEyPK3Jy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text and Article Analysis",
+                        "lectureId": "6a085cf38668a9279c144e4f",
+                        "lectureLength": "00:10:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XRsBYR7bZr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Solve Mathematical Problems",
+                        "lectureId": "6a085cf38668a9279c144e50",
+                        "lectureLength": "00:07:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BTjMr7Aund/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Language and Learning",
+                        "lectureId": "6a085cf38668a9279c144e51",
+                        "lectureLength": "00:07:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sEnaxr3nCa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DIY and Home Improvement",
+                        "lectureId": "6a085cf38668a9279c144e52",
+                        "lectureLength": "00:08:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXEghpyUabQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Travel Guide",
+                        "lectureId": "6a085cf38668a9279c144e53",
+                        "lectureLength": "00:04:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACp9aQtGuqr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "AI Tools Walkthrough",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Google Gemini Interface Walkthrough",
+                        "lectureId": "6a085cf38668a9279c144e55",
+                        "lectureLength": "00:27:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55pE94Bff9u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Anthropic's Claude Interface Walkthrough",
+                        "lectureId": "6a085cf38668a9279c144e56",
+                        "lectureLength": "00:31:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6924u4jke3Y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Perplexity Interface Walkthrough",
+                        "lectureId": "6a085cf38668a9279c144e57",
+                        "lectureLength": "00:33:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AbxXzHSEK8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Explore AI Models",
+                "assignmentId": "6a16e6318668a9279c14b76a",
+                "assignmentLink": "https://docs.google.com/document/d/1SpYX3G6BsOH7_LltF5FqtXQKhnaY5andh39AiMzy8Vs/edit?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Branding using AI",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section Introduction - Branding using AI",
+                        "lectureId": "6a085cf38668a9279c144e59",
+                        "lectureLength": "00:09:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hCD542RYASq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Brand Strategy",
+                        "lectureId": "6a085cf38668a9279c144e5a",
+                        "lectureLength": "00:22:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BrmNYCeaAu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Brand Naming and Messaging",
+                        "lectureId": "6a085cf38668a9279c144e5b",
+                        "lectureLength": "00:18:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Ete2CPjHcb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logo & Design System",
+                        "lectureId": "6a085cf38668a9279c144e5c",
+                        "lectureLength": "00:14:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtfgQHqHu4S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Brand Voice & Copy System",
+                        "lectureId": "6a085cf38668a9279c144e5d",
+                        "lectureLength": "00:10:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69QTAM3ucQj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Brand's Social Media Toolkit",
+                        "lectureId": "6a085cf38668a9279c144e5e",
+                        "lectureLength": "00:10:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eE3s27EdmU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Brand Strategy Case Study",
+                        "lectureId": "6a085cf38668a9279c144e5f",
+                        "lectureLength": "00:12:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9keXCaaKsrB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "AI For Branding",
+                "assignmentId": "6a16e64a8668a9279c14b76f",
+                "assignmentLink": "https://docs.google.com/document/d/18It2xJLIKGtCPLmA-SchT4dRjeCA0MZDVKISEhs5CQQ/edit?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Image Generation using AI",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section Introduction - Image Generation using AI",
+                        "lectureId": "6a085cf38668a9279c144e61",
+                        "lectureLength": "00:08:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99DhYHZsFtn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Asking AI to Write Prompts For You",
+                        "lectureId": "6a085cf38668a9279c144e62",
+                        "lectureLength": "00:07:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rdHZZ5Uejj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Avatars using AI",
+                        "lectureId": "6a085cf38668a9279c144e63",
+                        "lectureLength": "00:10:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bbd5cnRmcC4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Wish Your Friends using AI",
+                        "lectureId": "6a085cf38668a9279c144e64",
+                        "lectureLength": "00:08:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3896Ftj7ddZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Editing Images using AI",
+                        "lectureId": "6a085cf38668a9279c144e65",
+                        "lectureLength": "00:11:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PZHZnGbkC4p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Apology Card for Girlfriend",
+                        "lectureId": "6a085cf38668a9279c144e66",
+                        "lectureLength": "00:04:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rgQK9n2k4J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Module Introduction - Style & Aesthetic Exploration",
+                        "lectureId": "6a085cf38668a9279c144e67",
+                        "lectureLength": "00:07:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Cs6efUHCbu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Illustrations using AI",
+                        "lectureId": "6a085cf38668a9279c144e68",
+                        "lectureLength": "00:11:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mT6GZt67ca/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Digital Art",
+                        "lectureId": "6a085cf38668a9279c144e69",
+                        "lectureLength": "00:05:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Zgbj28y62f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Abstract Art using AI",
+                        "lectureId": "6a085cf38668a9279c144e6a",
+                        "lectureLength": "00:04:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37CsacZA5JA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comic Book using AI",
+                        "lectureId": "6a085cf38668a9279c144e6b",
+                        "lectureLength": "00:03:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ajkgyan9K69/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Colour Theme based Visuals",
+                        "lectureId": "6a085cf38668a9279c144e6c",
+                        "lectureLength": "00:05:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xcMjbc6UCE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mood Based Visuals",
+                        "lectureId": "6a085cf38668a9279c144e6d",
+                        "lectureLength": "00:05:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtN9fug9naN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating an Introductory post for Insta",
+                        "lectureId": "6a085cf38668a9279c144e6e",
+                        "lectureLength": "00:13:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83GHjtrSj6R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Carousels for Instagram",
+                        "lectureId": "6a085cf38668a9279c144e6f",
+                        "lectureLength": "00:09:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ar4c3ccfkfM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Youtube Thumbnails",
+                        "lectureId": "6a085cf38668a9279c144e70",
+                        "lectureLength": "00:13:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NPhrAEH4jM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Posts for LinkedIn",
+                        "lectureId": "6a085cf38668a9279c144e71",
+                        "lectureLength": "00:14:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GR3cdRy8CS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Cool Infographics",
+                        "lectureId": "6a085cf38668a9279c144e72",
+                        "lectureLength": "00:15:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M2sYDj9Eak/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Memes",
+                        "lectureId": "6a085cf38668a9279c144e73",
+                        "lectureLength": "00:14:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56zcxgPbzy4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Ad Creatives",
+                        "lectureId": "6a085cf38668a9279c144e74",
+                        "lectureLength": "00:15:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8Nt5g6SD2c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Ads for Billboards",
+                        "lectureId": "6a085cf38668a9279c144e75",
+                        "lectureLength": "00:09:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PQNgXY7GtC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Discount Offers Posters",
+                        "lectureId": "6a085cf38668a9279c144e76",
+                        "lectureLength": "00:11:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAUZD994NMc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generate Festive Creatives",
+                        "lectureId": "6a085cf38668a9279c144e77",
+                        "lectureLength": "00:06:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNAT2Zpgc92/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ads for Lead Conversion",
+                        "lectureId": "6a085cf38668a9279c144e78",
+                        "lectureLength": "00:07:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UptghAMdg3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Hero Section for Website",
+                        "lectureId": "6a085cf38668a9279c144e79",
+                        "lectureLength": "00:07:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8u66gujfsN9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create a Landing Page Banner",
+                        "lectureId": "6a085cf38668a9279c144e7a",
+                        "lectureLength": "00:10:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MxgS2dRQcE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Background Images for Website",
+                        "lectureId": "6a085cf38668a9279c144e7b",
+                        "lectureLength": "00:07:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EaDb5M7BfX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Icon Sets",
+                        "lectureId": "6a085cf38668a9279c144e7c",
+                        "lectureLength": "00:07:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JakrXmjuMJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Error Success Images",
+                        "lectureId": "6a085cf38668a9279c144e7d",
+                        "lectureLength": "00:06:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xHJff7MJs9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Website App Mockups",
+                        "lectureId": "6a085cf38668a9279c144e7e",
+                        "lectureLength": "00:07:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a7uyytXJmD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Product Catalog Menu",
+                        "lectureId": "6a085cf38668a9279c144e7f",
+                        "lectureLength": "00:06:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Usx6Hds58D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Product Images",
+                        "lectureId": "6a085cf38668a9279c144e80",
+                        "lectureLength": "00:05:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6C6KdR6EyP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Packaging Design",
+                        "lectureId": "6a085cf38668a9279c144e81",
+                        "lectureLength": "00:05:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FZREEQgncE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Labels for your Product",
+                        "lectureId": "6a085cf38668a9279c144e82",
+                        "lectureLength": "00:05:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHHTq6F3ss8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI for A B Testing",
+                        "lectureId": "6a085cf38668a9279c144e83",
+                        "lectureLength": "00:04:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDyJ59zrxef/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generate Photo-Realistic Images",
+                        "lectureId": "6a085cf38668a9279c144e84",
+                        "lectureLength": "00:04:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Tq3mArGx9P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generate Corporate Headshots",
+                        "lectureId": "6a085cf38668a9279c144e85",
+                        "lectureLength": "00:09:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72RHKHZHfeC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generate Real Life Use Cases for your Product",
+                        "lectureId": "6a085cf38668a9279c144e86",
+                        "lectureLength": "00:05:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gDRjfQegQB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generate Course Cover",
+                        "lectureId": "6a085cf38668a9279c144e87",
+                        "lectureLength": "00:07:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZdmUrPb2bp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generate Podcast Thumbnail Cover",
+                        "lectureId": "6a085cf38668a9279c144e88",
+                        "lectureLength": "00:09:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/698exbMajhX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design an E-Book Cover",
+                        "lectureId": "6a085cf38668a9279c144e89",
+                        "lectureLength": "00:10:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZTCDJa7r3u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generate Images for Blogs",
+                        "lectureId": "6a085cf38668a9279c144e8a",
+                        "lectureLength": "00:10:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FYe64JaUCH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generate Playlist Covers",
+                        "lectureId": "6a085cf38668a9279c144e8b",
+                        "lectureLength": "00:13:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qfzuK9RPhf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generate Movie Posters",
+                        "lectureId": "6a085cf38668a9279c144e8c",
+                        "lectureLength": "00:12:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tZpNQBeZSa/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Image Editing using Gemini",
+                "assignmentId": "6a16e66d8668a9279c14b774",
+                "assignmentLink": "https://docs.google.com/document/d/1I_KJkSjnMo_il5hPS9qHQGB73lV4xHoFmG9atK-qrDA/edit?usp=drive_link"
+            },
+            {
+                "type": "assignment",
+                "name": "Make a Comic Book using AI",
+                "assignmentId": "6a16e6768668a9279c14b779",
+                "assignmentLink": "https://docs.google.com/document/d/1rGIWj4MxpULIxJpaz2JwD6ptZuLrab5uBAaZzgPLV5U/edit?usp=drive_link"
+            },
+            {
+                "type": "assignment",
+                "name": "Make a YT Thumbnail with an Infographic using AI",
+                "assignmentId": "6a16e6818668a9279c14b77e",
+                "assignmentLink": "https://docs.google.com/document/d/1pRaYYSk7301Af6Lq7qS1rZPcTMvNsfFUS5tFPuuePD0/edit?usp=drive_link"
+            },
+            {
+                "type": "assignment",
+                "name": "Generate your website using AI",
+                "assignmentId": "6a16e6a98668a9279c14b783",
+                "assignmentLink": "https://docs.google.com/document/d/1giN8eWbJD2yoIu20M-0LjZ_VjA9WfwFhJGQQd3Gm2c0/edit?usp=drive_link"
+            },
+            {
+                "type": "assignment",
+                "name": "Generate your Product",
+                "assignmentId": "6a16e6b48668a9279c14b788",
+                "assignmentLink": "https://docs.google.com/document/d/1sGDD81VQJD8ApHWlD78nVjJCRaOclxwaeFXEm_qcR38/edit?usp=drive_link"
+            },
+            {
+                "type": "assignment",
+                "name": "Generate Corporate Headshots using AI",
+                "assignmentId": "6a16e6c08668a9279c14b78d",
+                "assignmentLink": "https://docs.google.com/document/d/1ysQdZYe24Efv_JWhTH1WqJAHzXINafm_lZlLAqKz6Nk/edit?usp=drive_link"
+            },
+            {
+                "type": "assignment",
+                "name": "Generate Posters for Movies",
+                "assignmentId": "6a16e6cb8668a9279c14b792",
+                "assignmentLink": "https://docs.google.com/document/d/19xH8rpZJP2hX1W5WYFnFYjQABj0nbfM6f1WKyfO6oHY/edit?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "AI for Modern Designers",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Will-ai-replace-designers",
+                        "lectureId": "6a2fec158668a9279c14d5ed",
+                        "lectureLength": "00:06:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35d4qGC6bA6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creativity-vs-ai",
+                        "lectureId": "6a2fec158668a9279c14d5f0",
+                        "lectureLength": "00:07:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M99kHBjNFU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Why-designers-who-ignore-ai-fall-behind",
+                        "lectureId": "6a2fec168668a9279c14d5f3",
+                        "lectureLength": "00:07:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58eqbfRqjef/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How-top-designers-use-ai",
+                        "lectureId": "6a2fec168668a9279c14d5f6",
+                        "lectureLength": "00:06:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fyHSzepZz8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Design Research & Problem Framing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Breaking-down-the-problems",
+                        "lectureId": "6a2fec178668a9279c14d5f9",
+                        "lectureLength": "00:41:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xRfEYQ5UJf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Secondary-research-and-mapping",
+                        "lectureId": "6a2fec178668a9279c14d5fc",
+                        "lectureLength": "00:26:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45UpUGSf5Gf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stress-testing-your-thinking-with-ai",
+                        "lectureId": "6a2fec178668a9279c14d5ff",
+                        "lectureLength": "00:29:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k4aRP99yAT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "From-insights-to-requirements-and-ai-ready-briefs",
+                        "lectureId": "6a2ff4328668a9279c14d630",
+                        "lectureLength": "00:30:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jghTP4N7t5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Ideation & Concept Development",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Expanding-the-solution-space",
+                        "lectureId": "6a2fec188668a9279c14d603",
+                        "lectureLength": "00:31:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jd8Ty8PNuz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Structured-idea-generation-techniques",
+                        "lectureId": "6a2fec188668a9279c14d606",
+                        "lectureLength": "00:38:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBcYK345fHm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Evaluating-and-strengthening-concepts",
+                        "lectureId": "6a2fec198668a9279c14d609",
+                        "lectureLength": "00:27:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dsYd4FKmGb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Converging-toward-a-strong-direction",
+                        "lectureId": "6a2fec198668a9279c14d60c",
+                        "lectureLength": "00:25:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37jpTEdMrFD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Prototyping, Validation & UX Writing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "From-ideas-to-interface-products",
+                        "lectureId": "6a2fec1a8668a9279c14d60f",
+                        "lectureLength": "00:11:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sAXU2aK55Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design-to-working-prototype",
+                        "lectureId": "6a2fec1a8668a9279c14d612",
+                        "lectureLength": "00:18:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DHb9EkK7KQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Validating-flows-quickly",
+                        "lectureId": "6a2fec1a8668a9279c14d615",
+                        "lectureLength": "00:24:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nxnGsP5qXH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ux-writing-with-ai-crash-course",
+                        "lectureId": "6a2fec1b8668a9279c14d618",
+                        "lectureLength": "01:20:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsYEkjABe3X/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Design Review & Optimization",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Ai-as-design-critic",
+                        "lectureId": "6a2fec1b8668a9279c14d61b",
+                        "lectureLength": "00:49:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTK3kmTF8ZP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Accessibility-and-usability-checks",
+                        "lectureId": "6a2fec1b8668a9279c14d61e",
+                        "lectureLength": "00:21:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NrmEBaf6D2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data-driven-design-decisions",
+                        "lectureId": "6a2fec1c8668a9279c14d622",
+                        "lectureLength": "00:42:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUMPRcFNrK2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Portfolio Building & Career Growth",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Turning-your-work-into-a-casestudy",
+                        "lectureId": "6a2fec1c8668a9279c14d625",
+                        "lectureLength": "01:25:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UbyAdfjRCd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using-ai-to-improve-storytelling",
+                        "lectureId": "6a2fec1c8668a9279c14d628",
+                        "lectureLength": "00:33:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5KKpnNaXP7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ai-as-your-career-assistant",
+                        "lectureId": "6a2fec1d8668a9279c14d62b",
+                        "lectureLength": "00:29:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NK2jhjfety/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction To N8N (N8N)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is N8N (And Why It’s Blowing Up)",
+                        "lectureId": "6a62fd8e8668a9279c162db0",
+                        "lectureLength": "00:19:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUAhJk83Ea/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cloud vs Self-Hosted (Truth Nobody Tells You)",
+                        "lectureId": "6a62fd8e8668a9279c162db3",
+                        "lectureLength": "00:11:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6B5RH5hRp53/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UI Deep Dive - Canvas Mastery",
+                        "lectureId": "6a62fd8e8668a9279c162db6",
+                        "lectureLength": "00:16:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U8AgZNjjcf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Build Your First Workflow",
+                        "lectureId": "6a62fd8e8668a9279c162db9",
+                        "lectureLength": "00:18:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pDADN7TJXt/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Basic Fundamentals (N8N)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Triggers Explained (Start of Every Automation)",
+                        "lectureId": "6a62fd8e8668a9279c162dbc",
+                        "lectureLength": "00:30:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qhrpJ6sD2G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Thinking in Workflows (Not Nodes)",
+                        "lectureId": "6a62fd8e8668a9279c162dbf",
+                        "lectureLength": "00:32:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Fa7KDC3MDs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Debugging Like a Pro",
+                        "lectureId": "6a62fd8e8668a9279c162dc2",
+                        "lectureLength": "00:30:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48C93hz4XyS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RSS Feed Workflow",
+                        "lectureId": "6a62fd8e8668a9279c162dc5",
+                        "lectureLength": "00:18:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rbb2pqqfqS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Nodes Mastery (N8N)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Learning JSON Without Headache",
+                        "lectureId": "6a62fd8e8668a9279c162dc8",
+                        "lectureLength": "00:17:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a2hXxksmhu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Set Node Data Control and Transformation",
+                        "lectureId": "6a62fd8e8668a9279c162dcb",
+                        "lectureLength": "00:18:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j9nrAEDQTBt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IF & Switch (Decision Making)",
+                        "lectureId": "6a62fd8e8668a9279c162dce",
+                        "lectureLength": "00:18:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZFmpQEE5D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Expressions Mastery 101",
+                        "lectureId": "6a62fd8e8668a9279c162dd1",
+                        "lectureLength": "00:22:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BckF9XKFACQ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Workflows Implementation (N8N)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Build AI Chat Agent",
+                        "lectureId": "6a62fd8f8668a9279c162dd4",
+                        "lectureLength": "00:10:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JjjruFGdGc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "N8N API and HTTPS Requests Mastery",
+                        "lectureId": "6a62fd8f8668a9279c162dd7",
+                        "lectureLength": "00:25:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BstfSTBbx9k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI Automated HR Candidate Analysis in n8n",
+                        "lectureId": "6a62fd8f8668a9279c162dda",
+                        "lectureLength": "00:28:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aZUjJdn4AG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "End to End Lead Generation Workflow Automation",
+                        "lectureId": "6a62fd8f8668a9279c162ddd",
+                        "lectureLength": "00:26:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8UnaaKEyRD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "RSS Feed to Email_Telegram Notification Workflow",
+                "assignmentId": "6a62febb8668a9279c163205",
+                "assignmentLink": "https://docs.google.com/document/d/1tuDexZHVKi6ccVLM0hOUaA87vQrMBYUK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Weather Alert Notification Workflow",
+                "assignmentId": "6a62fec68668a9279c16320a",
+                "assignmentLink": "https://docs.google.com/document/d/1DjgSir_2lN3fQzaSTuxJrTIqy6XFD-bT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Webhook to Google Sheets Data Storage Workflo",
+                "assignmentId": "6a62fecf8668a9279c16320f",
+                "assignmentLink": "https://docs.google.com/document/d/1vkclD7mMNpOzLrMJkOx6PiasefuDQQmw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Lead Classification Workflow.",
+                "assignmentId": "6a62fee08668a9279c163214",
+                "assignmentLink": "https://docs.google.com/document/d/1DuKjumHc4MNn52dOsWk8vFNhtM7os87D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Multi-Platform Notification Workflow.",
+                "assignmentId": "6a62feee8668a9279c163219",
+                "assignmentLink": "https://docs.google.com/document/d/1WI5E_c-HOC4Ob9N3J8bpLrxqioqo1ZAm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Product Price Drop Alert Workflow.",
+                "assignmentId": "6a62fefc8668a9279c163267",
+                "assignmentLink": "https://docs.google.com/document/d/135cCg2FtGP1IiID1kHL_SAiTy7-2ibxR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Automated Customer Query Reply Workflow.",
+                "assignmentId": "6a62ff078668a9279c16326c",
+                "assignmentLink": "https://docs.google.com/document/d/1grZABgzR71fuOMqajH03PrdRSz4htbYi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Capstone Projects (N8N)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Email Summary Agent",
+                        "lectureId": "6a62fd8f8668a9279c162de0",
+                        "lectureLength": "00:12:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C9p79nY5Agy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI YouTube Script Generator",
+                        "lectureId": "6a62fd8f8668a9279c162de3",
+                        "lectureLength": "00:22:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNChFzX44ry/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI Legal Contract Review Agent",
+                        "lectureId": "6a62fd8f8668a9279c162de6",
+                        "lectureLength": "00:23:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BMzUdeYyEd/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "AI Content Generator Workflow.",
+                "assignmentId": "6a62ff198668a9279c163271",
+                "assignmentLink": "https://docs.google.com/document/d/1UE9u4rvIeAOWxyvEqN2R1Ao829nFPQrO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Workflow Error Detection and Alert System.",
+                "assignmentId": "6a62ff248668a9279c163276",
+                "assignmentLink": "https://docs.google.com/document/d/1SqNqSJaSHRmiEmTRVvfaEDQ38jyZVst2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "End-to-End Lead Capture and Qualification Workflow",
+                "assignmentId": "6a62ff308668a9279c1632c4",
+                "assignmentLink": "https://docs.google.com/document/d/1gMhKXnOzI8yeobD19qXuMwSjK_FT_x-L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6a742b58fc66b37ef64a86b1",
+                "mentor": "Mrituyanjay",
+                "start": 20,
+                "end": 22,
+                "chatStart": 20,
+                "chatEnd": 22,
+                "time": "8:00 PM - 10:00 PM",
+                "url": "https://campus.tutedude.com/uiux?room=mn-stg-2",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1KoSRnXbMZ9p8xJUCXpcmEVlStZmVPSx8?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

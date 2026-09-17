@@ -1,0 +1,501 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6879f3e2aa7b36a500959be7",
+        "courseName": "Blockchain",
+        "slug": "blockchain",
+        "category": "Technical",
+        "tpFolderId": "57YaXQeq3JA",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Fundamentals Of Blockchain",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "History Of Blockchain",
+                        "lectureId": "6879f3e2aa7b36a500959be9",
+                        "lectureLength": "00:24:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MJEmPn7qD4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics Of Blockchain",
+                        "lectureId": "6879f3e2aa7b36a500959bea",
+                        "lectureLength": "00:10:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9ZjCbf8Xr9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generic Elements Of Blockchain",
+                        "lectureId": "6879f3e2aa7b36a500959beb",
+                        "lectureLength": "00:15:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7uxkMZtczK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Features Of Blockchain",
+                        "lectureId": "6879f3e2aa7b36a500959bec",
+                        "lectureLength": "00:22:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6Y7ZzzJ5pH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Consensus Mechanism",
+                        "lectureId": "6879f3e2aa7b36a500959bed",
+                        "lectureLength": "00:15:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANSCkkbrkX2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applications Of Blockchain Technology",
+                        "lectureId": "6879f3e2aa7b36a500959bee",
+                        "lectureLength": "00:11:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jjQ8jHGp45/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Types Of Blockchain",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Distributed Ledger",
+                        "lectureId": "6879f3e2aa7b36a500959bf0",
+                        "lectureLength": "00:04:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6C7YQbH5jUF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Public Blockchains",
+                        "lectureId": "6879f3e2aa7b36a500959bf1",
+                        "lectureLength": "00:10:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93xK53qpJCx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Private Blockchain",
+                        "lectureId": "6879f3e2aa7b36a500959bf2",
+                        "lectureLength": "00:09:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZPKHanmtB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Semi Private Blockchain",
+                        "lectureId": "6879f3e2aa7b36a500959bf3",
+                        "lectureLength": "00:09:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bzzd33DfC9M/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Permissioned Ledger",
+                        "lectureId": "6879f3e2aa7b36a500959bf4",
+                        "lectureLength": "00:08:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EXFftdrtHJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tokenized and Tokenless Blockchain",
+                        "lectureId": "6879f3e2aa7b36a500959bf5",
+                        "lectureLength": "00:11:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gJuBrgceb6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shared Ledger",
+                        "lectureId": "6879f3e2aa7b36a500959bf6",
+                        "lectureLength": "00:06:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RFfNHhGMet/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sidechains",
+                        "lectureId": "6879f3e2aa7b36a500959bf7",
+                        "lectureLength": "00:15:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yKqrZgfZ3A/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Decentralization",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction To Decentralization",
+                        "lectureId": "6879f3e2aa7b36a500959bf9",
+                        "lectureLength": "00:08:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXFxTFtUXqy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Methods Of Decentralization",
+                        "lectureId": "6879f3e2aa7b36a500959bfa",
+                        "lectureLength": "00:04:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97gKYTCFYz4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How To Decentralize",
+                        "lectureId": "6879f3e2aa7b36a500959bfb",
+                        "lectureLength": "00:04:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEgrQrJJat7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decentralized Organisation",
+                        "lectureId": "6879f3e2aa7b36a500959bfc",
+                        "lectureLength": "00:08:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JmsP6CtPaKr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decentralized Autonomous Organisation",
+                        "lectureId": "6879f3e2aa7b36a500959bfd",
+                        "lectureLength": "00:12:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BppGeqyAQnJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decentralized Autonomous Societies",
+                        "lectureId": "6879f3e2aa7b36a500959bfe",
+                        "lectureLength": "00:07:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKUKcFfPh7E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decentralized Autonomous Cooperation",
+                        "lectureId": "6879f3e2aa7b36a500959bff",
+                        "lectureLength": "00:09:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4UdpnHRkkM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Cryptography",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "SHA Algorithm",
+                        "lectureId": "6879f3e2aa7b36a500959c01",
+                        "lectureLength": "00:09:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xdBd7y8bYq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Encryption Standard",
+                        "lectureId": "6879f3e2aa7b36a500959c02",
+                        "lectureLength": "00:15:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HUHhMSGQG8j/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Merkle Tree",
+                        "lectureId": "6879f3e2aa7b36a500959c03",
+                        "lectureLength": "00:08:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jgYrRfZaNF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Elliptic Curve Digital Signature Algorithm",
+                        "lectureId": "6879f3e2aa7b36a500959c04",
+                        "lectureLength": "00:12:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GMnGHhKUPSK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Digital Signature Using RSA",
+                        "lectureId": "6879f3e2aa7b36a500959c05",
+                        "lectureLength": "00:11:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XQYRsDN643/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Mining",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Mining",
+                        "lectureId": "6879f3e2aa7b36a500959c07",
+                        "lectureLength": "00:10:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ag99buFcspy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ethereum Mining",
+                        "lectureId": "6879f3e2aa7b36a500959c08",
+                        "lectureLength": "00:10:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tTSC5HSmcT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Practical Program Of Mining",
+                        "lectureId": "6879f3e2aa7b36a500959c09",
+                        "lectureLength": "00:26:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A39TUgsfGDu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Bitcoin",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How does Bitcoin Work",
+                        "lectureId": "6879f3e2aa7b36a500959c0b",
+                        "lectureLength": "00:14:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/749f3b4FHBy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Where do Bitcoins come from",
+                        "lectureId": "6879f3e2aa7b36a500959c0c",
+                        "lectureLength": "00:09:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rSe4yG4YSn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How do you own Bitcoins",
+                        "lectureId": "6879f3e2aa7b36a500959c0d",
+                        "lectureLength": "00:08:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fKeP8GyKjA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Summary",
+                        "lectureId": "6879f3e2aa7b36a500959c0e",
+                        "lectureLength": "00:06:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4smpDMQabk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Blocks in Bitcoin",
+                        "lectureId": "6879f3e2aa7b36a500959c0f",
+                        "lectureLength": "00:09:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DPhQsPDTFeZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transactions in Bitcoin",
+                        "lectureId": "6879f3e2aa7b36a500959c10",
+                        "lectureLength": "00:04:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RTZXPQ9bhSy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Locks in Bitcoin",
+                        "lectureId": "6879f3e2aa7b36a500959c11",
+                        "lectureLength": "00:07:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cq3Zqzx3KB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Ethereum",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Ethereum",
+                        "lectureId": "6879f3e2aa7b36a500959c13",
+                        "lectureLength": "00:08:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ag3PTqzcJ2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Components Of Ethereum",
+                        "lectureId": "6879f3e2aa7b36a500959c14",
+                        "lectureLength": "00:19:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JNAhqqKcYq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Block in Ethereum",
+                        "lectureId": "6879f3e2aa7b36a500959c15",
+                        "lectureLength": "00:16:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae7T9QCpdKR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How Ethereum Works",
+                        "lectureId": "6879f3e2aa7b36a500959c16",
+                        "lectureLength": "00:20:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s4EBqh5NA4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Blockchain Payroll System",
+                        "lectureId": "6879f3e2aa7b36a500959c17",
+                        "lectureLength": "00:12:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pX5fgMQcmMA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Smart Contract For Payroll System",
+                        "lectureId": "6879f3e2aa7b36a500959c18",
+                        "lectureLength": "00:21:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMNQJxKYRpJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Continuation of Smart Contract",
+                        "lectureId": "6879f67faa7b36a500959c4b",
+                        "lectureLength": "00:10:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X4STmFDdU5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploy Payroll System",
+                        "lectureId": "6879f3e2aa7b36a500959c19",
+                        "lectureLength": "00:23:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sj9fQe5359/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "DeFi",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction To full fledged DeFi Project",
+                        "lectureId": "6879f3e2aa7b36a500959c1b",
+                        "lectureLength": "00:07:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AggGMXqEAJk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Writing ERC20.sol",
+                        "lectureId": "6879f3e2aa7b36a500959c1c",
+                        "lectureLength": "00:19:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dF8STeJPXrr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating tokens by writing TokenA.sol and TokenB.sol",
+                        "lectureId": "6879f3e2aa7b36a500959c1d",
+                        "lectureLength": "00:08:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5QDHjxc6NJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SimpleAMM.sol",
+                        "lectureId": "6879f3e2aa7b36a500959c1e",
+                        "lectureLength": "00:13:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7duHu8HXkz7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SimpleAMM.sol",
+                        "lectureId": "6879f3e2aa7b36a500959c1f",
+                        "lectureLength": "00:13:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QpnSEZdA98/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Demonstration Of Project",
+                        "lectureId": "6879f3e2aa7b36a500959c20",
+                        "lectureLength": "00:13:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZdFdqT3e92/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DeFi Tokens",
+                        "lectureId": "6879f3e2aa7b36a500959c21",
+                        "lectureLength": "00:23:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SEeQqpz4sJ3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to ERC20",
+                        "lectureId": "6879f3e2aa7b36a500959c22",
+                        "lectureLength": "00:09:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfkcXZFsFr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Hyperledger",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Hyperledger Fabric",
+                        "lectureId": "6879f3e2aa7b36a500959c24",
+                        "lectureLength": "00:11:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cCct3RHb6r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transaction Flow Of Hyperledger",
+                        "lectureId": "6879f3e2aa7b36a500959c25",
+                        "lectureLength": "00:05:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QNdFHjjpnQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Use Cases Of Hyperledger",
+                        "lectureId": "6879f3e2aa7b36a500959c26",
+                        "lectureLength": "00:08:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fXZUcQXAQb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sawtooth Lake",
+                        "lectureId": "6879f3e2aa7b36a500959c27",
+                        "lectureLength": "00:09:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PxprEXj5hk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Corda",
+                        "lectureId": "6879f3e2aa7b36a500959c28",
+                        "lectureLength": "00:07:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gqRnbEAa42/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Voting Management System",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Voting Management System",
+                        "lectureId": "6879f3e2aa7b36a500959c2a",
+                        "lectureLength": "00:25:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XBb2PzgzGg/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Voting Management System on a Simple Blockchain",
+                "assignmentId": "68f2252e83492d3c7b6b5588",
+                "assignmentLink": "https://docs.google.com/document/d/13IVU_GNfSVdKDqCU5Yt0B9al_rxrbUZj/edit?usp=drive_link&ouid=104151095501772866793&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 2: Cryptography and Blockchain Fundamentals",
+                "assignmentId": "68f2252f83492d3c7b6b558a",
+                "assignmentLink": "https://docs.google.com/document/d/1hysZbPwQAtTRXdP3eQWd8OQOoodMZut7/edit?usp=sharing&ouid=116755620215396915718&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": null,
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

@@ -1,0 +1,534 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6874b26d318dfa98a32da8b2",
+        "courseName": "System Design",
+        "slug": "systemdesign",
+        "category": "Technical",
+        "tpFolderId": "9knujt3qNDe",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "System design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Course Overview",
+                        "lectureId": "6874b26d318dfa98a32da8b4",
+                        "lectureLength": "00:08:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eZJbc4rPY9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Data Structures And Algorithms",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "DataStrucutres-1",
+                        "lectureId": "6874b26d318dfa98a32da8b9",
+                        "lectureLength": "00:47:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U4kDPg8efq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data-Structure-2",
+                        "lectureId": "6874b26d318dfa98a32da8b6",
+                        "lectureLength": "00:32:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBJQnSmgrTk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data-Structure-3",
+                        "lectureId": "6874b26d318dfa98a32da8b7",
+                        "lectureLength": "00:39:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B248ydNuqTQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data-Structure-4",
+                        "lectureId": "6874b26d318dfa98a32da8b8",
+                        "lectureLength": "00:24:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hdGGtGehxJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is System Design",
+                        "lectureId": "6874b26d318dfa98a32da8bb",
+                        "lectureLength": "00:23:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PcRfX4ugus/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "System Design Begins !!",
+                        "lectureId": "68824024aa7b36a50095a275",
+                        "lectureLength": "00:07:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ns4TaMc4hj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of Systems",
+                        "lectureId": "6874b26d318dfa98a32da8bc",
+                        "lectureLength": "00:29:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QPAy6N85yj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Framework of System Design Interviews",
+                        "lectureId": "6874b26d318dfa98a32da8bd",
+                        "lectureLength": "00:46:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3Sp68Jsahf/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Basics Of System Interaction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "APi Gateway",
+                        "lectureId": "6874b26d318dfa98a32da8da",
+                        "lectureLength": "00:05:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EgsXduN7ap/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "HTTP vs HTTPS",
+                        "lectureId": "6874b26d318dfa98a32da8db",
+                        "lectureLength": "00:08:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KHHpmsQ7QJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "REST APIs",
+                        "lectureId": "6874b26d318dfa98a32da8dc",
+                        "lectureLength": "00:07:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bg2acJSD27/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Monolithic VS Microservice",
+                        "lectureId": "6874b26d318dfa98a32da8dd",
+                        "lectureLength": "00:06:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9p7etTUkmDr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Horizontal and Vertical Scaling",
+                        "lectureId": "697b0e251af4885db0e6961c",
+                        "lectureLength": "00:08:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae9knxFQSyx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reverse Proxy",
+                        "lectureId": "68f750d40fb13c2409bfcc37",
+                        "lectureLength": "00:05:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ExB6KUe6Jz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rate Limiter",
+                        "lectureId": "6874b26d318dfa98a32da8e1",
+                        "lectureLength": "01:14:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cXJ6Bxgme3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Databases",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Databases",
+                        "lectureId": "6874b26d318dfa98a32da8e3",
+                        "lectureLength": "00:33:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sMXHDn3XZy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Database Partitioning and Sharding",
+                        "lectureId": "6874b26d318dfa98a32da8e4",
+                        "lectureLength": "00:31:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUUJd8kN4Fj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Database Replication",
+                        "lectureId": "6874b26d318dfa98a32da8e5",
+                        "lectureLength": "00:29:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmaGdRCmMjz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Normal Forms",
+                        "lectureId": "6874b26d318dfa98a32da8e6",
+                        "lectureLength": "00:22:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XK8fGn2DAh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Indexing",
+                        "lectureId": "6874b26d318dfa98a32da8e7",
+                        "lectureLength": "00:13:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DhuEaHzEMD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Non-Relational Databases",
+                        "lectureId": "6874b26d318dfa98a32da8e8",
+                        "lectureLength": "00:12:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KFR8gFacXK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Graph Database",
+                        "lectureId": "68824053aa7b36a50095a2c0",
+                        "lectureLength": "00:07:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A46qu9JxJpf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bloom Filters",
+                        "lectureId": "6874b26d318dfa98a32da8e9",
+                        "lectureLength": "00:10:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37bbfx5e3He/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Merkle Tree",
+                        "lectureId": "6874b26d318dfa98a32da8ea",
+                        "lectureLength": "00:05:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mGnxc8QFyp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Load Balancers",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Load Balancers",
+                        "lectureId": "6874b26d318dfa98a32da8ec",
+                        "lectureLength": "00:33:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67z6uk2c9ad/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Caching",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Caching",
+                        "lectureId": "6874b26d318dfa98a32da8ee",
+                        "lectureLength": "00:22:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99UseR2NGzs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CDN in System Design",
+                        "lectureId": "6874b26d318dfa98a32da8ef",
+                        "lectureLength": "00:08:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KJpuzq7tcT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Capacity Estimation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Capacity Estimation",
+                        "lectureId": "6874b26d318dfa98a32da8f1",
+                        "lectureLength": "00:20:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dkNr89fkKx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Back of Enveloper Estimation",
+                        "lectureId": "6874b26d318dfa98a32da8f2",
+                        "lectureLength": "00:26:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dNMsBcKmDE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CAP Theorem",
+                        "lectureId": "6874b26d318dfa98a32da8f3",
+                        "lectureLength": "00:16:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fgnYam8x52/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Trade off in System Design",
+                        "lectureId": "6874b26d318dfa98a32da8f4",
+                        "lectureLength": "00:25:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4paB2kjyh8E/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Message Queues",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Message Queues",
+                        "lectureId": "6874b26d318dfa98a32da8f6",
+                        "lectureLength": "00:17:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XU6GAsZjd7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Stateless And Stateful",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Stateless and Stateful Architecture",
+                        "lectureId": "6874b26d318dfa98a32da8f8",
+                        "lectureLength": "00:09:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TPN99jYbG5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Encryption",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "End to End Encryption",
+                        "lectureId": "6874b26d318dfa98a32da8fa",
+                        "lectureLength": "00:10:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JF8GcHRPab/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "OSI Model",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Network Models",
+                        "lectureId": "6874b26d318dfa98a32da8d4",
+                        "lectureLength": "00:11:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S4YyCcFQdU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OSI Model",
+                        "lectureId": "6874b26d318dfa98a32da8d5",
+                        "lectureLength": "00:30:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4drUhZ2Rq7Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "TCP and UDP",
+                        "lectureId": "6874b26d318dfa98a32da8d6",
+                        "lectureLength": "00:15:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JZEApJ7gF6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "TCP IP Model",
+                        "lectureId": "6874b26d318dfa98a32da8d7",
+                        "lectureLength": "00:25:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DypGraCdgK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What happens when you type url in browser",
+                        "lectureId": "6874b26d318dfa98a32da8d8",
+                        "lectureLength": "00:26:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BUeSx5ersj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Design Questions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "OSI Model",
+                        "lectureId": "6874b26d318dfa98a32da8c1",
+                        "lectureLength": "00:30:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bPukmTq8Ys/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rate Limiter",
+                        "lectureId": "6874b26d318dfa98a32da8c2",
+                        "lectureLength": "01:14:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97aeRDY6ySH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Consistent Hashing",
+                        "lectureId": "6874b26d318dfa98a32da8c3",
+                        "lectureLength": "00:25:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aj76KqdUs2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Key-Value Store",
+                        "lectureId": "6874b26d318dfa98a32da8c4",
+                        "lectureLength": "01:24:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsNG2tHJAbT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Unique-Id Generator",
+                        "lectureId": "6874b26d318dfa98a32da8c5",
+                        "lectureLength": "00:27:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XdyxeUXXD9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "URL Shortening System Design",
+                        "lectureId": "6874b26d318dfa98a32da8c6",
+                        "lectureLength": "01:00:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFfdsqrMXTr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Web Crawler",
+                        "lectureId": "6874b26d318dfa98a32da8c7",
+                        "lectureLength": "00:47:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y8SjhJsGs4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Notification System",
+                        "lectureId": "6874b26d318dfa98a32da8c8",
+                        "lectureLength": "01:00:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BE6J3K24Ca/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "News Feed System",
+                        "lectureId": "6874b26d318dfa98a32da8c9",
+                        "lectureLength": "00:44:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HCUSNdfERK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "chat system",
+                        "lectureId": "6874b26d318dfa98a32da8ca",
+                        "lectureLength": "01:10:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XmeKXaBkTJq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Autocomplete search system",
+                        "lectureId": "6874b26d318dfa98a32da8cb",
+                        "lectureLength": "00:55:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNAqGH4djMC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Youtube-Part-1",
+                        "lectureId": "6874b26d318dfa98a32da8cc",
+                        "lectureLength": "00:32:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4E6JjZ3cnRB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Youtube-Part-2",
+                        "lectureId": "6874b26d318dfa98a32da8cd",
+                        "lectureLength": "00:34:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7897dyU3Yj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Google Drive",
+                        "lectureId": "6874b26d318dfa98a32da8ce",
+                        "lectureLength": "00:53:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfhqU4X6Hja/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "BookMyShow",
+                        "lectureId": "6874b26d318dfa98a32da8cf",
+                        "lectureLength": "00:34:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hjk8KAENaR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Netflix System Design",
+                        "lectureId": "6874b26d318dfa98a32da8d0",
+                        "lectureLength": "00:34:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XrhthX5tdC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tik-Tok Design",
+                        "lectureId": "6874b26d318dfa98a32da8d1",
+                        "lectureLength": "00:49:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73ANN8sD9Qe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Uber System Design",
+                        "lectureId": "6874b26d318dfa98a32da8d2",
+                        "lectureLength": "00:45:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fRaUG6SCxC/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment",
+                "assignmentId": "68f2252283492d3c7b6b5573",
+                "assignmentLink": "https://drive.google.com/file/d/15_v_vhEUCpzJlUpII7ZtiyczCtxJHPa-/view?usp=drive_link"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6992e23d959c4775ed10a621",
+                "mentor": "Rohit",
+                "start": 20,
+                "end": 23,
+                "chatStart": 19,
+                "chatEnd": 22,
+                "time": "8:00 PM - 10:00 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds3",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

@@ -1,0 +1,529 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6892146302969a2f9e526196",
+        "courseName": "Performance Marketing",
+        "slug": "performancemarketing",
+        "category": "bussiness",
+        "tpFolderId": "67mq5aNeeCf",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "68ee92f4c9cf3d230ba68280",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Intro",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Performance Marketing",
+                        "lectureId": "6892146302969a2f9e526198",
+                        "lectureLength": "00:23:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9GzUFzueeD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Intro - Different Ways of Performance Marketing",
+                        "lectureId": "68ac5cd613e3f4344fb5e3c0",
+                        "lectureLength": "00:11:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h3q2XJQd3sN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Intro - Metrics",
+                        "lectureId": "68ac5d3e13e3f4344fb5e3c1",
+                        "lectureLength": "00:30:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACB5SAAgukp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Intro Key Observations",
+                        "lectureId": "68ac5d7313e3f4344fb5e3c2",
+                        "lectureLength": "00:10:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99fgKNR83GY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Google Ads",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Google ads",
+                        "lectureId": "6892146302969a2f9e52619d",
+                        "lectureLength": "00:19:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ehqg5p5XQj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How Google ads Work",
+                        "lectureId": "6892146302969a2f9e52619e",
+                        "lectureLength": "00:18:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Q3gBYhN3Ms/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Google Ads Setup and Dashboard View",
+                        "lectureId": "6892146302969a2f9e52619f",
+                        "lectureLength": "00:18:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jjKkGrFUTX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tool Keyword Planner",
+                        "lectureId": "6892146302969a2f9e5261a0",
+                        "lectureLength": "00:19:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQNBgbfAgZj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keyword Match Types",
+                        "lectureId": "6892146302969a2f9e5261a1",
+                        "lectureLength": "00:14:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GzDMR8yHum/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Search Ads",
+                        "lectureId": "6892146302969a2f9e5261a2",
+                        "lectureLength": "00:06:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4P9HXUPKAYJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Search Ads 2",
+                        "lectureId": "68b1845931e6ae4f94ee8404",
+                        "lectureLength": "00:14:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A33QE7kE4hb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Video ads 1",
+                        "lectureId": "68b7196b7719548a673431ae",
+                        "lectureLength": "00:18:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yxqGncfdJP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Video ads 2",
+                        "lectureId": "68b719717719548a673431af",
+                        "lectureLength": "00:05:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/838NdbmPNfA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Display Ads",
+                        "lectureId": "6892146302969a2f9e5261a4",
+                        "lectureLength": "00:31:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bm5dR48ChFT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Performance Max",
+                        "lectureId": "6892146302969a2f9e5261a7",
+                        "lectureLength": "00:09:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KPgHDNYjUZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "App Ads",
+                        "lectureId": "6892146302969a2f9e5261a8",
+                        "lectureLength": "00:09:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89BXzJBHRzR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assets",
+                        "lectureId": "6892146302969a2f9e5261a9",
+                        "lectureLength": "00:21:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tkgMzXUtun/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reporting and Analysis (Live Data)",
+                        "lectureId": "6892146302969a2f9e5261aa",
+                        "lectureLength": "00:04:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Au2DC3s5m5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reproting and Analysis (Live Data)",
+                        "lectureId": "6892146302969a2f9e5261ab",
+                        "lectureLength": "00:17:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52dGpJ2MRyy/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Real-World Keyword Research",
+                "assignmentId": "6939251fbc6fc9c68a3455b4",
+                "assignmentLink": "https://docs.google.com/document/d/1acm0sKhh7gRiYxNYjj2S-4QZQhGirShQcMxDkKOsuuk/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Responsive Search Ad (RSA)",
+                "assignmentId": "69392596bc6fc9c68a3455b9",
+                "assignmentLink": "https://docs.google.com/document/d/1Dj3m5j9zDYqs6JOSKaWQ8X0XNkm6zauiM0Lf57f6yY0/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Meta Ads",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Meta ads Introduction",
+                        "lectureId": "6892146302969a2f9e5261ad",
+                        "lectureLength": "00:15:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pf7xcyKB8J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Meta Ads Dashboard",
+                        "lectureId": "6892146302969a2f9e5261ae",
+                        "lectureLength": "00:16:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UkPC3gHAXnT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Meta Ads Traffic ad part 1",
+                        "lectureId": "6892146302969a2f9e5261af",
+                        "lectureLength": "00:16:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pZuN26bt9r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Meta Ads Traffic ads part 2",
+                        "lectureId": "6892146302969a2f9e5261b0",
+                        "lectureLength": "00:18:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GffkmXKJ58m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Meta Ads Traffic ads part 3",
+                        "lectureId": "6892146302969a2f9e5261b1",
+                        "lectureLength": "00:22:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HhFC8szxK5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Meta Ads  Creative Hub and Commerce MAnager",
+                        "lectureId": "6892146302969a2f9e5261b2",
+                        "lectureLength": "00:09:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QC9qF3Acbg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Meta Ads Reporting and Analysis",
+                        "lectureId": "6892146302969a2f9e5261b3",
+                        "lectureLength": "00:07:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MRkf637ZGy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adv Shopping Campaign on Meta Ads",
+                        "lectureId": "6892146302969a2f9e5261b4",
+                        "lectureLength": "00:12:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDt2AkgS9JK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Rewrite the Video Ad",
+                "assignmentId": "693fc76b2b7555b4c98f8afa",
+                "assignmentLink": "https://docs.google.com/document/d/1hdZ-7Jn0MUG0EF8MsObnijf6HMNTfcfmZ-wXeOFqEt8/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Static Ad Creative",
+                "assignmentId": "693fc7b12b7555b4c98f8aff",
+                "assignmentLink": "https://docs.google.com/document/d/1XP1u44I2DqAUAdzXqmyXXc0ojuDw4MevDkUtHqDg-I0/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Linkedin Ads",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Linkedin Ads",
+                        "lectureId": "6892146302969a2f9e5261b6",
+                        "lectureLength": "00:23:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYzhJBMKfx8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linkedin Ads Dashboard",
+                        "lectureId": "6892146302969a2f9e5261b7",
+                        "lectureLength": "00:19:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nPHAerndRs/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Twitter X Ads",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Twitter Ads",
+                        "lectureId": "6892146302969a2f9e5261b9",
+                        "lectureLength": "00:12:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7y5j69B3d5F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Twitter Ad creation",
+                        "lectureId": "6892146302969a2f9e5261ba",
+                        "lectureLength": "00:15:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qsdNA9gGUt/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "CRO",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "7 CRO",
+                        "lectureId": "6892146302969a2f9e5261bc",
+                        "lectureLength": "00:22:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KFmbh4YpxZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Microsoft Clarity",
+                        "lectureId": "6892146302969a2f9e5261bd",
+                        "lectureLength": "00:10:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MgGbp5cTZS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Conversion Rate Optimisation (CRO) Audit",
+                "assignmentId": "693fc6882b7555b4c98f8ab9",
+                "assignmentLink": "https://docs.google.com/document/d/1a20uUaB7P5j7p17n_WPx6GDAVlyLAVVM0BpXd1cOJpc/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Ecommerce with Performance Marketing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Ecommerce and D2C performance marketing",
+                        "lectureId": "6892146302969a2f9e5261bf",
+                        "lectureLength": "00:16:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64rFFUHt3uE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ecommerce and D2C - Google Shopping ads",
+                        "lectureId": "6892146302969a2f9e5261c0",
+                        "lectureLength": "00:18:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdGhfj8hyFq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scaling on Ecommerce and D2C",
+                        "lectureId": "6892146302969a2f9e5261c1",
+                        "lectureLength": "00:09:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ct2AbbtCHa/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Google Analytics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "GA Intro",
+                        "lectureId": "6892146302969a2f9e5261c3",
+                        "lectureLength": "00:12:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98dTnm9AKM7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GA Settings",
+                        "lectureId": "6892146302969a2f9e5261c4",
+                        "lectureLength": "00:13:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YJXnuc3kUz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GA Reports",
+                        "lectureId": "6892146302969a2f9e5261c5",
+                        "lectureLength": "00:22:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kCN4cRxUTd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GA Explore and ADvertising",
+                        "lectureId": "6892146302969a2f9e5261c6",
+                        "lectureLength": "00:18:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bbxa6ezbYBh/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "How to create winning ads?",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Ads That Scale Part 1",
+                        "lectureId": "6892146302969a2f9e5261c8",
+                        "lectureLength": "00:12:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6H6q67spNt3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ads that Scale part 2",
+                        "lectureId": "6892146302969a2f9e5261c9",
+                        "lectureLength": "00:22:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sA7r95QXgk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Final Project",
+                "assignmentId": "68f2253383492d3c7b6b5fea",
+                "assignmentLink": "https://docs.google.com/document/d/1zbLmEpDC5v2CvWjbKsDOTMU2UIncDo_n/edit?usp=sharing&ouid=107403911314000504697&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "D2C Business - Performance Marketing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Benefits of D2C Performance Marketing",
+                        "lectureId": "6a7c1b02b6907e7275bdaf0a",
+                        "lectureLength": "00:05:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qhNPkb5P4y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to select the Website Technology for D2C Brands",
+                        "lectureId": "6a7c1b03b6907e7275bdaf0d",
+                        "lectureLength": "00:08:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GBBJbPrhbK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to manage RTO Technology for D2C",
+                        "lectureId": "6a7c1b03b6907e7275bdaf10",
+                        "lectureLength": "00:08:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Hy2cr3tdrK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Roas in D2C",
+                        "lectureId": "6a7c1b04b6907e7275bdaf16",
+                        "lectureLength": "00:04:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nC4FsbCr3s/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Different Method to do Marketing for D2C Business",
+                        "lectureId": "6a7c1b04b6907e7275bdaf19",
+                        "lectureLength": "00:05:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jDdRUYEcSq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "D2C Performance Marketing",
+                        "lectureId": "6a7c1b05b6907e7275bdaf1d",
+                        "lectureLength": "00:11:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jy7pYstkm8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Meta Updates",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Meta Andromeda Update",
+                        "lectureId": "6a7c1b05b6907e7275bdaf20",
+                        "lectureLength": "00:20:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QfhgMB9xET/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GEM Update in Meta Ads",
+                        "lectureId": "6a7c1b06b6907e7275bdaf23",
+                        "lectureLength": "00:09:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53YzxsZFPc7/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "68c1281276a235503a8b1b25",
+                "mentor": "Ratnadeep Sen",
+                "start": 20.5,
+                "end": 22,
+                "time": "8:30 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds4",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "chatEnd": 0,
+                "chatStart": 0,
+                "role": "junior"
+            },
+            {
+                "_id": "6a75df29fc66b37ef64a86fb",
+                "mentor": "Bhomsar Jha",
+                "start": 20,
+                "end": 22,
+                "chatStart": 20,
+                "chatEnd": 22,
+                "time": "8:00 PM - 10:00 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds2",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [
+            "https://docs.google.com/document/d/1Qdl__v5dPGnRngcNqO5fm3ej2D0lorSTB9mMZdpqawM/edit?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

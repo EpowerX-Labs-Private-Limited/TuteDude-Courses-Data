@@ -1,0 +1,2559 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "687907d57d9e1533cb7dc908",
+        "courseName": "Cloud Computing",
+        "slug": "cloudcomputing",
+        "category": "Technical",
+        "tpFolderId": "ptfdp6q5ScR",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "694a64e9211399259c653d0f",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Course Overview",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Course Overview",
+                        "lectureId": "687907d57d9e1533cb7dc90a",
+                        "lectureLength": "00:01:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52fJ7FQaZ5h/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Creating an AWS Account",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating AWS Account",
+                        "lectureId": "687907d57d9e1533cb7dc90c",
+                        "lectureLength": "00:02:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QceGyhDKc4/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Origin of Cloud Computing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Origin of Cloud",
+                        "lectureId": "687907d57d9e1533cb7dc90e",
+                        "lectureLength": "00:03:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9cKem9gnrs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Virtualization",
+                        "lectureId": "687907d57d9e1533cb7dc90f",
+                        "lectureLength": "00:06:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7C5p48CjN9D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Benefits of Virtualization",
+                        "lectureId": "687907d57d9e1533cb7dc910",
+                        "lectureLength": "00:03:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E6UkBjeAUc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Uses and Future aspects of cloud computing",
+                        "lectureId": "687907d57d9e1533cb7dc911",
+                        "lectureLength": "00:05:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83d7THb3Rsp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Traditional IT Approach vs Cloud Computing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Traditional IT approach overview",
+                        "lectureId": "687907d57d9e1533cb7dc913",
+                        "lectureLength": "00:00:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EASky7aztb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problems with traditional IT approach",
+                        "lectureId": "687907d57d9e1533cb7dc914",
+                        "lectureLength": "00:08:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TSBmeYRHzQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cloud Computing Key Features",
+                        "lectureId": "687907d57d9e1533cb7dc915",
+                        "lectureLength": "00:11:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sPQXJghjtP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Benefits of cloud",
+                        "lectureId": "687907d57d9e1533cb7dc916",
+                        "lectureLength": "00:09:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GyD8xKA6PY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tabular Comparison",
+                        "lectureId": "68c82f51265a541c9716f9f7",
+                        "lectureLength": "00:06:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADNy4hnKgBJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Cloud Service Models",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Cloud Service Models Overview",
+                        "lectureId": "687907d57d9e1533cb7dc919",
+                        "lectureLength": "00:01:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YhsK6RZBz6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Infrastructure as a service",
+                        "lectureId": "687907d57d9e1533cb7dc91a",
+                        "lectureLength": "00:04:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5p8QgdFB7GB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PaaS",
+                        "lectureId": "687907d57d9e1533cb7dc91b",
+                        "lectureLength": "00:03:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33ejnqyTdeG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SaaS",
+                        "lectureId": "687907d57d9e1533cb7dc91c",
+                        "lectureLength": "00:04:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At3K23Ugm27/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tabular Comparison",
+                        "lectureId": "687907d57d9e1533cb7dc91d",
+                        "lectureLength": "00:06:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RFmRPSP78K/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Other Services",
+                        "lectureId": "687907d57d9e1533cb7dc91e",
+                        "lectureLength": "00:05:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABkZkjMXKEr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Cloud deployment models",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Cloud deployment models Overview",
+                        "lectureId": "687907d57d9e1533cb7dc920",
+                        "lectureLength": "00:01:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Gc36sf4tDr9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cloud Deployment Models",
+                        "lectureId": "687907d57d9e1533cb7dc921",
+                        "lectureLength": "00:09:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae4urj7mx92/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Private Cloud",
+                        "lectureId": "687907d57d9e1533cb7dc922",
+                        "lectureLength": "00:11:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sDuyXuR8X2H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hybrid Cloud",
+                        "lectureId": "687907d57d9e1533cb7dc923",
+                        "lectureLength": "00:09:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ua5DQB8Ua9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Community Cloud",
+                        "lectureId": "687907d57d9e1533cb7dc924",
+                        "lectureLength": "00:11:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y2z97mXa8n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Cloud computing challenges",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Cloud computing challenges Overview",
+                        "lectureId": "687907d57d9e1533cb7dc926",
+                        "lectureLength": "00:01:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eSDujrUaYD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Challenge 1 Security",
+                        "lectureId": "687907d57d9e1533cb7dc927",
+                        "lectureLength": "00:17:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SgQypjQQdD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Challenge 2 Vendo Lock-in",
+                        "lectureId": "687907d57d9e1533cb7dc928",
+                        "lectureLength": "00:05:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/astDsn7RhEp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Challenge 3 Monitoring",
+                        "lectureId": "687907d57d9e1533cb7dc929",
+                        "lectureLength": "00:05:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r5CNn4phZbX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Challenge 4 Compliance",
+                        "lectureId": "687907d57d9e1533cb7dc92a",
+                        "lectureLength": "00:06:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67ZYeY2Ryjp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Challenge 5 Cost Management",
+                        "lectureId": "687907d57d9e1533cb7dc92b",
+                        "lectureLength": "00:06:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gmnYgPZG6f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Challenge 6 Migration",
+                        "lectureId": "687907d57d9e1533cb7dc92c",
+                        "lectureLength": "00:08:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HME4Aaqtbp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Challenge 7 Automation",
+                        "lectureId": "687907d57d9e1533cb7dc92d",
+                        "lectureLength": "00:07:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Y7FuyUuAQQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Challenge 8 Performance & Latency",
+                        "lectureId": "687907d57d9e1533cb7dc92e",
+                        "lectureLength": "00:06:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6r3Ty55sD6B/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Networking in cloud computing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Networking in cloud computing Overview",
+                        "lectureId": "687907d57d9e1533cb7dc930",
+                        "lectureLength": "00:01:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kuaD925yxE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Networking fundamentals part 1",
+                        "lectureId": "687907d57d9e1533cb7dc936",
+                        "lectureLength": "00:09:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnzmQdadNQX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Networking Fundamentals part 2",
+                        "lectureId": "687907d57d9e1533cb7dc937",
+                        "lectureLength": "00:09:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ApmatjsNXN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Networking Devices",
+                        "lectureId": "687907d57d9e1533cb7dc935",
+                        "lectureLength": "00:12:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49hhJ96fB7S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Network Protocols Part 1",
+                        "lectureId": "687907d57d9e1533cb7dc932",
+                        "lectureLength": "00:07:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zXQMb2JmTH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Network Protocols Part 2",
+                        "lectureId": "687907d57d9e1533cb7dc933",
+                        "lectureLength": "00:13:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ9hf95Xp28/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Network design and architecure",
+                        "lectureId": "687907d57d9e1533cb7dc931",
+                        "lectureLength": "00:20:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHgTDxKNsDn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of network architecture and best practices",
+                        "lectureId": "687907d57d9e1533cb7dc938",
+                        "lectureLength": "00:11:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZcE78xcsUc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Network Secuirty",
+                        "lectureId": "687907d57d9e1533cb7dc934",
+                        "lectureLength": "00:06:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cYzpGEneSM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Security Best Practices",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Security Best Practices Overview",
+                        "lectureId": "687907d57d9e1533cb7dc93a",
+                        "lectureLength": "00:01:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xks7J6Z3UN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Encryption - Made with Clipchamp",
+                        "lectureId": "687907d57d9e1533cb7dc93d",
+                        "lectureLength": "00:11:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCrPDB7huyf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IAM",
+                        "lectureId": "687907d57d9e1533cb7dc93e",
+                        "lectureLength": "00:01:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69SJqn9bFuU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Backup & High Availability - Made with Clipchamp",
+                        "lectureId": "687907d57d9e1533cb7dc93c",
+                        "lectureLength": "00:13:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hDx2urYAzb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Network Secuirty",
+                        "lectureId": "687907d57d9e1533cb7dc93f",
+                        "lectureLength": "00:06:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MZUP62xHtR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Account Management & Secuirty Services",
+                        "lectureId": "687907d57d9e1533cb7dc93b",
+                        "lectureLength": "00:07:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HTZjF4CanJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Cloud Providers",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Cloud Providers Overview",
+                        "lectureId": "687907d57d9e1533cb7dc941",
+                        "lectureLength": "00:00:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TXzgXn3QJm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS",
+                        "lectureId": "687907d57d9e1533cb7dc942",
+                        "lectureLength": "00:08:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ax7tHCke3sy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Microsoft Azure",
+                        "lectureId": "687907d57d9e1533cb7dc943",
+                        "lectureLength": "00:02:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BehAFYhyXC4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GCP",
+                        "lectureId": "687907d57d9e1533cb7dc944",
+                        "lectureLength": "00:01:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C897jpQpYTZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IBM Cloud",
+                        "lectureId": "687907d57d9e1533cb7dc945",
+                        "lectureLength": "00:03:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9stCRkHaKqS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Oracle cloud infrastructure",
+                        "lectureId": "687907d57d9e1533cb7dc946",
+                        "lectureLength": "00:01:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMTYRjxJM8R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ali Baba Cloud",
+                        "lectureId": "687907d57d9e1533cb7dc947",
+                        "lectureLength": "00:02:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aCeFrrzqkP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Digital Ocean",
+                        "lectureId": "687907d57d9e1533cb7dc948",
+                        "lectureLength": "00:02:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55tRFNTuaMM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to AWS",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to AWS Overview",
+                        "lectureId": "687907d57d9e1533cb7dc94a",
+                        "lectureLength": "00:01:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RETmuryzXC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS",
+                        "lectureId": "687907d57d9e1533cb7dc94b",
+                        "lectureLength": "00:08:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gGa55ZeYQj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Cloud History & Future",
+                        "lectureId": "687907d57d9e1533cb7dc94c",
+                        "lectureLength": "00:03:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9aTrBnftUP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Cloud Facts",
+                        "lectureId": "687907d57d9e1533cb7dc94d",
+                        "lectureLength": "00:03:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85xMJUAm6TH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Regions",
+                        "lectureId": "687907d57d9e1533cb7dc94e",
+                        "lectureLength": "00:14:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hy2zSmfpBC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Shared Responsibility Model",
+                        "lectureId": "687907d57d9e1533cb7dc94f",
+                        "lectureLength": "00:04:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZPsXtyXbJf/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "IAM",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "IAM Overview",
+                        "lectureId": "687907d57d9e1533cb7dc951",
+                        "lectureLength": "00:01:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjKX86ZAcAY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Users & Group",
+                        "lectureId": "687907d57d9e1533cb7dc952",
+                        "lectureLength": "00:05:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bRFCG8ZZyN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "HandsOn IAM Users & Groups",
+                        "lectureId": "687907d57d9e1533cb7dc956",
+                        "lectureLength": "00:05:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pgXaS8uBDG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IAM Permissions",
+                        "lectureId": "687907d57d9e1533cb7dc957",
+                        "lectureLength": "00:01:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Z92PThTXFH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IAM Policies",
+                        "lectureId": "687907d57d9e1533cb7dc958",
+                        "lectureLength": "00:01:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39BTGcxn7Uh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IAM policy structure and password policy",
+                        "lectureId": "687907d57d9e1533cb7dc959",
+                        "lectureLength": "00:04:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsS86mmUtcE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "MFA",
+                        "lectureId": "687907d57d9e1533cb7dc95a",
+                        "lectureLength": "00:02:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9utZgbrpNzh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Access to AWS",
+                        "lectureId": "687907d57d9e1533cb7dc95b",
+                        "lectureLength": "00:04:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64Ncc8zGFfz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands ON MFA & Access Keys",
+                        "lectureId": "687907d57d9e1533cb7dc95c",
+                        "lectureLength": "00:04:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rmTZp4qdNDe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IAM Roles",
+                        "lectureId": "687907d57d9e1533cb7dc95d",
+                        "lectureLength": "00:02:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NNdxrprkGR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands ON IAM Roles",
+                        "lectureId": "687907d57d9e1533cb7dc953",
+                        "lectureLength": "00:02:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBXr4drmMXU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IAM Secuirty Tools",
+                        "lectureId": "687907d57d9e1533cb7dc954",
+                        "lectureLength": "00:02:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pn9b6xksKf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shared Responsibility Model for IAM",
+                        "lectureId": "687907d57d9e1533cb7dc955",
+                        "lectureLength": "00:05:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3HaaB6astN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "EC2",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "EC2 Overview",
+                        "lectureId": "687907d57d9e1533cb7dc95f",
+                        "lectureLength": "00:01:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Epdt2ja2FPg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EC2",
+                        "lectureId": "687907d57d9e1533cb7dc960",
+                        "lectureLength": "00:05:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fcBMNgetmB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Launching first EC2 instance - Made with Clipchamp",
+                        "lectureId": "687907d57d9e1533cb7dc96a",
+                        "lectureLength": "00:11:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B85DfmczA3B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EC2 instance type",
+                        "lectureId": "687907d57d9e1533cb7dc96b",
+                        "lectureLength": "00:12:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NY5TStSyMF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On instance types",
+                        "lectureId": "687907d57d9e1533cb7dc96c",
+                        "lectureLength": "00:03:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7S4XfKBqs2u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Security Groups",
+                        "lectureId": "687907d57d9e1533cb7dc96d",
+                        "lectureLength": "00:02:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZeZPNgcyej/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Security Groups",
+                        "lectureId": "687907d57d9e1533cb7dc96e",
+                        "lectureLength": "00:05:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pnX2zSnnmT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Security Group Properties",
+                        "lectureId": "687907d57d9e1533cb7dc96f",
+                        "lectureLength": "00:02:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nUQ7Qk2rkA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Classic Ports",
+                        "lectureId": "687907d57d9e1533cb7dc970",
+                        "lectureLength": "00:01:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjZRJPAeRGj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Public IP vs Private IP vs Elastic IP",
+                        "lectureId": "687907d57d9e1533cb7dc971",
+                        "lectureLength": "00:05:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQeAmRhGeyu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Placement Groups",
+                        "lectureId": "687907d57d9e1533cb7dc961",
+                        "lectureLength": "00:13:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/g25ZkGgQrnd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Placement Groups",
+                        "lectureId": "687907d57d9e1533cb7dc962",
+                        "lectureLength": "00:01:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8P2yUK4N24F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ENIs",
+                        "lectureId": "687907d57d9e1533cb7dc963",
+                        "lectureLength": "00:02:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EGUbD3CXNA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EC2 Hibernate",
+                        "lectureId": "687907d57d9e1533cb7dc964",
+                        "lectureLength": "00:04:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8G9fAkqUYPT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On EC2 Hibernate",
+                        "lectureId": "687907d57d9e1533cb7dc965",
+                        "lectureLength": "00:03:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CXNjjHY82e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EC2 Purchasing Options",
+                        "lectureId": "687907d57d9e1533cb7dc966",
+                        "lectureLength": "00:28:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3c7JZr8TpCS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EC2 Shared Responsibility Model",
+                        "lectureId": "687907d57d9e1533cb7dc967",
+                        "lectureLength": "00:02:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RUMqECCPZx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On EC2 Purchasing Options",
+                        "lectureId": "687907d57d9e1533cb7dc968",
+                        "lectureLength": "00:05:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hbNRJcdk4AN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS CLI",
+                        "lectureId": "687907d57d9e1533cb7dc969",
+                        "lectureLength": "00:04:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95B2MfjSHzM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "EC2 instance storage",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "EC2 instance storage Overview",
+                        "lectureId": "687907d57d9e1533cb7dc973",
+                        "lectureLength": "00:01:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UEpXYUGTDJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EBS volumes",
+                        "lectureId": "687907d57d9e1533cb7dc974",
+                        "lectureLength": "00:10:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPkbtkJMz4r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EBS Hands On",
+                        "lectureId": "687907d57d9e1533cb7dc97a",
+                        "lectureLength": "00:07:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/deQnbFUkPfc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EBS Snapshots",
+                        "lectureId": "687907d57d9e1533cb7dc97b",
+                        "lectureLength": "00:10:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z3SySyXk53/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Multi-EBS volumes",
+                        "lectureId": "687907d57d9e1533cb7dc97c",
+                        "lectureLength": "00:09:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Bxsbhc6CD3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On EBS Snapshots",
+                        "lectureId": "687907d57d9e1533cb7dc97d",
+                        "lectureLength": "00:07:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XdHZJ2Jc9D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AMI",
+                        "lectureId": "687907d57d9e1533cb7dc97e",
+                        "lectureLength": "00:07:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCjRhMaaJ4u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Instance store",
+                        "lectureId": "687907d57d9e1533cb7dc97f",
+                        "lectureLength": "00:09:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42j66MkMmSC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EBS Volume Types",
+                        "lectureId": "687907d57d9e1533cb7dc980",
+                        "lectureLength": "00:11:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJ3sbNQbMQF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EBS multi-attach",
+                        "lectureId": "687907d57d9e1533cb7dc981",
+                        "lectureLength": "00:03:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QkKbRhACK6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EBS encryption",
+                        "lectureId": "687907d57d9e1533cb7dc975",
+                        "lectureLength": "00:04:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QCGtRMBxcU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EFS",
+                        "lectureId": "687907d57d9e1533cb7dc976",
+                        "lectureLength": "00:10:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/k8kDCMfzMbe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EFS Hands On",
+                        "lectureId": "687907d57d9e1533cb7dc977",
+                        "lectureLength": "00:06:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gFQHQaEFC4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EFS vs EBS",
+                        "lectureId": "687907d57d9e1533cb7dc978",
+                        "lectureLength": "00:08:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RaXS8PTgFx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shared Responsibility Model",
+                        "lectureId": "687907d57d9e1533cb7dc979",
+                        "lectureLength": "00:05:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdnhxr4QRre/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Scalability & Load Balancing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Scalability & Load Balancing Overview",
+                        "lectureId": "687907d57d9e1533cb7dc983",
+                        "lectureLength": "00:01:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArZugq2Cry9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scalability",
+                        "lectureId": "687907d57d9e1533cb7dc984",
+                        "lectureLength": "00:07:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BmYM3ttKKY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "High Availability",
+                        "lectureId": "687907d57d9e1533cb7dc98e",
+                        "lectureLength": "00:06:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3EJRcAUZan/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Elasticity vs Scalability vs Agility",
+                        "lectureId": "687907d57d9e1533cb7dc98f",
+                        "lectureLength": "00:07:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/678BjPZHjDh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Load Balancing",
+                        "lectureId": "687907d57d9e1533cb7dc990",
+                        "lectureLength": "00:14:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6379gxZPEAR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Application Load Balancer",
+                        "lectureId": "687907d57d9e1533cb7dc991",
+                        "lectureLength": "00:04:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Rprtz5Sqp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Network Load Balancer",
+                        "lectureId": "687907d57d9e1533cb7dc992",
+                        "lectureLength": "00:03:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmhKky4cYRn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Gateway Load Balancer",
+                        "lectureId": "687907d57d9e1533cb7dc993",
+                        "lectureLength": "00:04:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bNXEBrur5H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Classic Load Balancer",
+                        "lectureId": "687907d57d9e1533cb7dc994",
+                        "lectureLength": "00:02:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yzusnXzpBzt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Load Balancing types Dedicated Cmomparison",
+                        "lectureId": "687907d57d9e1533cb7dc995",
+                        "lectureLength": "00:03:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QF8KNEsrJy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cross Zone Load Balancing",
+                        "lectureId": "687907d57d9e1533cb7dc985",
+                        "lectureLength": "00:03:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dn8U6pDFxG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On ALB",
+                        "lectureId": "687907d57d9e1533cb7dc986",
+                        "lectureLength": "00:11:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AuURcaayzK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On NLB",
+                        "lectureId": "687907d57d9e1533cb7dc987",
+                        "lectureLength": "00:04:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HHzGRRneE76/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sticky Sessions",
+                        "lectureId": "687907d57d9e1533cb7dc988",
+                        "lectureLength": "00:06:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Bgba3Qptha/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connection Draining",
+                        "lectureId": "687907d57d9e1533cb7dc989",
+                        "lectureLength": "00:02:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tGMpAkRTuy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Auto Scaling Group",
+                        "lectureId": "687907d57d9e1533cb7dc98a",
+                        "lectureLength": "00:09:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52JYq4MSpQ5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NOTE",
+                        "lectureId": "687907d57d9e1533cb7dc98b",
+                        "lectureLength": "00:00:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EYg8NXscUY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Best Practices",
+                        "lectureId": "687907d57d9e1533cb7dc98c",
+                        "lectureLength": "00:02:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KUNrf5JeRY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shared Responsibility Model",
+                        "lectureId": "687907d57d9e1533cb7dc98d",
+                        "lectureLength": "00:05:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9y5aCbFamXE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "S3",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "S3 Overview",
+                        "lectureId": "687907d57d9e1533cb7dc997",
+                        "lectureLength": "00:01:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/478xQms4x7D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Buckets & Objects",
+                        "lectureId": "687907d57d9e1533cb7dc998",
+                        "lectureLength": "00:11:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fSYn8razX7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands on creating bucket and uploading objects",
+                        "lectureId": "687907d57d9e1533cb7dc9a3",
+                        "lectureLength": "00:08:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z3EGHS7P4k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Bucket Policies",
+                        "lectureId": "687907d57d9e1533cb7dc9a4",
+                        "lectureLength": "00:04:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3p3eEPkbFQ5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On S3 bucket policies",
+                        "lectureId": "687907d57d9e1533cb7dc9a5",
+                        "lectureLength": "00:07:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fpbGbE2UE4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Static Website Hosting",
+                        "lectureId": "687907d57d9e1533cb7dc9a6",
+                        "lectureLength": "00:02:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGXkRufh7JR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hand On hosting a static website",
+                        "lectureId": "687907d57d9e1533cb7dc9a7",
+                        "lectureLength": "00:03:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s4jZqFQb78/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 versioning and Replication",
+                        "lectureId": "687907d57d9e1533cb7dc9a8",
+                        "lectureLength": "00:06:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FjMZHKCXjN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On S3 Versioning",
+                        "lectureId": "687907d57d9e1533cb7dc9a9",
+                        "lectureLength": "00:04:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XAPYb54CQT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On S3 replication",
+                        "lectureId": "687907d57d9e1533cb7dc9aa",
+                        "lectureLength": "00:05:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uQaFzCR2ynH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Storage Classes",
+                        "lectureId": "687907d57d9e1533cb7dc999",
+                        "lectureLength": "00:01:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjTebAYqz5h/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands on S3 storage classes",
+                        "lectureId": "687907d57d9e1533cb7dc99a",
+                        "lectureLength": "00:07:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jHCcnuE4Bn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Lifecycle Rules",
+                        "lectureId": "687907d57d9e1533cb7dc99b",
+                        "lectureLength": "00:02:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8mt8AjmqX6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands on S3 lifecycle rules",
+                        "lectureId": "687907d57d9e1533cb7dc99c",
+                        "lectureLength": "00:02:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aeCZZY3aNZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Performance Enhancers & Analytics",
+                        "lectureId": "687907d57d9e1533cb7dc99d",
+                        "lectureLength": "00:07:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57DfbGh9mfn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Batch Operations",
+                        "lectureId": "687907d57d9e1533cb7dc99e",
+                        "lectureLength": "00:02:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JRPB7ABHbD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Requester Pays",
+                        "lectureId": "687907d57d9e1533cb7dc99f",
+                        "lectureLength": "00:02:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/682xPkGsptB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands on requester pays",
+                        "lectureId": "687907d57d9e1533cb7dc9a0",
+                        "lectureLength": "00:01:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ehyejDJHbG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Best Practices",
+                        "lectureId": "687907d57d9e1533cb7dc9a1",
+                        "lectureLength": "00:04:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeD246mqcTk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Shared Responsibility Model",
+                        "lectureId": "687907d57d9e1533cb7dc9a2",
+                        "lectureLength": "00:04:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR5urXc3DRr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "S3 Security",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "S3 Security overview",
+                        "lectureId": "687907d57d9e1533cb7dc9ac",
+                        "lectureLength": "00:01:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c9ByqTQZde/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Encryption & types",
+                        "lectureId": "687907d57d9e1533cb7dc9ad",
+                        "lectureLength": "00:13:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AErU6yj3YfA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands on S3 encryption",
+                        "lectureId": "687907d57d9e1533cb7dc9b1",
+                        "lectureLength": "00:06:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnxsGYUDnzj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 CORS",
+                        "lectureId": "687907d57d9e1533cb7dc9b2",
+                        "lectureLength": "00:03:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39SCtY6NH5R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 MFA delete",
+                        "lectureId": "687907d57d9e1533cb7dc9b3",
+                        "lectureLength": "00:02:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ThmxSjANqy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands on MFA Delete",
+                        "lectureId": "687907d57d9e1533cb7dc9b4",
+                        "lectureLength": "00:11:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sFnkpxY7ZE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Access logs warning",
+                        "lectureId": "687907d57d9e1533cb7dc9b5",
+                        "lectureLength": "00:02:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dQYgsJMZ64/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Pre-Signed URLs",
+                        "lectureId": "687907d57d9e1533cb7dc9b6",
+                        "lectureLength": "00:04:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jnU2M7XQZT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands on S3 Pre-Signed URLs",
+                        "lectureId": "687907d57d9e1533cb7dc9b7",
+                        "lectureLength": "00:03:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7y2kyUkuMhh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Object lock",
+                        "lectureId": "687907d57d9e1533cb7dc9b8",
+                        "lectureLength": "00:06:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6crKdgsUyYr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands on S3 Object Lock",
+                        "lectureId": "687907d57d9e1533cb7dc9ae",
+                        "lectureLength": "00:03:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CAFM9AKGp4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Access Points",
+                        "lectureId": "687907d57d9e1533cb7dc9af",
+                        "lectureLength": "00:04:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FNnyHxs9R4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 Security Best Practices and Shared Responsibility Model",
+                        "lectureId": "687907d57d9e1533cb7dc9b0",
+                        "lectureLength": "00:07:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jJHzhrp8xB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "AWS Snow Family",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "AWS Snow Family Overview",
+                        "lectureId": "687907d57d9e1533cb7dc9ba",
+                        "lectureLength": "00:01:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pzX2f5D3E6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Snowball Edge",
+                        "lectureId": "687907d57d9e1533cb7dc9bc",
+                        "lectureLength": "00:07:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxJbXYc3eQs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Edge Computing",
+                        "lectureId": "687907d57d9e1533cb7dc9bb",
+                        "lectureLength": "00:08:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3my9435rfT3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Snowball Cone",
+                        "lectureId": "687907d57d9e1533cb7dc9bd",
+                        "lectureLength": "00:05:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AccugT3GC2n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Snowmobile",
+                        "lectureId": "687907d57d9e1533cb7dc9be",
+                        "lectureLength": "00:06:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/695jt87aMfy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Snow family pricing comparison",
+                        "lectureId": "687907d57d9e1533cb7dc9bf",
+                        "lectureLength": "00:03:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62ARZkKEFQG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands on Snow Family",
+                        "lectureId": "687907d57d9e1533cb7dc9c0",
+                        "lectureLength": "00:14:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeDY3McN5N2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Snow Family best practices and shared responsibility model",
+                        "lectureId": "687907d57d9e1533cb7dc9c1",
+                        "lectureLength": "00:06:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tbHs4RZeus/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Databases and Analytics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Databases and Analytics Overview",
+                        "lectureId": "687907d57d9e1533cb7dc9c3",
+                        "lectureLength": "00:02:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASamuTn44uC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Relational Database",
+                        "lectureId": "687907d57d9e1533cb7dc9c4",
+                        "lectureLength": "00:06:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH3ZA7bp9JA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RDS",
+                        "lectureId": "687907d57d9e1533cb7dc9cf",
+                        "lectureLength": "00:19:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fSegCy3gRf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "hands on RDS",
+                        "lectureId": "687907d57d9e1533cb7dc9d4",
+                        "lectureLength": "00:13:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QqhaCpC8nJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Amazon Aurora",
+                        "lectureId": "687907d57d9e1533cb7dc9d5",
+                        "lectureLength": "00:16:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NBfTEC24rJC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Aurora",
+                        "lectureId": "687907d57d9e1533cb7dc9d6",
+                        "lectureLength": "00:08:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DHcycYACyC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dynamo DB",
+                        "lectureId": "687907d57d9e1533cb7dc9d7",
+                        "lectureLength": "00:10:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtU2GEHYqRB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dynamo DB hands On",
+                        "lectureId": "687907d57d9e1533cb7dc9d8",
+                        "lectureLength": "00:04:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCXxear7ZCM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS EMR",
+                        "lectureId": "687907d57d9e1533cb7dc9d9",
+                        "lectureLength": "00:02:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gPDUGpA4TP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Red Shift",
+                        "lectureId": "687907d57d9e1533cb7dc9da",
+                        "lectureLength": "00:05:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KmEGFeExmS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Athena",
+                        "lectureId": "687907d57d9e1533cb7dc9c5",
+                        "lectureLength": "00:06:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CeaqYbc4Y8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands on Query S3 data through AWS Athena",
+                        "lectureId": "687907d57d9e1533cb7dc9c6",
+                        "lectureLength": "00:07:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3m7XPsT9pEK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Quick Sight",
+                        "lectureId": "687907d57d9e1533cb7dc9c7",
+                        "lectureLength": "00:05:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z4XMuXQg4f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Neptune",
+                        "lectureId": "687907d57d9e1533cb7dc9c8",
+                        "lectureLength": "00:06:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83GTSn9PNff/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Neptune",
+                        "lectureId": "687907d57d9e1533cb7dc9c9",
+                        "lectureLength": "00:08:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xzpDebnyFH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "QLDB",
+                        "lectureId": "687907d57d9e1533cb7dc9ca",
+                        "lectureLength": "00:04:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cUSGCsFSnT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Amazon Managed Block Chain",
+                        "lectureId": "687907d57d9e1533cb7dc9cb",
+                        "lectureLength": "00:03:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36sAcZ9HZMP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands on QLDB & Managed block chain",
+                        "lectureId": "687907d57d9e1533cb7dc9cc",
+                        "lectureLength": "00:05:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GmpusEB4b5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Glue",
+                        "lectureId": "687907d57d9e1533cb7dc9cd",
+                        "lectureLength": "00:06:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73xGyrDMYRG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Timestream",
+                        "lectureId": "687907d57d9e1533cb7dc9ce",
+                        "lectureLength": "00:07:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HsCDnh7PFFn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Timestream Database",
+                        "lectureId": "687907d57d9e1533cb7dc9d0",
+                        "lectureLength": "00:05:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XZTgKdAEK88/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS DMS",
+                        "lectureId": "687907d57d9e1533cb7dc9d1",
+                        "lectureLength": "00:05:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FEuK7ZQ6ep/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands on DMS",
+                        "lectureId": "687907d57d9e1533cb7dc9d2",
+                        "lectureLength": "00:04:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DyhxE8sPAc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shared Responsibility Model",
+                        "lectureId": "687907d57d9e1533cb7dc9d3",
+                        "lectureLength": "00:05:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9k7CehxS5E5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Databases & Caching",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Databases & Caching Overview",
+                        "lectureId": "687907d57d9e1533cb7dc9dc",
+                        "lectureLength": "00:00:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyC9qR2BNAh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RDS Proxy",
+                        "lectureId": "687907d57d9e1533cb7dc9dd",
+                        "lectureLength": "00:07:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HXtsNuJdKA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands on Connecting to RDS MySQL",
+                        "lectureId": "687907d57d9e1533cb7dc9de",
+                        "lectureLength": "00:10:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtDNSzXUahM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Aurora Advanced Features",
+                        "lectureId": "687907d57d9e1533cb7dc9df",
+                        "lectureLength": "00:05:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RdbZshx3pQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Elasti Cache",
+                        "lectureId": "687907d57d9e1533cb7dc9e0",
+                        "lectureLength": "00:08:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzkbPY2DJDM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Elasti Cache - Made with Clipchamp",
+                        "lectureId": "687907d57d9e1533cb7dc9e1",
+                        "lectureLength": "00:09:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cR2AUxk399/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Containerization & Serverless Services",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Containerization & Serverless Services Overview",
+                        "lectureId": "687907d57d9e1533cb7dc9e3",
+                        "lectureLength": "00:01:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ckym9z8PXZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker",
+                        "lectureId": "687907d57d9e1533cb7dc9e4",
+                        "lectureLength": "00:02:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2yDP85AQd5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ECS",
+                        "lectureId": "687907d57d9e1533cb7dc9ed",
+                        "lectureLength": "00:05:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qrPMjxzKX5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On ECS",
+                        "lectureId": "687907d57d9e1533cb7dc9ee",
+                        "lectureLength": "00:10:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PYe8RJqKMG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fargate",
+                        "lectureId": "687907d57d9e1533cb7dc9ef",
+                        "lectureLength": "00:02:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Dfak2EdRnT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands on ECS with ec2 & fargate",
+                        "lectureId": "687907d57d9e1533cb7dc9f0",
+                        "lectureLength": "00:11:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeMHb8XrnuP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ECR",
+                        "lectureId": "687907d57d9e1533cb7dc9f1",
+                        "lectureLength": "00:03:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uNDdZ228nm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Serverless",
+                        "lectureId": "687907d57d9e1533cb7dc9f2",
+                        "lectureLength": "00:06:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yehzcqYrNq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lambda",
+                        "lectureId": "687907d57d9e1533cb7dc9f3",
+                        "lectureLength": "00:07:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sapm4eaBEe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On lambda function",
+                        "lectureId": "687907d57d9e1533cb7dc9f4",
+                        "lectureLength": "00:06:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HDkmy6bKuH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "s3 trigger lambda function",
+                        "lectureId": "687907d57d9e1533cb7dc9e5",
+                        "lectureLength": "00:11:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QPRjhkyH2S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EKS",
+                        "lectureId": "687907d57d9e1533cb7dc9e6",
+                        "lectureLength": "00:05:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5QF3NGae4U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On EKS",
+                        "lectureId": "687907d57d9e1533cb7dc9e7",
+                        "lectureLength": "00:08:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAbUZXAJzgd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Light Sail",
+                        "lectureId": "687907d57d9e1533cb7dc9e8",
+                        "lectureLength": "00:03:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3t9PKyHuUcN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Light Sail",
+                        "lectureId": "687907d57d9e1533cb7dc9e9",
+                        "lectureLength": "00:07:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BY3TbknH5FG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "API Gateway",
+                        "lectureId": "687907d57d9e1533cb7dc9ea",
+                        "lectureLength": "00:02:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7dGkBux62u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On api gateway",
+                        "lectureId": "687907d57d9e1533cb7dc9eb",
+                        "lectureLength": "00:03:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MPXbzcQz3r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Best Practices",
+                        "lectureId": "687907d57d9e1533cb7dc9ec",
+                        "lectureLength": "00:02:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tSsDPen7MT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "DNS Route 53",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "DNS Route 53 Overview",
+                        "lectureId": "687907d57d9e1533cb7dc9f6",
+                        "lectureLength": "00:01:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nxTPmZuSnX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DNS",
+                        "lectureId": "687907d57d9e1533cb7dc9f7",
+                        "lectureLength": "00:06:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D52HDTmMtF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Route53",
+                        "lectureId": "687907d57d9e1533cb7dc9f8",
+                        "lectureLength": "00:05:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brn6rjPjqna/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Records Types",
+                        "lectureId": "687907d57d9e1533cb7dc9f9",
+                        "lectureLength": "00:03:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3u8dD9QMZXq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "TTL",
+                        "lectureId": "687907d57d9e1533cb7dc9fa",
+                        "lectureLength": "00:04:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uR56XaYeKq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Routing Policies",
+                        "lectureId": "687907d57d9e1533cb7dc9fb",
+                        "lectureLength": "00:13:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yYA763M2fM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Route 53",
+                        "lectureId": "687907d57d9e1533cb7dc9fc",
+                        "lectureLength": "00:09:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Rf9YX9m73e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Best Practices & Shared Responsibility Model",
+                        "lectureId": "687907d57d9e1533cb7dc9fd",
+                        "lectureLength": "00:05:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TErfbrn3mk2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Global Services",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Global Services Overview",
+                        "lectureId": "687907d57d9e1533cb7dc9ff",
+                        "lectureLength": "00:01:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Kbmnm2htGb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cloud Front",
+                        "lectureId": "687907d57d9e1533cb7dca02",
+                        "lectureLength": "00:04:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92USUXChAkQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Global Accelerator Theory",
+                        "lectureId": "687907d57d9e1533cb7dca03",
+                        "lectureLength": "00:04:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HfSBaNnCCs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cloud Front vs Global Accelerator",
+                        "lectureId": "687907d57d9e1533cb7dca01",
+                        "lectureLength": "00:03:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dXsB28qX7G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On CloudFront",
+                        "lectureId": "687907d57d9e1533cb7dca04",
+                        "lectureLength": "00:03:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QNtk2Zd67b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Global Accelerator",
+                        "lectureId": "687907d57d9e1533cb7dca05",
+                        "lectureLength": "00:02:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9fMbqj4NjH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Local Zones",
+                        "lectureId": "687907d57d9e1533cb7dca06",
+                        "lectureLength": "00:03:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yP6ttA63gEx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 CORS",
+                        "lectureId": "687907d57d9e1533cb7dca07",
+                        "lectureLength": "00:03:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YS5rPFd2Jq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "aws wavelegth - Made with Clipchamp",
+                        "lectureId": "687907d57d9e1533cb7dca00",
+                        "lectureLength": "00:05:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jTFYQxYsCu9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Infrastructure creation & Management services",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Infrastructure creation & Management services Overview",
+                        "lectureId": "687907d57d9e1533cb7dca09",
+                        "lectureLength": "00:01:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8p4MKH2dGAU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Code Artifact",
+                        "lectureId": "687907d57d9e1533cb7dca0a",
+                        "lectureLength": "00:09:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65BxQsxM7cC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cloud Formation",
+                        "lectureId": "687907d57d9e1533cb7dca0c",
+                        "lectureLength": "00:09:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FerCUbypFc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dedicated pipeline/DevOps services",
+                        "lectureId": "687907d57d9e1533cb7dca0d",
+                        "lectureLength": "00:15:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hYxQYybmnp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Devops",
+                        "lectureId": "687907d57d9e1533cb7dca0e",
+                        "lectureLength": "00:07:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bd56rmjmKFt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Elastic Beanstalk",
+                        "lectureId": "687907d57d9e1533cb7dca0f",
+                        "lectureLength": "00:06:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3KzkDfky5C/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Cloud Formation",
+                        "lectureId": "687907d57d9e1533cb7dca10",
+                        "lectureLength": "00:05:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KXr4afUxajG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Elastic Beanstalk",
+                        "lectureId": "687907d57d9e1533cb7dca11",
+                        "lectureLength": "00:08:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s5G4JgnHaz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Best Practices",
+                        "lectureId": "687907d57d9e1533cb7dca0b",
+                        "lectureLength": "00:02:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CzsAqEheGX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Storage Advanced",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Storage Advanced Overview",
+                        "lectureId": "687907d57d9e1533cb7dca13",
+                        "lectureLength": "00:01:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx4keNQ6pp3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "FSx",
+                        "lectureId": "687907d57d9e1533cb7dca14",
+                        "lectureLength": "00:14:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p6PXDJSTgm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On FSx",
+                        "lectureId": "687907d57d9e1533cb7dca15",
+                        "lectureLength": "00:12:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rFCj5eBmsb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS File Gateway",
+                        "lectureId": "687907d57d9e1533cb7dca16",
+                        "lectureLength": "00:18:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qfYpkndacm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Storage Gateway",
+                        "lectureId": "687907d57d9e1533cb7dca17",
+                        "lectureLength": "00:12:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/defTgNaGrBH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transfer Family",
+                        "lectureId": "687907d57d9e1533cb7dca18",
+                        "lectureLength": "00:04:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxXf86unSKz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Sync",
+                        "lectureId": "687907d57d9e1533cb7dca19",
+                        "lectureLength": "00:04:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45DjeY7bXG4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "App2Container",
+                        "lectureId": "687907d57d9e1533cb7dca1a",
+                        "lectureLength": "00:05:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zSZNqs3nDD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Best Practices",
+                        "lectureId": "687907d57d9e1533cb7dca1b",
+                        "lectureLength": "00:02:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56AUcdfSJE7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Monitoring",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Monitoring Overview",
+                        "lectureId": "687907d57d9e1533cb7dca1d",
+                        "lectureLength": "00:00:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NJcHffN4fS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cloud Watch",
+                        "lectureId": "687907d57d9e1533cb7dca1e",
+                        "lectureLength": "00:05:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkSBrgqzKbF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Cloud Watch",
+                        "lectureId": "687907d57d9e1533cb7dca1f",
+                        "lectureLength": "00:04:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Bq3m4E7Myu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cloud Trail",
+                        "lectureId": "687907d57d9e1533cb7dca20",
+                        "lectureLength": "00:05:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46mtQpAM7Cq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Cloud Trail",
+                        "lectureId": "687907d57d9e1533cb7dca21",
+                        "lectureLength": "00:07:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KMAuF38m4B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Event Bridge",
+                        "lectureId": "687907d57d9e1533cb7dca22",
+                        "lectureLength": "00:05:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FnB2fuggaA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS X-ray",
+                        "lectureId": "687907d57d9e1533cb7dca23",
+                        "lectureLength": "00:04:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FQHaTfyrxG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Health Dashboard",
+                        "lectureId": "687907d57d9e1533cb7dca24",
+                        "lectureLength": "00:04:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9h8QR6XT9k8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On AWS Health Dashboard",
+                        "lectureId": "687907d57d9e1533cb7dca25",
+                        "lectureLength": "00:02:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArfyU6nEeEM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Best Practices",
+                        "lectureId": "687907d57d9e1533cb7dca26",
+                        "lectureLength": "00:02:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aq2exu8yTCp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Decoupling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Decoupling Overview",
+                        "lectureId": "687907d57d9e1533cb7dca28",
+                        "lectureLength": "00:01:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATkkfSZjT3b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decoupling",
+                        "lectureId": "687907d57d9e1533cb7dca29",
+                        "lectureLength": "00:03:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GmsYSZ24dX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SQS",
+                        "lectureId": "687907d57d9e1533cb7dca2a",
+                        "lectureLength": "00:05:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39ehFpfJqnC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SNS",
+                        "lectureId": "687907d57d9e1533cb7dca2b",
+                        "lectureLength": "00:04:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6F8FB2U9uHD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On SNS",
+                        "lectureId": "687907d57d9e1533cb7dca2c",
+                        "lectureLength": "00:01:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ctmjkHZmCM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Kinesis",
+                        "lectureId": "687907d57d9e1533cb7dca2d",
+                        "lectureLength": "00:04:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DGnCR4et3j/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Kinesis Types",
+                        "lectureId": "687907d57d9e1533cb7dca2e",
+                        "lectureLength": "00:08:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gYgtydNxBN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "MQ",
+                        "lectureId": "687907d57d9e1533cb7dca2f",
+                        "lectureLength": "00:02:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkHArNcdYUz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Best Practices",
+                        "lectureId": "687907d57d9e1533cb7dca30",
+                        "lectureLength": "00:02:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TKdqSfzAEJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Networking in AWS",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Networking 2 Overview",
+                        "lectureId": "687907d57d9e1533cb7dca32",
+                        "lectureLength": "00:00:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pYuxKGQzCCp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "VPC",
+                        "lectureId": "687907d57d9e1533cb7dca33",
+                        "lectureLength": "00:06:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EjMpJFZTetC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On VPC",
+                        "lectureId": "687907d57d9e1533cb7dca38",
+                        "lectureLength": "00:02:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xcQeDM4KcsE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "VPC & Subnets",
+                        "lectureId": "687907d57d9e1533cb7dca39",
+                        "lectureLength": "00:05:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3x433HFhnhN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On subnets",
+                        "lectureId": "687907d57d9e1533cb7dca3a",
+                        "lectureLength": "00:02:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUhM7CqHfF2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "VPC Flow Logs",
+                        "lectureId": "687907d57d9e1533cb7dca3b",
+                        "lectureLength": "00:02:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EFC5383xPz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Flow Logs",
+                        "lectureId": "687907d57d9e1533cb7dca3c",
+                        "lectureLength": "00:02:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4kArTGjtdU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Internet Gateway",
+                        "lectureId": "687907d57d9e1533cb7dca3d",
+                        "lectureLength": "00:10:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ghYGQbmhby/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Internet Gateway",
+                        "lectureId": "687907d57d9e1533cb7dca3e",
+                        "lectureLength": "00:03:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E47eSXUY5x/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "VPC Peering",
+                        "lectureId": "687907d57d9e1533cb7dca3f",
+                        "lectureLength": "00:04:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4CBz2DRUFe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On VPC Peering",
+                        "lectureId": "687907d57d9e1533cb7dca34",
+                        "lectureLength": "00:01:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C2e6EayzEk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transit Gateway",
+                        "lectureId": "687907d57d9e1533cb7dca35",
+                        "lectureLength": "00:04:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rMPBFGAXKQc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "VPC End-Points",
+                        "lectureId": "687907d57d9e1533cb7dca36",
+                        "lectureLength": "00:05:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zhnjfxF2BT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shared Responsibility Model",
+                        "lectureId": "687907d57d9e1533cb7dca37",
+                        "lectureLength": "00:05:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nU4a8fGeTm/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "AI&ML services",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "AI&ML services Overview",
+                        "lectureId": "687907d57d9e1533cb7dca41",
+                        "lectureLength": "00:01:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YC7NBcDaxX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Recognition",
+                        "lectureId": "687907d57d9e1533cb7dca42",
+                        "lectureLength": "00:01:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96XZq8BeBUA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transcribe",
+                        "lectureId": "687907d57d9e1533cb7dca47",
+                        "lectureLength": "00:01:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sNehu4Ua9f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Transcribe",
+                        "lectureId": "687907d57d9e1533cb7dca48",
+                        "lectureLength": "00:02:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5upruBGCXRf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Polly",
+                        "lectureId": "687907d57d9e1533cb7dca49",
+                        "lectureLength": "00:01:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b98fRYHnNK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On AWS Polly",
+                        "lectureId": "687907d57d9e1533cb7dca4a",
+                        "lectureLength": "00:01:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52rPasqYdDC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Translate",
+                        "lectureId": "687907d57d9e1533cb7dca4b",
+                        "lectureLength": "00:01:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ct6MfDQ2sj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS lex & Connect",
+                        "lectureId": "687907d57d9e1533cb7dca4d",
+                        "lectureLength": "00:02:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9K2cN73fadE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Comprehend",
+                        "lectureId": "687907d57d9e1533cb7dca4e",
+                        "lectureLength": "00:02:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UNAkpmgEp7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Sagemaker",
+                        "lectureId": "687907d57d9e1533cb7dca4f",
+                        "lectureLength": "00:01:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MtMSunuGM5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Forecast",
+                        "lectureId": "687907d57d9e1533cb7dca43",
+                        "lectureLength": "00:02:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J3StyyUpsn4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Kendra",
+                        "lectureId": "687907d57d9e1533cb7dca44",
+                        "lectureLength": "00:02:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9UfpmJYtAb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Textract",
+                        "lectureId": "687907d57d9e1533cb7dca45",
+                        "lectureLength": "00:01:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87yuPrP4urB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Services in short",
+                        "lectureId": "687907d57d9e1533cb7dca46",
+                        "lectureLength": "00:00:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BszKuY7UkYC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Translate",
+                        "lectureId": "687907d57d9e1533cb7dca4c",
+                        "lectureLength": "00:01:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuRXKnGz4yC/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Security Services",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Security Services Overview",
+                        "lectureId": "687907d57d9e1533cb7dca51",
+                        "lectureLength": "00:01:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jYzhYctrzP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DDoS",
+                        "lectureId": "687907d57d9e1533cb7dca52",
+                        "lectureLength": "00:09:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ysnmpRHGUm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On AWS Shield",
+                        "lectureId": "687907d57d9e1533cb7dca5c",
+                        "lectureLength": "00:05:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZsRmYRfBjt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On WAF",
+                        "lectureId": "687907d57d9e1533cb7dca5d",
+                        "lectureLength": "00:02:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pjhZCCTKzB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Network Firewall",
+                        "lectureId": "687907d57d9e1533cb7dca5e",
+                        "lectureLength": "00:04:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Akp5BpCN2Q5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "KMS & Cloud HSM",
+                        "lectureId": "687907d57d9e1533cb7dca5f",
+                        "lectureLength": "00:05:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYBbdkpFxyQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On KMS",
+                        "lectureId": "687907d57d9e1533cb7dca60",
+                        "lectureLength": "00:03:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pRDmx2BAqa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ACM",
+                        "lectureId": "687907d57d9e1533cb7dca61",
+                        "lectureLength": "00:01:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2HnEmtyQer/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Secrets Manager",
+                        "lectureId": "687907d57d9e1533cb7dca62",
+                        "lectureLength": "00:01:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zYqnfJEUgm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Secrets Manager",
+                        "lectureId": "687907d57d9e1533cb7dca63",
+                        "lectureLength": "00:04:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uRCqDPydAN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Artifact",
+                        "lectureId": "687907d57d9e1533cb7dca53",
+                        "lectureLength": "00:01:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXBbnS5KdQ6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Guard Duty",
+                        "lectureId": "687907d57d9e1533cb7dca54",
+                        "lectureLength": "00:01:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fnHsRCTFkE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Amazon Insepctor",
+                        "lectureId": "687907d57d9e1533cb7dca55",
+                        "lectureLength": "00:02:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SxqxANXrfM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Config",
+                        "lectureId": "687907d57d9e1533cb7dca56",
+                        "lectureLength": "00:01:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BdxKPqAhTXS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Macie",
+                        "lectureId": "687907d57d9e1533cb7dca57",
+                        "lectureLength": "00:02:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KxnhsR4h9d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Detective",
+                        "lectureId": "687907d57d9e1533cb7dca58",
+                        "lectureLength": "00:02:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58zRDHZyZGp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS abuse",
+                        "lectureId": "687907d57d9e1533cb7dca59",
+                        "lectureLength": "00:01:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PMhC3C5SB6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Root User Privilages",
+                        "lectureId": "687907d57d9e1533cb7dca5a",
+                        "lectureLength": "00:03:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxbRgEkKpRU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shared Responsibility Model",
+                        "lectureId": "687907d57d9e1533cb7dca5b",
+                        "lectureLength": "00:05:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JbhdFbdr6g/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Management and Billing console",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Management and Billing console Overview",
+                        "lectureId": "687907d57d9e1533cb7dca65",
+                        "lectureLength": "00:01:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bt22ubQT4Gk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Organizations",
+                        "lectureId": "687907d57d9e1533cb7dca66",
+                        "lectureLength": "00:06:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FcTHmR4NJkG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SCPs",
+                        "lectureId": "687907d57d9e1533cb7dca68",
+                        "lectureLength": "00:09:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RrsNSKN7cA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Consolidated Billing",
+                        "lectureId": "687907d57d9e1533cb7dca69",
+                        "lectureLength": "00:01:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mJn3HDnub7N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Control Tower",
+                        "lectureId": "687907d57d9e1533cb7dca6a",
+                        "lectureLength": "00:02:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RpMmuTAJRUq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Resource Access Manager",
+                        "lectureId": "687907d57d9e1533cb7dca6b",
+                        "lectureLength": "00:02:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t4rynfTXSB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Cost Explorer",
+                        "lectureId": "687907d57d9e1533cb7dca6c",
+                        "lectureLength": "00:02:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zUjNC3B5pn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Budgets",
+                        "lectureId": "687907d57d9e1533cb7dca6d",
+                        "lectureLength": "00:02:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kgafM4Qcmt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Cost Anomaly Detection",
+                        "lectureId": "687907d57d9e1533cb7dca6e",
+                        "lectureLength": "00:01:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hdexcgqY9R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On of full AWS Billing & Cost Management console",
+                        "lectureId": "687907d57d9e1533cb7dca6f",
+                        "lectureLength": "00:08:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HxM3b2CaSu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Trusted Advisor",
+                        "lectureId": "687907d57d9e1533cb7dca67",
+                        "lectureLength": "00:02:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SqJ2GrxEtQR/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Deploy a Scalable Blog/personal web App",
+                "assignmentId": "68f2252c83492d3c7b6b5585",
+                "assignmentLink": "https://docs.google.com/document/d/17POTS-_1qcK7BnXkZkl-8mDk29mA0sGNIojrqqY636I/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "How to get certificate and Refund",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to get certificate and Refund",
+                        "lectureId": "694a6540211399259c653e82",
+                        "lectureLength": "00:04:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Rx4beZ6JKN/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "693fbb7e777bd07433706972",
+                "mentor": "Rohit",
+                "start": 20,
+                "end": 23,
+                "chatStart": 19,
+                "chatEnd": 22,
+                "time": "8 PM - 11 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds3",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    3,
+                    5
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1Sc9eXH4acfCNMqli-0hi0JUatKcUkOyI?usp=drive_link"
+        ],
+        "notes": [
+            "https://drive.google.com/drive/folders/1Sc9eXH4acfCNMqli-0hi0JUatKcUkOyI?usp=drive_link"
+        ]
+    },
+    "fromCache": false
+}

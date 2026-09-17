@@ -1,0 +1,631 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6981eb3123576e8c37bf9bed",
+        "courseName": "Instagram Content Creation",
+        "slug": "instagramcreator",
+        "category": "marketing",
+        "tpFolderId": "5jBd7spMUCA",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "FOUNDATION",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Course Overview",
+                        "lectureId": "6981eb3123576e8c37bf9bef",
+                        "lectureLength": "00:41:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NPTbp7SU5J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Realistice Growth Expectations",
+                        "lectureId": "6981eb3123576e8c37bf9bf0",
+                        "lectureLength": "00:29:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Bgb8fMaRbH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Common beginner Mistakes",
+                        "lectureId": "6981eb3123576e8c37bf9bf1",
+                        "lectureLength": "00:18:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rf9sJ2Y9SG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Why instagram matters",
+                        "lectureId": "6981eb3123576e8c37bf9bf2",
+                        "lectureLength": "00:30:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hzk9kHs3xR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creator Economy",
+                        "lectureId": "6981eb3123576e8c37bf9bf3",
+                        "lectureLength": "00:27:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hNabRk4ZZe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Finding your WHY ?",
+                        "lectureId": "6981eb3123576e8c37bf9bf4",
+                        "lectureLength": "00:38:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55MpGHBKm4Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Overcoming Fear of what people will think",
+                        "lectureId": "6981eb3123576e8c37bf9bf5",
+                        "lectureLength": "00:37:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mfRJ8BqDG4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Unique voice & Niche",
+                        "lectureId": "6981eb3123576e8c37bf9bf6",
+                        "lectureLength": "00:33:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUfUp5ggmZu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Target Audience",
+                        "lectureId": "6981eb3123576e8c37bf9bf7",
+                        "lectureLength": "00:30:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/855DYz3hmyd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Personal Branding",
+                        "lectureId": "6981eb3123576e8c37bf9bf8",
+                        "lectureLength": "00:30:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fkGZHTa4uJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Optimizing Insta Profile",
+                        "lectureId": "6981eb3123576e8c37bf9bf9",
+                        "lectureLength": "00:38:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9parP6SSdxm/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create Mind Map",
+                "assignmentId": "69b7e19d49153561b6b5fcd3",
+                "assignmentLink": "https://docs.google.com/document/d/1LZwqCOMDyGwH9WBxWyKJpdkvZU1Kb2bUOB8F6fqmleM/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Finding your “Why” ",
+                "assignmentId": "69b7e1a849153561b6b5fcd8",
+                "assignmentLink": "https://docs.google.com/document/d/1T-GiCOhpkfg9yroE36x9bb1uKXqNHuFJS94Js3pQBYw/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Finding your “Niche”",
+                "assignmentId": "69b7e1b849153561b6b5fcdd",
+                "assignmentLink": "https://docs.google.com/document/d/1BUvErwvvaYvoS9ycZTQnSr4g35_kAmF6uilwz0zC22c/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Personal Branding",
+                "assignmentId": "69b7e1c449153561b6b5fce2",
+                "assignmentLink": "https://docs.google.com/document/d/1_V5k2cM6FhaRfO-9gNDq4mnNtB5pISwhowNrChpQcDI/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Optimising Instagram",
+                "assignmentId": "69b7e1d349153561b6b5fce7",
+                "assignmentLink": "https://docs.google.com/document/d/1NhyvGwaYxrqAQj66RcH8Iq4KiOqY_baUwrbexX73DwQ/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "CONTENT CREATION STRATEGY",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Insta Content Format",
+                        "lectureId": "6981eb3123576e8c37bf9bfb",
+                        "lectureLength": "00:38:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8srNfMKBp8T/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Content pillar",
+                        "lectureId": "6981eb3123576e8c37bf9bfc",
+                        "lectureLength": "00:46:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QczNFNMpdt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Storytelling for insta",
+                        "lectureId": "6981eb3123576e8c37bf9bfd",
+                        "lectureLength": "00:34:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tgNqZuZSha/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hooks for insta",
+                        "lectureId": "6981eb3123576e8c37bf9bfe",
+                        "lectureLength": "00:38:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFtMtyRpaTH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Endless Content Ideas",
+                        "lectureId": "6981eb3123576e8c37bf9bff",
+                        "lectureLength": "00:22:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nyhSpSpAKG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Batching and Planning Content",
+                        "lectureId": "6981eb3123576e8c37bf9c00",
+                        "lectureLength": "00:22:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32b3BDusjf6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Role of Aesthetics",
+                        "lectureId": "6981eb3123576e8c37bf9c01",
+                        "lectureLength": "00:30:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xuq2gzCEqt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Editing Basics",
+                        "lectureId": "6981eb3123576e8c37bf9c02",
+                        "lectureLength": "00:46:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42nT5Gf5JX2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Music, captions and Transitions",
+                        "lectureId": "6981eb3123576e8c37bf9c03",
+                        "lectureLength": "00:35:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaFhhrG9HkF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Avoiding Perfectionism",
+                        "lectureId": "6981eb3123576e8c37bf9c04",
+                        "lectureLength": "00:23:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TUQCtjQEau/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Content Formats",
+                "assignmentId": "69b7e1ec49153561b6b5fcec",
+                "assignmentLink": "https://docs.google.com/document/d/18dDoclT5SvC2GogjAQsuTKK4yu8F73mfkDhT_ywp7p4/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Content Pillars",
+                "assignmentId": "69b7e1f649153561b6b5fcf1",
+                "assignmentLink": "https://docs.google.com/document/d/1voD-8jKBOoZvPfafe-jngdY49LXQmrXO-p5ZCMqjSU4/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Storytelling for Instagram",
+                "assignmentId": "69b7e20149153561b6b5fcf6",
+                "assignmentLink": "https://docs.google.com/document/d/10pF2eTISTVEaGSPaD03kcJUgwQHlSvM5YgOq9m8PfBo/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Hooks for Instagram ",
+                "assignmentId": "69b7e20b49153561b6b5fcfb",
+                "assignmentLink": "https://docs.google.com/document/d/1VkPe4Qddc_w5xsRXkPwAFlJiDaEP3Si8RpSqe5m6svw/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "ENGAGEMENT & GROWTH ESSENTIALS",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Instagram Algorithm",
+                        "lectureId": "6981eb3123576e8c37bf9c06",
+                        "lectureLength": "00:34:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzgMejsG7HN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Captions",
+                        "lectureId": "6981eb3123576e8c37bf9c07",
+                        "lectureLength": "00:40:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J87PcYpKdAp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hashtags",
+                        "lectureId": "6981eb3123576e8c37bf9c08",
+                        "lectureLength": "00:40:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nNhGUk36Be/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Posting Frequency",
+                        "lectureId": "6981eb3123576e8c37bf9c09",
+                        "lectureLength": "00:35:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5suTTSRe47b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Engaging audience",
+                        "lectureId": "6981eb3123576e8c37bf9c0a",
+                        "lectureLength": "00:31:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rjyGREGfh3u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Insta Stories",
+                        "lectureId": "6981eb3123576e8c37bf9c0b",
+                        "lectureLength": "00:38:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zPQ2sPckgH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Going Live",
+                        "lectureId": "6981eb3123576e8c37bf9c0c",
+                        "lectureLength": "00:42:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EqrpmxUnYT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hate Comments",
+                        "lectureId": "6981eb3123576e8c37bf9c0d",
+                        "lectureLength": "00:26:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fXuphJh9KG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building Resilience",
+                        "lectureId": "6981eb3123576e8c37bf9c0e",
+                        "lectureLength": "00:27:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsjUJJ4N4jc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Captions",
+                "assignmentId": "69b7e21b49153561b6b5fd00",
+                "assignmentLink": "https://docs.google.com/document/d/1emrxL2f3brTtEJwo26vRKpHjRogiEu8TtAel9ZntRA4/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Hashtags ",
+                "assignmentId": "69b7e22549153561b6b5fd05",
+                "assignmentLink": "https://docs.google.com/document/d/1VDgSvfCPdZHzGYSwGUDb9PF6j9D1tEpXX-F4YKyaOOQ/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Posting Frequency ",
+                "assignmentId": "69b7e22f49153561b6b5fd0a",
+                "assignmentLink": "https://docs.google.com/document/d/13o4x-FwkdmVBl4Kxkj_rJn-f8eMN11vvKrqxxDZwSqM/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Day Stories Challenge",
+                "assignmentId": "69b7e24a49153561b6b5fd0f",
+                "assignmentLink": "https://docs.google.com/document/d/1a_SxISR77VHRjtczktzeg5O6qzFGATKEgYHrU19HmYg/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "ADVANCED GROWTH TACTICS",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Collabs & Shoutouts",
+                        "lectureId": "6981eb3123576e8c37bf9c10",
+                        "lectureLength": "00:45:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JpxTYpkBUE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Leveraging Trends",
+                        "lectureId": "6981eb3123576e8c37bf9c11",
+                        "lectureLength": "00:31:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SqXfnbkdGd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Discovered on Insta",
+                        "lectureId": "6981eb3123576e8c37bf9c12",
+                        "lectureLength": "00:42:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Tt2P2RBUmr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cross Promotion",
+                        "lectureId": "6981eb3123576e8c37bf9c13",
+                        "lectureLength": "00:44:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cgUayxeUxS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Analytics",
+                        "lectureId": "6981eb3123576e8c37bf9c14",
+                        "lectureLength": "00:45:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByZ7UnjRXqT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Viral content",
+                        "lectureId": "6981eb3123576e8c37bf9c15",
+                        "lectureLength": "00:39:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jGUXHJrHK2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Growth Plateaus",
+                        "lectureId": "6981eb3123576e8c37bf9c16",
+                        "lectureLength": "00:36:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fjbk2yU57Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Authority Content",
+                        "lectureId": "6981eb3123576e8c37bf9c17",
+                        "lectureLength": "00:43:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BgnRmKYkAZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Experimenting Formats",
+                        "lectureId": "6981eb3123576e8c37bf9c18",
+                        "lectureLength": "00:46:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zsf2jK6hZK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sustainable Growth",
+                        "lectureId": "6981eb3123576e8c37bf9c19",
+                        "lectureLength": "00:37:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3yc3nRthMM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Collab Pitch Challenge ",
+                "assignmentId": "69b7e25a49153561b6b5fd14",
+                "assignmentLink": "https://docs.google.com/document/d/1_JNavPlNMYDytqQQhL6ZYI5cBORdJscLKI2L5eI7Ek8/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Leveraging Trends",
+                "assignmentId": "69b7e26449153561b6b5fd19",
+                "assignmentLink": "https://docs.google.com/document/d/1ptEejkUQz_0zJK-CEehcxs8xFOXdq7f8jdcYwoncgE0/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Observing Viral Posts ",
+                "assignmentId": "69b7e27149153561b6b5fd1e",
+                "assignmentLink": "https://docs.google.com/document/d/1svnBwEnUXy3GNhrOJxCEnfNXdKLRh22yZhlHhvNJuGQ/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Format Experimentation Exercise",
+                "assignmentId": "69b7e27b49153561b6b5fd23",
+                "assignmentLink": "https://docs.google.com/document/d/1RNnkNE3mKEyVShxz0aDcF8kSA30QVts9qj3s0a2Vex8/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "MONETIZATION AND CREATOR MINDSET",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Ways to earn",
+                        "lectureId": "6981eb3123576e8c37bf9c1b",
+                        "lectureLength": "00:48:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pQtkbpP9R7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Media Kit",
+                        "lectureId": "6981eb3123576e8c37bf9c1c",
+                        "lectureLength": "00:38:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zJNnzm6sSy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pitching insta",
+                        "lectureId": "6981eb3123576e8c37bf9c1d",
+                        "lectureLength": "00:42:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58BkHYurn6d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "long term Collab",
+                        "lectureId": "6981eb3123576e8c37bf9c1e",
+                        "lectureLength": "00:33:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YTKe93qUb5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "diversifying Income",
+                        "lectureId": "6981eb3123576e8c37bf9c1f",
+                        "lectureLength": "00:35:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NYjGghTEMG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creative Burnout",
+                        "lectureId": "6981eb3123576e8c37bf9c20",
+                        "lectureLength": "00:33:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bU56KRm57s/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creator's Time Management",
+                        "lectureId": "6981eb3123576e8c37bf9c21",
+                        "lectureLength": "00:28:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RBxhtPD43b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Healthy Boundaries",
+                        "lectureId": "6981eb3123576e8c37bf9c22",
+                        "lectureLength": "00:27:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6RCFB5GzXH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comparing online",
+                        "lectureId": "6981eb3123576e8c37bf9c23",
+                        "lectureLength": "00:45:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tHb5Mnmgqd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Instagram Future",
+                        "lectureId": "6981eb3123576e8c37bf9c24",
+                        "lectureLength": "00:31:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFm6smmA3Mx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Monetization Mapping Exercise ",
+                "assignmentId": "69b7e28949153561b6b5fd28",
+                "assignmentLink": "https://docs.google.com/document/d/1A4TDcCYEIelLCl6Nwyei9o5XxjSlM9MGYpKLxh6iy88/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Pitch Draft Exercise ",
+                "assignmentId": "69b7e29349153561b6b5fd2d",
+                "assignmentLink": "https://docs.google.com/document/d/15yIIY17qoyUF2HRZBOkkmHF-9zoPnVSxB0g8bsaWbJ8/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Content Comparison Audit ",
+                "assignmentId": "69b7e2b549153561b6b5fde1",
+                "assignmentLink": "https://docs.google.com/document/d/1d019ANryEqBUj83sh6Y7zNT7qecDy2qCXDk0buFC9x8/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "REAL LIFE CHALLENGES & PRACTICAL SKILLS",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Fear of being judged",
+                        "lectureId": "6981eb3123576e8c37bf9c26",
+                        "lectureLength": "00:51:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUR3EeMC984/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Navigating Feedback",
+                        "lectureId": "6981eb3123576e8c37bf9c27",
+                        "lectureLength": "00:46:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ayd38SnEhge/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Slow engagement",
+                        "lectureId": "6981eb3123576e8c37bf9c28",
+                        "lectureLength": "00:43:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3nZepnS9Pr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Consistency",
+                        "lectureId": "6981eb3123576e8c37bf9c29",
+                        "lectureLength": "00:26:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sKG5S2UxpB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Maintaining Authenticity",
+                        "lectureId": "6981eb3123576e8c37bf9c2a",
+                        "lectureLength": "00:44:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Uns8XE82Eu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reignite Inspiration",
+                        "lectureId": "6981eb3123576e8c37bf9c2b",
+                        "lectureLength": "00:43:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nDRxYpMmSX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Video and Audio Essentials",
+                        "lectureId": "6981eb3123576e8c37bf9c2c",
+                        "lectureLength": "00:52:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Z4SyjgZRmS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Thumbnails",
+                        "lectureId": "6981eb3123576e8c37bf9c2d",
+                        "lectureLength": "00:46:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYN9UKg5Jyg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mental health for creators",
+                        "lectureId": "6981eb3123576e8c37bf9c2e",
+                        "lectureLength": "00:47:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/449hBkH7ZH8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The long game",
+                        "lectureId": "6981eb3123576e8c37bf9c2f",
+                        "lectureLength": "00:35:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAYB5UHURm6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Reel & Carousel Cover Thumbnail Fix ",
+                "assignmentId": "69b7e2d949153561b6b5fdeb",
+                "assignmentLink": "https://docs.google.com/document/d/1NC6ViQ0cQVyvraqC68RvR1jZ14EBu2NnuM1rQvV8pds/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Capstone Project: ",
+                "assignmentId": "69b7e2e349153561b6b5fdf0",
+                "assignmentLink": "https://docs.google.com/document/d/1jS9HbgYH6l1BnpEmMWIRZcQ37V3_g6bDX8GVLzAC4PE/edit?usp=sharing"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "69f894b1959c4775ed11f057",
+                "mentor": "Jahanvi Shegal",
+                "start": 19,
+                "end": 21,
+                "chatStart": 11,
+                "chatEnd": 12,
+                "time": "7:00 PM - 9:00 PM",
+                "url": "https://campus.tutedude.com/uiux?room=mn-stg-1",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

@@ -1,0 +1,607 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "68720e3b318dfa98a32da62c",
+        "courseName": "Next Js",
+        "slug": "nextjs",
+        "category": "Technical",
+        "tpFolderId": "AgpmzDcJZD4",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Getting Started",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started",
+                        "lectureId": "68720e3b318dfa98a32da62e",
+                        "lectureLength": "01:16:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fjNJt9RySU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Course Overview",
+                        "lectureId": "68720e3b318dfa98a32da62f",
+                        "lectureLength": "00:13:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDuckEZHMXA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "NextJs Essentials",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Foundation & Routing Fundamentals Part1",
+                        "lectureId": "68720e3b318dfa98a32da631",
+                        "lectureLength": "00:38:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YYTkJTCYcR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Foundation & Routing Fundamentals Part2",
+                        "lectureId": "68720e3b318dfa98a32da632",
+                        "lectureLength": "00:31:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xGTUsBKDQAs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Routing & Project Structure",
+                        "lectureId": "68720e3b318dfa98a32da633",
+                        "lectureLength": "00:50:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PEPNUGGYTE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Layouts, Styling & Components",
+                        "lectureId": "68720e3b318dfa98a32da634",
+                        "lectureLength": "00:54:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eUGtTFSF4E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dynamic Content & Data Management",
+                        "lectureId": "68720e3b318dfa98a32da635",
+                        "lectureLength": "01:26:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Em7qKYbjp6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Routing & Page Rendering",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "SetUp and Introduction",
+                        "lectureId": "68720e3b318dfa98a32da637",
+                        "lectureLength": "00:23:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BJKuQsYhzp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dynamic Routing",
+                        "lectureId": "68720e3b318dfa98a32da638",
+                        "lectureLength": "00:23:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SQUnFNjQ3D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Custom 404 Page & Navigation",
+                        "lectureId": "68720e3b318dfa98a32da639",
+                        "lectureLength": "00:41:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5X92rHaYmcQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Programmatic Navigation",
+                        "lectureId": "68720e3b318dfa98a32da63a",
+                        "lectureLength": "00:33:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S7QPTzEA3EP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nested Routes & Advanced Patterns",
+                        "lectureId": "68720e3b318dfa98a32da63b",
+                        "lectureLength": "00:43:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46enDTx6HqH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Server vs Client Components",
+                        "lectureId": "68720e3b318dfa98a32da63c",
+                        "lectureLength": "00:19:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aAC3un46Yn/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Routing Assignment",
+                "assignmentId": "68f2251c83492d3c7b6b5568",
+                "assignmentLink": "https://www.canva.com/design/DAGylJ12VYo/xBQ8DliG5aQb1NSGfrwMsg/edit?utm_content=DAGylJ12VYo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "section",
+                "name": "Data Fetching",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Project SetUp and API Foundations",
+                        "lectureId": "68720e3b318dfa98a32da63e",
+                        "lectureLength": "00:40:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrD8JNUXKcm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "API Routes",
+                        "lectureId": "68720e3b318dfa98a32da63f",
+                        "lectureLength": "00:55:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AC8kapnTnrJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Enhanced Routes and Postman Testing Part 1",
+                        "lectureId": "68720e3b318dfa98a32da640",
+                        "lectureLength": "00:25:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nSptJfcEX6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Enhanced Routes and Postman Testing Part 2",
+                        "lectureId": "68720e3b318dfa98a32da641",
+                        "lectureLength": "00:37:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QEEBd5szum/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Mutating Data",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Module Introduction Mutating Data In Next.js",
+                        "lectureId": "687213df318dfa98a32da68c",
+                        "lectureLength": "00:10:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/585ee2QesZK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Starting the Project & Analyzing Mutation Options",
+                        "lectureId": "68720e3b318dfa98a32da645",
+                        "lectureLength": "00:11:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QRd2BDMYyyH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setting Up A Form Action",
+                        "lectureId": "68720e3b318dfa98a32da646",
+                        "lectureLength": "00:10:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KgcA73bDXX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a Server Action (Storing Data in Database)",
+                        "lectureId": "68720e3b318dfa98a32da647",
+                        "lectureLength": "00:17:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zEtj4Ceehf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Providing User Feedback with the useFormStatus Hook",
+                        "lectureId": "68720e3b318dfa98a32da648",
+                        "lectureLength": "00:15:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dJYuxXjnpQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using useFormState Hook",
+                        "lectureId": "68720e3b318dfa98a32da649",
+                        "lectureLength": "00:18:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3g9p34yMhpc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Validating User Input With Help of the useFormState Hook",
+                        "lectureId": "68720e3b318dfa98a32da64a",
+                        "lectureLength": "00:11:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Gr9yY5REHj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adjusting Server Actions for useFormState",
+                        "lectureId": "68720e3b318dfa98a32da64b",
+                        "lectureLength": "00:06:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNMJSd8Gfgd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "use server Does Not Guarantee Server-side Execution",
+                        "lectureId": "68720e3b318dfa98a32da64c",
+                        "lectureLength": "00:05:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68XFYDrHSbH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Uploading & Storing Images Part 1",
+                        "lectureId": "68720e3b318dfa98a32da643",
+                        "lectureLength": "00:22:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bBFdhT52yk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Uploading & Storing Images Part2",
+                        "lectureId": "68720e3b318dfa98a32da644",
+                        "lectureLength": "00:06:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PUfbTs9QdR/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Understanding and configuring Caching",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Module Introduction & Project SetUp",
+                        "lectureId": "68720e3b318dfa98a32da64e",
+                        "lectureLength": "00:07:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zmFJS6McCx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Handling Request Memoization",
+                        "lectureId": "68720e3b318dfa98a32da64f",
+                        "lectureLength": "00:19:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCPzztRt7Pd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Data Cache & Cache Settings",
+                        "lectureId": "68720e3b318dfa98a32da650",
+                        "lectureLength": "00:20:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8freJuZUHER/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Controlling Data Caching",
+                        "lectureId": "68720e3b318dfa98a32da651",
+                        "lectureLength": "00:31:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eDANnMhy2b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Making Sense Of The Full Route Cache & On-Demand Cache Invalidation",
+                        "lectureId": "68720e3b318dfa98a32da652",
+                        "lectureLength": "00:41:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/326nhchjpjX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "NextJs App Optimization",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Image Optimization Fundamentals",
+                        "lectureId": "68720e3b318dfa98a32da654",
+                        "lectureLength": "00:22:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78KDazXKPPC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Page Metadata and SEO Optimization",
+                        "lectureId": "68720e3b318dfa98a32da655",
+                        "lectureLength": "00:19:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yhSF7sAcMhJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Legacy Metadata Management - Page Router",
+                        "lectureId": "68720e3b318dfa98a32da656",
+                        "lectureLength": "00:19:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3H8TyKk3gD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "User Authentication",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Module & Project Setup",
+                        "lectureId": "68720e3b318dfa98a32da658",
+                        "lectureLength": "00:14:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4up8c7m5Up8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "User Signup Extracting And Validating User Input",
+                        "lectureId": "687213ef318dfa98a32da68f",
+                        "lectureLength": "00:19:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZQHMymRRKH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Storing Users In The Database The Wrong Way",
+                        "lectureId": "687213fb318dfa98a32da692",
+                        "lectureLength": "00:10:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcARm5M82dM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Storing Users In The Database The Right Way",
+                        "lectureId": "68721409318dfa98a32da695",
+                        "lectureLength": "00:06:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dCuapxQcKM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Checking for Email Duplication",
+                        "lectureId": "68720e3b318dfa98a32da659",
+                        "lectureLength": "00:14:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZG4P8Tfr2b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Choosing a Third-Party Auth Package Lucia",
+                        "lectureId": "68720e3b318dfa98a32da65a",
+                        "lectureLength": "00:45:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tSTMQCaktU/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Pages and File Based Routing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Module Introduction",
+                        "lectureId": "68720e3b318dfa98a32da65c",
+                        "lectureLength": "00:08:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37rzddZ37Cp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Planning the Project",
+                        "lectureId": "68720e3b318dfa98a32da65f",
+                        "lectureLength": "00:07:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HPxghHrZq7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setting Up the Main Pages",
+                        "lectureId": "68720e3b318dfa98a32da660",
+                        "lectureLength": "00:09:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Md6hEStj8uq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Dummy Data & Static Files",
+                        "lectureId": "68720e3b318dfa98a32da661",
+                        "lectureLength": "00:15:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qgSHBzqDF7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Regular React Components",
+                        "lectureId": "68720e3b318dfa98a32da662",
+                        "lectureLength": "00:11:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u6667C9JP8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding More React Components & Connecting Them",
+                        "lectureId": "68720e3b318dfa98a32da663",
+                        "lectureLength": "00:11:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRQhBRz2mDc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Styling Components in Next.js Projects",
+                        "lectureId": "68720e3b318dfa98a32da664",
+                        "lectureLength": "00:05:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hCfa9p7X8P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Link and  Navigation in Next.js 13",
+                        "lectureId": "68720e3b318dfa98a32da665",
+                        "lectureLength": "00:05:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCR92KrtETC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding the Event Detail Page - Dynamic Route",
+                        "lectureId": "68720e3b318dfa98a32da666",
+                        "lectureLength": "00:08:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nBfN2ANYSc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding a General Layout Wrapper Component",
+                        "lectureId": "68720e3b318dfa98a32da65d",
+                        "lectureLength": "00:11:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/336B4BDqkKj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding a Filter Form for Filtering Events",
+                        "lectureId": "68720e3b318dfa98a32da65e",
+                        "lectureLength": "00:39:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NJuZZGJq2b/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Page Pre-Rendering and Data Fetching",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Static Blog With ISR",
+                        "lectureId": "68720e3b318dfa98a32da668",
+                        "lectureLength": "00:56:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jgPzaGyeRU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dynamic Product Pagesn with Fallbacks",
+                        "lectureId": "68720e3b318dfa98a32da669",
+                        "lectureLength": "01:28:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65ZZQ8XdpRa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dashboard with Hybrid Data Fetching",
+                        "lectureId": "68720e3b318dfa98a32da66a",
+                        "lectureLength": "00:55:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQfpf4srk3r/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Data Fetching & API Routes",
+                "assignmentId": "68f2251e83492d3c7b6b556c",
+                "assignmentLink": "https://www.canva.com/design/DAGylONOplU/tDqOIFGDtRMEh38TcY5x7A/edit"
+            },
+            {
+                "type": "section",
+                "name": "Adding Backend Code with API Routes",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Parsing The Incoming Request and Executing Server side Code",
+                        "lectureId": "68720e3b318dfa98a32da66c",
+                        "lectureLength": "00:55:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5syJTGutjSe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using API Routes to Get Data",
+                        "lectureId": "68720e3b318dfa98a32da66d",
+                        "lectureLength": "00:37:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR9YkfHd6j3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating and Using Dynamic API Routes",
+                        "lectureId": "68720e3b318dfa98a32da66e",
+                        "lectureLength": "00:58:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ErPbAU7dEX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Working with App-wide State",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating React Context",
+                        "lectureId": "68720e3b318dfa98a32da670",
+                        "lectureLength": "00:42:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GsQYqF3NCJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Context Data in Components",
+                        "lectureId": "68720e3b318dfa98a32da671",
+                        "lectureLength": "00:24:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DqtgygYrPk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Triggering and Showing Notifications",
+                        "lectureId": "68720e3b318dfa98a32da672",
+                        "lectureLength": "01:15:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbqTNQSpu6S/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "State Management, Middleware & Optimization",
+                "assignmentId": "68f2251f83492d3c7b6b556e",
+                "assignmentLink": "https://www.canva.com/design/DAGyle-fQZo/NYraZTcPeM5v0bGhcGTirQ/edit"
+            },
+            {
+                "type": "section",
+                "name": "Deploying NextJs Apps",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Deploying Nextjs App",
+                        "lectureId": "68720e3b318dfa98a32da674",
+                        "lectureLength": "00:54:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96MxYtSQDSb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Next.js Summary",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Next.js Fundamentals and Project SetUp",
+                        "lectureId": "68720e3b318dfa98a32da676",
+                        "lectureLength": "01:00:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RRqBJ4Yr84/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Routing and Navigation",
+                        "lectureId": "68720e3b318dfa98a32da677",
+                        "lectureLength": "00:46:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aj5B8mdz8MF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pre-rendering and Data Fetching",
+                        "lectureId": "68720e3b318dfa98a32da678",
+                        "lectureLength": "00:38:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aMs8mhfBU7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploying Nextjs App PART1",
+                        "lectureId": "68720e3b318dfa98a32da679",
+                        "lectureLength": "00:30:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zhdPfNKZDDk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploying Nextjs App PART2",
+                        "lectureId": "68720e3b318dfa98a32da67a",
+                        "lectureLength": "00:07:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FpaEMcTXaC/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Project: Expense Manager",
+                "assignmentId": "68f2252083492d3c7b6b5570",
+                "assignmentLink": "https://www.canva.com/design/DAGylVDEHD8/HhfPQEbnJqS1MkeR2yq1yA/edit?utm_content=DAGylVDEHD8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            }
+        ],
+        "liveMentorship": null,
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

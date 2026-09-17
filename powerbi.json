@@ -1,0 +1,1455 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680c86eb364f718dc17b7091",
+        "courseName": "Power BI",
+        "slug": "powerbi",
+        "category": "technical",
+        "tpFolderId": "7YKD37ytBkN",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": true,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors",
+                        "lectureId": "68e7fd60c9cf3d230ba64e98",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introducing Microsoft Power BI",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Power BI Introduction",
+                        "lectureId": "680c86eb364f718dc17b7093",
+                        "lectureLength": "00:09:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aa7ADXJ2Pa5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Power BI Installation",
+                        "lectureId": "680c86eb364f718dc17b7094",
+                        "lectureLength": "00:05:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eu36UFkRDR2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adjusting Settings",
+                        "lectureId": "680c86eb364f718dc17b7095",
+                        "lectureLength": "00:05:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3B3mzkQARMK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Workflow of Power BI",
+                        "lectureId": "680c86eb364f718dc17b7096",
+                        "lectureLength": "00:10:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZFEabtF5GH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Power BI Helpful Resources",
+                        "lectureId": "680c86eb364f718dc17b7097",
+                        "lectureLength": "00:06:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9P335saE3hR/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Connecting and Shaping Data",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Front End vs back End",
+                        "lectureId": "680c86eb364f718dc17b709a",
+                        "lectureLength": "00:10:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fR9sbkZK4A/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of Data Connectors",
+                        "lectureId": "680c86eb364f718dc17b709b",
+                        "lectureLength": "00:16:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3G6RSKpKXrN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "POWER QUERY EDITOR",
+                        "lectureId": "680c86eb364f718dc17b709c",
+                        "lectureLength": "00:08:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zUQqE9kQneT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Data Transformations",
+                        "lectureId": "680c86eb364f718dc17b709d",
+                        "lectureLength": "00:18:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ECfEM7mbsyf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-1-Table Transformation Assignment",
+                        "lectureId": "680c86eb364f718dc17b709e",
+                        "lectureLength": "00:03:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eQuAec5f78/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-1-Table Transformation- Assignment Solution",
+                        "lectureId": "680c86eb364f718dc17b709f",
+                        "lectureLength": "00:14:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cn5PshqrAn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Storage and Connection   Mode",
+                        "lectureId": "680c86eb364f718dc17b70a0",
+                        "lectureLength": "00:10:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AYkgpBjCQc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connecting To Database",
+                        "lectureId": "680c86eb364f718dc17b70a1",
+                        "lectureLength": "00:18:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9J4hghNRgBd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Website Data Gathering",
+                        "lectureId": "680c86eb364f718dc17b70a2",
+                        "lectureLength": "00:11:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CB4aPrNxfh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data profiling and QA Tools",
+                        "lectureId": "680c86eb364f718dc17b70a3",
+                        "lectureLength": "00:16:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ND89PrJEng5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Tools Transformation",
+                        "lectureId": "680c86eb364f718dc17b70a4",
+                        "lectureLength": "00:16:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6unnJbGqneT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-2-Text Tools",
+                        "lectureId": "680c86eb364f718dc17b70a5",
+                        "lectureLength": "00:02:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eT6Y9nUM9Zf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-2-Text-Tools-Solution",
+                        "lectureId": "680c86eb364f718dc17b70a6",
+                        "lectureLength": "00:04:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQq3y2ErEZE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Numeric Tools",
+                        "lectureId": "680c86eb364f718dc17b70a7",
+                        "lectureLength": "00:16:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MpmNM6DU7D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-3-Numeric Tools",
+                        "lectureId": "680c86eb364f718dc17b70a8",
+                        "lectureLength": "00:02:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RqUTErGUrq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-3-Numeric Tools-Solution",
+                        "lectureId": "680c86eb364f718dc17b70a9",
+                        "lectureLength": "00:05:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68EYjZ2kaXn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DATE AND TIME TOOLS",
+                        "lectureId": "680c86eb364f718dc17b70aa",
+                        "lectureLength": "00:14:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nZgcNt7G8U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Change Type with Locale",
+                        "lectureId": "680c86eb364f718dc17b70ab",
+                        "lectureLength": "00:05:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADPc5jExc4m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rolling Calendar",
+                        "lectureId": "680c86eb364f718dc17b70ac",
+                        "lectureLength": "00:13:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/quch8kcpC8Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-4-Calendar tables Assignment",
+                        "lectureId": "680c86eb364f718dc17b70ad",
+                        "lectureLength": "00:02:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FCcsuMUNua/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-4-Calender Tables-Solutions",
+                        "lectureId": "680c86eb364f718dc17b70ae",
+                        "lectureLength": "00:03:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XxmnQJt8P9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Index and Conditional Column",
+                        "lectureId": "680c86eb364f718dc17b70af",
+                        "lectureLength": "00:14:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/695R2KfmAtG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grouping and Aggregating",
+                        "lectureId": "680c86eb364f718dc17b70b0",
+                        "lectureLength": "00:14:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ms2n7fxSrf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pivoting and Unpivoting",
+                        "lectureId": "680c86eb364f718dc17b70b1",
+                        "lectureLength": "00:13:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uZBzesBnYm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Merging Queries",
+                        "lectureId": "680c86eb364f718dc17b70b2",
+                        "lectureLength": "00:15:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7M9uQGqbn7A/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Appending Queries",
+                        "lectureId": "680c86eb364f718dc17b70b3",
+                        "lectureLength": "00:14:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KeMZjRu87J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Gathering From Folder",
+                        "lectureId": "680c86eb364f718dc17b70b4",
+                        "lectureLength": "00:14:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmnGZGanJSS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Source Settings",
+                        "lectureId": "680c86eb364f718dc17b70b5",
+                        "lectureLength": "00:12:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf3eSghfxh3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Refresh Button",
+                        "lectureId": "680c86eb364f718dc17b70b6",
+                        "lectureLength": "00:06:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bhfRqAYYfG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "importing Excel Models",
+                        "lectureId": "680c86eb364f718dc17b70b7",
+                        "lectureLength": "00:05:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7R5hdan2DK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Table Transformation",
+                "assignmentId": "68f2251483492d3c7b6b5504",
+                "assignmentLink": "https://www.canva.com/design/DAHDQXn-4Gw/_ZyVhY4N6e9bXAV8UEHo-Q/view?embed"
+            },
+            {
+                "type": "assignment",
+                "name": "Calendar tables Assignment",
+                "assignmentId": "68f2251483492d3c7b6b5506",
+                "assignmentLink": "https://www.canva.com/design/DAHDQp_qAww/3PS8PfmqYMsdcq136D80mw/view?embed"
+            },
+            {
+                "type": "section",
+                "name": "Creating a Data Model",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating A Data Model Introduction",
+                        "lectureId": "680c86eb364f718dc17b70ba",
+                        "lectureLength": "00:06:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MMTadFy4mZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is a Data Model",
+                        "lectureId": "680c86eb364f718dc17b70bb",
+                        "lectureLength": "00:11:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7p9HUAzz4HM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Database Normalization",
+                        "lectureId": "680c86eb364f718dc17b70bc",
+                        "lectureLength": "00:17:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99nQ7tFrn4n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fact And Dimension Tables",
+                        "lectureId": "680c86eb364f718dc17b70bd",
+                        "lectureLength": "00:12:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bghmxuz3edt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PRIMARY AND FOREIGN KEYS",
+                        "lectureId": "680c86eb364f718dc17b70be",
+                        "lectureLength": "00:17:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yhN4ZBJ43x/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Merged Table vs Relationships",
+                        "lectureId": "680c86eb364f718dc17b70bf",
+                        "lectureLength": "00:04:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88mHjetHBUE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Table Relationship",
+                        "lectureId": "680c86eb364f718dc17b70c0",
+                        "lectureLength": "00:13:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U7KpdyeFfK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Managing and Editing Relationship",
+                        "lectureId": "680c86eb364f718dc17b70c1",
+                        "lectureLength": "00:06:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6eU5zeMMQ6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Star and SnowFlake Schema",
+                        "lectureId": "680c86eb364f718dc17b70c2",
+                        "lectureLength": "00:07:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbXTMAXhtDf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-1-Table-Relationships",
+                        "lectureId": "680c86eb364f718dc17b70c3",
+                        "lectureLength": "00:04:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxnqffNUxPn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-1-Table Relationships- Solution",
+                        "lectureId": "680c86eb364f718dc17b70c4",
+                        "lectureLength": "00:13:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHCuk8jXuAa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Active and Inactive Relationship",
+                        "lectureId": "680c86eb364f718dc17b70c5",
+                        "lectureLength": "00:09:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABdHPggdQC5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Relationship Cardinality",
+                        "lectureId": "680c86eb364f718dc17b70c6",
+                        "lectureLength": "00:19:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJkuyzAGmPd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connectng Multiple Fact Tables",
+                        "lectureId": "680c86eb364f718dc17b70c7",
+                        "lectureLength": "00:13:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7n4x2tSjTDj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Filter Context and Filter Flow",
+                        "lectureId": "680c86eb364f718dc17b70c8",
+                        "lectureLength": "00:14:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49b4Gym3j34/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "BiDirectional Filter and Ambiguity",
+                        "lectureId": "680c86eb364f718dc17b70c9",
+                        "lectureLength": "00:16:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rPFdcp4Qgd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hide in Report View",
+                        "lectureId": "680c86eb364f718dc17b70ca",
+                        "lectureLength": "00:07:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfdnRCNjYpY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-2-Filter Flow",
+                        "lectureId": "680c86eb364f718dc17b70cb",
+                        "lectureLength": "00:03:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3f4N6qjBf7g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-2-Filter Flow-Solution",
+                        "lectureId": "680c86eb364f718dc17b70cc",
+                        "lectureLength": "00:06:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RnQJdhjDFC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Model Layouts",
+                        "lectureId": "680c86eb364f718dc17b70cd",
+                        "lectureLength": "00:11:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpKqDNCUD6J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Format and Category",
+                        "lectureId": "680c86eb364f718dc17b70ce",
+                        "lectureLength": "00:10:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xsjx8f94pg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Heirarchies",
+                        "lectureId": "680c86eb364f718dc17b70cf",
+                        "lectureLength": "00:10:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fHu8uKU2a9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-3-Heirarchies",
+                        "lectureId": "680c86eb364f718dc17b70d0",
+                        "lectureLength": "00:01:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ba6bScQJguA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-3-Heirarchies-Solution",
+                        "lectureId": "680c86eb364f718dc17b70d1",
+                        "lectureLength": "00:06:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qreBZdR232/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Table Relationships",
+                "assignmentId": "68f2251483492d3c7b6b5508",
+                "assignmentLink": "https://www.canva.com/design/DAHDQ1mc_ls/zxcow-eoargO_6mqqNTs9A/view?embed"
+            },
+            {
+                "type": "section",
+                "name": "Calculated Field with Dax",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "DAX Introduction",
+                        "lectureId": "680c86eb364f718dc17b70d4",
+                        "lectureLength": "00:07:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkGgAd7HfZA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dax Vs M Code",
+                        "lectureId": "680c86eb364f718dc17b70d5",
+                        "lectureLength": "00:07:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eP9gkSUFA4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Calculated Columns",
+                        "lectureId": "680c86eb364f718dc17b70d6",
+                        "lectureLength": "00:14:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76KBU298F6b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dax Measures",
+                        "lectureId": "680c86eb364f718dc17b70d7",
+                        "lectureLength": "00:07:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yzCM9JnTkgs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Implicit vs Explicit Measures",
+                        "lectureId": "680c86eb364f718dc17b70d8",
+                        "lectureLength": "00:11:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HPTUMQxSBB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Quick Measures",
+                        "lectureId": "680c86eb364f718dc17b70d9",
+                        "lectureLength": "00:08:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Cs4yuTMrUB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Measure Tables",
+                        "lectureId": "680c86eb364f718dc17b70da",
+                        "lectureLength": "00:13:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bkbd3j2t5u6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Filter Context",
+                        "lectureId": "680c86eb364f718dc17b70db",
+                        "lectureLength": "00:18:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SBEsGU3rqP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dax Syntax and Operators",
+                        "lectureId": "680c86eb364f718dc17b70dc",
+                        "lectureLength": "00:19:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69XRfJPS3D6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Common Function Category",
+                        "lectureId": "680c86eb364f718dc17b70dd",
+                        "lectureLength": "00:17:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TxB8sAZREy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Math and Stats Function",
+                        "lectureId": "680c86eb364f718dc17b70de",
+                        "lectureLength": "00:15:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ptAerzgdNg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Counting functions",
+                        "lectureId": "680c86eb364f718dc17b70df",
+                        "lectureLength": "00:20:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APjStJDkC7M/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-1-Maths and Stats",
+                        "lectureId": "680c86eb364f718dc17b70e0",
+                        "lectureLength": "00:04:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86shnjFeenE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-1-Maths and Stats-Solutions",
+                        "lectureId": "680c86eb364f718dc17b70e1",
+                        "lectureLength": "00:09:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6g9MBFj97Sq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conditional and Logical Functions",
+                        "lectureId": "680c86eb364f718dc17b70e2",
+                        "lectureLength": "00:18:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NHyX8e78qm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Switch Function",
+                        "lectureId": "680c86eb364f718dc17b70e3",
+                        "lectureLength": "00:23:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kUJZd99qkC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-2-Logical functions",
+                        "lectureId": "680c86eb364f718dc17b70e4",
+                        "lectureLength": "00:04:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EeCHyFGMuy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-2-Logical functions-Solution",
+                        "lectureId": "680c86eb364f718dc17b70e5",
+                        "lectureLength": "00:14:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rejhZsyTyah/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Functions",
+                        "lectureId": "680c86eb364f718dc17b70e6",
+                        "lectureLength": "00:23:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3pybFAj3ad/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-3-Text functions",
+                        "lectureId": "680c86eb364f718dc17b70e7",
+                        "lectureLength": "00:02:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KTuthkfzRu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-3-Text functions-Solution",
+                        "lectureId": "680c86eb364f718dc17b70e8",
+                        "lectureLength": "00:10:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hmSszfKPSg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Date and Time Functions",
+                        "lectureId": "680c86eb364f718dc17b70e9",
+                        "lectureLength": "00:25:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nQpXRT2nC3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-4-Date and Time",
+                        "lectureId": "680c86eb364f718dc17b70ea",
+                        "lectureLength": "00:01:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fXuEjknkUM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-4-Date and Time-Solutions",
+                        "lectureId": "680c86eb364f718dc17b70eb",
+                        "lectureLength": "00:02:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S2sZUFFxDEn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Joining Data with Related",
+                        "lectureId": "680c86eb364f718dc17b70ec",
+                        "lectureLength": "00:13:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A56rRcRQJnS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Calculate Function",
+                        "lectureId": "680c86eb364f718dc17b70ed",
+                        "lectureLength": "00:24:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74HgSQg9K4C/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DAX Measure Totals",
+                        "lectureId": "680c86eb364f718dc17b70ee",
+                        "lectureLength": "00:10:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PnbKgHmJ2j/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-5-Calculate Function",
+                        "lectureId": "680c86eb364f718dc17b70ef",
+                        "lectureLength": "00:03:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACGSmKf8zae/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-5-Calculate Function-Solutions",
+                        "lectureId": "680c86eb364f718dc17b70f0",
+                        "lectureLength": "00:14:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2SccBQUc3S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ALL Function",
+                        "lectureId": "680c86eb364f718dc17b70f1",
+                        "lectureLength": "00:27:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fmxnnr33Fp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-6-Calculate and ALL",
+                        "lectureId": "680c86eb364f718dc17b70f2",
+                        "lectureLength": "00:02:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9b7R3ju64qG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-6-Calculate and ALL-Solution",
+                        "lectureId": "680c86eb364f718dc17b70f3",
+                        "lectureLength": "00:06:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rJebeyB3Nr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Filter Functions",
+                        "lectureId": "680c86eb364f718dc17b70f4",
+                        "lectureLength": "00:22:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88x5m7yTuTd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Iterator Functions",
+                        "lectureId": "680c86eb364f718dc17b70f5",
+                        "lectureLength": "00:28:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Qqpc4Xq7Gj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-7-Iterators",
+                        "lectureId": "680c86eb364f718dc17b70f6",
+                        "lectureLength": "00:02:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/672ytaNCB5B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-7-Iterators-Solution",
+                        "lectureId": "680c86eb364f718dc17b70f7",
+                        "lectureLength": "00:09:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zc6Qq5as7p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Time Intelligence Patterns",
+                        "lectureId": "680c86eb364f718dc17b70f8",
+                        "lectureLength": "00:29:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BR49Rg8NT4U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-8-Time Intelligence",
+                        "lectureId": "680c86eb364f718dc17b70f9",
+                        "lectureLength": "00:01:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uy4mJgpxkR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-8-Time Intelligence-Solutions",
+                        "lectureId": "680c86eb364f718dc17b70fa",
+                        "lectureLength": "00:16:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYkXgChXBJ9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Maths and Stats",
+                "assignmentId": "68f2251483492d3c7b6b550a",
+                "assignmentLink": "https://www.canva.com/design/DAHDQ9A61l0/Uzuy-f3IjTZIwpBQP13S5Q/view?embed"
+            },
+            {
+                "type": "assignment",
+                "name": "Calculate Function",
+                "assignmentId": "68f2251483492d3c7b6b550c",
+                "assignmentLink": "https://www.canva.com/design/DAHDQyGGiCQ/M6Y_DQrLy_i1H8O0-TSfGA/view?embed"
+            },
+            {
+                "type": "assignment",
+                "name": "Time Intelligence",
+                "assignmentId": "68f2251483492d3c7b6b550e",
+                "assignmentLink": "https://www.canva.com/design/DAHDQ4YSaWE/VR1CvtPAVQQ52Zjzb7Wm7A/view?embed"
+            },
+            {
+                "type": "section",
+                "name": "Visualizing Dashboard",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Dashboard Intro and three key questions",
+                        "lectureId": "680c86eb364f718dc17b70ff",
+                        "lectureLength": "00:38:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h9aRTTD2tEC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dashboard Sketch",
+                        "lectureId": "680c86eb364f718dc17b7100",
+                        "lectureLength": "00:23:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApJQC6rtUSX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Report Pages and objects",
+                        "lectureId": "680c86eb364f718dc17b7101",
+                        "lectureLength": "00:19:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zxSUG45huUt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Naming and Grouping Objects",
+                        "lectureId": "680c86eb364f718dc17b7102",
+                        "lectureLength": "00:05:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Zemp6hfq8t5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cards and Multi Row Cards",
+                        "lectureId": "680c86eb364f718dc17b7103",
+                        "lectureLength": "00:19:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98rXsa4sjsU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-1-Cards",
+                        "lectureId": "680c86eb364f718dc17b7104",
+                        "lectureLength": "00:01:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E4GFmN8eEP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-1-cards-solution",
+                        "lectureId": "680c86eb364f718dc17b7105",
+                        "lectureLength": "00:08:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9E729Rct7e5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Line Charts",
+                        "lectureId": "680c86eb364f718dc17b7106",
+                        "lectureLength": "00:17:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jH33hbk5MH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Trend lines and Forecasts",
+                        "lectureId": "680c86eb364f718dc17b7107",
+                        "lectureLength": "00:08:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUtnQTx5qPJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-2-Line Charts",
+                        "lectureId": "680c86eb364f718dc17b7108",
+                        "lectureLength": "00:01:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nQxTSfsE4c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-2-Line Charts-Solution",
+                        "lectureId": "680c86eb364f718dc17b7109",
+                        "lectureLength": "00:06:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J2HfCSC5Xm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "KPI Visuals",
+                        "lectureId": "680c86eb364f718dc17b710a",
+                        "lectureLength": "00:23:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Te2SuTGppT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bar and Donut Charts",
+                        "lectureId": "680c86eb364f718dc17b710b",
+                        "lectureLength": "00:14:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g8yKF8bteB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Filtering Options",
+                        "lectureId": "680c86eb364f718dc17b710c",
+                        "lectureLength": "00:14:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RgehH4u3NX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-3-Donuts and Filters",
+                        "lectureId": "680c86eb364f718dc17b710d",
+                        "lectureLength": "00:03:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYxfshraF66/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-3-Donut Charts and Filters-Solution",
+                        "lectureId": "680c86eb364f718dc17b710e",
+                        "lectureLength": "00:14:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/487rzmRBQPH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Table and Matrix Visuals",
+                        "lectureId": "680c86eb364f718dc17b710f",
+                        "lectureLength": "00:16:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8NNmkUu5EP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conditional Formatting",
+                        "lectureId": "680c86eb364f718dc17b7110",
+                        "lectureLength": "00:06:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZMak2H3g5B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "TOP N Filtering",
+                        "lectureId": "680c86eb364f718dc17b7111",
+                        "lectureLength": "00:04:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UBAuCPyTDs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-4-tables",
+                        "lectureId": "680c86eb364f718dc17b7112",
+                        "lectureLength": "00:02:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cq4jX3MJuS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-4-Tables-Solution",
+                        "lectureId": "680c86eb364f718dc17b7113",
+                        "lectureLength": "00:14:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGZxQRyKJfj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Top N Text Cards",
+                        "lectureId": "680c86eb364f718dc17b7114",
+                        "lectureLength": "00:16:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pHyadPNhEQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-5-Top N Text Cards",
+                        "lectureId": "680c86eb364f718dc17b7115",
+                        "lectureLength": "00:02:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UGTGpYyZfq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-5-Top N Text Cards-Solution",
+                        "lectureId": "680c86eb364f718dc17b7116",
+                        "lectureLength": "00:21:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5m62G5ChUu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Map Visuals",
+                        "lectureId": "680c86eb364f718dc17b7117",
+                        "lectureLength": "00:14:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d4RM7N6du3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Slicers",
+                        "lectureId": "680c86eb364f718dc17b7118",
+                        "lectureLength": "00:13:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eS9dqQZzBH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-5-Slicers",
+                        "lectureId": "680c86eb364f718dc17b7119",
+                        "lectureLength": "00:01:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANjCXPMqbXp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-5-Slicers-Solution",
+                        "lectureId": "680c86eb364f718dc17b711a",
+                        "lectureLength": "00:08:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eS5cqQUrUU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "HasOne Values Function",
+                        "lectureId": "680c86eb364f718dc17b711b",
+                        "lectureLength": "00:17:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RcEj5fsRRE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Gauge Chart",
+                        "lectureId": "680c86eb364f718dc17b711c",
+                        "lectureLength": "00:18:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47bbZYDYKjA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Conditional Formatting",
+                        "lectureId": "680c86eb364f718dc17b711d",
+                        "lectureLength": "00:14:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gSutbpqfHA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Area Chart Visual",
+                        "lectureId": "680c86eb364f718dc17b711e",
+                        "lectureLength": "00:10:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsNxUDzEHUq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Drill Up and Drill Down Tools",
+                        "lectureId": "680c86eb364f718dc17b711f",
+                        "lectureLength": "00:18:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jChq9jPe43/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-6-Drill up and Drill Down",
+                        "lectureId": "680c86eb364f718dc17b7120",
+                        "lectureLength": "00:03:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gmKeNecaZk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-6-Drill Up and Drill Down-Solution",
+                        "lectureId": "680c86eb364f718dc17b7121",
+                        "lectureLength": "00:07:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Urp9cyqDt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Drill Through Filters",
+                        "lectureId": "680c86eb364f718dc17b7122",
+                        "lectureLength": "00:12:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MxdsEgnnDn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Report Interactions",
+                        "lectureId": "680c86eb364f718dc17b7123",
+                        "lectureLength": "00:12:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UhDRt5CcgN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-7-Report Interactions",
+                        "lectureId": "680c86eb364f718dc17b7124",
+                        "lectureLength": "00:02:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jMBg7hDCjH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-7-Report Interactions-Solution",
+                        "lectureId": "680c86eb364f718dc17b7125",
+                        "lectureLength": "00:04:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JXp6saDSh58/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bookmarks",
+                        "lectureId": "680c86eb364f718dc17b7126",
+                        "lectureLength": "00:16:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kS286NQbq6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-8-Bookmarks",
+                        "lectureId": "680c86eb364f718dc17b7127",
+                        "lectureLength": "00:02:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fkaJKzb33Qt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-8-Bookmarks-Solution",
+                        "lectureId": "680c86eb364f718dc17b7128",
+                        "lectureLength": "00:19:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HaBtxageG4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Navigation Buttons",
+                        "lectureId": "680c86eb364f718dc17b7129",
+                        "lectureLength": "00:23:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fjYZF4ZC9R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Slicer Panel",
+                        "lectureId": "680c86eb364f718dc17b712a",
+                        "lectureLength": "00:32:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32djZmcUkq7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Parameters",
+                        "lectureId": "680c86eb364f718dc17b712b",
+                        "lectureLength": "00:21:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gjzUTuukmP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-9-Field Parameters",
+                        "lectureId": "680c86eb364f718dc17b712c",
+                        "lectureLength": "00:02:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99bhXFrZuEa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment-9-Field Parameters-Solution",
+                        "lectureId": "680c86eb364f718dc17b712d",
+                        "lectureLength": "00:10:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5n62FFAZtxd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Custom ToolTip",
+                        "lectureId": "680c86eb364f718dc17b712e",
+                        "lectureLength": "00:16:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EjyaFEY3d9g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Power BI service Sign In",
+                        "lectureId": "680c86eb364f718dc17b712f",
+                        "lectureLength": "00:02:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3UhQFHpFKX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Importing Custom Visuals",
+                        "lectureId": "680c86eb364f718dc17b7130",
+                        "lectureLength": "00:12:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aa47UUJg3q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mobile Layout",
+                        "lectureId": "680c86eb364f718dc17b7131",
+                        "lectureLength": "00:06:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6E5rxq9Tj5g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Publishing Dashboard",
+                        "lectureId": "680c86eb364f718dc17b7132",
+                        "lectureLength": "00:07:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sY9pGcZXyy/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Slicers",
+                "assignmentId": "68f2251483492d3c7b6b5510",
+                "assignmentLink": "https://www.canva.com/design/DAHDQ5Pv924/5r-c1-x_k14R--NyXMMXXA/view?embed"
+            },
+            {
+                "type": "assignment",
+                "name": "Bookmarks",
+                "assignmentId": "68f2251583492d3c7b6b5512",
+                "assignmentLink": "https://www.canva.com/design/DAHDQ6-Uyrg/VEr_tlwOtd73llthGflD3w/view?embed"
+            },
+            {
+                "type": "assignment",
+                "name": "Field Parameters",
+                "assignmentId": "68f2251583492d3c7b6b5514",
+                "assignmentLink": "https://www.canva.com/design/DAHDQw3zuOg/Qk1Xdh1OrZKoZNXgfCjK5Q/view?embed"
+            },
+            {
+                "type": "section",
+                "name": "Artifical Intelligence",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Anomaly Detection",
+                        "lectureId": "680c86eb364f718dc17b7137",
+                        "lectureLength": "00:33:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8j2ty9EURyR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Smart Narrative",
+                        "lectureId": "680c86eb364f718dc17b7138",
+                        "lectureLength": "00:38:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzskAjNJdQM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Q and A Visual",
+                        "lectureId": "680c86eb364f718dc17b7139",
+                        "lectureLength": "00:35:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5JrdfXzkM2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decomposition Trees",
+                        "lectureId": "680c86eb364f718dc17b713a",
+                        "lectureLength": "00:20:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62m7BgdYGsF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Key Influencers",
+                        "lectureId": "680c86eb364f718dc17b713b",
+                        "lectureLength": "00:25:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KDYaSkRdxx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Optimization in Power BI",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Pause Visuals",
+                        "lectureId": "680c86eb364f718dc17b713d",
+                        "lectureLength": "00:14:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMHZUz4sZEX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Optimization Preset",
+                        "lectureId": "680c86eb364f718dc17b713e",
+                        "lectureLength": "00:07:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zXTZAdSj7q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Apply all Slicers Button",
+                        "lectureId": "680c86eb364f718dc17b713f",
+                        "lectureLength": "00:06:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q6fTbDPQFXp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Performance Analyzer",
+                        "lectureId": "680c86eb364f718dc17b7140",
+                        "lectureLength": "00:24:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hHM74epT9N/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Power BI New Features and Updates",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Power BI New Features and Updates",
+                        "lectureId": "680c86eb364f718dc17b7142",
+                        "lectureLength": "00:47:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RkkCfjeQCh/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Course Completion Project",
+                "assignmentId": "68f2251583492d3c7b6b5516",
+                "assignmentLink": "https://www.canva.com/design/DAHDQ1G6gPs/TsJnsycge74eGkm7o8BvkQ/view?embed"
+            },
+            {
+                "type": "section",
+                "name": "PowerBI Project",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Overview of the PowerBI Analytics Project.mp4",
+                        "lectureId": "696f18dc7a4c1d6f20287aae",
+                        "lectureLength": "00:22:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rC257sMm2U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding of the Data.mp4",
+                        "lectureId": "696f18dd7a4c1d6f20287ab1",
+                        "lectureLength": "00:07:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xJD3TymQAk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SQL ETL & Data Transformation.mp4",
+                        "lectureId": "696f18de7a4c1d6f20287ab4",
+                        "lectureLength": "00:38:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Z8JTTTP2GhX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Real word Usecases using SQL.mp4",
+                        "lectureId": "696f18df7a4c1d6f20287ab7",
+                        "lectureLength": "00:44:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Neb445rMzft/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transformation Query using SQL.mp4",
+                        "lectureId": "696f18e07a4c1d6f20287aba",
+                        "lectureLength": "00:20:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fR76NPyHQm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Modeling and Data Validation.mp4",
+                        "lectureId": "696f18e27a4c1d6f20287abd",
+                        "lectureLength": "00:31:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGeJa8Nf9c6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DAX (BASIC-ADVANCED) + UseCases + Formulas.mp4",
+                        "lectureId": "696f18e47a4c1d6f20287ac0",
+                        "lectureLength": "00:35:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hk2Q2KGMmS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Customer, Product, Inventory Analysis Measures.mp4",
+                        "lectureId": "696f18e67a4c1d6f20287ac3",
+                        "lectureLength": "00:10:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpxchN2tuGR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Visualization and dashboard building.mp4",
+                        "lectureId": "696f18e77a4c1d6f20287ac6",
+                        "lectureLength": "00:28:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KnyEFmRb7HE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Store Performance and Product Analytics.mp4",
+                        "lectureId": "696f18e87a4c1d6f20287ac9",
+                        "lectureLength": "00:20:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HS7dTehcXzB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inventory and Customer Analytics.mp4",
+                        "lectureId": "696f18e97a4c1d6f20287acc",
+                        "lectureLength": "00:32:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MqYDkUcDPq/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Job Readiness & Placement Support",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Building a Resume",
+                        "lectureId": "69a158f6b16a195e5354d8a1",
+                        "lectureLength": "00:58:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGTQZxstbMe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customizing the Resume as per Job Description",
+                        "lectureId": "69a158f7b16a195e5354d8a4",
+                        "lectureLength": "00:16:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f3QFXNzTQ6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to Apply for Jobs Internships",
+                        "lectureId": "69a158f7b16a195e5354d8a7",
+                        "lectureLength": "00:56:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mXFs6KhMKZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interview Preparation tricks and tips",
+                        "lectureId": "69a158f8b16a195e5354d8aa",
+                        "lectureLength": "00:24:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FDz2P7k6rQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mock Inteview Flow",
+                        "lectureId": "69a158f8b16a195e5354d8ad",
+                        "lectureLength": "00:36:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eyGB2sezu5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Additional things to make profile stronger",
+                        "lectureId": "69a158f9b16a195e5354d8b0",
+                        "lectureLength": "00:26:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EN9M9sbykE/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6921a84325c1857ee1ae1d5c",
+                "mentor": "Divya ",
+                "start": 19,
+                "end": 22,
+                "chatStart": 0,
+                "chatEnd": 0,
+                "time": "7 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db2",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            },
+            {
+                "_id": "69804980959c4775ed090029",
+                "mentor": "Rahul ",
+                "start": 21,
+                "end": 23.5,
+                "chatStart": 20.5,
+                "chatEnd": 23.5,
+                "time": "9:00 PM - 11:30 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db7",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "junior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1sWNvdPYz3F6atqIx8zHiSMqUL-pwLK-_?usp=drive_link"
+        ],
+        "notes": [],
+        "name": "Power BI",
+        "infoName": "Power BI",
+        "title": "Power BI Course",
+        "description": "Learn Power BI",
+        "video": "https://www.youtube.com/embed/vOrpu9qYqMY",
+        "introStats": {
+            "ratings": "4.8+",
+            "learners": "90000+",
+            "duration": "20Hrs"
+        },
+        "icon": "ComboPackIcons_POWER_BI",
+        "details": {
+            "ratings": 4.8,
+            "lectures": 35,
+            "duration": "20h 00m",
+            "enrolled": "90000+"
+        }
+    },
+    "fromCache": false
+}

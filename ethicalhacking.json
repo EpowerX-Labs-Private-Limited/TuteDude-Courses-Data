@@ -1,0 +1,893 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6a4cf7da8668a9279c156bca",
+        "courseName": "Ethical Hacking",
+        "slug": "ethicalhacking",
+        "category": "Cyber Security",
+        "tpFolderId": "GYBMuXk7kee",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": true,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6a801e59b6907e7275bdfb28",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Ethical Hacking",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Course Overview & Intro",
+                        "lectureId": "6a4cf7da8668a9279c156bcc",
+                        "lectureLength": "00:07:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YdTGdq7Phn/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Hacking Setup & Mindset",
+                "assignmentId": "6a4e58268668a9279c156cd9",
+                "assignmentLink": "https://docs.google.com/document/d/1tX0xnKJKNk5dPaqhPmxIvkPfMskxP5oS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Ethical Hacking Fundamentals",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Ethical hacking part 1",
+                        "lectureId": "6a4cf7da8668a9279c156bce",
+                        "lectureLength": "00:27:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SmqrUDJY2c3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CIA Triad Cyber Kill Chain & Cyber Domains",
+                        "lectureId": "6a4cf7da8668a9279c156bcf",
+                        "lectureLength": "00:21:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ3shecspkr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "The Hackers Kill Chain",
+                "assignmentId": "6a4e583b8668a9279c156cde",
+                "assignmentLink": "https://docs.google.com/document/d/1f9HZWH-jiru9CLiWwZ7gWK0WR3CNcHjs/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Setting Up the Hacker's Lab",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Virtualization & WSL",
+                        "lectureId": "6a4cf7da8668a9279c156bd1",
+                        "lectureLength": "00:30:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Zdcz4dkCUH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Kali Linux Setup & Snapshot Management",
+                        "lectureId": "6a4cf7da8668a9279c156bd2",
+                        "lectureLength": "00:13:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TXYEK74X6N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "kali setup in wsl",
+                        "lectureId": "6a4cf7da8668a9279c156bd3",
+                        "lectureLength": "00:23:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PrEYm3yAmbJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Defense and Frameworks",
+                "assignmentId": "6a4e586c8668a9279c156da5",
+                "assignmentLink": "https://docs.google.com/document/d/1OYsC95T2_LOJCelxnPPU8n_E0spwhhqn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Master In kali LInux",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "kali linux commands tutorial part 1",
+                        "lectureId": "6a4cf7da8668a9279c156bd5",
+                        "lectureLength": "00:41:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94kAcyq8XA8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "kali linux commands tutorial part 2",
+                        "lectureId": "6a4cf7da8668a9279c156bd6",
+                        "lectureLength": "00:59:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35kcsJX3Zs4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "kali linux commands tutorial part 3",
+                        "lectureId": "6a4cf7da8668a9279c156bd7",
+                        "lectureLength": "00:32:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NXnK7uf4BK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Master In kali LInux",
+                "assignmentId": "6a4e58898668a9279c156daa",
+                "assignmentLink": "https://docs.google.com/document/d/1f-3K3bLUlhfDHfAkdNdedl6I9sdonT5A/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Networking Fundamentals",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Networks IPs DNS & TCP UDP Protocols",
+                        "lectureId": "6a4cf7da8668a9279c156bd9",
+                        "lectureLength": "00:42:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Sk7zSfMTDQQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "HTTP HTTPS Headers & Status Codes",
+                        "lectureId": "6a4cf7da8668a9279c156bda",
+                        "lectureLength": "00:30:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApA9mBtnYch/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Linux Security and Networking",
+                "assignmentId": "6a4e589d8668a9279c156daf",
+                "assignmentLink": "https://docs.google.com/document/d/1IzVbgy-YIbfqU9EJUu5iJHOBFdINgvvV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Network Enumeration With Nmap & Zenmap",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Nmap part 1",
+                        "lectureId": "6a4cf7da8668a9279c156bdc",
+                        "lectureLength": "00:47:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MUdRTuNccj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "zenmap",
+                        "lectureId": "6a4cf7da8668a9279c156bdd",
+                        "lectureLength": "00:51:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AKapXrCS4u/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Deep Dive into Networking",
+                "assignmentId": "6a4e58b98668a9279c156db4",
+                "assignmentLink": "https://docs.google.com/document/d/1vv47WjMNXOtfW0iBIYy2uN8MU1Scbo0t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Web Architecture Basics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Frontend vs Backend & Web App Behaviors",
+                        "lectureId": "6a4cf7da8668a9279c156bdf",
+                        "lectureLength": "00:22:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AtP7h39pPz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cookies&session&JWT",
+                        "lectureId": "6a4cf7da8668a9279c156be0",
+                        "lectureLength": "00:26:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4nuTUTnf9H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Same-Origin Policy (SOP) & CORS Basics",
+                        "lectureId": "6a4cf7da8668a9279c156be1",
+                        "lectureLength": "00:22:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBh7dS9hrDC/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Advanced Nmap Scanning",
+                "assignmentId": "6a4e58db8668a9279c156db9",
+                "assignmentLink": "https://docs.google.com/document/d/15rI-d4vAQlrbW_LMw_4TO_Ug7HGQZhi9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Hacking Web Cookies and Sessions",
+                "assignmentId": "6a523f4a8668a9279c158056",
+                "assignmentLink": "https://docs.google.com/document/d/1w-yMTCjyo6AA6OgItC_EciqnAA-JKbIU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "OSINT & Social Engineering",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Social Engineering Attacks & Principles",
+                        "lectureId": "6a4cf7da8668a9279c156be3",
+                        "lectureLength": "00:34:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EXG97xCMYG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "phishing demo",
+                        "lectureId": "6a4cf7da8668a9279c156be4",
+                        "lectureLength": "00:19:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55nPfxNuuep/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Practical OSINT Techniques & Real Targets",
+                        "lectureId": "6a4cf7da8668a9279c156be5",
+                        "lectureLength": "00:40:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NsaABE7mjY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "username osint",
+                        "lectureId": "6a4cf7da8668a9279c156be6",
+                        "lectureLength": "00:19:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2prczss3am/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "shodan & maltego",
+                        "lectureId": "6a4cf7da8668a9279c156be7",
+                        "lectureLength": "00:35:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47QU25Pg5Qy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "osint toolkit",
+                        "lectureId": "6a4cf7da8668a9279c156be8",
+                        "lectureLength": "00:41:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q4QqzscYMC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Profile Tracing & OSINT Case Studies",
+                        "lectureId": "6a4cf7da8668a9279c156be9",
+                        "lectureLength": "00:50:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2yBEJcejkm/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "SOP and CORS Misconfigurations",
+                "assignmentId": "6a4e59238668a9279c156e24",
+                "assignmentLink": "https://docs.google.com/document/d/1qTIrp_BFxiBvQJu8Lc5Z7kRA_FKdcp7G/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Deep Open Source Intelligence (OSINT)",
+                "assignmentId": "6a523f858668a9279c15813e",
+                "assignmentLink": "https://docs.google.com/document/d/1UOILL-wsqVN-gdIhV0F89ECpU8D-DaIQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Advanced Social Engineering",
+                "assignmentId": "6a7cc7d2b6907e7275bdd027",
+                "assignmentLink": "https://docs.google.com/document/d/1o_gMzDAah5H0X3a9vfHkdSB3rONwB5UQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Recon & Information Gathering",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Recon",
+                        "lectureId": "6a4cf7da8668a9279c156beb",
+                        "lectureLength": "00:03:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gD4eCbYHxc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Passive Recon: Shodan FOFA Github & Google Dorking",
+                        "lectureId": "6a4cf7da8668a9279c156bec",
+                        "lectureLength": "01:01:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DpH7nSe8AA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Active Recon: Nmap Scanning & Subdomain Enumeration",
+                        "lectureId": "6a4cf7da8668a9279c156bed",
+                        "lectureLength": "01:02:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DhRU3ADEfU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bug Bounty workflow Recon",
+                        "lectureId": "6a4cf7da8668a9279c156bee",
+                        "lectureLength": "00:10:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hyj9gPxjQPP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Advanced Recon Workflow",
+                "assignmentId": "6a4e597e8668a9279c156e29",
+                "assignmentLink": "https://docs.google.com/document/d/169bMn37qKo6CUGR1joTwjajlZW63CcTp/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Automation & Vulnerability Fuzzing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Automating Recon & Asset Discovery with Subfinder",
+                        "lectureId": "6a4cf7da8668a9279c156bf0",
+                        "lectureLength": "00:17:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4fNKaA8gy6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Fuzzing & Directory Discovery with ffuf",
+                        "lectureId": "6a4cf7da8668a9279c156bf1",
+                        "lectureLength": "00:38:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9TqzMsY4KP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scanning at Scale with Nuclei",
+                        "lectureId": "6a4cf7da8668a9279c156bf2",
+                        "lectureLength": "00:39:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az8epC8h7df/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "cloud nuceli scan & tip",
+                        "lectureId": "6a4cf7da8668a9279c156bf3",
+                        "lectureLength": "00:24:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnXyEe3UAgr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Fuzzing for Hidden Treasures",
+                "assignmentId": "6a4e599b8668a9279c156e2e",
+                "assignmentLink": "https://docs.google.com/document/d/1rIILAavLg-mTVBX-Ubb406CJjP6Kt5mr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Vulnerability Scanning at Scale with",
+                "assignmentId": "6a5242d78668a9279c158311",
+                "assignmentLink": "https://docs.google.com/document/d/1b_teRy8f7B7TacpQfXZN2pKbVdMwEkCI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Mastering Burp Suite",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Installation Setup & Proxy Configuration",
+                        "lectureId": "6a4cf7da8668a9279c156bf5",
+                        "lectureLength": "00:25:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmyT9GXd3fm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deep Dive into Intercepting & HTTP Histories",
+                        "lectureId": "6a4cf7da8668a9279c156bf6",
+                        "lectureLength": "00:15:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KEXrrpzdzD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mastering Repeater for Manual Testing",
+                        "lectureId": "6a4cf7da8668a9279c156bf7",
+                        "lectureLength": "00:49:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XGNENaXjXc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Automating Attacks with Intruder & Extensions",
+                        "lectureId": "6a4cf7da8668a9279c156bf8",
+                        "lectureLength": "00:11:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FRkYZbDQz7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Burp Suite Proxy & Repeater Mastery",
+                "assignmentId": "6a4e59b48668a9279c156e33",
+                "assignmentLink": "https://docs.google.com/document/d/1wdtgiH7kDoKwHyoe0xipg8KFDeouan1X/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Bruteforcing with Burp Intruder",
+                "assignmentId": "6a5242fd8668a9279c1583fd",
+                "assignmentLink": "https://docs.google.com/document/d/1e44Yr0m3LX338b_x4XzlHWB4daKFxGT_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Network & Infrastructure Hacking",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Nessus Vulnerability Scanner",
+                        "lectureId": "6a4cf7da8668a9279c156bfa",
+                        "lectureLength": "00:29:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7q6US87k3hz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Active Sniffing vs Passive Sniffing Deep Dive",
+                        "lectureId": "6a4cf7da8668a9279c156bfb",
+                        "lectureLength": "00:29:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKgU3rzEGnm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DoS vs DDoS Attacks & Mitigation",
+                        "lectureId": "6a4cf7da8668a9279c156bfc",
+                        "lectureLength": "00:26:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uyXSgz5sRC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "WiFi Hacking",
+                        "lectureId": "6a4cfaf68668a9279c156c51",
+                        "lectureLength": "00:38:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5g73CC2nzm6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "WiFi Security",
+                        "lectureId": "6a4cfaf68668a9279c156c54",
+                        "lectureLength": "00:12:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9979eKUmZfq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Wireless Information Gathering",
+                        "lectureId": "6a4cfaf68668a9279c156c57",
+                        "lectureLength": "00:18:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34qTYsS9Hnq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding MITM Attacking",
+                        "lectureId": "6a4cfaf78668a9279c156c5a",
+                        "lectureLength": "00:16:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TYy3exEsXcA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ARP Spoofing",
+                        "lectureId": "6a4cfaf78668a9279c156c5d",
+                        "lectureLength": "00:19:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8SB7TDAAFF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Wireshark Basics",
+                        "lectureId": "6a4cfaf78668a9279c156c60",
+                        "lectureLength": "00:23:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EcZdTRCXr6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Honeypots",
+                        "lectureId": "6a4cfaf78668a9279c156c63",
+                        "lectureLength": "00:11:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Fk7AzbSEFzs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Detecting and Preventing ARP Attacks",
+                        "lectureId": "6a4cfaf78668a9279c156c66",
+                        "lectureLength": "00:08:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NXtZGUgJUd/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Network Sniffing and MITM Attacks",
+                "assignmentId": "6a4e59d98668a9279c156e38",
+                "assignmentLink": "https://docs.google.com/document/d/15FCWCDT_tCB-BpA1j4SYE-ktzarQLPyW/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "DNS Spoofing and Phishing",
+                "assignmentId": "6a5243658668a9279c1586bd",
+                "assignmentLink": "https://docs.google.com/document/d/1lfhn1iK4Er8Oypb635WhZ-ZssUFufW4T/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Core Web Vulnerabilities",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Cross-Site Scripting (XSS) - Stored Reflected DOM",
+                        "lectureId": "6a4cf7da8668a9279c156bfe",
+                        "lectureLength": "00:51:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nhTgxeCY9R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced XSS Bypasses",
+                        "lectureId": "6a4cf7da8668a9279c156bff",
+                        "lectureLength": "01:05:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xBxms3HSmM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SQL Injection (SQLi) & Blind SQLi part 2",
+                        "lectureId": "6a4cf7da8668a9279c156c00",
+                        "lectureLength": "00:47:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y3q645Q2uD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SQL Injection (SQLi) & Blind SQLi",
+                        "lectureId": "6a4cf7da8668a9279c156c01",
+                        "lectureLength": "01:13:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tnKe5eJe9cX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Local Remote File Inclusion (LFI & RFI) & File Uploads",
+                        "lectureId": "6a4cf7da8668a9279c156c02",
+                        "lectureLength": "00:55:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7THBcpGX68Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Server-Side Template Injection (SSTI) & Command Injection",
+                        "lectureId": "6a4cf7da8668a9279c156c03",
+                        "lectureLength": "00:45:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASQYnm4kTEn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Server-Side Request Forgery (SSRF) & Cloud Exploits",
+                        "lectureId": "6a4cf7da8668a9279c156c04",
+                        "lectureLength": "01:03:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NTNFupCqxZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cross-Site Request Forgery (CSRF) & Open Redirects",
+                        "lectureId": "6a4cf7da8668a9279c156c05",
+                        "lectureLength": "00:44:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Qg2SCmCSRz/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Local Vulnerability Lab Setup (xss-lab)",
+                "assignmentId": "6a4e5a0b8668a9279c156e3d",
+                "assignmentLink": "https://docs.google.com/document/d/1mq-m5T9soLNH7nXN5K1J52Kgr34UCPYR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Cross-Site Scripting (XSS) Exploitat",
+                "assignmentId": "6a5243aa8668a9279c158983",
+                "assignmentLink": "https://docs.google.com/document/d/1mzmYe6zWdFEiW64gESjXaq1bsi1evQ3d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Local and Remote File Inclusion LFI",
+                "assignmentId": "6a5244808668a9279c158a75",
+                "assignmentLink": "https://docs.google.com/document/d/1X2CLYMb_YOId9TZbV_iuK8mWv8pHdo_z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Cross-Site Request Forgery (CSRF)",
+                "assignmentId": "6a52449d8668a9279c158a7a",
+                "assignmentLink": "https://docs.google.com/document/d/1AK4lcYx76qHig3T49aiRnvaUssUTiHnC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "SQL Injection (SQLi) - PortSwigger",
+                "assignmentId": "6a5244b68668a9279c158a7f",
+                "assignmentLink": "https://docs.google.com/document/d/1KEjj8sgcYwa7c2c-9b1GKbIfWBrJsE2J/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Server-Side Request Forgery (SSRF)",
+                "assignmentId": "6a5244cc8668a9279c158a84",
+                "assignmentLink": "https://docs.google.com/document/d/1tgW3aasxA5UO8xUe-Li5Tw2yDrYHYGy2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Broken Access Control & IDOR",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Authentication vs Authorization & Privilege Escalation",
+                        "lectureId": "6a4cf7da8668a9279c156c07",
+                        "lectureLength": "00:22:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4b4NF5n9CBG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Finding and Exploiting Advanced IDOR Bugs",
+                        "lectureId": "6a4cf7da8668a9279c156c08",
+                        "lectureLength": "01:08:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UgUh7pBKus/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "ShopNest Lab Setup & Broken Access",
+                "assignmentId": "6a4e5a548668a9279c156e42",
+                "assignmentLink": "https://docs.google.com/document/d/1P7gHnYZTUnKDnx5LXniGC_FXKfjyf4Aq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Insecure Direct Object References",
+                "assignmentId": "6a5244fa8668a9279c158b7e",
+                "assignmentLink": "https://docs.google.com/document/d/1sLS8cDRQ_veFleeDuFrsWffTzB35vrsv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Business Logic Vulnerabilities",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "E-Commerce Exploits (Pricing Manipulation & Coupons)",
+                        "lectureId": "6a4cf7da8668a9279c156c0a",
+                        "lectureLength": "00:59:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GyXRxpnrYf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Parameter Tampering Trust Issues & OTP Bypasses",
+                        "lectureId": "6a4cf7da8668a9279c156c0b",
+                        "lectureLength": "00:38:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xuFhPzzRakK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Exploiting ShopNest Business Logic",
+                "assignmentId": "6a4e5a6b8668a9279c156e47",
+                "assignmentLink": "https://docs.google.com/document/d/1fAcE6dBWZYj0iYVUT9VLBxqjNKoLP-5f/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Cracking Passwords",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Encryption and Hashing Concepts",
+                        "lectureId": "6a4cfaf78668a9279c156c69",
+                        "lectureLength": "00:32:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mEx6eSYEGN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cracking Passwords",
+                        "lectureId": "6a4cfaf78668a9279c156c6c",
+                        "lectureLength": "00:38:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73UzZYtg6RB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "AI Assistance in Hacking",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Generating Custom Payloads & Bypasses with AI",
+                        "lectureId": "6a4cf7da8668a9279c156c0d",
+                        "lectureLength": "01:00:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SFC3BTyTEX6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Leveraging AI for Recon & Vulnerability Analysis",
+                        "lectureId": "6a4cf7da8668a9279c156c0e",
+                        "lectureLength": "00:50:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8d6EsFggNm8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building Custom Tools & Exploits via AI",
+                        "lectureId": "6a4cf7da8668a9279c156c0f",
+                        "lectureLength": "01:10:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BM7hqA7MmCR/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Leveraging AI for Payload Generation & Recon",
+                "assignmentId": "6a4e5a8e8668a9279c156e4c",
+                "assignmentLink": "https://docs.google.com/document/d/1I-L7fTyetBD09GK-1qd-XfMHAmoDpDIF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Vulnerability Platforms & Reporting",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Platform Workflows Selection & Targeting Strategies",
+                        "lectureId": "6a4cf7da8668a9279c156c11",
+                        "lectureLength": "00:41:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qzeEu8bm77F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Step-by-Step Execution & Writing Professional Bug Reports",
+                        "lectureId": "6a4cf7da8668a9279c156c12",
+                        "lectureLength": "00:29:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9u2aMHSBX9D/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Bug Bounty Platforms & Report Writing",
+                "assignmentId": "6a4e5b258668a9279c156e51",
+                "assignmentLink": "https://docs.google.com/document/d/1SkoB63ZlbSOMHjDJEIAJwSCGzp88EuF7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Stay Updated & Daily Routine",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Cybersecurity Trends & Daily Discipline for Hackers",
+                        "lectureId": "6a4cf7da8668a9279c156c14",
+                        "lectureLength": "00:19:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AStEfH3hDME/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Placement ready Module",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to get Placed",
+                        "lectureId": "6a4cf7da8668a9279c156c16",
+                        "lectureLength": "00:19:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JGnkSEMrhz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Projects_Building",
+                        "lectureId": "6a4cf7da8668a9279c156c17",
+                        "lectureLength": "00:59:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59RrxA7zgmB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Resume_Preparation",
+                        "lectureId": "6a4cf7da8668a9279c156c18",
+                        "lectureLength": "00:34:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aDGHJTbSQR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Portfolio_Building",
+                        "lectureId": "6a4cf7da8668a9279c156c19",
+                        "lectureLength": "00:45:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYdqNJc7Age/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interview_Preparation",
+                        "lectureId": "6a4cf7da8668a9279c156c1a",
+                        "lectureLength": "00:21:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BteDC2BKp2c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using AI FOR JOBS",
+                        "lectureId": "6a4cf7da8668a9279c156c1b",
+                        "lectureLength": "00:22:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxhRpJPqXbJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Career Preparation & Hacker Lifestyle",
+                "assignmentId": "6a4e5b5c8668a9279c156e57",
+                "assignmentLink": "https://docs.google.com/document/d/1aasJFPKcIXwE0ZPqa9but5_O8AcNikNr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6a61094c8668a9279c162389",
+                        "lectureLength": "00:03:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNpe5cQ2Ut/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "687f82b64cffeabaa9bfe2c3",
+                "mentor": "Abhishek",
+                "start": 20,
+                "end": 23,
+                "time": "8:00 PM - 11 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db1",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "chatEnd": 23,
+                "chatStart": 20,
+                "role": "junior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1nEX4opdWnWNmx_X17u-RoxajAXlo4YLI?usp=sharing"
+        ],
+        "notes": [],
+        "name": "Ethical Hacking",
+        "infoName": "Ethical Hacking",
+        "title": "Ethical Hacking Course",
+        "description": "Learn Ethical Hacking",
+        "video": "https://www.youtube.com/embed/vOrpu9qYqMY",
+        "introStats": {
+            "ratings": "4.6+",
+            "learners": "90000+",
+            "duration": "17h 25m"
+        },
+        "icon": "ComboPackIcons_ETHICAL_HACKING",
+        "details": {
+            "ratings": 4.6,
+            "lectures": 42,
+            "duration": "17h 25m",
+            "enrolled": "90000+"
+        }
+    },
+    "fromCache": false
+}

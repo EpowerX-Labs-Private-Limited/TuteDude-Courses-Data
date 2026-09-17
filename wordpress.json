@@ -1,0 +1,1011 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "696b23d9f982c2e11e09e257",
+        "courseName": "Wordpress",
+        "slug": "wordpress",
+        "category": "technical",
+        "tpFolderId": "69qd9Nha5hT",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "697df84823576e8c37bf99ec",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Wordpress",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Wordpress Introduction",
+                        "lectureId": "696b23d9f982c2e11e09e259",
+                        "lectureLength": "00:06:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/m73KghGtTTG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Which Wordpress",
+                        "lectureId": "696b23d9f982c2e11e09e25a",
+                        "lectureLength": "00:05:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Y4GtDxFGhHU/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Local Install",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Wordpress Install",
+                        "lectureId": "696b23d9f982c2e11e09e25f",
+                        "lectureLength": "00:15:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zMQU7Dgubz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "XAMPP Install",
+                        "lectureId": "696b23d9f982c2e11e09e260",
+                        "lectureLength": "00:04:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76XF6bqU66e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Start Xampp",
+                        "lectureId": "696b23d9f982c2e11e09e25e",
+                        "lectureLength": "00:05:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5M4qNytjBjn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Htdocs file",
+                        "lectureId": "696b23d9f982c2e11e09e25c",
+                        "lectureLength": "00:05:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XNdNpDPyPy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PHPMYADMIN",
+                        "lectureId": "696b23d9f982c2e11e09e25d",
+                        "lectureLength": "00:05:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EDUxxbcnu7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Install on Web",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Buy Domain & Hosting",
+                        "lectureId": "696b23d9f982c2e11e09e262",
+                        "lectureLength": "00:19:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85rMeJfeXTA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Install Wordpress on Web Host",
+                        "lectureId": "696b23d9f982c2e11e09e263",
+                        "lectureLength": "00:11:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hAfTNqPGNs/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Wordpress Themes",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What are Themes",
+                        "lectureId": "696b23d9f982c2e11e09e265",
+                        "lectureLength": "00:07:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aYNsSyRNhg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Where Do you Get Themes",
+                        "lectureId": "696b23d9f982c2e11e09e266",
+                        "lectureLength": "00:06:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bU3bzsAXGE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Responsive Web Design",
+                        "lectureId": "696b23d9f982c2e11e09e267",
+                        "lectureLength": "00:04:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbpebZmKPgk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Two Types of Theme",
+                        "lectureId": "696b23d9f982c2e11e09e268",
+                        "lectureLength": "00:07:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cGrZFNaXCd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Edit Theme",
+                        "lectureId": "696b23d9f982c2e11e09e269",
+                        "lectureLength": "00:03:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3acYx7s8X5f/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "First Look Around Wordpress",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Dashboard",
+                        "lectureId": "696b23d9f982c2e11e09e26b",
+                        "lectureLength": "00:13:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96tYsjpnxMY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Clear WordPress",
+                        "lectureId": "696b23d9f982c2e11e09e26c",
+                        "lectureLength": "00:07:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cC92kdAJuY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Post & Page Editor(s)",
+                        "lectureId": "696b23d9f982c2e11e09e26d",
+                        "lectureLength": "00:04:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQghfAjCbDD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Classic Editor",
+                        "lectureId": "696b23d9f982c2e11e09e26e",
+                        "lectureLength": "00:05:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEetGJBahyb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Gutenberg Editor",
+                        "lectureId": "696b23d9f982c2e11e09e26f",
+                        "lectureLength": "00:04:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/763tKJJhhay/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Media Library",
+                        "lectureId": "696b23d9f982c2e11e09e270",
+                        "lectureLength": "00:10:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJaJppA6m4k/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Gutenberg Editor",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Gutenberg Overview",
+                        "lectureId": "696b23d9f982c2e11e09e272",
+                        "lectureLength": "00:08:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UakeGdKgt7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interface",
+                        "lectureId": "696b23d9f982c2e11e09e276",
+                        "lectureLength": "00:19:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mxNAnm39J5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Anatomy of Block",
+                        "lectureId": "696b23d9f982c2e11e09e277",
+                        "lectureLength": "00:20:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZGrd3rR3J4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cover",
+                        "lectureId": "696b23d9f982c2e11e09e278",
+                        "lectureLength": "00:07:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RSGHHK9HHE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Column",
+                        "lectureId": "696b23d9f982c2e11e09e279",
+                        "lectureLength": "00:09:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XPThSrUQ4f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Groups, Rows, Stacks & Grids",
+                        "lectureId": "696b23d9f982c2e11e09e27a",
+                        "lectureLength": "00:22:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8XGp9F3NGz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pattern",
+                        "lectureId": "696b23d9f982c2e11e09e27b",
+                        "lectureLength": "00:05:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MjrFsx9sbM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Patterns",
+                        "lectureId": "696b23d9f982c2e11e09e27c",
+                        "lectureLength": "00:12:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkHq7NYTZzK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tables",
+                        "lectureId": "696b23d9f982c2e11e09e27d",
+                        "lectureLength": "00:06:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M76tDJuT85/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Buttons",
+                        "lectureId": "696b23d9f982c2e11e09e273",
+                        "lectureLength": "00:05:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KUU447dsME/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Spacing",
+                        "lectureId": "696b23d9f982c2e11e09e274",
+                        "lectureLength": "00:07:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XRdMx2EdYP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Page & Post",
+                        "lectureId": "696b23d9f982c2e11e09e275",
+                        "lectureLength": "00:22:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXfNUMqHAmq/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "WordPress Setting",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Gravatar",
+                        "lectureId": "696b23d9f982c2e11e09e27f",
+                        "lectureLength": "00:07:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nakQ52cNC9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Author Profile",
+                        "lectureId": "696b23d9f982c2e11e09e281",
+                        "lectureLength": "00:10:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bhs5MphtS3P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "User Role",
+                        "lectureId": "696b23d9f982c2e11e09e282",
+                        "lectureLength": "00:08:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KFbBsJr9EP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "General Settings",
+                        "lectureId": "696b23d9f982c2e11e09e283",
+                        "lectureLength": "00:06:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5j3Rrgk6Ud7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Writing Setting",
+                        "lectureId": "696b23d9f982c2e11e09e284",
+                        "lectureLength": "00:03:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67rDBeqexZx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Update Service",
+                        "lectureId": "696b23d9f982c2e11e09e285",
+                        "lectureLength": "00:03:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79NdTdKtudB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reading Settings",
+                        "lectureId": "696b23d9f982c2e11e09e286",
+                        "lectureLength": "00:05:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DJYTPJFJqB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Discussion Settings",
+                        "lectureId": "696b23d9f982c2e11e09e287",
+                        "lectureLength": "00:07:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gqJm2uGtyns/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Permalinks",
+                        "lectureId": "696b23d9f982c2e11e09e288",
+                        "lectureLength": "00:05:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JQ2Bjde9Du/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Privacy Policy",
+                        "lectureId": "696b23d9f982c2e11e09e280",
+                        "lectureLength": "00:02:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96GggAaMRSQ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Wordpress Plugin",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Plugins & Yoast seo",
+                        "lectureId": "696b23d9f982c2e11e09e28a",
+                        "lectureLength": "00:23:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aKUBqGSHEE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pro Version",
+                        "lectureId": "696b23d9f982c2e11e09e28b",
+                        "lectureLength": "00:05:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uDTzmhdDEZZ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Website Content with Posts and Pages",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Post",
+                        "lectureId": "696b23d9f982c2e11e09e28d",
+                        "lectureLength": "00:07:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nzF3C3QbtP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Category",
+                        "lectureId": "696b23d9f982c2e11e09e28e",
+                        "lectureLength": "00:07:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Akd4dnu3UNY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tags",
+                        "lectureId": "696b23d9f982c2e11e09e28f",
+                        "lectureLength": "00:06:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67g9rtgJQXh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Categories & Tags",
+                        "lectureId": "696b23d9f982c2e11e09e290",
+                        "lectureLength": "00:03:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SsH3XE2czH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Featured Image",
+                        "lectureId": "696b23d9f982c2e11e09e291",
+                        "lectureLength": "00:04:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kFtkSQ6DKg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Schedule a Post",
+                        "lectureId": "696b23d9f982c2e11e09e292",
+                        "lectureLength": "00:04:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mjuHXMZ2Z2Y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a Post",
+                        "lectureId": "696b23d9f982c2e11e09e293",
+                        "lectureLength": "00:04:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6u9nyEpCnYh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a Page",
+                        "lectureId": "696b23d9f982c2e11e09e294",
+                        "lectureLength": "00:08:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EpTQn2H2zF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Post & Pages",
+                        "lectureId": "696b23d9f982c2e11e09e295",
+                        "lectureLength": "00:07:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jfJ3uSsSJK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "The Home Page",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "The Importance of the Home Page",
+                        "lectureId": "696b23d9f982c2e11e09e297",
+                        "lectureLength": "00:05:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zefEdrG6BC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Static and Dynamic",
+                        "lectureId": "696b23d9f982c2e11e09e298",
+                        "lectureLength": "00:04:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/739NpAtHXFF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Static or Blog",
+                        "lectureId": "696b23d9f982c2e11e09e299",
+                        "lectureLength": "00:03:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bqnbxx72PYT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a Blog Homepage",
+                        "lectureId": "696b23d9f982c2e11e09e29a",
+                        "lectureLength": "00:06:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CJQdq2T2ExG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a Static Homepage",
+                        "lectureId": "696b23d9f982c2e11e09e29b",
+                        "lectureLength": "00:08:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GcemD58qmk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 1: Business Landing Page (Elementor)",
+                "assignmentId": "697ded9923576e8c37bf9993",
+                "assignmentLink": "https://docs.google.com/document/d/1WLsoVaNIPM3JrBSm3uA1JlhMKZOA6OabJMAqrY1ZuA8/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Creating The Legal Pages",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "About Us",
+                        "lectureId": "696b23d9f982c2e11e09e29d",
+                        "lectureLength": "00:07:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNaSfabsp4B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Contact Page",
+                        "lectureId": "696b23d9f982c2e11e09e29e",
+                        "lectureLength": "00:07:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7PMAAPDZUa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terms & Condition",
+                        "lectureId": "696b23d9f982c2e11e09e29f",
+                        "lectureLength": "00:06:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay5qTbDCtb3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Tools",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Tools",
+                        "lectureId": "696b23d9f982c2e11e09e2a1",
+                        "lectureLength": "00:11:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ED9FnXe6K8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Import and Export",
+                        "lectureId": "696b23d9f982c2e11e09e2a2",
+                        "lectureLength": "00:03:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EFKaZb55QZ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Website Navigation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Main Website Navigation",
+                        "lectureId": "696b23d9f982c2e11e09e2a5",
+                        "lectureLength": "00:05:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84KQKBEz3Pp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Header & Footer Design",
+                        "lectureId": "696b23d9f982c2e11e09e2a4",
+                        "lectureLength": "00:04:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DST7YKB79D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Footer",
+                        "lectureId": "696b23d9f982c2e11e09e2a6",
+                        "lectureLength": "00:04:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gSKmj8MA4d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Internal Links",
+                        "lectureId": "696b23d9f982c2e11e09e2a7",
+                        "lectureLength": "00:12:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FHsYcPXxUf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "External Links",
+                        "lectureId": "696b23d9f982c2e11e09e2a8",
+                        "lectureLength": "00:04:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ez9Qz6qptb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Related Post Navigation",
+                        "lectureId": "696b23d9f982c2e11e09e2a9",
+                        "lectureLength": "00:08:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77yG4jdg5aH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Customize an FSE-Enable Theme (Block Theme)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "FSE",
+                        "lectureId": "696b23d9f982c2e11e09e2ab",
+                        "lectureLength": "00:05:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4YZpeCksAf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Editor Screen",
+                        "lectureId": "696b23d9f982c2e11e09e2af",
+                        "lectureLength": "00:04:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MKFcUfQnRUE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Navigation",
+                        "lectureId": "696b23d9f982c2e11e09e2b0",
+                        "lectureLength": "00:07:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62QZcy4tuaF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pages",
+                        "lectureId": "696b23d9f982c2e11e09e2b1",
+                        "lectureLength": "00:07:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HmaxtYFc5K7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Templates & Template Parts",
+                        "lectureId": "696b23d9f982c2e11e09e2b2",
+                        "lectureLength": "00:07:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kF28RXGRHK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Patterns",
+                        "lectureId": "696b23d9f982c2e11e09e2b3",
+                        "lectureLength": "00:10:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rzY382q3tN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Patterns Header & Footer",
+                        "lectureId": "696b23d9f982c2e11e09e2b4",
+                        "lectureLength": "00:29:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bgYTad29QZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Query Loop Categories",
+                        "lectureId": "696b23d9f982c2e11e09e2b5",
+                        "lectureLength": "00:09:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DSddBEQH9q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Editing Styles",
+                        "lectureId": "696b23d9f982c2e11e09e2b6",
+                        "lectureLength": "00:06:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H95FFJ8B8u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Editing Styles Options",
+                        "lectureId": "696b23d9f982c2e11e09e2ac",
+                        "lectureLength": "00:14:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qJ8EBBqXFE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Theme Templates",
+                        "lectureId": "696b23d9f982c2e11e09e2ad",
+                        "lectureLength": "00:10:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83Ae9aefctm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Themes",
+                        "lectureId": "696b23d9f982c2e11e09e2ae",
+                        "lectureLength": "00:02:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YECjNFa4FB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Customize a NON-FSE Enable",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Widgets",
+                        "lectureId": "696b23d9f982c2e11e09e2b8",
+                        "lectureLength": "00:10:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5K6zkCsNKN3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nagvigation Bar Widgets",
+                        "lectureId": "696b23d9f982c2e11e09e2b9",
+                        "lectureLength": "00:17:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFDf3c58RR8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Including Search and Social link",
+                        "lectureId": "696b23d9f982c2e11e09e2ba",
+                        "lectureLength": "00:07:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nXEyeymD4b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customize",
+                        "lectureId": "696b23d9f982c2e11e09e2bb",
+                        "lectureLength": "00:19:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6rucgkXxrm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design",
+                        "lectureId": "696b23d9f982c2e11e09e2bc",
+                        "lectureLength": "00:01:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GxDdFF3rcH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Theme File Editor",
+                        "lectureId": "696b23d9f982c2e11e09e2bd",
+                        "lectureLength": "00:07:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85Jzg74THbg/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Wordpress Security",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Warning Read Before Continue",
+                        "lectureId": "696b23d9f982c2e11e09e2bf",
+                        "lectureLength": "00:04:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ke8EFfKKJJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Wordpress Security",
+                        "lectureId": "696b23d9f982c2e11e09e2c0",
+                        "lectureLength": "00:07:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKNDfXG583S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "All In One Security Plugin",
+                        "lectureId": "696b23d9f982c2e11e09e2c1",
+                        "lectureLength": "00:19:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YEGs8UBuyT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stop Spammers",
+                        "lectureId": "696b23d9f982c2e11e09e2c2",
+                        "lectureLength": "00:07:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8Ngje6gRMK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Wordpress Backup",
+                        "lectureId": "696b23d9f982c2e11e09e2c3",
+                        "lectureLength": "00:15:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ueCdnU8x4Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to Change Authore Name",
+                        "lectureId": "696b23d9f982c2e11e09e2c4",
+                        "lectureLength": "00:06:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NYQd7xNadh/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Useful Plugins",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Social Sharing",
+                        "lectureId": "696b23d9f982c2e11e09e2c6",
+                        "lectureLength": "00:09:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GtGQPrHBY7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Site Kit",
+                        "lectureId": "696b23d9f982c2e11e09e2c7",
+                        "lectureLength": "00:18:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eBYxXkXQsTN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Elementor",
+                        "lectureId": "696b23d9f982c2e11e09e2c8",
+                        "lectureLength": "00:16:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99HD99HxB7H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "WPForms",
+                        "lectureId": "696b23d9f982c2e11e09e2c9",
+                        "lectureLength": "00:15:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yuqusjB4Rb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Seo",
+                        "lectureId": "696b23d9f982c2e11e09e2ca",
+                        "lectureLength": "00:07:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4BR9CXYqSA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Templates Plugin",
+                        "lectureId": "696b23d9f982c2e11e09e2cb",
+                        "lectureLength": "00:35:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zaacBEY8bj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Site Structure",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Website Structure",
+                        "lectureId": "696b23d9f982c2e11e09e2cd",
+                        "lectureLength": "00:10:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4U7Apqchpq9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installing WordPress Locally Using XAMPP",
+                        "lectureId": "696b23d9f982c2e11e09e2ce",
+                        "lectureLength": "00:11:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACdfdJZCCD6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Step-by-Step WordPress Installation",
+                        "lectureId": "696b23d9f982c2e11e09e2cf",
+                        "lectureLength": "00:25:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ynzdzBh449/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The Wordpress Set Up Process",
+                        "lectureId": "696b23d9f982c2e11e09e2d0",
+                        "lectureLength": "00:19:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRmFqyxTUtP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 2",
+                "assignmentId": "697def8623576e8c37bf9998",
+                "assignmentLink": "https://docs.google.com/document/d/1cdPBE6ZieYSWUcXYsnZ45zs0VJ3HYQuJHky2ffdKuoQ/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Creating Blog Site",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Step-by-Step WordPress Installation",
+                        "lectureId": "696b23d9f982c2e11e09e2d2",
+                        "lectureLength": "00:25:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ynzdzBh449/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a Blog Website",
+                        "lectureId": "696b23d9f982c2e11e09e2d3",
+                        "lectureLength": "00:29:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CNBGbdux2g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Change Home Page to Static",
+                        "lectureId": "696b23d9f982c2e11e09e2d4",
+                        "lectureLength": "00:03:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xJBhrS42Gy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Blog Website Theme",
+                        "lectureId": "696b23d9f982c2e11e09e2d5",
+                        "lectureLength": "00:12:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yFP8jxpHfz/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Creating Business Site",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Step-by-Step WordPress Installation",
+                        "lectureId": "696b23d9f982c2e11e09e2d7",
+                        "lectureLength": "00:25:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ynzdzBh449/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Business Website",
+                        "lectureId": "696b23d9f982c2e11e09e2d8",
+                        "lectureLength": "00:14:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Kz3cMSGEMgc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Creating Hybrid Site",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Step-by-Step WordPress Installation",
+                        "lectureId": "696b23d9f982c2e11e09e2da",
+                        "lectureLength": "00:27:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9seUZ2GxNN5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a Ecommerce Website",
+                        "lectureId": "696b23d9f982c2e11e09e2db",
+                        "lectureLength": "00:33:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3H3azebCBDR/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Editing With Elementor",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Editing Pages with Elementor",
+                        "lectureId": "696b23d9f982c2e11e09e2dd",
+                        "lectureLength": "00:31:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMqQ669m38P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Pages in WordPress",
+                        "lectureId": "696b23d9f982c2e11e09e2de",
+                        "lectureLength": "00:19:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sr4AzPdcm8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating and Managing Navigation Menus",
+                        "lectureId": "696b23d9f982c2e11e09e2df",
+                        "lectureLength": "00:05:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a6G27Trrsm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customizing the Header and Footer Sections",
+                        "lectureId": "696b23d9f982c2e11e09e2e0",
+                        "lectureLength": "00:21:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/392jNEfGjt6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 3",
+                "assignmentId": "697df15523576e8c37bf999d",
+                "assignmentLink": "https://docs.google.com/document/d/1W1fJOquXn--wBu6Dkj7t0BOs4F2oZzGlkynFf0JGaJc/edit?usp=sharing"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "697df8b4959c4775ed05437a",
+                "mentor": "Ratndeep",
+                "start": 20.5,
+                "end": 22,
+                "chatStart": 20.5,
+                "chatEnd": 22,
+                "time": "8:30 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds4",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

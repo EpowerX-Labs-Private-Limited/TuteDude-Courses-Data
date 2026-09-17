@@ -1,0 +1,296 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6a5375638668a9279c158f7f",
+        "courseName": "AI Automation with N8N",
+        "slug": "n8n",
+        "category": "AI & Automation",
+        "tpFolderId": "7H4EhzRmPhA",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Introduction To N8N",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is N8N (And Why It’s Blowing Up)",
+                        "lectureId": "6a5375638668a9279c158f81",
+                        "lectureLength": "00:19:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUAhJk83Ea/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cloud vs Self-Hosted (Truth Nobody Tells You)",
+                        "lectureId": "6a5375638668a9279c158f82",
+                        "lectureLength": "00:11:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6B5RH5hRp53/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UI Deep Dive - Canvas Mastery",
+                        "lectureId": "6a5375638668a9279c158f83",
+                        "lectureLength": "00:16:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UxYSpCkdqU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Build Your First Workflow",
+                        "lectureId": "6a5375638668a9279c158f84",
+                        "lectureLength": "00:18:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pDADN7TJXt/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Basic Fundamentals",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Triggers Explained (Start of Every Automation)",
+                        "lectureId": "6a5375638668a9279c158f86",
+                        "lectureLength": "00:30:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qhrpJ6sD2G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Thinking in Workflows (Not Nodes)",
+                        "lectureId": "6a5375638668a9279c158f87",
+                        "lectureLength": "00:32:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Fa7KDC3MDs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Debugging Like a Pro",
+                        "lectureId": "6a5375638668a9279c158f88",
+                        "lectureLength": "00:30:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48C93hz4XyS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RSS Feed Workflow",
+                        "lectureId": "6a5375638668a9279c158f89",
+                        "lectureLength": "00:15:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PupnNs5hrZ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Nodes Mastery",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Learning JSON Without Headache",
+                        "lectureId": "6a5375638668a9279c158f8b",
+                        "lectureLength": "00:17:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a2hXxksmhu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Set Node Data Control and Transformation",
+                        "lectureId": "6a5375638668a9279c158f8c",
+                        "lectureLength": "00:18:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j9nrAEDQTBt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IF & Switch (Decision Making)",
+                        "lectureId": "6a5375638668a9279c158f8d",
+                        "lectureLength": "00:18:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZFmpQEE5D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Expressions Mastery 101",
+                        "lectureId": "6a5375638668a9279c158f8e",
+                        "lectureLength": "00:22:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BckF9XKFACQ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Workflows Implementation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Build AI Chat Agent",
+                        "lectureId": "6a5375638668a9279c158f90",
+                        "lectureLength": "00:10:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JjjruFGdGc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "N8N API and HTTPS Requests Mastery",
+                        "lectureId": "6a5375638668a9279c158f91",
+                        "lectureLength": "00:25:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BstfSTBbx9k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI Automated HR Candidate Analysis in n8n",
+                        "lectureId": "6a5375638668a9279c158f92",
+                        "lectureLength": "00:28:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aZUjJdn4AG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "End to End Lead Generation Workflow Automation",
+                        "lectureId": "6a5375638668a9279c158f93",
+                        "lectureLength": "00:26:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8UnaaKEyRD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "RSS Feed to Email_Telegram Notification Workflow",
+                "assignmentId": "6a5f66628668a9279c160aba",
+                "assignmentLink": "https://docs.google.com/document/d/1tuDexZHVKi6ccVLM0hOUaA87vQrMBYUK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Weather Alert Notification Workflow",
+                "assignmentId": "6a5f667d8668a9279c160abf",
+                "assignmentLink": "https://docs.google.com/document/d/1DjgSir_2lN3fQzaSTuxJrTIqy6XFD-bT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Webhook to Google Sheets Data Storage Workflo",
+                "assignmentId": "6a5f66948668a9279c160ac4",
+                "assignmentLink": "https://docs.google.com/document/d/1vkclD7mMNpOzLrMJkOx6PiasefuDQQmw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Lead Classification Workflow.",
+                "assignmentId": "6a5f66aa8668a9279c160ac9",
+                "assignmentLink": "https://docs.google.com/document/d/1DuKjumHc4MNn52dOsWk8vFNhtM7os87D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Multi-Platform Notification Workflow.",
+                "assignmentId": "6a5f66c88668a9279c160ace",
+                "assignmentLink": "https://docs.google.com/document/d/1WI5E_c-HOC4Ob9N3J8bpLrxqioqo1ZAm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Product Price Drop Alert Workflow.",
+                "assignmentId": "6a5f66da8668a9279c160ad3",
+                "assignmentLink": "https://docs.google.com/document/d/135cCg2FtGP1IiID1kHL_SAiTy7-2ibxR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Automated Customer Query Reply Workflow.",
+                "assignmentId": "6a5f66ed8668a9279c160ad8",
+                "assignmentLink": "https://docs.google.com/document/d/1grZABgzR71fuOMqajH03PrdRSz4htbYi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "MCP Connectors (N8N)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "MCP Basics Theory",
+                        "lectureId": "6a75d939b6907e7275bdae30",
+                        "lectureLength": "00:28:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeuBU4tdxqm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connect n8n MCP Server to AI Apps",
+                        "lectureId": "6a75d95db6907e7275bdae33",
+                        "lectureLength": "00:26:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nkYpDuMuqqu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "N8N- The Real Talk",
+                        "lectureId": "6a75d9a8b6907e7275bdae36",
+                        "lectureLength": "00:16:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K6EatCuZXb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Capstone Projects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Email Summary Agent",
+                        "lectureId": "6a5375638668a9279c158f95",
+                        "lectureLength": "00:12:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C9p79nY5Agy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI YouTube Script Generator",
+                        "lectureId": "6a5375638668a9279c158f96",
+                        "lectureLength": "00:22:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNChFzX44ry/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI Legal Contract Review Agent",
+                        "lectureId": "6a5375638668a9279c158f97",
+                        "lectureLength": "00:23:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BMzUdeYyEd/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "AI Content Generator Workflow.",
+                "assignmentId": "6a5f67078668a9279c160add",
+                "assignmentLink": "https://docs.google.com/document/d/1UE9u4rvIeAOWxyvEqN2R1Ao829nFPQrO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Workflow Error Detection and Alert System.",
+                "assignmentId": "6a5f671d8668a9279c160ae2",
+                "assignmentLink": "https://docs.google.com/document/d/1SqNqSJaSHRmiEmTRVvfaEDQ38jyZVst2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "End-to-End Lead Capture and Qualification Workflow",
+                "assignmentId": "6a5f67348668a9279c160ae7",
+                "assignmentLink": "https://docs.google.com/document/d/1gMhKXnOzI8yeobD19qXuMwSjK_FT_x-L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6a73178cfc66b37ef64a8687",
+                "mentor": "Mrituyanjay",
+                "start": 20,
+                "end": 22,
+                "chatStart": 20,
+                "chatEnd": 22,
+                "time": "8:00 PM - 10:00 PM",
+                "url": "https://campus.tutedude.com/uiux?room=mn-stg-2",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1KoSRnXbMZ9p8xJUCXpcmEVlStZmVPSx8?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

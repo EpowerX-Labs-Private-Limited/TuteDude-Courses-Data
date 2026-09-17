@@ -1,0 +1,682 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680b32e88856a58cdcab752c",
+        "courseName": "DevOps",
+        "slug": "devops",
+        "category": "technical",
+        "tpFolderId": "65A4S5Qkheg",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "694a65a8211399259c654162",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to DevOps",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction",
+                        "lectureId": "680b32e88856a58cdcab752e",
+                        "lectureLength": "00:25:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JaCSsHEJju/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Cloud Computing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Cloud",
+                        "lectureId": "680b32e88856a58cdcab7530",
+                        "lectureLength": "00:08:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yEhuAKce7y/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "LINUX Basics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Linux Part-1",
+                        "lectureId": "680b32e88856a58cdcab7532",
+                        "lectureLength": "00:25:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GrT3PnzB9Y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Linux Part-2",
+                        "lectureId": "680b32e88856a58cdcab7533",
+                        "lectureLength": "00:57:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RSjMGxjnQ5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Linux Basics",
+                "assignmentId": "68f224a783492d3c7b6b53e9",
+                "assignmentLink": "https://docs.google.com/document/d/1TG5bJcgNmVi8PxzUnuYJbGfzwrhLKdzS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Scripting (Python and Bash)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Python Part-1",
+                        "lectureId": "680b32e88856a58cdcab7536",
+                        "lectureLength": "00:47:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hXUg9GYJAu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Python Part-2",
+                        "lectureId": "680b32e88856a58cdcab7537",
+                        "lectureLength": "00:55:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xDxY52Pjsa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Python Part-3",
+                        "lectureId": "680b32e88856a58cdcab7538",
+                        "lectureLength": "00:22:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Asc7fRN4JMZ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Python And Bash",
+                "assignmentId": "68f224a883492d3c7b6b53eb",
+                "assignmentLink": "https://docs.google.com/document/d/1S7V1XBMQq6aI-A8wo2Op3j4Wp8aOqetT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Rest APIs using Flask and MongoDB",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Flask Framework Part-1",
+                        "lectureId": "680b32e88856a58cdcab753b",
+                        "lectureLength": "00:59:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DPAe5Ru9f5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Flask Framework Part-2",
+                        "lectureId": "680b32e88856a58cdcab753c",
+                        "lectureLength": "01:13:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fgMzdXqEqca/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Flask And Mongodb",
+                "assignmentId": "68f224a983492d3c7b6b53ed",
+                "assignmentLink": "https://docs.google.com/document/d/1ywyFmmXTCO8zZXligoGXWf1mD-3rLp5P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Version Control-GIT",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Git",
+                        "lectureId": "680b32e88856a58cdcab753f",
+                        "lectureLength": "00:13:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n66TmM6Xqt7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Git Basics",
+                        "lectureId": "680b32e88856a58cdcab7540",
+                        "lectureLength": "00:12:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC93xBqkYkT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Commits",
+                        "lectureId": "680b32e88856a58cdcab7541",
+                        "lectureLength": "00:12:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QCQegKb4HG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GitHub",
+                        "lectureId": "680b32e88856a58cdcab7542",
+                        "lectureLength": "00:17:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GhHzN2PrEp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Remotes GitLab",
+                        "lectureId": "680b32e88856a58cdcab7543",
+                        "lectureLength": "00:13:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KFZs54SFU7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Branching",
+                        "lectureId": "680b32e88856a58cdcab7544",
+                        "lectureLength": "00:13:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cdzUQXpaMp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pull Requests",
+                        "lectureId": "680b32e88856a58cdcab7545",
+                        "lectureLength": "00:15:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nrnYFHBk83U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Forking",
+                        "lectureId": "680b32e88856a58cdcab7546",
+                        "lectureLength": "00:09:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MH9JcU8N5FM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stashing",
+                        "lectureId": "680b32e88856a58cdcab7547",
+                        "lectureLength": "00:11:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gR967ZxuNq/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Version Control Git",
+                "assignmentId": "68f224aa83492d3c7b6b53ef",
+                "assignmentLink": "https://docs.google.com/document/d/1LY6_Y2zOQ11VQd_-vZirWNnYwAF6qC6L/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Docker",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Docker",
+                        "lectureId": "680b32e88856a58cdcab754a",
+                        "lectureLength": "00:15:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M3bR9UHMnf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installation",
+                        "lectureId": "680b32e88856a58cdcab754b",
+                        "lectureLength": "00:09:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A46pFkA8zn6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Commands",
+                        "lectureId": "680b32e88856a58cdcab754c",
+                        "lectureLength": "00:15:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xh89UG8yNs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Commands",
+                        "lectureId": "680b32e88856a58cdcab754d",
+                        "lectureLength": "00:19:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hYq7d4yE4Qk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker files",
+                        "lectureId": "680b32e88856a58cdcab754e",
+                        "lectureLength": "00:13:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB3KQn9h7hk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Image Handling",
+                        "lectureId": "680b32e88856a58cdcab754f",
+                        "lectureLength": "00:19:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bs5JRxQ2xyS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building Microservices",
+                        "lectureId": "680b32e88856a58cdcab7550",
+                        "lectureLength": "00:27:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/657YADDM3bJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Compose",
+                        "lectureId": "680b32e88856a58cdcab7551",
+                        "lectureLength": "00:10:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae3U4B8ZPR9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Push Registry",
+                        "lectureId": "680b32e88856a58cdcab7552",
+                        "lectureLength": "00:16:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fSYJHYkj22/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Docker",
+                "assignmentId": "68f224ab83492d3c7b6b53f1",
+                "assignmentLink": "https://docs.google.com/document/d/1VkkKhQ9pAyZRMcKRle5wNznG4VG_G5sq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "AWS",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to AWS",
+                        "lectureId": "680b32e88856a58cdcab7555",
+                        "lectureLength": "00:18:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8eDeghycEX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IAM S3",
+                        "lectureId": "680b32e88856a58cdcab7556",
+                        "lectureLength": "00:23:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97UmkYe9HQs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SDK",
+                        "lectureId": "680b32e88856a58cdcab7557",
+                        "lectureLength": "00:19:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/G6dGyFkkdzr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Paramstore s3-adv cloudshell",
+                        "lectureId": "680b32e88856a58cdcab7558",
+                        "lectureLength": "00:19:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MJyy2ZBSQXp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EC2 Creation",
+                        "lectureId": "680b32e88856a58cdcab7559",
+                        "lectureLength": "00:29:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83ekhfGQZ4B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EC2 Deployment",
+                        "lectureId": "680b32e88856a58cdcab755a",
+                        "lectureLength": "00:26:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MFXJc4QmfD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EC2 Networking",
+                        "lectureId": "680b32e88856a58cdcab755b",
+                        "lectureLength": "00:25:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4k3qhYbYedr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EC2 nginx",
+                        "lectureId": "680b32e88856a58cdcab755c",
+                        "lectureLength": "00:28:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QkeEa6j6Sy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ECR",
+                        "lectureId": "680b32e88856a58cdcab755d",
+                        "lectureLength": "00:17:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63DGUnyxTKT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ECS",
+                        "lectureId": "680b32e88856a58cdcab755e",
+                        "lectureLength": "00:32:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SRC8KXhcMr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EB",
+                        "lectureId": "680b32e88856a58cdcab755f",
+                        "lectureLength": "00:23:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FbzxjtJKU5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lambda",
+                        "lectureId": "680b32e88856a58cdcab7560",
+                        "lectureLength": "00:14:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBNZMXeb9mT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Postgres",
+                        "lectureId": "680b32e88856a58cdcab7561",
+                        "lectureLength": "00:16:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PM542RMZNKt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RDS",
+                        "lectureId": "680b32e88856a58cdcab7562",
+                        "lectureLength": "00:18:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35EKryDBJuk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CDN",
+                        "lectureId": "680b32e88856a58cdcab7563",
+                        "lectureLength": "00:08:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bq2ffECCFPH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CloudFront",
+                        "lectureId": "680b32e88856a58cdcab7564",
+                        "lectureLength": "00:17:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sTUaHaU39b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Additional Topics",
+                        "lectureId": "680b32e88856a58cdcab7565",
+                        "lectureLength": "00:18:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhaNQCp9a4B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CodeCommit",
+                        "lectureId": "680b32e88856a58cdcab7566",
+                        "lectureLength": "00:12:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pxeQy2qg4D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Code Pipeline",
+                        "lectureId": "680b32e88856a58cdcab7567",
+                        "lectureLength": "00:20:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtCK4u2mEtd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cloudformation 1",
+                        "lectureId": "680b32e88856a58cdcab7568",
+                        "lectureLength": "00:19:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MqbJ52Pqtt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CloudFormation 2",
+                        "lectureId": "680b32e88856a58cdcab7569",
+                        "lectureLength": "00:12:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FUFNFzhCeT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CF and EC2",
+                        "lectureId": "680b32e88856a58cdcab756a",
+                        "lectureLength": "00:28:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjCNY5zk4eY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "AWS",
+                "assignmentId": "68f224ac83492d3c7b6b53f3",
+                "assignmentLink": "https://docs.google.com/document/d/13bmJsFywLGJ_vpzVsDu5z2ykKjvPNj6P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Kubernetes",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Kubernetes",
+                        "lectureId": "680b32e88856a58cdcab756d",
+                        "lectureLength": "00:11:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eDxpNTQANZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Main Components",
+                        "lectureId": "680b32e88856a58cdcab756e",
+                        "lectureLength": "00:17:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68qANRmuX2h/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "K8s Architechture",
+                        "lectureId": "680b32e88856a58cdcab756f",
+                        "lectureLength": "00:14:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Uhjfb5pSuH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "MiniKube Kubectl",
+                        "lectureId": "680b32e88856a58cdcab7570",
+                        "lectureLength": "00:17:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfXardxE64/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dashboard",
+                        "lectureId": "680b32e88856a58cdcab7571",
+                        "lectureLength": "00:11:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QbGkq8utU2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic App",
+                        "lectureId": "680b32e88856a58cdcab7572",
+                        "lectureLength": "00:29:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aG8UqqQBXY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Debugging & Kubectl",
+                        "lectureId": "680b32e88856a58cdcab7573",
+                        "lectureLength": "00:21:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA7gNNBXQQa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Kubernetes - Building Microservices",
+                        "lectureId": "680b32e88856a58cdcab7574",
+                        "lectureLength": "00:36:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9p79TZSdCrG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploying Microservices",
+                        "lectureId": "680b32e88856a58cdcab7575",
+                        "lectureLength": "00:24:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARRXmubzF6K/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ingress",
+                        "lectureId": "680b32e88856a58cdcab7576",
+                        "lectureLength": "00:15:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DSxtBpFkmp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Volume Services",
+                        "lectureId": "680b32e88856a58cdcab7577",
+                        "lectureLength": "00:18:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sYbanZXXfb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Helm",
+                        "lectureId": "680b32e88856a58cdcab7578",
+                        "lectureLength": "00:13:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jftyGHbfHZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ArgoCD",
+                        "lectureId": "680b32e88856a58cdcab7579",
+                        "lectureLength": "00:14:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GsZStd7QEp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Kubernetes",
+                "assignmentId": "68f224ad83492d3c7b6b53f5",
+                "assignmentLink": "https://docs.google.com/document/d/1qMfPe0hZ61JXTI6qH3Tziu144c5-C2xf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Terraform",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Terraform",
+                        "lectureId": "680b32e88856a58cdcab757f",
+                        "lectureLength": "00:10:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zR6qEB78s8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terraform Providers",
+                        "lectureId": "680b32e88856a58cdcab757e",
+                        "lectureLength": "00:12:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SjBanaHrSh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terraform: AWS s3 ec2 in action",
+                        "lectureId": "680b32e88856a58cdcab757c",
+                        "lectureLength": "00:22:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/k9RCN3fqxtf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terraform Commands",
+                        "lectureId": "680b32e88856a58cdcab757d",
+                        "lectureLength": "00:16:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUc3jhy29hD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Terraform",
+                "assignmentId": "68f224ae83492d3c7b6b53f7",
+                "assignmentLink": "https://docs.google.com/document/d/1-kgQo6icrFUpg7Q-eQ69lImKpeQSgJfE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Continuous Integration - Jenkins, CircleCI, GH Actions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to CI-CD",
+                        "lectureId": "680b32e88856a58cdcab7582",
+                        "lectureLength": "00:14:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dP5R95AFrN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Jenkins",
+                        "lectureId": "680b32e88856a58cdcab7583",
+                        "lectureLength": "00:23:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sPaRCXHn3k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Jenkins Jobs",
+                        "lectureId": "680b32e88856a58cdcab7584",
+                        "lectureLength": "00:34:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C65yTyYNZNb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GH Actions",
+                        "lectureId": "680b32e88856a58cdcab7585",
+                        "lectureLength": "00:19:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kXTPpcYJDs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GH Jenkins",
+                        "lectureId": "680b32e88856a58cdcab7586",
+                        "lectureLength": "00:18:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnSZHnBp5JA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CircleCI",
+                        "lectureId": "680b32e88856a58cdcab7587",
+                        "lectureLength": "00:22:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37Cx4pE87fy/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "CI/CD pipeline",
+                "assignmentId": "68f224af83492d3c7b6b53f9",
+                "assignmentLink": "https://docs.google.com/document/d/1Tdj2gL2t2ngd_XuF8Eu75QAo-_8mSDqE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "693fbb5a777bd07433702951",
+                "mentor": "Rohit",
+                "start": 20,
+                "end": 23,
+                "chatStart": 19,
+                "chatEnd": 22,
+                "time": "8:00 PM - 11:00 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds3",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1sT5GhepVqLMBARgg-MxOUn8Zcs6N1gN2?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

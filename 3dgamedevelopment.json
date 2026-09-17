@@ -1,0 +1,1211 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6863bb9a318dfa98a32d98bf",
+        "courseName": "3D Game Development in Unity",
+        "slug": "3dgamedevelopment",
+        "category": "technical",
+        "tpFolderId": "AmTEGNF7FZP",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": true,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "68ed3451c9cf3d230ba678f6",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Course",
+                        "lectureId": "6863bb9a318dfa98a32d98c1",
+                        "lectureLength": "00:11:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Tcr8zPkRaZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Theory Intro to Game Dev",
+                        "lectureId": "6863bb9a318dfa98a32d98c2",
+                        "lectureLength": "00:30:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tte2BFbApN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Unity hub",
+                        "lectureId": "6863bb9a318dfa98a32d98c3",
+                        "lectureLength": "00:11:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Hhm7B2S6zb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Unity Engine",
+                        "lectureId": "6863bb9a318dfa98a32d98c4",
+                        "lectureLength": "00:26:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXPzUxb8jYe/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Obstacle Dodge",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Game Design and Intro",
+                        "lectureId": "6863bb9a318dfa98a32d98c6",
+                        "lectureLength": "00:05:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HAxapPNeea/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Start Function and Update Function",
+                        "lectureId": "6863bb9a318dfa98a32d98c7",
+                        "lectureLength": "00:21:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cFYntdX6tp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Variable",
+                        "lectureId": "6863bb9a318dfa98a32d98c8",
+                        "lectureLength": "00:06:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MBU9qDJCrD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SerializeField",
+                        "lectureId": "6863bb9a318dfa98a32d98c9",
+                        "lectureLength": "00:05:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nQkqE7rhz7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Input getAxis Function",
+                        "lectureId": "6863bb9a318dfa98a32d98ca",
+                        "lectureLength": "00:16:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GNeduGH2Jd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Time DeltaTime",
+                        "lectureId": "6863bb9a318dfa98a32d98cb",
+                        "lectureLength": "00:08:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRSmhUmQuBR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Asset Store and Package Manager",
+                        "lectureId": "6863bb9a318dfa98a32d98cc",
+                        "lectureLength": "00:12:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Jmz4eh8p9F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cinemachine",
+                        "lectureId": "6863bb9a318dfa98a32d98cd",
+                        "lectureLength": "00:11:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rdUbGnfPUz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Methods",
+                        "lectureId": "6863bb9a318dfa98a32d98ce",
+                        "lectureLength": "00:13:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rtFDNSxk22u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Practicing Methods",
+                        "lectureId": "6863bb9a318dfa98a32d98cf",
+                        "lectureLength": "00:09:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSjkDxxBMAu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Collision",
+                        "lectureId": "6863bb9a318dfa98a32d98d0",
+                        "lectureLength": "00:08:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NygajTHtSb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OnCollisionEnter",
+                        "lectureId": "6863bb9a318dfa98a32d98d1",
+                        "lectureLength": "00:08:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEmcHNSaEkT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GetComponent",
+                        "lectureId": "6863bb9a318dfa98a32d98d2",
+                        "lectureLength": "00:12:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DFd8A78ynY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Score System",
+                        "lectureId": "6863bb9a318dfa98a32d98d3",
+                        "lectureLength": "00:09:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gfCy6EREKt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Concept Of Time",
+                        "lectureId": "6863bb9a318dfa98a32d98d4",
+                        "lectureLength": "00:20:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APU6QJCzK2e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tags",
+                        "lectureId": "6863bb9a318dfa98a32d98d5",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mXNMC2Pjae/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rotate Objects",
+                        "lectureId": "6863bb9a318dfa98a32d98d6",
+                        "lectureLength": "00:13:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3phQmk4YJya/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Projectile",
+                        "lectureId": "6863bb9a318dfa98a32d98d7",
+                        "lectureLength": "00:19:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mfjbD79GQR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Destroy",
+                        "lectureId": "6863bb9a318dfa98a32d98d8",
+                        "lectureLength": "00:13:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZDJGb2Kfz9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Trigger",
+                        "lectureId": "6863bb9a318dfa98a32d98d9",
+                        "lectureLength": "00:21:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YR5eTUhM8Zq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Prefabs",
+                        "lectureId": "6863bb9a318dfa98a32d98da",
+                        "lectureLength": "00:21:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AgygH5xsMt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Unity Order of Execution",
+                        "lectureId": "6863bb9a318dfa98a32d98db",
+                        "lectureLength": "00:13:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At6eStXBGjq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Level Layout",
+                        "lectureId": "6863bb9a318dfa98a32d98dc",
+                        "lectureLength": "00:16:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AuBAqsxnMz5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Obstacles",
+                        "lectureId": "6863bb9a318dfa98a32d98dd",
+                        "lectureLength": "00:15:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7seAuMt7eRE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Game Over",
+                        "lectureId": "6863bb9a318dfa98a32d98de",
+                        "lectureLength": "00:18:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AstqbKaKQtZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Overview",
+                        "lectureId": "6863bb9a318dfa98a32d98df",
+                        "lectureLength": "00:07:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BK2CgYsBXHx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Rocket Boost",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction",
+                        "lectureId": "6863bb9a318dfa98a32d98e1",
+                        "lectureLength": "00:05:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5G6th7XUNyj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Import Assets",
+                        "lectureId": "6863bb9a318dfa98a32d98e2",
+                        "lectureLength": "00:19:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5XnQPb2Q9S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Classes and Namespaces",
+                        "lectureId": "6863bb9a318dfa98a32d98e3",
+                        "lectureLength": "00:18:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ytM8AaXNDg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Input System",
+                        "lectureId": "6863bb9a318dfa98a32d98e4",
+                        "lectureLength": "00:15:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUcXHxmJfh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using AddRelativeForce Function",
+                        "lectureId": "6863bb9a318dfa98a32d98e5",
+                        "lectureLength": "00:24:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nRSTDY4n6p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rotation Input",
+                        "lectureId": "6863bb9a318dfa98a32d98e6",
+                        "lectureLength": "00:11:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ySqBuHMKMR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rotate the Rocket",
+                        "lectureId": "6863bb9a318dfa98a32d98e7",
+                        "lectureLength": "00:20:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79EsFbnBfd8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Camera Follow",
+                        "lectureId": "6863bb9a318dfa98a32d98e8",
+                        "lectureLength": "00:07:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkfrnEyM23f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rigidbody Tuning",
+                        "lectureId": "6863bb9a318dfa98a32d98e9",
+                        "lectureLength": "00:16:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C5MSkB6BfZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Audio",
+                        "lectureId": "6863bb9a318dfa98a32d98ea",
+                        "lectureLength": "00:07:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RAmtNZK7qP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Play AudioSource",
+                        "lectureId": "6863bb9a318dfa98a32d98eb",
+                        "lectureLength": "00:10:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5neRaDt4EAq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Switch",
+                        "lectureId": "6863bb9a318dfa98a32d98ec",
+                        "lectureLength": "00:19:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hyXHNyY8Jr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reload Scene",
+                        "lectureId": "6863bb9a318dfa98a32d98ed",
+                        "lectureLength": "00:12:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tuTuUng4FK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Load Next scene",
+                        "lectureId": "6863bb9a318dfa98a32d98ee",
+                        "lectureLength": "00:20:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EGNdHTp7fF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Invoke",
+                        "lectureId": "6863bb9a318dfa98a32d98ef",
+                        "lectureLength": "00:17:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNS2YxCGsTk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Code Layout",
+                        "lectureId": "6863bb9a318dfa98a32d98f0",
+                        "lectureLength": "00:09:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43tBQFZnzRH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Playing multiple sounds",
+                        "lectureId": "6863bb9a318dfa98a32d98f1",
+                        "lectureLength": "00:15:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9T4XhTNHGC7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bool states",
+                        "lectureId": "6863bb9a318dfa98a32d98f2",
+                        "lectureLength": "00:15:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4usZUdF3Ye2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Intro to particles",
+                        "lectureId": "6863bb9a318dfa98a32d98f3",
+                        "lectureLength": "00:19:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sMypn5F9YE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Thrust Particle",
+                        "lectureId": "6863bb9a318dfa98a32d98f4",
+                        "lectureLength": "00:21:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UEnzqCaBnzJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Debug keys",
+                        "lectureId": "6863bb9a318dfa98a32d98f5",
+                        "lectureLength": "00:11:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MCszSg9xeF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assets and Colliders",
+                        "lectureId": "6863bb9a318dfa98a32d98f6",
+                        "lectureLength": "00:20:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65UfxNa8nuE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Level Layout",
+                        "lectureId": "6863bb9a318dfa98a32d98f7",
+                        "lectureLength": "00:21:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MyqKXEj4cN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tuning The Game",
+                        "lectureId": "6863bb9a318dfa98a32d98f8",
+                        "lectureLength": "00:14:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XnKUR4yybN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Set Dressing",
+                        "lectureId": "6863bb9a318dfa98a32d98f9",
+                        "lectureLength": "00:15:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y7Uhcpr84X/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rocket Boost Post Processing",
+                        "lectureId": "6863bb9a318dfa98a32d98fa",
+                        "lectureLength": "00:12:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uzbyY9p53Eu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Lighting",
+                        "lectureId": "6863bb9a318dfa98a32d98fb",
+                        "lectureLength": "00:32:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xr9GHn8CxX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Prefabs and Levels",
+                        "lectureId": "6863bb9a318dfa98a32d98fc",
+                        "lectureLength": "00:10:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CTZYDP3erM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Oscillator Obstacle",
+                        "lectureId": "6863bb9a318dfa98a32d98fd",
+                        "lectureLength": "00:19:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZqgBRfHJm3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Quit Functionality",
+                        "lectureId": "6863bb9a318dfa98a32d98fe",
+                        "lectureLength": "00:06:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99xU8ZsBnAb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Ideas",
+                        "lectureId": "6863bb9a318dfa98a32d98ff",
+                        "lectureLength": "00:11:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tPycH8mNdtt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Build the game",
+                        "lectureId": "6863bb9a318dfa98a32d9900",
+                        "lectureLength": "00:08:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8P83cNrpR9a/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rocket Boost Overview",
+                        "lectureId": "6863bb9a318dfa98a32d9901",
+                        "lectureLength": "00:05:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97ZPTFX8g8C/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Galaxy Strike",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Galaxy Strike Introduction",
+                        "lectureId": "6863bb9a318dfa98a32d9903",
+                        "lectureLength": "00:07:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5PYsE989KU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terrain Tools",
+                        "lectureId": "6863bb9a318dfa98a32d9904",
+                        "lectureLength": "00:18:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BxZyCJDnCA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Terrain",
+                        "lectureId": "6863bb9a318dfa98a32d9905",
+                        "lectureLength": "00:15:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZJYmyzgu4U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Texturing Terrain",
+                        "lectureId": "6863bb9a318dfa98a32d9906",
+                        "lectureLength": "00:22:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JhXX4FHKf9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Master Timeline",
+                        "lectureId": "6863bb9a318dfa98a32d9907",
+                        "lectureLength": "00:21:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YF3KGB9AjB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation Curves",
+                        "lectureId": "6863bb9a318dfa98a32d9908",
+                        "lectureLength": "00:19:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bpx6css3J7c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Enemy Timeline",
+                        "lectureId": "6863bb9a318dfa98a32d9909",
+                        "lectureLength": "00:08:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gyG7TGSyak/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Input Action map",
+                        "lectureId": "6863bb9a318dfa98a32d990a",
+                        "lectureLength": "00:15:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gbuPRMjRgG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Player Ship Movement",
+                        "lectureId": "6863bb9a318dfa98a32d990b",
+                        "lectureLength": "00:13:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GNNBe99aEB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mathf Clamp Function",
+                        "lectureId": "6863bb9a318dfa98a32d990c",
+                        "lectureLength": "00:08:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ShqGzqkRHM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Roll Ship",
+                        "lectureId": "6863bb9a318dfa98a32d990d",
+                        "lectureLength": "00:09:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uZbHxRFDgj9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Roll Lerp",
+                        "lectureId": "6863bb9a318dfa98a32d990e",
+                        "lectureLength": "00:07:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QuRzqk5P3n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pitch",
+                        "lectureId": "6863bb9a318dfa98a32d990f",
+                        "lectureLength": "00:05:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G3Dkdp3cJm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Particle System",
+                        "lectureId": "6863bb9a318dfa98a32d9910",
+                        "lectureLength": "00:19:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BA6sFN2kgee/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Laser Fire Input",
+                        "lectureId": "6863bb9a318dfa98a32d9911",
+                        "lectureLength": "00:19:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C9Z2xeAqAG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Arrays and Foreach Loop",
+                        "lectureId": "6863bb9a318dfa98a32d9912",
+                        "lectureLength": "00:13:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCpbt7m2CB4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Crosshair",
+                        "lectureId": "6863bb9a318dfa98a32d9913",
+                        "lectureLength": "00:12:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UzxfbZrujh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tracking target",
+                        "lectureId": "6863bb9a318dfa98a32d9914",
+                        "lectureLength": "00:12:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t63MfxnXnG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vector Arithmetic",
+                        "lectureId": "6863bb9a318dfa98a32d9915",
+                        "lectureLength": "00:13:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XTFEJn2bty/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Collision",
+                        "lectureId": "6863bb9a318dfa98a32d9916",
+                        "lectureLength": "00:11:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bg5Exah48xG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Particle Collision",
+                        "lectureId": "6863bb9a318dfa98a32d9917",
+                        "lectureLength": "00:03:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62ApYY85abd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explosion Particles",
+                        "lectureId": "6863bb9a318dfa98a32d9918",
+                        "lectureLength": "00:18:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EBcrDBfKQG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Prefab Variants",
+                        "lectureId": "6863bb9a318dfa98a32d9919",
+                        "lectureLength": "00:35:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B638zMD4ZD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Enemy Ship Variants",
+                        "lectureId": "6863bb9a318dfa98a32d991a",
+                        "lectureLength": "00:16:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qbH4EFSktn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Enemy hit points",
+                        "lectureId": "6863bb9a318dfa98a32d991b",
+                        "lectureLength": "00:13:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rFPpZheb6c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Public methods In C Sharp",
+                        "lectureId": "6863bb9a318dfa98a32d991c",
+                        "lectureLength": "00:25:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AssJShSGUNu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UI Canvas",
+                        "lectureId": "6863bb9a318dfa98a32d991d",
+                        "lectureLength": "00:12:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5JjDQBAdGMJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Score UI",
+                        "lectureId": "6863bb9a318dfa98a32d991e",
+                        "lectureLength": "00:11:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HHERg8sdB9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Enemy Waves",
+                        "lectureId": "6863bb9a318dfa98a32d991f",
+                        "lectureLength": "00:15:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kAtGYgJmGh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Voicelines",
+                        "lectureId": "6863bb9a318dfa98a32d9920",
+                        "lectureLength": "00:09:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5MtYHXhNgk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Skybox",
+                        "lectureId": "6863bb9a318dfa98a32d9921",
+                        "lectureLength": "00:15:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mJ7hPRh3KX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Trees In Game",
+                        "lectureId": "6863bb9a318dfa98a32d9922",
+                        "lectureLength": "00:17:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mQhmuDPqBN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Common Issues with Assets",
+                        "lectureId": "6863bb9a318dfa98a32d9923",
+                        "lectureLength": "00:08:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95RbxTPRzTy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rendering Lidgting and Shadows",
+                        "lectureId": "6863bb9a318dfa98a32d9924",
+                        "lectureLength": "00:14:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pPaDRH3qkT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reload Coroutines",
+                        "lectureId": "6863bb9a318dfa98a32d9925",
+                        "lectureLength": "00:20:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ARG2YaA3fC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Music Singleton",
+                        "lectureId": "6863bb9a318dfa98a32d9926",
+                        "lectureLength": "00:14:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SeghgmJaTZY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Galaxy Strike Post Processing",
+                        "lectureId": "6863bb9a318dfa98a32d9927",
+                        "lectureLength": "00:05:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NU9cZGJJJZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Subtitles",
+                        "lectureId": "6863bb9a318dfa98a32d9928",
+                        "lectureLength": "00:24:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdBY4rAnKjN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vertical Slice",
+                        "lectureId": "6863bb9a318dfa98a32d9929",
+                        "lectureLength": "00:06:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DxGSNA2NC9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Galaxy Strike Overview",
+                        "lectureId": "6863bb9a318dfa98a32d992a",
+                        "lectureLength": "00:09:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4m9qsufXday/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment-1 : Galaxy Strike - Vertical Slice",
+                "assignmentId": "68f2251983492d3c7b6b5554",
+                "assignmentLink": "https://docs.google.com/document/d/18vpX5jKqy7E0q6iQTwcNaWrBo6_ZhUbV_-rRVCKZGv4/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Royal Run",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "INTRO",
+                        "lectureId": "6863bb9a318dfa98a32d992c",
+                        "lectureLength": "00:07:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Pst225GkPn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Importing Assets",
+                        "lectureId": "6863bb9a318dfa98a32d992d",
+                        "lectureLength": "00:12:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYkstd3HnyH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Level Generation Theory Part",
+                        "lectureId": "6863bb9a318dfa98a32d992e",
+                        "lectureLength": "00:08:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XCsXzmrUmY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Level Generation",
+                        "lectureId": "6863bb9a318dfa98a32d992f",
+                        "lectureLength": "00:28:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GfTUacmdZR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Moving Chunks",
+                        "lectureId": "6863bb9a318dfa98a32d9930",
+                        "lectureLength": "00:22:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Cc4s3rm4URr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "C Sharp Lists",
+                        "lectureId": "6863bb9a318dfa98a32d9931",
+                        "lectureLength": "00:15:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kQDk3kBeuQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Input Actions",
+                        "lectureId": "6863bb9a318dfa98a32d9932",
+                        "lectureLength": "00:16:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mgjXdbuDt5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Move Player",
+                        "lectureId": "6863bb9a318dfa98a32d9933",
+                        "lectureLength": "00:15:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrteFbRtsED/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Clamp Movement",
+                        "lectureId": "6863bb9a318dfa98a32d9934",
+                        "lectureLength": "00:12:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/563ARDxMBGJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Spawn Obstacle",
+                        "lectureId": "6863bb9a318dfa98a32d9935",
+                        "lectureLength": "00:23:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fDhg9ZAPku/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Physics Materials",
+                        "lectureId": "6863bb9a318dfa98a32d9936",
+                        "lectureLength": "00:17:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jTmJmQ2nsg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Royal Run Prefab Variants",
+                        "lectureId": "6863bb9a318dfa98a32d9937",
+                        "lectureLength": "00:15:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YdNqR2qtFR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "More Obstacles",
+                        "lectureId": "6863bb9a318dfa98a32d9938",
+                        "lectureLength": "00:19:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QKAHs44yST/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fences",
+                        "lectureId": "6863bb9a318dfa98a32d9939",
+                        "lectureLength": "00:16:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JKcqPqHtRG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lane Detection",
+                        "lectureId": "6863bb9a318dfa98a32d993a",
+                        "lectureLength": "00:22:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uQkcrzgxeNm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Destroying Obstacles",
+                        "lectureId": "6863bb9a318dfa98a32d993b",
+                        "lectureLength": "00:07:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fbXy6SeExk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Score",
+                        "lectureId": "6863bb9a318dfa98a32d993c",
+                        "lectureLength": "00:09:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AStj3paSRHF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Coins",
+                        "lectureId": "6863bb9a318dfa98a32d993d",
+                        "lectureLength": "00:11:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CZNGBUfqpZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Coin Implementation",
+                        "lectureId": "6863bb9a318dfa98a32d993e",
+                        "lectureLength": "00:17:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3XRGpnXq63/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fence Animation",
+                        "lectureId": "6863bb9a318dfa98a32d993f",
+                        "lectureLength": "00:13:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58633uMsazD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Trigger animation",
+                        "lectureId": "6863bb9a318dfa98a32d9940",
+                        "lectureLength": "00:05:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eAnuRmnKZn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Royal Run Game Over",
+                        "lectureId": "6863bb9a318dfa98a32d9941",
+                        "lectureLength": "00:19:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NPtferbXx7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Royal Run Post Processing",
+                        "lectureId": "6863bb9a318dfa98a32d9942",
+                        "lectureLength": "00:09:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkxM8JSupGJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Sharp Shooter",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Sharp Shooter Overview",
+                        "lectureId": "6863bb9a318dfa98a32d9944",
+                        "lectureLength": "00:09:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y9y2Y9jdGNG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assets",
+                        "lectureId": "6863bb9a318dfa98a32d9945",
+                        "lectureLength": "00:31:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AApzBHEz7ed/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nav Mesh",
+                        "lectureId": "6863bb9a318dfa98a32d9946",
+                        "lectureLength": "00:20:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYpjmuH2sz5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nav Mesh Agents",
+                        "lectureId": "6863bb9a318dfa98a32d9947",
+                        "lectureLength": "00:10:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZaQ5csHt6G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sharp Shooter Importing Assets",
+                        "lectureId": "6863bb9a318dfa98a32d9948",
+                        "lectureLength": "00:07:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ2h3yT69qG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Equip Gun",
+                        "lectureId": "6863bb9a318dfa98a32d9949",
+                        "lectureLength": "00:09:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fKjJjUNtDy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Raycast",
+                        "lectureId": "6863bb9a318dfa98a32d994a",
+                        "lectureLength": "00:22:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zyTcMFq56T/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Enemy Health",
+                        "lectureId": "6863bb9a318dfa98a32d994b",
+                        "lectureLength": "00:15:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5HYk6DFKEZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Probuilder",
+                        "lectureId": "6863bb9a318dfa98a32d994c",
+                        "lectureLength": "00:21:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U82AhmnRnr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Probuilder Level Design",
+                        "lectureId": "6863bb9a318dfa98a32d994d",
+                        "lectureLength": "00:14:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8haCn47fAZe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Visual Effects",
+                        "lectureId": "6863bb9a318dfa98a32d994e",
+                        "lectureLength": "00:10:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GeY645uja7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case Study",
+                        "lectureId": "6863bb9a318dfa98a32d994f",
+                        "lectureLength": "00:17:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SnJ6RS9fZ3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Muzzle FX",
+                        "lectureId": "6863bb9a318dfa98a32d9950",
+                        "lectureLength": "00:13:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZAruZEkuMZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hit fx",
+                        "lectureId": "6863bb9a318dfa98a32d9951",
+                        "lectureLength": "00:19:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UYQ4UnHDeZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scene Prep",
+                        "lectureId": "6863bb9a318dfa98a32d9952",
+                        "lectureLength": "00:11:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BC8y4HkuFnu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scriptable Objects",
+                        "lectureId": "6863bb9a318dfa98a32d9953",
+                        "lectureLength": "00:19:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/688AzdTpK37/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shoot Cooldown",
+                        "lectureId": "6863bb9a318dfa98a32d9954",
+                        "lectureLength": "00:17:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KeXXJmUZu3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Machine Gun",
+                        "lectureId": "6863bb9a318dfa98a32d9955",
+                        "lectureLength": "00:11:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cm9SUAzKEb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Weapon Pickups",
+                        "lectureId": "6863bb9a318dfa98a32d9956",
+                        "lectureLength": "00:16:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qNrMygS6hY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Switching Sniper",
+                        "lectureId": "6863bb9a318dfa98a32d9957",
+                        "lectureLength": "00:13:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BecYSe5B3Mk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Switching Weapons",
+                        "lectureId": "6863bb9a318dfa98a32d9958",
+                        "lectureLength": "00:13:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4E9tNKRdB6k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sniper Setup",
+                        "lectureId": "6863bb9a318dfa98a32d9959",
+                        "lectureLength": "00:11:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jsE6H54tsQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sniper Zoom",
+                        "lectureId": "6863bb9a318dfa98a32d995a",
+                        "lectureLength": "00:31:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkKxh3jcfGd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pickup and inheritence",
+                        "lectureId": "6863bb9a318dfa98a32d995b",
+                        "lectureLength": "00:23:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fbu9xbtcCT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Function Overrides",
+                        "lectureId": "6863bb9a318dfa98a32d995c",
+                        "lectureLength": "00:13:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sR3kZQNnR7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ammo Setup",
+                        "lectureId": "6863bb9a318dfa98a32d995d",
+                        "lectureLength": "00:12:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7EqrPnqSp7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ammo Implementation",
+                        "lectureId": "6863bb9a318dfa98a32d995e",
+                        "lectureLength": "00:16:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nHJ23KxxUf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ammo Pickup",
+                        "lectureId": "6863bb9a318dfa98a32d995f",
+                        "lectureLength": "00:12:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eXB2yUu6m2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Weapon Viewport",
+                        "lectureId": "6863bb9a318dfa98a32d9960",
+                        "lectureLength": "00:09:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34GpCGHBPJN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Robot Self Destoy",
+                        "lectureId": "6863bb9a318dfa98a32d9961",
+                        "lectureLength": "00:10:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFT6hj87scH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Player Damage",
+                        "lectureId": "6863bb9a318dfa98a32d9962",
+                        "lectureLength": "00:20:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dsZGmQbcrU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project End",
+                        "lectureId": "6863bb9a318dfa98a32d9963",
+                        "lectureLength": "00:05:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rjdztsPhBs/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment-2 : Sharp Shooter – FPV combat demo",
+                "assignmentId": "68f2251983492d3c7b6b5556",
+                "assignmentLink": "https://docs.google.com/document/d/10YAQp_3Ku88gYPYvXo622Xx6voSs2JD1h3dMH9GhMxI/edit?usp=sharing"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "687f82b64cffeabaa9bfe2d4",
+                "mentor": "Krishna Singh",
+                "start": 20.5,
+                "end": 22,
+                "time": "8:30 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds7",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    5
+                ],
+                "chatEnd": 0,
+                "chatStart": 0,
+                "role": "junior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1PXnnjWjPlLFtOhgunup2Oa9kHiHG0Eo_?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

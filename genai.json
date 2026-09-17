@@ -1,0 +1,2672 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "693a76632b7555b4c98f88f6",
+        "courseName": "Gen Ai",
+        "slug": "genai",
+        "category": "Technical",
+        "tpFolderId": "8JbQKXsBdR8",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "696f96117a4c1d6f20288384",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "How to Learn from this Course",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to Learn from this Course",
+                        "lectureId": "6970b0e47a4c1d6f20288b2b",
+                        "lectureLength": "00:25:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7GQay6p6XJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Generative AI Introduction",
+                        "lectureId": "693a76632b7555b4c98f88f8",
+                        "lectureLength": "00:47:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4CHC7UNPhx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generative AI End to End Flowchart Roadmap",
+                        "lectureId": "693a76632b7555b4c98f88f9",
+                        "lectureLength": "01:21:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Mb6Qfn4CAQ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Deep Dive In python ",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Python Getting Started (VS Code)",
+                        "lectureId": "6a3fe0f58668a9279c156263",
+                        "lectureLength": "00:38:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ETufe4sH6kA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Python Getting Started (Optional)",
+                        "lectureId": "697c99481af4885db0e69cf6",
+                        "lectureLength": "00:31:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEBUyTJRH5J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Python Introduction",
+                        "lectureId": "697c99491af4885db0e69cf9",
+                        "lectureLength": "00:31:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QTF4QZtK3z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Variables and print & input functions",
+                        "lectureId": "697c99491af4885db0e69cfc",
+                        "lectureLength": "00:52:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aPjHrSDbNr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Types",
+                        "lectureId": "697c994a1af4885db0e69cff",
+                        "lectureLength": "00:19:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kKRedZ4tg3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Operators in python",
+                        "lectureId": "697c994a1af4885db0e69d02",
+                        "lectureLength": "00:46:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74NTenPhUhh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Structures and List",
+                        "lectureId": "697c994a1af4885db0e69d05",
+                        "lectureLength": "00:38:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3p7TpmUrxsH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "List Mutability and List Slicing",
+                        "lectureId": "697c994b1af4885db0e69d08",
+                        "lectureLength": "00:32:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qyG3HTHZgM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "List Methods and List Comprehension",
+                        "lectureId": "697c994b1af4885db0e69d0b",
+                        "lectureLength": "00:53:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PtAZGbnYyX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tuples in Python",
+                        "lectureId": "697c994c1af4885db0e69d0e",
+                        "lectureLength": "00:43:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xyxkCKSRhm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dictionary in Data Structure",
+                        "lectureId": "697c994c1af4885db0e69d11",
+                        "lectureLength": "01:10:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ncmH53HnFE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sets in Data Structures",
+                        "lectureId": "697c994d1af4885db0e69d14",
+                        "lectureLength": "00:19:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/986y8uMrDMH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conditional Statements",
+                        "lectureId": "697c994d1af4885db0e69d17",
+                        "lectureLength": "00:47:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BbReB92R6n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Looping Statements_for loop",
+                        "lectureId": "697c994e1af4885db0e69d1a",
+                        "lectureLength": "00:36:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NrxtcQ2u3a/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "looping Statements While loop and loop control statements",
+                        "lectureId": "697c994e1af4885db0e69d1d",
+                        "lectureLength": "00:55:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5chpZbBh8An/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Functions Overview",
+                        "lectureId": "697c994e1af4885db0e69d20",
+                        "lectureLength": "00:14:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xcmFKAbrqN7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Functions Definition intro",
+                        "lectureId": "697c994f1af4885db0e69d23",
+                        "lectureLength": "00:44:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55eraqyB6Kd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Functions examples",
+                        "lectureId": "697c994f1af4885db0e69d26",
+                        "lectureLength": "00:35:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/H8S8f3rNER8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Functions Recursive and Variable Arguments",
+                        "lectureId": "697c99501af4885db0e69d29",
+                        "lectureLength": "00:46:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TtTYGr5dg6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Functions Questions",
+                        "lectureId": "697c99501af4885db0e69d2c",
+                        "lectureLength": "01:03:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtX8QuMsnrQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lambda Functions",
+                        "lectureId": "697c99511af4885db0e69d2f",
+                        "lectureLength": "00:20:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2KRDCNd88J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Map Functions",
+                        "lectureId": "697c99511af4885db0e69d32",
+                        "lectureLength": "00:39:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHXxmuSPtJK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Filter Function",
+                        "lectureId": "697c99521af4885db0e69d35",
+                        "lectureLength": "00:21:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64ycJ9A9Z97/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "File Handling Introduction",
+                        "lectureId": "697c99521af4885db0e69d38",
+                        "lectureLength": "00:46:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y96zHQAuAe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "File Handling Questions",
+                        "lectureId": "697c99531af4885db0e69d3b",
+                        "lectureLength": "00:48:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xnqxuMNB3uY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OS Library",
+                        "lectureId": "697c99531af4885db0e69d3e",
+                        "lectureLength": "00:37:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jZQ6Fq49fkr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modules and Packages",
+                        "lectureId": "697c99541af4885db0e69d41",
+                        "lectureLength": "01:00:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m7jxTxe8F9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Important Libraries",
+                        "lectureId": "697c99541af4885db0e69d44",
+                        "lectureLength": "01:16:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ajx7a3nr5p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exception Handling",
+                        "lectureId": "697c99551af4885db0e69d47",
+                        "lectureLength": "01:19:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BPe3zDds9G/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A1 - Data Structure(Lists & Tuples, Sets, Dictionaries, Operations)",
+                "assignmentId": "695f916ccfb436b316fa3b6a",
+                "assignmentLink": "https://docs.google.com/document/d/1ddgbgRVFMOPDXZpNac_O0GER04-yo2qcUXOVN3r2tYE/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "A2 - Control Flow (Conditionals & Loops)",
+                "assignmentId": "695faae0cfb436b316fa3b70",
+                "assignmentLink": "https://docs.google.com/document/d/1E5UJlzIKbthubM3SuAVkAT3m82-lZo05OkUcYQCc9ZY/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "A3: Functions (User-Defined, Recursive, Lambda, Map, Filter)",
+                "assignmentId": "695fad41cfb436b316fa3b75",
+                "assignmentLink": "https://docs.google.com/document/d/1r6coF2ASWzwSez0CTMbLpJ9BaKA14YmYz3Ls1wiONO4/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "A4: File Handling (Read, Write, Append, Modes)",
+                "assignmentId": "695fbd65cfb436b316fa3b7c",
+                "assignmentLink": "https://docs.google.com/document/d/19Y6ss0CS4pCDVE0eKodbdCiPSJNIsLolBsm275yQbuk/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "A5: Importing, Creating Modules & Packages",
+                "assignmentId": "696dcfb2f982c2e11e09eee7",
+                "assignmentLink": "https://docs.google.com/document/d/1e0dyOXjxHq3YFmLDrhEc1OT3piS7MCMpi5NCSeRq-dw/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "A6: Exception Handling",
+                "assignmentId": "695fc3fecfb436b316fa3d90",
+                "assignmentLink": "https://docs.google.com/document/d/1sG6ZfFGcdM7YdO91vspIlYq9cSvMxKTCIGiFFPsbpZY/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Object Oriented Programming",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Object Oriented Programming Introduction",
+                        "lectureId": "693a76632b7555b4c98f891e",
+                        "lectureLength": "00:44:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NpfkGygyDx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Object Oriented Programming Concepts",
+                        "lectureId": "693a76632b7555b4c98f891f",
+                        "lectureLength": "01:30:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8EMTCb2GHA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inheritance in OOPs",
+                        "lectureId": "693a76632b7555b4c98f8920",
+                        "lectureLength": "01:06:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hx2RcePKPD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Polymorphism in OOPs",
+                        "lectureId": "693a76632b7555b4c98f8921",
+                        "lectureLength": "00:32:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NxhSyahRuK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Encapsulation in OOPs",
+                        "lectureId": "693a76632b7555b4c98f8922",
+                        "lectureLength": "01:12:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6K3fHSqe45T/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Abstraction in OOPs",
+                        "lectureId": "693a76632b7555b4c98f8923",
+                        "lectureLength": "00:23:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYy9hy3xCnC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Magic Methods",
+                        "lectureId": "693a76632b7555b4c98f8924",
+                        "lectureLength": "00:22:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9dCNz4CceU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Operator Overloading",
+                        "lectureId": "693a76632b7555b4c98f8925",
+                        "lectureLength": "00:32:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5SPXBBTx2N/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A7: Object-Oriented Programming (OOP)",
+                "assignmentId": "695fc58ecfb436b316fa3d95",
+                "assignmentLink": "https://docs.google.com/document/d/1_dmIXXH6IR1sKD6_wxH8ktSHBvPC1IDOUD_JRENotRo/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Streamlit in Python",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Streamlit in Python",
+                        "lectureId": "693a76632b7555b4c98f8927",
+                        "lectureLength": "00:36:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4TcbjusrZS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A8: Streamlit (Basic App Building)",
+                "assignmentId": "695fc710cfb436b316fa3d9a",
+                "assignmentLink": "https://docs.google.com/document/d/1L-gZRSETKTrL2GjKiSJQ5XTXeqnT1cKh4-w0hWkpzF0/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Numpy",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Numpy Overview",
+                        "lectureId": "693a76632b7555b4c98f895d",
+                        "lectureLength": "00:49:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ESu4pYUFmT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Numpy Important Formulas",
+                        "lectureId": "693a76632b7555b4c98f895e",
+                        "lectureLength": "01:08:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C9EeZ4DKFe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mathematical Operations in Numpy",
+                        "lectureId": "693a76632b7555b4c98f895f",
+                        "lectureLength": "00:49:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fEn8DF9EZu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Numpy Statistical Functions and Other Important Concepts",
+                        "lectureId": "693a76632b7555b4c98f8960",
+                        "lectureLength": "01:30:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ynzNM92pht/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A9: NumPy (Mathematical & Statistical Operations)",
+                "assignmentId": "6960ba58cfb436b316fa45ee",
+                "assignmentLink": "https://docs.google.com/document/d/13DdLaiykLkUhyI990Cdnvvue1dJU18V2K_bC88IeVdw/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Pandas",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Pandas Introduction",
+                        "lectureId": "693a76632b7555b4c98f8962",
+                        "lectureLength": "00:34:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q5r9hU22Sm6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Series",
+                        "lectureId": "693a76632b7555b4c98f8963",
+                        "lectureLength": "01:04:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZezBqPP9aT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mathematical Functions in Series and indexing in Series",
+                        "lectureId": "693a76632b7555b4c98f8964",
+                        "lectureLength": "01:06:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82dPPaDQfJN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Real World Datasets in Series",
+                        "lectureId": "693a76632b7555b4c98f8965",
+                        "lectureLength": "01:19:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mNZzrdsC2E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DataFrame Introduction",
+                        "lectureId": "693a76632b7555b4c98f8966",
+                        "lectureLength": "00:23:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PUNBcDRgam/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Python Functionalities in Series and Plotting Graphs",
+                        "lectureId": "693a76632b7555b4c98f8967",
+                        "lectureLength": "00:58:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Gc9asdF7T8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating dataframe and Attributes and Functions in DataFrame",
+                        "lectureId": "693a76632b7555b4c98f8968",
+                        "lectureLength": "01:10:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TSeGnxAyzk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Important Functions and Fetching Specific Records and Columns From DataFrame",
+                        "lectureId": "693a76632b7555b4c98f8969",
+                        "lectureLength": "01:17:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eCBXs5rKmC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Performing Analysis Through Filtering Data & Adding New Columns and Discussing Other Important Functions",
+                        "lectureId": "693a76632b7555b4c98f896a",
+                        "lectureLength": "01:13:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFKfNpsUFtM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A10: Pandas (Series, DataFrame, Functions, Filtering & Analysis)",
+                "assignmentId": "6960be02cfb436b316fa45f3",
+                "assignmentLink": "https://docs.google.com/document/d/1FuwP71rVWezK6l9HsWrrCXpAFMWug5nQZpP1GtBHN3Y/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Matplotlib",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Matplotlib Overview and Installation",
+                        "lectureId": "693a76632b7555b4c98f8954",
+                        "lectureLength": "00:31:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Th7bJBCxJ9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Practically working with Matplotlib",
+                        "lectureId": "693a76632b7555b4c98f8955",
+                        "lectureLength": "01:26:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kK38fGNPty/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deep Dive into Line Plot",
+                        "lectureId": "693a76632b7555b4c98f8956",
+                        "lectureLength": "01:16:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qU8zpuEAd6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scatter Plot",
+                        "lectureId": "693a76632b7555b4c98f8957",
+                        "lectureLength": "00:41:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NjN5CHJEtP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Bar Plot",
+                        "lectureId": "693a76632b7555b4c98f8958",
+                        "lectureLength": "00:56:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcMXcbMpeRQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Horizontal,Multiple and Stacked Bars",
+                        "lectureId": "693a76632b7555b4c98f8959",
+                        "lectureLength": "01:06:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xJdTJX4cP6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Histogram",
+                        "lectureId": "693a76632b7555b4c98f895a",
+                        "lectureLength": "00:35:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sbTDeMuNnxk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pie Chart and Changing Styles",
+                        "lectureId": "693a76632b7555b4c98f895b",
+                        "lectureLength": "00:36:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yBsyrd34RsK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A11: Matplotlib (Core Plot Types & Visualization)",
+                "assignmentId": "6960b486cfb436b316fa41c5",
+                "assignmentLink": "https://docs.google.com/document/d/1J_nAAqkcHRyJ7-6M3h46kls1ZugC0qIAcxc9KF6eAiY/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Seaborn",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Seaborn Overview",
+                        "lectureId": "693a76632b7555b4c98f896c",
+                        "lectureLength": "00:53:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yuQmkp9dtK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Relational Plot Introduction",
+                        "lectureId": "693a76632b7555b4c98f896d",
+                        "lectureLength": "01:06:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TGRjhpFDqmU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lineplot Other Examples and Scatter and Facet Plot",
+                        "lectureId": "693a76632b7555b4c98f896e",
+                        "lectureLength": "01:09:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yBST7RGuzZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Distribution Plots as histplot,kdeplot,rugplot",
+                        "lectureId": "693a76632b7555b4c98f896f",
+                        "lectureLength": "01:04:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M6mqjcEa2e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bivariate Histogram & KDE plots and Matrix Plots",
+                        "lectureId": "693a76632b7555b4c98f8970",
+                        "lectureLength": "01:01:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fQTDYBaJ7P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Categorical Plots",
+                        "lectureId": "693a76632b7555b4c98f8971",
+                        "lectureLength": "00:56:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xuGPKK6Sbf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Regression Plots and Multi Plots",
+                        "lectureId": "693a76632b7555b4c98f8972",
+                        "lectureLength": "00:39:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42qmkEB2gZA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A12: Seaborn (Relational, Distribution, Categorical & Multi-Plots)",
+                "assignmentId": "6960c0a1cfb436b316fa45f8",
+                "assignmentLink": "https://docs.google.com/document/d/1s3qALl29_RGUuX2xgrPla2JDDY-sAvsg89esNPBcCWg/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Why Data Science Knowledge For Being An AI Engineer",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Why Data Science Knowledge For Being an AI Engineer",
+                        "lectureId": "693a76632b7555b4c98f8929",
+                        "lectureLength": "00:45:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fxCa7U8dEZ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Machine Learning",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Artificial Intelligence and Machine Learning",
+                        "lectureId": "693a76632b7555b4c98f892b",
+                        "lectureLength": "01:07:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NFFpAmFnXx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI vs ML vs NLP vs DL vs GenAI",
+                        "lectureId": "693a76632b7555b4c98f892c",
+                        "lectureLength": "01:01:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3krXDEXZE6k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of machine Learning",
+                        "lectureId": "693a76632b7555b4c98f892d",
+                        "lectureLength": "01:18:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J4czhPgZBq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Machine Learning Development Life Cycle",
+                        "lectureId": "693a76632b7555b4c98f892f",
+                        "lectureLength": "01:28:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2UZp8ZN6Aj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tensors in Machine Learning",
+                        "lectureId": "693a76632b7555b4c98f892e",
+                        "lectureLength": "00:56:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/daRGRJSmJ7K/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Framing The Business Problem To ML Problem",
+                        "lectureId": "693a76632b7555b4c98f8933",
+                        "lectureLength": "00:48:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hcfjnYC8XE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Gathering using csv",
+                        "lectureId": "693a76632b7555b4c98f8934",
+                        "lectureLength": "01:49:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/567sjRnt9Bz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Json,SQL Data Gathering & Role in Agentic AI & AI App Development",
+                        "lectureId": "693a76632b7555b4c98f8935",
+                        "lectureLength": "01:14:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ttSJJJfCam/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Gathering using APIs for AI Apps,Agents,RAGs Development",
+                        "lectureId": "693a76632b7555b4c98f8936",
+                        "lectureLength": "00:49:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Qsu5gnkTUb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Gathering Using API and Publishing on Kaggle(Mini Project)",
+                        "lectureId": "693a76632b7555b4c98f8937",
+                        "lectureLength": "01:18:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4prmJXHPTCY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Cleaning in ML,AI Data Management,Fine Tuning AI Models & NLP",
+                        "lectureId": "693a76632b7555b4c98f8938",
+                        "lectureLength": "02:04:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58hPKCaGgGz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Automated data Cleaning and importance while building Langchain Applications",
+                        "lectureId": "693a76632b7555b4c98f8939",
+                        "lectureLength": "00:52:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pbYu7umCN9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Automated Data-Cleaning",
+                        "lectureId": "693a76632b7555b4c98f893a",
+                        "lectureLength": "01:24:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/429nfQsXhQ6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploratory Data Analysis Steps",
+                        "lectureId": "693a76632b7555b4c98f893b",
+                        "lectureLength": "00:48:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3653yBdB22/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploratory Data Analysis( Feature Engineering)",
+                        "lectureId": "693a76632b7555b4c98f893c",
+                        "lectureLength": "01:00:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Q8aCFxXxy3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Feature Engineering",
+                        "lectureId": "693a76632b7555b4c98f893d",
+                        "lectureLength": "00:50:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FFUuEMYkAt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Feature Encoding",
+                        "lectureId": "693a76632b7555b4c98f893e",
+                        "lectureLength": "01:00:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MYrNZEpepQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "One Hot Encoder",
+                        "lectureId": "693a76632b7555b4c98f893f",
+                        "lectureLength": "00:27:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yx7D6yYh9HQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Feature Scaling - Standardization & Normalization",
+                        "lectureId": "693a76632b7555b4c98f8941",
+                        "lectureLength": "00:55:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BS2kG4kRjMY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Column Transformer",
+                        "lectureId": "693a76632b7555b4c98f8940",
+                        "lectureLength": "00:39:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/489F7dRCqPu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ML PipeLine",
+                        "lectureId": "693a76632b7555b4c98f8942",
+                        "lectureLength": "01:14:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bx9n6m6pdSu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Train vs Validation vs Test Data & Cross Validation",
+                        "lectureId": "693a76632b7555b4c98f894c",
+                        "lectureLength": "00:48:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UmCYNP827j/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Machine Learning Algorithm- Linear Regression",
+                        "lectureId": "693a76632b7555b4c98f8943",
+                        "lectureLength": "01:09:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67FF6b7YGKr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Metrics in Regression - RMSE, MAE, MSE",
+                        "lectureId": "693a76632b7555b4c98f8947",
+                        "lectureLength": "00:24:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/K7tnYr6nFRH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Overfitting, Underfitting , Variance & Bias",
+                        "lectureId": "693a76632b7555b4c98f8948",
+                        "lectureLength": "00:38:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZUZdjpaG6d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logistic Regression",
+                        "lectureId": "693a76632b7555b4c98f8944",
+                        "lectureLength": "00:42:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmdAFaPU73j/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Classification Metrics Accuracy , Precision , Recall",
+                        "lectureId": "693a76632b7555b4c98f8949",
+                        "lectureLength": "01:04:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eDzXEz9Qmj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Naive Bayes",
+                        "lectureId": "693a76632b7555b4c98f8945",
+                        "lectureLength": "00:47:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RTpUcaNCDJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "K Nearest Neighbors (KNN)",
+                        "lectureId": "693a76632b7555b4c98f8946",
+                        "lectureLength": "00:44:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DGFyzftpAK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Support Vector Machine",
+                        "lectureId": "693a76632b7555b4c98f894a",
+                        "lectureLength": "01:16:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QJ8jmyU5kxg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decision Tree Algorithm",
+                        "lectureId": "693a76632b7555b4c98f894b",
+                        "lectureLength": "01:58:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hEsBaUJYQK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bagging vs Boosting & Random Forest Bagging Algorithm",
+                        "lectureId": "693a76632b7555b4c98f894d",
+                        "lectureLength": "00:57:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35aBc9CH3cA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building an Demo Machine Learning Model 1",
+                        "lectureId": "693a76632b7555b4c98f8930",
+                        "lectureLength": "01:53:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATPYe5q2qG6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building an Demo Machine Learning Model 2",
+                        "lectureId": "693a76632b7555b4c98f8931",
+                        "lectureLength": "02:05:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39R8x62KHzG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building an Demo Machine Learning Model 3",
+                        "lectureId": "693a76632b7555b4c98f8932",
+                        "lectureLength": "01:30:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G66CNuMzjS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Unsupervised Machine Learning",
+                        "lectureId": "693a76632b7555b4c98f894e",
+                        "lectureLength": "00:45:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANdTMYfkPRu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "K Means Clustering",
+                        "lectureId": "693a76632b7555b4c98f894f",
+                        "lectureLength": "00:37:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HqxarH3SFt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Heirarichal Clustering",
+                        "lectureId": "693a76632b7555b4c98f8950",
+                        "lectureLength": "00:41:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfP9U2S2qT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DBSCAN Clustering",
+                        "lectureId": "693a76632b7555b4c98f8951",
+                        "lectureLength": "00:40:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zxpfgNJGnz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Anomaly Detection",
+                        "lectureId": "693a76632b7555b4c98f8952",
+                        "lectureLength": "00:36:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PdeSxQxdCx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A13: Data Gathering, Preprocessing & EDA",
+                "assignmentId": "6960e05dcfb436b316fa5075",
+                "assignmentLink": "https://docs.google.com/document/d/1wDFPuA3cjvhaXc8mEBfdOU4_JZlORjYviHLulag1VY0/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "A14: Feature Engineering, Encoding, Scaling & Pipelines",
+                "assignmentId": "6960f2adcfb436b316fa507c",
+                "assignmentLink": "https://docs.google.com/document/d/1sI_OOSk1flFHWrYMPbnoVbLAY9lh899YkiLOPeNgAfc/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "A15: Core Algorithms, Metrics & Model Behavior",
+                "assignmentId": "6960f60acfb436b316fa5081",
+                "assignmentLink": "https://docs.google.com/document/d/15OqcYR8fR6c3jr5xfnL7B7rHyylv5v6ibJjXpAscbGs/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "A16: SVM, Trees, Ensembles, Validation & Unsupervised Learning",
+                "assignmentId": "6960f7aecfb436b316fa5086",
+                "assignmentLink": "https://docs.google.com/document/d/1ng1-BB3IAs1hXBuGnZV2v5TQzOrJ-_55kFBnygOqeXg/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Natural Language Processing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Natural Language Processing Introduction",
+                        "lectureId": "693a76632b7555b4c98f8974",
+                        "lectureLength": "01:07:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FqMbqHx8yR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NLP Pipeline Overview",
+                        "lectureId": "693a76632b7555b4c98f8975",
+                        "lectureLength": "00:38:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Tk76cyyzKK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NLP Daily Tasks , Approach for it And Challenges in it",
+                        "lectureId": "693a76632b7555b4c98f8976",
+                        "lectureLength": "01:42:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mfyk9X2z6r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NLP Pipeline Initial Steps",
+                        "lectureId": "693a76632b7555b4c98f8977",
+                        "lectureLength": "01:46:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5g3bXfyaYP5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Feature Engineering and Modelling For Rule Based vs Generative AI Chatbots with Deployment in Further Pipeline",
+                        "lectureId": "693a76632b7555b4c98f8978",
+                        "lectureLength": "02:22:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uerfJKTSyCn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Recommendation System Project Overview",
+                        "lectureId": "693a76632b7555b4c98f8979",
+                        "lectureLength": "00:58:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GakXXBXFXn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Project",
+                        "lectureId": "693a76632b7555b4c98f897a",
+                        "lectureLength": "00:54:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9auds4RYyjK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Preprocessing in Recommendation System",
+                        "lectureId": "693a76632b7555b4c98f897b",
+                        "lectureLength": "01:01:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3udP6cSPeGz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NLP Vectorization and Building the Recommendation System",
+                        "lectureId": "693a76632b7555b4c98f897c",
+                        "lectureLength": "02:07:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qpjy6EMsUM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Launching Recommendation System as a Website",
+                        "lectureId": "693a76632b7555b4c98f897d",
+                        "lectureLength": "00:53:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsRDgXadJQD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connecting to GitHub and Deployment in Render",
+                        "lectureId": "693a76632b7555b4c98f897e",
+                        "lectureLength": "01:36:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7m8n7TrPAfc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Text Cleaning in NLP",
+                        "lectureId": "693a76632b7555b4c98f897f",
+                        "lectureLength": "01:43:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6c4FGC6nYU8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advance Text Cleaning in NLP",
+                        "lectureId": "693a76632b7555b4c98f8980",
+                        "lectureLength": "01:03:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nm7NqDSBjU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Text Preprocessing in NLP",
+                        "lectureId": "693a76632b7555b4c98f8981",
+                        "lectureLength": "02:07:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sdPN7uZ3XG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Vectorization Overview",
+                        "lectureId": "693a76632b7555b4c98f8982",
+                        "lectureLength": "00:42:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RErbf8ph4Y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "One Hot Encoding and Bag of Words in Text Vectorization",
+                        "lectureId": "693a76632b7555b4c98f8983",
+                        "lectureLength": "01:23:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kKTyuQPCph/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "N - Grams and TFIDF Text Vectorization",
+                        "lectureId": "693a76632b7555b4c98f8984",
+                        "lectureLength": "01:26:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qD6G6b4YUq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Word2Vec Vector Embedding Overview",
+                        "lectureId": "693a76632b7555b4c98f8985",
+                        "lectureLength": "01:38:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gXNqC6Sh4g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of Word2Vec Techniques and Neural Networks Overview",
+                        "lectureId": "693a76642b7555b4c98f8986",
+                        "lectureLength": "01:44:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9aPgpEFDj4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Training our own Word2Vec Model on our personal Data",
+                        "lectureId": "693a76642b7555b4c98f8987",
+                        "lectureLength": "01:06:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KgkhXNDtUk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A17: Text Cleaning, Preprocessing & NLP Pipeline",
+                "assignmentId": "6960ff3ecfb436b316fa590d",
+                "assignmentLink": "https://docs.google.com/document/d/1wEXvi5jxTrr4ktElXP_yGZMudUNkLbRWOsZvQ4YNBdk/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "A18: Text Vectorization Techniques",
+                "assignmentId": "696102d0cfb436b316fa5912",
+                "assignmentLink": "https://docs.google.com/document/d/1GQ2YCtPV_LKwhTJHj1gxxwVMpTYqk7QqArdmta1qLk4/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "A19: Word2Vec Text Embeddings",
+                "assignmentId": "696106f4cfb436b316fa5917",
+                "assignmentLink": "https://docs.google.com/document/d/128G4ozoPtE275yz8JhpKtAqzKdp9h9xQF79eBUP_X0s/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "A20: Building & Deploying a Recommendation System",
+                "assignmentId": "69610879cfb436b316fa591c",
+                "assignmentLink": "https://docs.google.com/document/d/1A1TmA8UpB5N24j_GmnXhWx01tK_OzIXQN96PDII1jYw/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Deep Learning",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction To Deep Learning",
+                        "lectureId": "693a76642b7555b4c98f8989",
+                        "lectureLength": "01:03:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ypgDdGfaQ2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working of Deep Learning and ML vs DL",
+                        "lectureId": "693a76642b7555b4c98f898a",
+                        "lectureLength": "00:44:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xSe2s9JtgU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Perceptron in Deep Learning",
+                        "lectureId": "697219477a4c1d6f20289d1b",
+                        "lectureLength": "00:57:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aNEgtcCZYa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multi Layered Perceptron",
+                        "lectureId": "697219477a4c1d6f20289d1e",
+                        "lectureLength": "00:31:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JU2TSb6y3c/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Fundamentals for Training Deep Learning Model ",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Requirements for Building Deep Learning Model",
+                        "lectureId": "69721b4d7a4c1d6f20289e63",
+                        "lectureLength": "00:25:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AF36c4UkB5P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Loss Function and Training of GPT like networks",
+                        "lectureId": "69721b4e7a4c1d6f20289e66",
+                        "lectureLength": "00:33:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CxzxyCJZeY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Regression Loss and Binary Cross Entropy",
+                        "lectureId": "69721b4e7a4c1d6f20289e69",
+                        "lectureLength": "00:28:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86YgYNuffQT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GPT Model Training Loss and Multi classification loss",
+                        "lectureId": "69721b4f7a4c1d6f20289e6c",
+                        "lectureLength": "00:30:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hp5t5Z4S7S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Backpropogation in Neural Network and use in Training Chatgpt",
+                        "lectureId": "69721b507a4c1d6f20289e6f",
+                        "lectureLength": "00:36:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkZ9nZ6TeYr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Backpropogation Step by Step process",
+                        "lectureId": "69721b507a4c1d6f20289e72",
+                        "lectureLength": "00:39:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PkUpFNuYG9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Gradient Descent",
+                        "lectureId": "69721b517a4c1d6f20289e75",
+                        "lectureLength": "00:26:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3hdyhR8uUX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of Gradient descent and batch size in Neural Network",
+                        "lectureId": "69721b517a4c1d6f20289e78",
+                        "lectureLength": "00:30:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gTdmYZkZUf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Vanishing Gradient Problem in Neural Network",
+                        "lectureId": "69721b527a4c1d6f20289e7b",
+                        "lectureLength": "00:26:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NdjNtFhdZM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vanishing Gradient Reason and How to Identify and Handle",
+                        "lectureId": "69721b537a4c1d6f20289e7e",
+                        "lectureLength": "00:23:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BbrCt2NuaK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Improving Performance of Model",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to Improve Performance of Model",
+                        "lectureId": "69721b537a4c1d6f20289e81",
+                        "lectureLength": "00:41:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2TFZGg5Ard/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Early Stopping and Data Scaling",
+                        "lectureId": "69721b547a4c1d6f20289e84",
+                        "lectureLength": "00:32:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5dSyaJrrU4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dropout Layers in Neural Network",
+                        "lectureId": "69721b547a4c1d6f20289e87",
+                        "lectureLength": "00:33:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uj2RhBP74F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Regularization in Neural Network",
+                        "lectureId": "69721b557a4c1d6f20289e8a",
+                        "lectureLength": "00:22:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3NtakueTff/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Batch Normalization in Neural Network",
+                        "lectureId": "69721b557a4c1d6f20289e8d",
+                        "lectureLength": "00:34:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGDcUH6pAZr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Batch Normalizaion Indepth and How used in Gen AI Model",
+                        "lectureId": "69721b567a4c1d6f20289e90",
+                        "lectureLength": "00:30:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4F4MHz5e8Rd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Activation Function",
+                        "lectureId": "69721b567a4c1d6f20289e93",
+                        "lectureLength": "00:30:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uPY5nybgue/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of Activation Function in DL and Gen AI Models",
+                        "lectureId": "69721b577a4c1d6f20289e96",
+                        "lectureLength": "00:42:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9d29pz9ujsp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Optimizers in Neural Network",
+                        "lectureId": "69721b577a4c1d6f20289e99",
+                        "lectureLength": "00:39:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fEccbqb4N2T/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adagrad Optimizer",
+                        "lectureId": "69721b587a4c1d6f20289e9c",
+                        "lectureLength": "00:28:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BTbgc3zB6q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RMSProp and Adam Optimizer and Optimizers used for GenAI Models",
+                        "lectureId": "69721b587a4c1d6f20289e9f",
+                        "lectureLength": "00:40:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Yk7UExnuGN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "ANN Project Implementation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Building ANN Classification Model",
+                        "lectureId": "69721b597a4c1d6f20289ea2",
+                        "lectureLength": "00:42:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PeEeCxpDp7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Preprocessing and Cleaning For ANN Model",
+                        "lectureId": "69721b597a4c1d6f20289ea5",
+                        "lectureLength": "00:33:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADczUAxJd8p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Feature Encoding,Scaling and Train-Test split",
+                        "lectureId": "69721cc17a4c1d6f2028a1e4",
+                        "lectureLength": "00:41:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65xPpyXuKSe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ANN Implementation in Model Building",
+                        "lectureId": "69721b5a7a4c1d6f20289ea9",
+                        "lectureLength": "00:43:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67GHcHnuDhu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Prediction using ANN Model",
+                        "lectureId": "69721b5b7a4c1d6f20289eac",
+                        "lectureLength": "00:33:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fDzzqrs6fgk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Encoder and Model File for Prediction",
+                        "lectureId": "69721b5b7a4c1d6f20289eaf",
+                        "lectureLength": "00:23:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hkCEsjTFRZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Streamlit UI for the Application",
+                        "lectureId": "69721b5c7a4c1d6f20289eb2",
+                        "lectureLength": "00:39:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tpggNdQMRq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deployment of Application in Cloud",
+                        "lectureId": "69721b5c7a4c1d6f20289eb5",
+                        "lectureLength": "00:16:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yBYZqu9ByB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Regression Problem using ANN",
+                        "lectureId": "69721b5d7a4c1d6f20289eb8",
+                        "lectureLength": "00:43:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gJ4DDCAsrZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hyperparameter Tuning using KerasTuner",
+                        "lectureId": "69721b5d7a4c1d6f20289ebb",
+                        "lectureLength": "00:58:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gyCcTgZFtx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hyperparameter Tuning for Nodes Number in Hidden Layers",
+                        "lectureId": "69721b5e7a4c1d6f20289ebe",
+                        "lectureLength": "00:40:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CNCNpYJRnc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deciding Optimal Number of Hidden Layers with Tuning",
+                        "lectureId": "69721b5e7a4c1d6f20289ec1",
+                        "lectureLength": "00:24:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83uPb9g4BMm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hyperparameter Tuning For deciding Optimal Hidden Layers,Nodes,Optimizer",
+                        "lectureId": "69721b5f7a4c1d6f20289ec4",
+                        "lectureLength": "00:37:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jedTj2k986/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Pretraining and Transfer Learning in Gen AI Models",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Pre Trained Models",
+                        "lectureId": "69721b5f7a4c1d6f20289ec7",
+                        "lectureLength": "00:46:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYKFgnnG9uT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pre Training For Gen AI Apps in Industry",
+                        "lectureId": "69721b607a4c1d6f20289eca",
+                        "lectureLength": "00:35:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45RPzyGyUP2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transfer Learning in Neural Network",
+                        "lectureId": "69721b617a4c1d6f20289ecd",
+                        "lectureLength": "00:32:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73jh7fjHHfB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How Transfer Learning is Performed in Industry",
+                        "lectureId": "69721b617a4c1d6f20289ed0",
+                        "lectureLength": "00:35:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jyrnYGhDCz/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Simple RNN Indepth Intuition",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Why RNNs are Needed",
+                        "lectureId": "69721b627a4c1d6f20289ed3",
+                        "lectureLength": "00:36:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pBCzP42K27/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem with ANN for solving Sequential Data Problem",
+                        "lectureId": "69721b627a4c1d6f20289ed6",
+                        "lectureLength": "00:38:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nrtUPpnCDh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Recurrent Neural Network",
+                        "lectureId": "69721b637a4c1d6f20289ed9",
+                        "lectureLength": "00:41:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5956rg6PbG6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Forward Propogation in RNN with Architecture",
+                        "lectureId": "69721b637a4c1d6f20289edc",
+                        "lectureLength": "00:43:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GTz68yBBDM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of RNN - Many To One",
+                        "lectureId": "69721c4b7a4c1d6f20289f07",
+                        "lectureLength": "00:24:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S6AN7A9X32/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Other Types of RNN for Gen AI Applications",
+                        "lectureId": "69721b647a4c1d6f20289ee0",
+                        "lectureLength": "00:38:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jrBhfrQztu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Backpropogation in RNN",
+                        "lectureId": "69721b657a4c1d6f20289ee3",
+                        "lectureLength": "00:36:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay8R3dpdKHK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Backpropogating Through Time",
+                        "lectureId": "69721b657a4c1d6f20289ee6",
+                        "lectureLength": "00:32:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3exummPq7kQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problems with RNN",
+                        "lectureId": "69721b667a4c1d6f20289ee9",
+                        "lectureLength": "00:27:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YKxPcZU8dG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem of Vanishing Gradient of Long Term in RNNs",
+                        "lectureId": "69721b677a4c1d6f20289eec",
+                        "lectureLength": "00:35:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At4GeyBpfHh/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Deep Learning Project with Simple RNN",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with RNN Project",
+                        "lectureId": "69721b677a4c1d6f20289eef",
+                        "lectureLength": "00:25:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnfSeZMZ5Nj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Traditional Embedding Generation Techniques",
+                        "lectureId": "69721b687a4c1d6f20289ef2",
+                        "lectureLength": "00:32:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sx38e3ZCzh7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Embedding Layer for capturing Context Info",
+                        "lectureId": "69721b687a4c1d6f20289ef5",
+                        "lectureLength": "00:38:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HbGNJCpzb9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RNN Project Initial Steps",
+                        "lectureId": "69721b697a4c1d6f20289ef8",
+                        "lectureLength": "00:53:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PKKAnxdKKC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Training Simple RNN without Embedding Layer",
+                        "lectureId": "69721b697a4c1d6f20289efb",
+                        "lectureLength": "00:31:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uPsTSybKnm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Training with Embedding Layer in Simple RNN",
+                        "lectureId": "69721b6a7a4c1d6f20289efe",
+                        "lectureLength": "00:44:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HgAqEKGuU9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Streamlit UI for the App",
+                        "lectureId": "69721b6a7a4c1d6f20289f01",
+                        "lectureLength": "00:31:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/E8SquA5E5Dp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pushing Larger File in Github and Deployment",
+                        "lectureId": "69721b6b7a4c1d6f20289f04",
+                        "lectureLength": "00:30:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5U4DM6XRXRs/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "LSTM and GRU Indepth Intuition",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "From RNN to LSTM",
+                        "lectureId": "6992bd14b16a195e5354b46d",
+                        "lectureLength": "00:35:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XGsFjMgxR2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Different Memory Types in LSTM",
+                        "lectureId": "6992bd14b16a195e5354b470",
+                        "lectureLength": "00:41:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B39CtRQ42m4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Gates in LSTM",
+                        "lectureId": "6992bd14b16a195e5354b473",
+                        "lectureLength": "00:46:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pBxqcBqBj2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GRU Introduction",
+                        "lectureId": "6992bd15b16a195e5354b476",
+                        "lectureLength": "00:36:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9e5AmXThU2u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working of GRU",
+                        "lectureId": "6992bd15b16a195e5354b479",
+                        "lectureLength": "00:35:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qRAUYxQ6bp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "LSTM Next Word Prediction Project (Large Language Model)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Overview of Project Task",
+                        "lectureId": "6992bd16b16a195e5354b47c",
+                        "lectureLength": "00:37:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DDygZh4A57/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Project",
+                        "lectureId": "6992bd16b16a195e5354b47f",
+                        "lectureLength": "00:37:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JbpAegA4bA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tokenization and Text Prep for Modelling",
+                        "lectureId": "6992bd17b16a195e5354b482",
+                        "lectureLength": "00:47:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/X7enDZdjxT6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Model for Next Word Prediction",
+                        "lectureId": "6992bd17b16a195e5354b485",
+                        "lectureLength": "00:49:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5DESfcJkZr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Streamlit UI For App",
+                        "lectureId": "6992bd18b16a195e5354b488",
+                        "lectureLength": "00:53:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4uBmjRkE8c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Predicting Through Model and Pushing Code in Github with Deployment",
+                        "lectureId": "6992bd18b16a195e5354b48b",
+                        "lectureLength": "01:03:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yaAZk877GX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": " BIDirectional RNN Indepth Intuition",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to BiDirectional RNN",
+                        "lectureId": "6992bd19b16a195e5354b48e",
+                        "lectureLength": "00:34:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NqDb5N3HUt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working of BiDirectional RNN",
+                        "lectureId": "6992bd19b16a195e5354b491",
+                        "lectureLength": "00:36:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNsF8GjcmM4/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Transformers and ChatGPT Evolution",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How LLMs work Introduction",
+                        "lectureId": "6992bd1ab16a195e5354b494",
+                        "lectureLength": "00:30:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6J8TyNKc8pt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "TikTokenizer and Tokenization in Transformers",
+                        "lectureId": "6992bd1ab16a195e5354b497",
+                        "lectureLength": "00:36:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SCneMgjtnCX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OpenAI and HuggingFace for Embeddings in Transformer",
+                        "lectureId": "6992bd1bb16a195e5354b49a",
+                        "lectureLength": "00:43:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UStR8FaUe6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Positional Encoding and Self Attention in Transformer",
+                        "lectureId": "6992bd1bb16a195e5354b49d",
+                        "lectureLength": "00:29:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Trgs2fNMaB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multi Head Attention and Encoder Other Layers",
+                        "lectureId": "6992bd1bb16a195e5354b4a0",
+                        "lectureLength": "00:29:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g344ZSCUX7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decoder Working in Transformer and HuggingFace Model For Predictions",
+                        "lectureId": "6992bd1cb16a195e5354b4a3",
+                        "lectureLength": "00:59:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cPJpdmxyAe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "History of LLMs",
+                        "lectureId": "6992bd1cb16a195e5354b4a6",
+                        "lectureLength": "00:33:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eMgMJ7XQss/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Encoder Decoder For Seq to Seq Data",
+                        "lectureId": "6992bd1db16a195e5354b4a9",
+                        "lectureLength": "00:32:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N9E2Pm7pJu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Attention Mechanism",
+                        "lectureId": "6992bd1db16a195e5354b4ac",
+                        "lectureLength": "00:41:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45rUeTqBuQE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transformers in the Lifecycle",
+                        "lectureId": "6992bd1eb16a195e5354b4af",
+                        "lectureLength": "00:22:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mS5uAGj2PZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transfer Learning with Transformers",
+                        "lectureId": "6992bd1eb16a195e5354b4b2",
+                        "lectureLength": "00:41:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HdmMfSZu4Y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transfer Learning with Language Modelling Task",
+                        "lectureId": "6992bd1fb16a195e5354b4b5",
+                        "lectureLength": "00:52:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cAXhtzMc4J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "LLMs from OpenAI and Google",
+                        "lectureId": "6992bd1fb16a195e5354b4b8",
+                        "lectureLength": "00:40:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56b7a6B5ZzS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ChatGPT from LLMs",
+                        "lectureId": "6992bd1fb16a195e5354b4bb",
+                        "lectureLength": "00:41:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FUfYHKGs7j/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction To Gen AI and LLM Models",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "AI vs ML vs DL vs GenAI",
+                        "lectureId": "693a76642b7555b4c98f898d",
+                        "lectureLength": "00:30:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BnJBQyhjhX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How Transformers were Introduced for OpenAI Chatgpt Model",
+                        "lectureId": "693a76642b7555b4c98f898e",
+                        "lectureLength": "00:31:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3czeh2NpzbZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OpenAI Chatgpt Model Training Initial Steps",
+                        "lectureId": "693a76642b7555b4c98f898f",
+                        "lectureLength": "00:36:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zDGAMn4FQP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OpenAI Chatgpt Training Final RLHF Step",
+                        "lectureId": "693a76642b7555b4c98f8990",
+                        "lectureLength": "00:21:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nXJ99EZxyfE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Evolution of Large Language Models",
+                        "lectureId": "693a76642b7555b4c98f8991",
+                        "lectureLength": "00:18:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zkEEkzYPQR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ALL LLM Models Analysis",
+                        "lectureId": "693a76642b7555b4c98f8992",
+                        "lectureLength": "00:17:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UjqbrhS3Sp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction To Langchain For Generative AI",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Langchain",
+                        "lectureId": "693a76642b7555b4c98f8994",
+                        "lectureLength": "00:36:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kce6GFzn7S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Why Langchain and Its Benefits",
+                        "lectureId": "693a76642b7555b4c98f8995",
+                        "lectureLength": "00:20:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FX5x2D7fHF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Getting Started with Langchain and OpenAI",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Langchain Website Overview with Langsmith , Langraph and Langserve",
+                        "lectureId": "693a76642b7555b4c98f8997",
+                        "lectureLength": "00:39:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ptNXxF72xp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with OpenAI LLM",
+                        "lectureId": "693a76642b7555b4c98f8998",
+                        "lectureLength": "00:35:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BesnfjKtHXe/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Important Components and Modules in Langchain",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Langchain Important Components - Models",
+                        "lectureId": "693a76642b7555b4c98f899a",
+                        "lectureLength": "00:25:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Uu8QhzCzQc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Langchain Components- Prompts",
+                        "lectureId": "693a76642b7555b4c98f899b",
+                        "lectureLength": "00:42:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKC922Q5cjY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Langchain Components- Chains and Indexes",
+                        "lectureId": "693a76642b7555b4c98f899c",
+                        "lectureLength": "00:36:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5srbZZCRjJb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Langchain Components- Memory and Agents",
+                        "lectureId": "693a76642b7555b4c98f899d",
+                        "lectureLength": "00:25:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TyDTT39Aek/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction To Document Loaders",
+                        "lectureId": "693a76642b7555b4c98f899e",
+                        "lectureLength": "00:30:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXnYk824MPS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Loaders in Document Loaders",
+                        "lectureId": "693a76642b7555b4c98f899f",
+                        "lectureLength": "00:21:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PMSZsxtNuR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PDF Loaders in Document Loaders",
+                        "lectureId": "693a76642b7555b4c98f89a0",
+                        "lectureLength": "00:27:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PAhyfCsFja/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DirectoryLoader in Document Loaders",
+                        "lectureId": "693a76642b7555b4c98f89a1",
+                        "lectureLength": "00:27:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brf7ZBs6Q4D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Splitters in Langchain",
+                        "lectureId": "693a76642b7555b4c98f89a2",
+                        "lectureLength": "00:31:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4E8gY4ZbzhT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "WebBaseLoader and CSVLoader in DocumentLoaders",
+                        "lectureId": "693a76642b7555b4c98f89a3",
+                        "lectureLength": "00:22:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75SNAFacGDk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Length based Text Splitter in Text Splitter",
+                        "lectureId": "693a76642b7555b4c98f89a4",
+                        "lectureLength": "00:31:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/z7PBJG2auu8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Structure Based Text Splitter",
+                        "lectureId": "693a76642b7555b4c98f89a5",
+                        "lectureLength": "00:34:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53AuDE4sFBZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Document Structure and Semantic Meaning based Text Splitting",
+                        "lectureId": "693a76642b7555b4c98f89a6",
+                        "lectureLength": "00:30:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8a6ADsSXktB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction To Embedding Models",
+                        "lectureId": "693a76642b7555b4c98f89a7",
+                        "lectureLength": "00:28:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kbHGGPb47r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OpenAI and HuggingFace Embedding Models",
+                        "lectureId": "693a76642b7555b4c98f89a8",
+                        "lectureLength": "00:34:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7AXZMYrMxZB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Document SImilarity Seach Application with OpenAI Embeddings",
+                        "lectureId": "693a76642b7555b4c98f89a9",
+                        "lectureLength": "00:24:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FxNUANX4yne/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ollama Embeddings Model",
+                        "lectureId": "693a76642b7555b4c98f89aa",
+                        "lectureLength": "00:32:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gu2jUKr6DY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Vector Stores",
+                        "lectureId": "693a76642b7555b4c98f89ab",
+                        "lectureLength": "00:38:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eHMzqqDUKA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vector Stores vs Vector Database and ChromaDB Introduction",
+                        "lectureId": "693a76642b7555b4c98f89ac",
+                        "lectureLength": "00:24:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4b77MaTHxhn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with ChromaDB",
+                        "lectureId": "693a76642b7555b4c98f89ae",
+                        "lectureLength": "00:35:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qHEx6jusaz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "FAISS Vector Store",
+                        "lectureId": "693a76642b7555b4c98f89ad",
+                        "lectureLength": "00:17:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFSB4xT3HAe/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A21: LangChain Document Loaders & Text Splitters",
+                "assignmentId": "69610c34cfb436b316fa5921",
+                "assignmentLink": "https://docs.google.com/document/d/1Idj7UJ_4snECFzRiSTfEhbemKBPM3LHciFwENtHCB_w/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": " A22:  Embedding Models, Vector Stores & Similarity Search",
+                "assignmentId": "69610e48cfb436b316fa5926",
+                "assignmentLink": "https://docs.google.com/document/d/1Kid1ObTM8GAcULYgEmevn_tRo-9MB4y7YFEc4YVxOSQ/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Getting Started with OpenAI and OLLAMA and Creating RAG",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Retrievers",
+                        "lectureId": "693a76642b7555b4c98f89b0",
+                        "lectureLength": "00:26:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zkddFKcqxZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Wikipedia Retriever & Vector Store Retriever",
+                        "lectureId": "693a76642b7555b4c98f89b1",
+                        "lectureLength": "00:34:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NYfSUhhj3x/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Maximal Marginal Relevance Retriever",
+                        "lectureId": "693a76642b7555b4c98f89b2",
+                        "lectureLength": "00:23:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XAQ2b3kXAk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multi Query & Contextual Compression Retriever",
+                        "lectureId": "693a76642b7555b4c98f89b3",
+                        "lectureLength": "00:45:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pyQ3d2j8Ph/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is RAG (Shifting From Fine Tuning To RAG)",
+                        "lectureId": "693a76642b7555b4c98f89b4",
+                        "lectureLength": "00:33:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FpP9NCj2ez/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "YouTube Content Chatbot(RAG Application)",
+                        "lectureId": "693a76642b7555b4c98f89b5",
+                        "lectureLength": "00:49:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFftZBsAnMc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Simple ChatBot App with Ollama Model and Tracking using Langsmith",
+                        "lectureId": "693a76642b7555b4c98f89b6",
+                        "lectureLength": "00:31:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMC3pSYFuE7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A23: OpenAI & Retrieval-Augmented Generation (RAG)",
+                "assignmentId": "696110efcfb436b316fa592b",
+                "assignmentLink": "https://docs.google.com/document/d/1HsTDLvj_vjIKc6G_OjOYj6hK_wzuBcBlQipsqxZtoiw/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "A24: Ollama Chatbot",
+                "assignmentId": "696111c0cfb436b316fa5930",
+                "assignmentLink": "https://docs.google.com/document/d/1PkHuyp1XAL5ds6woDNIW0P9t45LF41jgbao7clDsKmM/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Building Basic LLM Application using LCEL",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Prompting and Prompt Templates",
+                        "lectureId": "693a76642b7555b4c98f89b8",
+                        "lectureLength": "00:59:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jMjgJcdn7t/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Messages and ChatPromptTemplate",
+                        "lectureId": "693a76642b7555b4c98f89b9",
+                        "lectureLength": "00:26:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32YGF8K7BbP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Structured Output From LLM and Pydantic",
+                        "lectureId": "693a76642b7555b4c98f89ba",
+                        "lectureLength": "00:45:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEcMksQhcNt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Schema Response using Pydantic",
+                        "lectureId": "693a76642b7555b4c98f89bb",
+                        "lectureLength": "00:20:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UGQDHJ6YUM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Output Parsers in Langchain and StrOutputParser",
+                        "lectureId": "693a76642b7555b4c98f89bc",
+                        "lectureLength": "00:46:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4xfxphf9h4c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Json and Pydantic Output Parser",
+                        "lectureId": "693a76642b7555b4c98f89bd",
+                        "lectureLength": "00:46:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54nu6jR9FSd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Chains in Langchain",
+                        "lectureId": "693a76642b7555b4c98f89be",
+                        "lectureLength": "00:30:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8G7bnGuDtf6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Parallel and Conditional Chains",
+                        "lectureId": "693a76642b7555b4c98f89bf",
+                        "lectureLength": "01:07:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56K9tpph8PQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What are Runnables and LCEL",
+                        "lectureId": "693a76642b7555b4c98f89c0",
+                        "lectureLength": "01:02:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QGredUq8At/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working With Groq API",
+                        "lectureId": "693a76642b7555b4c98f89c1",
+                        "lectureLength": "00:34:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E8fm9sk3US/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating APIs for App using FastAPI",
+                        "lectureId": "693a76642b7555b4c98f89c2",
+                        "lectureLength": "00:37:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jz3qpYxnzs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Serving Groq App using FastAPI",
+                        "lectureId": "693a76642b7555b4c98f89c3",
+                        "lectureLength": "00:29:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HjrCbRAfaqp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A25:  Prompting & LangChain Chains",
+                "assignmentId": "696113a2cfb436b316fa593b",
+                "assignmentLink": "https://docs.google.com/document/d/1tzPOP0B-H4tNCV8DaUQSXaaQMQ-n168wzPBwd2CjSsk/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "A26: Groq API Chatbot, RAG & FastAPI Serving",
+                "assignmentId": "69611556cfb436b316fa5940",
+                "assignmentLink": "https://docs.google.com/document/d/1DMHFqQ0opMiniF9wBByrxAoiOHsXNsfWhIYHvPERRNs/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Building Chatbots with Conversation History using Langchain",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Building ChatBots with Message History",
+                        "lectureId": "693a76642b7555b4c98f89c5",
+                        "lectureLength": "00:53:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37sP4B7EMFh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Messages Placeholder",
+                        "lectureId": "693a76642b7555b4c98f89c6",
+                        "lectureLength": "00:28:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GSdjPUQr87/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Trimming Chat History",
+                        "lectureId": "693a76642b7555b4c98f89c7",
+                        "lectureLength": "00:33:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TtpcxDsDuG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Q & A RAG Chatbot with Message History",
+                        "lectureId": "693a76642b7555b4c98f89c8",
+                        "lectureLength": "00:51:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fxz2BYtPKD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A27: Chatbots with Conversation History using LangChain",
+                "assignmentId": "69611ac2cfb436b316fa5945",
+                "assignmentLink": "https://docs.google.com/document/d/1jGWIpmVvopan3HM4Zhgv_IiAX77NMUAe2d1prS-zt-M/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "A28: Q&A RAG Chatbot with Message History",
+                "assignmentId": "69611cdfcfb436b316fa594a",
+                "assignmentLink": "https://docs.google.com/document/d/1blw_wb7OhTyfXeYg-8KJ0ET79XQxYUwn5ZUxZztEGr4/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "End to End Q and A ChatBot Gen AI App",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Setup of Project with Environment and Keys",
+                        "lectureId": "693a76642b7555b4c98f89cc",
+                        "lectureLength": "00:28:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79kfamzGGAn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating The OpenAI Application",
+                        "lectureId": "693a76642b7555b4c98f89cd",
+                        "lectureLength": "00:35:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fmRJPmz97e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Ollama Open Source Model",
+                        "lectureId": "693a76642b7555b4c98f89ce",
+                        "lectureLength": "00:24:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9N4tZ4Mmbfx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A29: Q&A Chatbot Application (OpenAI & Ollama)",
+                "assignmentId": "69611e4acfb436b316fa594f",
+                "assignmentLink": "https://docs.google.com/document/d/1ykJsExqOSZFdr3A9lCk3ytE14QGoGwWBHwZR6s9BhOk/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "RAG Document Q&A with GROQ API and LLAMA3",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with ChatGroq RAG Application",
+                        "lectureId": "693a76642b7555b4c98f89d0",
+                        "lectureLength": "00:24:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZFK6zBXgsF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the End to End Groq Application",
+                        "lectureId": "693a76642b7555b4c98f89d1",
+                        "lectureLength": "00:39:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AScSzP6SYTt/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A30:  Chat Groq RAG Application with Streamlit UI",
+                "assignmentId": "69611fc6cfb436b316fa5954",
+                "assignmentLink": "https://docs.google.com/document/d/1PFlC2DafQhXoc6L2JUr0kttFiYqC1Fo8kjFGC0XXxmE/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Conversational Q & A Chat with PDF ChatBot with Message History",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Application",
+                        "lectureId": "693a76642b7555b4c98f89d3",
+                        "lectureLength": "00:25:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HdDBUAn3dxy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating The Application",
+                        "lectureId": "693a76642b7555b4c98f89d4",
+                        "lectureLength": "00:54:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MQkZBtNn8U/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A31: Conversational PDF Q&A Chatbot with Message History",
+                "assignmentId": "6961f779cfb436b316fa595a",
+                "assignmentLink": "https://docs.google.com/document/d/1pKHqwqV7HPUFVwvnhJqWc8upFsRdYrMl7IsXSB11NNE/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "AI Agents and Search Engine with Langchain Tools",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Tools in AI Agents and Built In Tools",
+                        "lectureId": "693a76642b7555b4c98f89d6",
+                        "lectureLength": "00:44:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaB56bam8Hk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Custom Tools and Toolkit",
+                        "lectureId": "693a76642b7555b4c98f89d7",
+                        "lectureLength": "00:44:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QrbKGGEeRT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tool Binding For Tool Calling",
+                        "lectureId": "693a76642b7555b4c98f89d8",
+                        "lectureLength": "00:26:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JM54pynxN2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tool Calling and Tool Execution",
+                        "lectureId": "693a76642b7555b4c98f89d9",
+                        "lectureLength": "00:40:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Z59jszK7Ux/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is an AI Agent",
+                        "lectureId": "693a76642b7555b4c98f89da",
+                        "lectureLength": "00:39:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bzrBJK9ZGb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating an AI Agent",
+                        "lectureId": "693a76642b7555b4c98f89db",
+                        "lectureLength": "00:35:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fjKtTYhbj5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working of an React AI Agent",
+                        "lectureId": "693a76642b7555b4c98f89dc",
+                        "lectureLength": "00:35:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaPeC88NEB3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A32:  AI Agents using LangChain",
+                "assignmentId": "6961f9fbcfb436b316fa595f",
+                "assignmentLink": "https://docs.google.com/document/d/11bwH1cboFhwdRRWeUeiDHsF6xhEPVNJJRhsn454QTxY/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Chat with SQL DB with Langchain SQL Toolkit and Agenttype",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Storing Data in Sqlite Database",
+                        "lectureId": "693a76642b7555b4c98f89de",
+                        "lectureLength": "00:32:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37rkbUxFNHH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connecting To SQL Database and Overview of Agentic App",
+                        "lectureId": "693a76642b7555b4c98f89df",
+                        "lectureLength": "00:28:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Kz6nkX9mJX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Langchain Database Engine",
+                        "lectureId": "693a76642b7555b4c98f89e0",
+                        "lectureLength": "00:53:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2e3G4Tu72p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connecting SQL Agent with Database",
+                        "lectureId": "693a76642b7555b4c98f89e1",
+                        "lectureLength": "00:39:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b28ZPypK42/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A33: Chat with SQL Database using LangChain",
+                "assignmentId": "6961fb73cfb436b316fa5964",
+                "assignmentLink": "https://docs.google.com/document/d/1kYMcVVeTxjTmgKs54Le1EeYepApigDf_-9DJMJtibdk/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Text Summarization with Langchain",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Text Summarization Using Langchain Prompt Template",
+                        "lectureId": "693a76642b7555b4c98f89e3",
+                        "lectureLength": "00:33:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uZMDMt723R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stuff Summarization Chain",
+                        "lectureId": "693a76642b7555b4c98f89e4",
+                        "lectureLength": "00:23:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97Cm584jH5k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Map Reduce and Refine Summarization Chain",
+                        "lectureId": "693a76642b7555b4c98f89e5",
+                        "lectureLength": "00:41:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9B6MUHqQRbF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A34: Text Summarization using LangChain",
+                "assignmentId": "6961fdb0cfb436b316fa5969",
+                "assignmentLink": "https://docs.google.com/document/d/1YtB4ci5cWTaAjr3Gty0U5s4kBxBypjS3IgKnxnMlQfA/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Text To Math Problem Solver",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Text to Math App",
+                        "lectureId": "693a76642b7555b4c98f89e7",
+                        "lectureLength": "00:35:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tnyP3QT659/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Agent and Session State For App",
+                        "lectureId": "693a76642b7555b4c98f89e8",
+                        "lectureLength": "00:49:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55GJNDfQk4B/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A35: Text-to-Math Agent",
+                "assignmentId": "6961fef9cfb436b316fa596e",
+                "assignmentLink": "https://docs.google.com/document/d/1YVGN2VvKmrIupJnkaDjfdP90Vwu1_uFDJrDODC4osVU/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Huggingface and Langchain Integration",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with HuggingFace Models and Working with it",
+                        "lectureId": "693a76642b7555b4c98f89ea",
+                        "lectureLength": "00:45:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PqCkb59tPZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Chat prompt template with Huggingface",
+                        "lectureId": "693a76642b7555b4c98f89eb",
+                        "lectureLength": "00:18:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TBcmSXRnxf/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A36: HuggingFace Integration",
+                "assignmentId": "69620467cfb436b316fa5982",
+                "assignmentLink": "https://docs.google.com/document/d/1ggTKvhIHsZEMTalbTtIKdtKATImucB2fbjwZvcj1kLM/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "PDF Query RAG with Langchain and AstraDB",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Astra DB using DataStax",
+                        "lectureId": "693a76642b7555b4c98f89ed",
+                        "lectureLength": "00:32:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApSsG4C6kU4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating RAG App with Astra DB",
+                        "lectureId": "693a76642b7555b4c98f89ee",
+                        "lectureLength": "00:32:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/329yzKBPuYn/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A37: AstraDB RAG",
+                "assignmentId": "6962043bcfb436b316fa597d",
+                "assignmentLink": "https://docs.google.com/document/d/1u3nje3bH2KNg2l6SKvwYNPBfdiF5spTWVkqJRnZ6Cxo/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Working with CodeLlama with Ollama",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Working with Codellama",
+                        "lectureId": "693a76642b7555b4c98f89f0",
+                        "lectureLength": "00:33:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jCr4JU58cU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the CodeLlama Application",
+                        "lectureId": "693a76642b7555b4c98f89f1",
+                        "lectureLength": "00:23:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dspNfyeaKU/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A38: CodeLlama with Ollama",
+                "assignmentId": "69620424cfb436b316fa5978",
+                "assignmentLink": "https://docs.google.com/document/d/15jlUiKp7J6JPYghzOyXEg5eqWXPd4u3hVCpmxebvGgw/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Deployment of Gen AI Apps",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Deployment in Streamlit Cloud",
+                        "lectureId": "693a76642b7555b4c98f89f3",
+                        "lectureLength": "00:13:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Buar8hJnxD8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deployment in Huggingface Space",
+                        "lectureId": "693a76642b7555b4c98f89f4",
+                        "lectureLength": "01:18:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Gu2FBEChtq/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "A39-App Deployment",
+                "assignmentId": "69620402cfb436b316fa5973",
+                "assignmentLink": "https://docs.google.com/document/d/1RbG9g7xY8pyZ5cPzHWJOMXfnHYeVNXJM9O0ZIY6eDNw/edit?usp=sharing"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "693aa61b21517449d9078ba2",
+                "mentor": "Chirag Saraswat  (AI Engineer)",
+                "start": 20,
+                "end": 22,
+                "chatStart": 0,
+                "chatEnd": 0,
+                "time": "8:00 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=stg",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "role": "senior"
+            },
+            {
+                "_id": "6a871551fc66b37ef64ab5c7",
+                "mentor": "Mritunjay",
+                "start": 20,
+                "end": 22,
+                "chatStart": 20,
+                "chatEnd": 22,
+                "time": "8:00 PM - 10 PM",
+                "url": "https://campus.tutedude.com/uiux?room=mn-stg-2",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "junior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1-Xc7hxEVUeTZR-_PAkqLmKMuOad9IQj7?usp=sharing"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

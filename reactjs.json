@@ -1,0 +1,624 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "68ef52a5c9cf3d230ba68541",
+        "courseName": "REACT JS",
+        "slug": "reactjs",
+        "category": "Technical",
+        "tpFolderId": "33EHq5U7yhu",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": true,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "698831938c786e06ca10d674",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Getting Started",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started",
+                        "lectureId": "68ef52a5c9cf3d230ba68543",
+                        "lectureLength": "00:28:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9J8zMmeKQnx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "React Essentials",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "React Fundamentals - Portfolio Card Project",
+                        "lectureId": "68ef52a5c9cf3d230ba68545",
+                        "lectureLength": "01:04:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9u5XYMpffb3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "React Fundamentals - Portfolio Card CSS Styling",
+                        "lectureId": "68ef52a5c9cf3d230ba68546",
+                        "lectureLength": "00:30:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9btKehMnRKa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dynamic Content and Props",
+                        "lectureId": "68ef52a5c9cf3d230ba68547",
+                        "lectureLength": "01:21:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QnuUKJQHuB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "React Interactivity and Event Handling",
+                        "lectureId": "68ef52a5c9cf3d230ba68548",
+                        "lectureLength": "00:55:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3szsAZB96bR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "React State Management",
+                        "lectureId": "68ef52a5c9cf3d230ba68549",
+                        "lectureLength": "00:59:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZjuA63CMFA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conditional Rendering and Dynamic Lists",
+                        "lectureId": "68ef52a5c9cf3d230ba6854a",
+                        "lectureLength": "00:54:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/778KnBdH27F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Movie Database Interface",
+                        "lectureId": "68ef52a5c9cf3d230ba6854b",
+                        "lectureLength": "00:59:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FBy2MmumtU/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignments 1",
+                "assignmentId": "69256b563431bf8c3cb61bf3",
+                "assignmentLink": "https://docs.google.com/document/d/1v4dFBVlstXYD0i36c5FtI0eBN-QnJKKb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Styling React Components",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "React Components Styling",
+                        "lectureId": "68ef52a5c9cf3d230ba6854d",
+                        "lectureLength": "01:17:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BpB57q8tx3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Working with Refs and Portals",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "React Refs and Portals",
+                        "lectureId": "68ef52a5c9cf3d230ba6854f",
+                        "lectureLength": "00:23:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64zX5jJ4Qf3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Portal and Modal",
+                        "lectureId": "68ef52a5c9cf3d230ba68550",
+                        "lectureLength": "00:49:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YgB2CKmkBt/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "React's Context API and useReducer - Advanced State Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Setting up Context API",
+                        "lectureId": "68ef52a5c9cf3d230ba68552",
+                        "lectureLength": "00:22:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9shfrY8taT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introducing useReducer",
+                        "lectureId": "68ef52a5c9cf3d230ba68553",
+                        "lectureLength": "00:30:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jPmnAcNZXZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building Components",
+                        "lectureId": "68ef52a5c9cf3d230ba68554",
+                        "lectureLength": "00:58:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGzAN92S7kZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Putting It All Togther",
+                        "lectureId": "68ef52a5c9cf3d230ba68555",
+                        "lectureLength": "00:15:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xJbyrBSBmf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Task Manager CSS Styling",
+                        "lectureId": "695d3a747fcfaaacfb5ee17d",
+                        "lectureLength": "00:08:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87rZKbPjpdF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignments 2",
+                "assignmentId": "69256b9c3431bf8c3cb61bf8",
+                "assignmentLink": "https://docs.google.com/document/d/1l_eHnRyW7fVnewaMxVcalqd5coM6PcC4/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Handling Side Effects and Working with useEffect() Hook",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding useEffect and Project SetUp",
+                        "lectureId": "68ef52a5c9cf3d230ba68559",
+                        "lectureLength": "00:18:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rUUmU5E956/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Implementing Our First useEffect - Data Fetching",
+                        "lectureId": "68ef52a5c9cf3d230ba6855a",
+                        "lectureLength": "00:27:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A8Au37a67t/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dependencies , cleanup and Advanced Patterns",
+                        "lectureId": "68ef52a5c9cf3d230ba6855b",
+                        "lectureLength": "00:15:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxMh8gMdYTE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignments 3",
+                "assignmentId": "69256bc53431bf8c3cb61bfd",
+                "assignmentLink": "https://docs.google.com/document/d/1xuyD4fweXXKpWfEIItPqyT2FvLHvSTDV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "A Look Behind the Scenes of React and Optimization Techniques",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Virtual DOM and Reconcillation Algorithm",
+                        "lectureId": "68ef52a5c9cf3d230ba6855d",
+                        "lectureLength": "00:22:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BanbXEY36Xh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Performane Optimization Techniques",
+                        "lectureId": "68ef52a5c9cf3d230ba6855e",
+                        "lectureLength": "00:44:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARe2G9EZsPu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Class-Based Components",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction and Project SetUp",
+                        "lectureId": "68ef52a5c9cf3d230ba68560",
+                        "lectureLength": "00:22:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QP3qa9ZJr5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interactivity and Lifecycle",
+                        "lectureId": "68ef52a5c9cf3d230ba68561",
+                        "lectureLength": "00:53:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xcEX3xDYGae/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Student Grade Tracker",
+                        "lectureId": "68ef52a5c9cf3d230ba68562",
+                        "lectureLength": "00:13:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FaSaQ8f3th/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mastering state management - display logic and event hanlers",
+                        "lectureId": "68ef52a5c9cf3d230ba68563",
+                        "lectureLength": "00:36:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37Q9jFynFef/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Forms , Events and User Interactions",
+                        "lectureId": "68ef52a5c9cf3d230ba68564",
+                        "lectureLength": "00:34:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AgT9sxzdGY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignments 4",
+                "assignmentId": "69256bfd3431bf8c3cb61c02",
+                "assignmentLink": "https://docs.google.com/document/d/12TIg8mIT570gnExZlFmvoOABibngAL1q/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Sending Http Requests",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Connecting to JSONPlaceholder API and CRUD Operations_",
+                        "lectureId": "68ef5511c9cf3d230ba6858d",
+                        "lectureLength": "00:43:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/taSFYX6MRsc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Complete CRUD Operations",
+                        "lectureId": "68ef52a5c9cf3d230ba68566",
+                        "lectureLength": "01:32:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YffE4hxAFE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Building Custom Hooks",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Custom Hooks and Project SetUp",
+                        "lectureId": "68ef52a5c9cf3d230ba68568",
+                        "lectureLength": "00:24:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AF6U5sS8EC4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Personal Expense Tracker",
+                        "lectureId": "68ef52a5c9cf3d230ba68569",
+                        "lectureLength": "00:55:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BateFe4tA4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating First Custom Hook",
+                        "lectureId": "68ef52a5c9cf3d230ba6856a",
+                        "lectureLength": "00:18:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hDXrSszSXJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Persistence with LocalStorage Hook",
+                        "lectureId": "68ef52a5c9cf3d230ba6856b",
+                        "lectureLength": "00:21:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aEBk74m2jA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Filtering and Advanced Features",
+                        "lectureId": "68ef52a5c9cf3d230ba6856c",
+                        "lectureLength": "00:39:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3StT5HamDA8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignments 5",
+                "assignmentId": "69256c333431bf8c3cb61c07",
+                "assignmentLink": "https://docs.google.com/document/d/1kVDsngr9Azgthm7Nns8Df9Tftws8asJd/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Working with Forms and User Input",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "User Registeration Form",
+                        "lectureId": "68ef52a5c9cf3d230ba6856e",
+                        "lectureLength": "01:10:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jxaJe9hsYQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mario_s Pizza Online Ordering System",
+                        "lectureId": "68ef5524c9cf3d230ba68590",
+                        "lectureLength": "00:22:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkycxBqATGP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding state and Interactivity",
+                        "lectureId": "68ef52a5c9cf3d230ba6856f",
+                        "lectureLength": "00:34:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUq43fdCbk5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Business logic , validation and form submission",
+                        "lectureId": "68ef52a5c9cf3d230ba68570",
+                        "lectureLength": "01:43:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3m4QRtqTBtu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignments 6",
+                "assignmentId": "69256c5a3431bf8c3cb61c0c",
+                "assignmentLink": "https://docs.google.com/document/d/13vIhiu-Lss1XhTqmLnTKrXhoZmPV-pcC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Handling Forms via Form Actions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Building a User Signup Flow",
+                        "lectureId": "68ef52a5c9cf3d230ba68572",
+                        "lectureLength": "01:10:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZcFYsuERqC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing an Online Pizza Ordering Workflow",
+                        "lectureId": "68ef52a5c9cf3d230ba68573",
+                        "lectureLength": "00:22:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RTrGryKs3p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Enhancing Forms with Dynamic State & User Interaction",
+                        "lectureId": "68ef52a5c9cf3d230ba68574",
+                        "lectureLength": "00:34:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/764yJc7ZTu9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Implementing Validation, Logic, and Smooth Submissions",
+                        "lectureId": "68ef52a5c9cf3d230ba68575",
+                        "lectureLength": "01:43:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37ySQCsje5N/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Diving into Redux",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction and SetUp",
+                        "lectureId": "68ef52a5c9cf3d230ba68577",
+                        "lectureLength": "00:15:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADZ7dffxgX5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "First Redux Store and Slices",
+                        "lectureId": "68ef52a5c9cf3d230ba68578",
+                        "lectureLength": "00:51:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9YxS8FGUFP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shopping Cart and user authentication",
+                        "lectureId": "68ef52a5c9cf3d230ba68579",
+                        "lectureLength": "01:30:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tut43BSyU8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Production Ready Features and Optimization",
+                        "lectureId": "68ef52a5c9cf3d230ba6857a",
+                        "lectureLength": "01:10:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GF4GEYHPeR2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignments 7",
+                "assignmentId": "69256c813431bf8c3cb61c11",
+                "assignmentLink": "https://docs.google.com/document/d/1Uwq1bqZP5-WkETuaHTN17xTr8t_oBAK3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Building a Multi-Page SPA with React Router",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction and SetUp",
+                        "lectureId": "68ef52a5c9cf3d230ba6857c",
+                        "lectureLength": "00:25:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kgNHdudDpg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setting up Routes and Navigations",
+                        "lectureId": "68ef52a5c9cf3d230ba6857d",
+                        "lectureLength": "00:32:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ms8qP2rzEK6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dynamic Routes and URL Parameters",
+                        "lectureId": "68ef52a5c9cf3d230ba6857e",
+                        "lectureLength": "00:35:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8P6aJgQXHEc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Adding Authentication to React Apps",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction and Project Setup",
+                        "lectureId": "68ef52a5c9cf3d230ba68580",
+                        "lectureLength": "00:20:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TmJhH6Cmu7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building Login and SignUp Pages",
+                        "lectureId": "68ef52a5c9cf3d230ba68581",
+                        "lectureLength": "00:49:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cZaxxgAzFp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Implementing Authentication Logic with Context API",
+                        "lectureId": "68ef52a5c9cf3d230ba68582",
+                        "lectureLength": "00:45:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36AmDy4Sj7u/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 8",
+                "assignmentId": "6a7df854b6907e7275bdf2e4",
+                "assignmentLink": "https://docs.google.com/document/d/1ZeDABYuXhYp12RkTR33b91blaSeG-EIq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Testing React Apps",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction and Setup",
+                        "lectureId": "68ef52a5c9cf3d230ba68584",
+                        "lectureLength": "00:26:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44p4uHq3KES/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Writing Tests for Counter Component",
+                        "lectureId": "68ef52a5c9cf3d230ba68585",
+                        "lectureLength": "00:28:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bM4MGYkKrr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Testing Concepts",
+                        "lectureId": "68ef52a5c9cf3d230ba68586",
+                        "lectureLength": "00:57:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NnFdJQPs2A/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Deploying React Apps",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Deploying React Apps Part 1",
+                        "lectureId": "68ef52a5c9cf3d230ba68588",
+                        "lectureLength": "01:05:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Tpe5SDxNSd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploying React Apps Part2",
+                        "lectureId": "68ef52a5c9cf3d230ba68589",
+                        "lectureLength": "01:00:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37n3NAQFkmp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Project",
+                "assignmentId": "69256ccb3431bf8c3cb61c1b",
+                "assignmentLink": "https://docs.google.com/document/d/1cG268lMJjGH_PlHQF_i1ZvoZc37qqztf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "687f82b64cffeabaa9bfe2c7",
+                "mentor": "Shreyas Tungar",
+                "start": 20,
+                "end": 23,
+                "time": "8 PM - 11:00 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db3",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "chatEnd": 23,
+                "chatStart": 20,
+                "role": "junior"
+            }
+        ],
+        "resource": [
+            "https://docs.google.com/document/d/1zICtSJl2wXVSFCkV4PDEUhlda7nBSU6QT2Q3T8RxWzc/edit?usp=drive_link"
+        ],
+        "notes": [],
+        "name": "React Js",
+        "infoName": "React JS",
+        "title": "React JS Course",
+        "description": "Learn React JS",
+        "video": "https://www.youtube.com/embed/VBhy3ircd_M",
+        "introStats": {
+            "ratings": "4.8+",
+            "learners": "90000+",
+            "duration": "35Hrs"
+        },
+        "icon": "ComboPackIcons_REACT_JS",
+        "details": {
+            "ratings": 4.8,
+            "lectures": 66,
+            "duration": "35h 00m",
+            "enrolled": "90000+"
+        }
+    },
+    "fromCache": false
+}

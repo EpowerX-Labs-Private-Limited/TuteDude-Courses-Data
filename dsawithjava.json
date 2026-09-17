@@ -1,0 +1,860 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6964c7363fe192563aa9f29f",
+        "courseName": "DSA With Java",
+        "slug": "dsawithjava",
+        "category": "Technical",
+        "tpFolderId": "4m8fUcstd7k",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "696f95e57a4c1d6f20288308",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to DSA with Java",
+                        "lectureId": "6964c7363fe192563aa9f2a5",
+                        "lectureLength": "00:09:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bafEbjAZaK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction and setup",
+                        "lectureId": "6964c7363fe192563aa9f2a6",
+                        "lectureLength": "00:21:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zftcf3qbSb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Data Types",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Data Types And flow chart 1",
+                        "lectureId": "6964c7363fe192563aa9f2a8",
+                        "lectureLength": "00:15:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49NsXyxQZZs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Types And flow chart 2",
+                        "lectureId": "6964c7363fe192563aa9f2a9",
+                        "lectureLength": "00:17:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZTfTpKYetc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Loops",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Loops",
+                        "lectureId": "6964c7363fe192563aa9f2ab",
+                        "lectureLength": "00:34:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZStFnHh9E6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Questions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Question (Prime & Reverse)",
+                        "lectureId": "6964c7363fe192563aa9f2ad",
+                        "lectureLength": "00:22:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NATMggranS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Question (Inverse & Rotate a number)",
+                        "lectureId": "6964c7363fe192563aa9f2ae",
+                        "lectureLength": "00:26:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q9paSM9azT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Functions",
+                        "lectureId": "6964c7363fe192563aa9f2b0",
+                        "lectureLength": "00:29:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75R3P43jzSt/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Array",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Array",
+                        "lectureId": "6964c7363fe192563aa9f2b2",
+                        "lectureLength": "00:38:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b7FcmhE3yt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Array Question",
+                        "lectureId": "6964c7363fe192563aa9f2b3",
+                        "lectureLength": "00:31:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42C3REEq54c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Array Ques",
+                        "lectureId": "6964c7363fe192563aa9f2b4",
+                        "lectureLength": "00:17:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JNmPrTaBZY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "2 D Array",
+                        "lectureId": "6964c7363fe192563aa9f2b5",
+                        "lectureLength": "00:38:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQQdr3kN92C/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Question 1",
+                        "lectureId": "6964c7363fe192563aa9f2b6",
+                        "lectureLength": "00:21:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Zx8ysFqThyG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Questions 2",
+                        "lectureId": "6964c7363fe192563aa9f2b7",
+                        "lectureLength": "00:55:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92AAQJtakq8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Two Pointer Sliding Window",
+                        "lectureId": "6964c7363fe192563aa9f2b8",
+                        "lectureLength": "00:41:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53MFnn5cbjE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "KMP Algorithm, Stack",
+                        "lectureId": "6964c7363fe192563aa9f2b9",
+                        "lectureLength": "00:45:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eT7rPQMJ6n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Kadens Aalgo Python",
+                        "lectureId": "699c0180b16a195e5354c142",
+                        "lectureLength": "00:19:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CzCu9u9AMze/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "String",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "String",
+                        "lectureId": "6964c7363fe192563aa9f2bb",
+                        "lectureLength": "00:38:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3MKX8j5nb2U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "String Questions",
+                        "lectureId": "6964c7363fe192563aa9f2bc",
+                        "lectureLength": "00:36:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTrr973dMpx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Obect Oriented Programming",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "oops",
+                        "lectureId": "6964c7363fe192563aa9f2be",
+                        "lectureLength": "00:54:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DA8hhMbaZR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "static, encapsultaion, inheritance",
+                        "lectureId": "6964c7363fe192563aa9f2bf",
+                        "lectureLength": "01:02:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMEhS2mjBzx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inheritance, Polymorphism, Anstraction",
+                        "lectureId": "6964c7363fe192563aa9f2c0",
+                        "lectureLength": "00:53:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9suEnbSGR4D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shallow, deep copy, this",
+                        "lectureId": "6964c7363fe192563aa9f2c1",
+                        "lectureLength": "01:00:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Agc6Xu8NHyQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dynamic Method Dispatch",
+                        "lectureId": "6964c7363fe192563aa9f2c2",
+                        "lectureLength": "00:10:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PFfy7jnrUt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Toll Booth",
+                        "lectureId": "6964c7363fe192563aa9f2c3",
+                        "lectureLength": "00:35:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TnCeTRx4Sp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Time Space",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Time and Space",
+                        "lectureId": "6964c7363fe192563aa9f2c5",
+                        "lectureLength": "00:19:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fSyYgX34af/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "StacK Queues",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Stack Questins",
+                        "lectureId": "6964c7363fe192563aa9f2c7",
+                        "lectureLength": "00:58:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aCmAAeNNgZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nge, Largest Rectangle Histogram",
+                        "lectureId": "6964c7363fe192563aa9f2c8",
+                        "lectureLength": "00:48:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8cxrDAd3tS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stock Span, Trapping Rain Water",
+                        "lectureId": "6964c7363fe192563aa9f2c9",
+                        "lectureLength": "00:57:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94fBkrS2jcp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Queue",
+                        "lectureId": "6964c7363fe192563aa9f2ca",
+                        "lectureLength": "00:58:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4E9fjPHSNf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sliding Window Max",
+                        "lectureId": "6964c7363fe192563aa9f2cb",
+                        "lectureLength": "00:20:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79D6sYM7Nqa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conversions",
+                        "lectureId": "6964c7363fe192563aa9f2cc",
+                        "lectureLength": "00:39:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d6bNQ59JbQ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Linked List",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Linked List",
+                        "lectureId": "6964c7363fe192563aa9f2ce",
+                        "lectureLength": "00:30:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74Bj65SJTgd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reverse Middle",
+                        "lectureId": "6964c7363fe192563aa9f2cf",
+                        "lectureLength": "00:25:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cU6n73T5Djp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Remove nth node, Merge ll",
+                        "lectureId": "6964c7363fe192563aa9f2d0",
+                        "lectureLength": "00:32:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8C7Z85R6TF4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Odd even delete node",
+                        "lectureId": "6964c7363fe192563aa9f2d1",
+                        "lectureLength": "00:24:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5B6DsP4ua2E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Remove duplicate, Delete middle",
+                        "lectureId": "6964c7363fe192563aa9f2d2",
+                        "lectureLength": "00:21:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rbR3H2cBQn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Question, Cycle detection",
+                        "lectureId": "6964c7363fe192563aa9f2d3",
+                        "lectureLength": "00:55:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zM4FSBStXD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Intersection Reorder",
+                        "lectureId": "6964c7363fe192563aa9f2d4",
+                        "lectureLength": "00:57:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4snrnXJm9yx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Add, Subtract",
+                        "lectureId": "6964c7363fe192563aa9f2d5",
+                        "lectureLength": "00:55:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Rj6My4Uqfh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Double Linked List",
+                        "lectureId": "6964c7363fe192563aa9f2d6",
+                        "lectureLength": "00:27:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XSYEAqPGaC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Copy Random Pointer",
+                        "lectureId": "6964c7363fe192563aa9f2d7",
+                        "lectureLength": "00:30:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NJNYt4hgKf/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "HashMap",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to HashMap in Java",
+                        "lectureId": "6964c7363fe192563aa9f2d9",
+                        "lectureLength": "00:55:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69452UsxsrR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Priority Queue",
+                        "lectureId": "6964c7363fe192563aa9f2da",
+                        "lectureLength": "00:56:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZafuzjFArd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Contains Duplicate Problems Java",
+                        "lectureId": "6964c7363fe192563aa9f2db",
+                        "lectureLength": "00:29:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeUdRFZKapn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hashing Problems in Java",
+                        "lectureId": "6964c7363fe192563aa9f2dc",
+                        "lectureLength": "00:39:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jJZRHFXSuG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Subarray Sum Problems Java Hashing",
+                        "lectureId": "6964c7363fe192563aa9f2dd",
+                        "lectureLength": "00:33:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bn9aDmxTmRn/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Recursion",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Recursion Intro",
+                        "lectureId": "6964c7363fe192563aa9f2df",
+                        "lectureLength": "01:11:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/823tfKsnmnT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Backtracking Problems Palindrome Partitioning, Rat in a Maze & Word Search",
+                        "lectureId": "6964c7363fe192563aa9f2e0",
+                        "lectureLength": "01:09:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Duk9aqByZjq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Merge Sort Divide and Conquer Algorithm",
+                        "lectureId": "6964c7363fe192563aa9f2e1",
+                        "lectureLength": "00:27:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZCGh9mXyBK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Recursion & Backtracking Problems Subsets II, N-Queens & Sudoku Solver",
+                        "lectureId": "6964c7363fe192563aa9f2e2",
+                        "lectureLength": "01:03:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gRMRcukqEj6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Recursion Example Quick Sort",
+                        "lectureId": "6964c7363fe192563aa9f2e3",
+                        "lectureLength": "00:47:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cTbxSMnHXq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Recursion Problems Combination Sum I & II, Subset Sum",
+                        "lectureId": "6964c7363fe192563aa9f2e4",
+                        "lectureLength": "00:42:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zUmnPKX6bP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Recursion Problems Generate Parentheses & Permutations",
+                        "lectureId": "6964c7363fe192563aa9f2e5",
+                        "lectureLength": "01:02:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TssA2qtKX7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Sorting",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Sorting Algorithms",
+                        "lectureId": "6964c7363fe192563aa9f2e7",
+                        "lectureLength": "00:33:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pXP7RdPur2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Binary Search",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Binary Search Problems Union, 2D Matrix & Pivot Index",
+                        "lectureId": "6964c7363fe192563aa9f2eb",
+                        "lectureLength": "01:07:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3U9cdJ9g7nz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Aggressive Cows, Heaters & Chocolate Distribution",
+                        "lectureId": "6964c7363fe192563aa9f2e9",
+                        "lectureLength": "00:51:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7j9jzr6Zxfp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Binary Search Problems Rotated Array & Allocation Problems",
+                        "lectureId": "6964c7363fe192563aa9f2ea",
+                        "lectureLength": "01:29:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82b4Ffr9pSt/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Trees",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Binary Search Tree",
+                        "lectureId": "6964c7363fe192563aa9f2ed",
+                        "lectureLength": "01:04:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tSGdX7ZC9D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Heap Questrions",
+                        "lectureId": "6964c7363fe192563aa9f2ee",
+                        "lectureLength": "01:16:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fPgYfDyUaZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Heap Questions 1",
+                        "lectureId": "6964c7363fe192563aa9f2ef",
+                        "lectureLength": "00:30:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5DgPjyNxdB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Binary Tree Basics & Traversals",
+                        "lectureId": "6964c7363fe192563aa9f2f0",
+                        "lectureLength": "01:52:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3y8hmdZ3ckU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Binary Tree Practice Problems Part 1",
+                        "lectureId": "6964c7363fe192563aa9f2f1",
+                        "lectureLength": "00:57:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XNxJxzRh98/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Binary Tree Practice Problems Part 2",
+                        "lectureId": "6964c7363fe192563aa9f2f2",
+                        "lectureLength": "01:35:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qYCQDD8uRU3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Binary Tree Practice Problems Part 3",
+                        "lectureId": "6964c7363fe192563aa9f2f3",
+                        "lectureLength": "01:49:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArtcnBYpSrQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Binary Tree Practice Problems Part 4",
+                        "lectureId": "6964c7363fe192563aa9f2f4",
+                        "lectureLength": "01:28:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GF99HGKdAb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Graphs",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Graph Introduction",
+                        "lectureId": "6964c7363fe192563aa9f2f6",
+                        "lectureLength": "00:32:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35xy3xQNM8a/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Traversals(BFS&DFS)",
+                        "lectureId": "6964c7363fe192563aa9f2f7",
+                        "lectureLength": "00:38:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8R32bSUd2f2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Number of province& Number of island",
+                        "lectureId": "6964c7363fe192563aa9f2f8",
+                        "lectureLength": "00:35:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jce5S6kr6m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Flood Fill Algo & Rotten Oranges",
+                        "lectureId": "6964c7363fe192563aa9f2f9",
+                        "lectureLength": "00:41:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MRfUTkhSSz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Detect Cycle(bfs & dfs)",
+                        "lectureId": "6964c7363fe192563aa9f2fa",
+                        "lectureLength": "00:28:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMXyRbRT4B8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Surrounded Regions & Number of enclave",
+                        "lectureId": "6964c7363fe192563aa9f2fb",
+                        "lectureLength": "00:43:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sNbKTZJxyC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bi-partite graph& directed graph cycle",
+                        "lectureId": "6964c7363fe192563aa9f2fc",
+                        "lectureLength": "00:40:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uqcfMer9tn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Topological Sort(dfs & bfs)",
+                        "lectureId": "6964c7363fe192563aa9f2fd",
+                        "lectureLength": "00:32:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87r4E4E6B4n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Detect cycel in directed graph(bfs) &find eventual safe States",
+                        "lectureId": "6964c7363fe192563aa9f2fe",
+                        "lectureLength": "00:33:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6udeRGfGaYf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shortest path(DAG)&Undirected graph",
+                        "lectureId": "6964c7363fe192563aa9f2ff",
+                        "lectureLength": "00:00:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ambfek5bTrf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Word Ladder(I &II)",
+                        "lectureId": "6964c7363fe192563aa9f300",
+                        "lectureLength": "00:53:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49ch8d8hXsC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dijkstra Algo",
+                        "lectureId": "6964c7363fe192563aa9f301",
+                        "lectureLength": "00:49:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YbU4HmTZdH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bellman ford & Floyd Warshel Algo",
+                        "lectureId": "6964c7363fe192563aa9f302",
+                        "lectureLength": "00:50:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62QndNYbrxa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Prims Algo",
+                        "lectureId": "6964c7363fe192563aa9f303",
+                        "lectureLength": "00:24:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74H5pqcnrsS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Disjoint Set",
+                        "lectureId": "6964c7363fe192563aa9f304",
+                        "lectureLength": "00:38:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JHcu9ydm6F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Kruskal",
+                        "lectureId": "6964c7363fe192563aa9f305",
+                        "lectureLength": "00:17:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zT5SGDbBQE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Dynamic Programining ",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction dp",
+                        "lectureId": "6964c7363fe192563aa9f307",
+                        "lectureLength": "00:25:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6p8dnhcNGXr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Climbing Stairs&Frog Jump",
+                        "lectureId": "6964c7363fe192563aa9f308",
+                        "lectureLength": "00:40:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tgddqEYAQS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Frog K Jump",
+                        "lectureId": "6964c7363fe192563aa9f309",
+                        "lectureLength": "00:13:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58uAzmXyNpq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "House Robber 1&2",
+                        "lectureId": "6964c7363fe192563aa9f30a",
+                        "lectureLength": "00:33:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tDEfqrgFdd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Unique Paths(1&2)",
+                        "lectureId": "6964c7363fe192563aa9f30b",
+                        "lectureLength": "00:47:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FQrZUkumD8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Minimum Path Sum&Falling Path Sum",
+                        "lectureId": "6964c7363fe192563aa9f30c",
+                        "lectureLength": "00:58:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q9tNZztAQ8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cheery pick(1&2)",
+                        "lectureId": "6964c7363fe192563aa9f30d",
+                        "lectureLength": "01:11:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75Hf5agmNSk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dungen Game & Knight Dialer",
+                        "lectureId": "6964c7363fe192563aa9f30e",
+                        "lectureLength": "01:05:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qTFhMaFMRU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Target Sum & partition",
+                        "lectureId": "6964c7363fe192563aa9f30f",
+                        "lectureLength": "00:42:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4za3r4BTMbm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Min sum partition&perfect sum",
+                        "lectureId": "6964c7363fe192563aa9f310",
+                        "lectureLength": "00:54:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94jYA7u9yhj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Coin change&unbounded knapsack",
+                        "lectureId": "6964c7363fe192563aa9f311",
+                        "lectureLength": "00:57:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RYDEZd8sJb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Minimum cost for tickets",
+                        "lectureId": "6964c7363fe192563aa9f312",
+                        "lectureLength": "00:33:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8j9BjjUZpN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lcs",
+                        "lectureId": "6964c7363fe192563aa9f313",
+                        "lectureLength": "00:00:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37t4HSu9Syj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 1",
+                "assignmentId": "6978c8ff7a4c1d6f2028a582",
+                "assignmentLink": "https://docs.google.com/document/d/1whSJmHoU25sB3yDYjai1p6agU_6KpbUu/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 2",
+                "assignmentId": "6978c9107a4c1d6f2028a587",
+                "assignmentLink": "https://docs.google.com/document/d/15djnaCvx7skjRsfam0ZHI2KP3gJqhX-2/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 3",
+                "assignmentId": "6978c9257a4c1d6f2028a58c",
+                "assignmentLink": "https://docs.google.com/document/d/1KxpSZivh343Q_p0eJDgZnKYHLwCxXw4R/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 4",
+                "assignmentId": "6978c93c7a4c1d6f2028a591",
+                "assignmentLink": "https://docs.google.com/document/d/1nVPmbv5pC_0haDhEjGxTdjEj3aNv5ZAG/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 5",
+                "assignmentId": "6978c94d7a4c1d6f2028a596",
+                "assignmentLink": "https://docs.google.com/document/d/1NFr42qyixIqpzLsKu6VhN8w3kYvsTzcl/edit?usp=drive_link&ouid=102010730193388181417&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6964fd9685e837fc2ecc1219",
+                "mentor": "Manoj",
+                "start": 20,
+                "end": 22,
+                "chatStart": 21,
+                "chatEnd": 21,
+                "time": "8 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds9",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

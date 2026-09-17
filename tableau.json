@@ -1,0 +1,733 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "67efc5c22692a0b11eaee98a",
+        "courseName": "Tableau",
+        "slug": "tableau",
+        "category": "it",
+        "tpFolderId": "BhgSteTGdJh",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": true,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "68ec9f87c9cf3d230ba66c7a",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "It's super easy to get Started",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Tableau Introduction",
+                        "lectureId": "67efc5c22692a0b11eaee98c",
+                        "lectureLength": "00:02:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4f5EZPyq358/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installation",
+                        "lectureId": "67efc5c22692a0b11eaee98d",
+                        "lectureLength": "00:03:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RpmpQjtuCMH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Excercise- Get Excited!",
+                        "lectureId": "67efc5c22692a0b11eaee98e",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5FD6zkRm4P/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Tableau Basics: Your First Bar chart",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "The Business Challenge - Who Gets the Annual Reward",
+                        "lectureId": "67efc5c22692a0b11eaee990",
+                        "lectureLength": "00:02:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KfE4SpDz3n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connecting Tableau to a Data File - CSV File",
+                        "lectureId": "67efc5c22692a0b11eaee991",
+                        "lectureLength": "00:05:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hkp2qkdHgh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Navigating Tableau",
+                        "lectureId": "67efc5c22692a0b11eaee992",
+                        "lectureLength": "00:05:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h2QZUq64Hx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Calculated Fields",
+                        "lectureId": "67efc5c22692a0b11eaee993",
+                        "lectureLength": "00:05:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EGSgsBu9Mcz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Colors",
+                        "lectureId": "67efc5c22692a0b11eaee994",
+                        "lectureLength": "00:08:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EyypCbA79A/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Labels and Formatting",
+                        "lectureId": "67efc5c22692a0b11eaee995",
+                        "lectureLength": "00:07:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SfADn4nP6m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exporting Your Worksheet",
+                        "lectureId": "67efc5c22692a0b11eaee996",
+                        "lectureLength": "00:06:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MahpT5FqmH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Time series, Aggregation, and Filters",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section Intro",
+                        "lectureId": "67efc5c22692a0b11eaee99a",
+                        "lectureLength": "00:01:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GRDbAUNEFs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Data Extracts in Tableau",
+                        "lectureId": "67efc5c22692a0b11eaee99b",
+                        "lectureLength": "00:10:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pApYeyYhPF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Time Series",
+                        "lectureId": "67efc5c22692a0b11eaee99c",
+                        "lectureLength": "00:07:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98cqfxeCT7t/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Aggregation, Granularity and Level Of Detail",
+                        "lectureId": "67efc5c22692a0b11eaee99d",
+                        "lectureLength": "00:11:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xfS5pp94Zg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating an Area Chart & Learning About Highlighting",
+                        "lectureId": "67efc5c22692a0b11eaee99e",
+                        "lectureLength": "00:11:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rfbFQgBJND/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Filters and Quick Filters",
+                        "lectureId": "67efc5c22692a0b11eaee99f",
+                        "lectureLength": "00:07:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cFryQtrzgm/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Bar Charts & Time Series",
+                "assignmentId": "68f224e683492d3c7b6b5458",
+                "assignmentLink": "https://docs.google.com/document/d/1i0ralTKlzAHFt8RVVGJjk7dij-ceGEs4/edit"
+            },
+            {
+                "type": "section",
+                "name": "Maps, Scatterplots, and Your First Dashboard",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section Intro 4",
+                        "lectureId": "67efc5c22692a0b11eaee9a1",
+                        "lectureLength": "00:01:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TSTkj26JG7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Relationship vs Joins",
+                        "lectureId": "67efc5c22692a0b11eaee9a2",
+                        "lectureLength": "00:02:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Y2R3KtMn4u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Joining Data in Tableau",
+                        "lectureId": "67efc5c22692a0b11eaee9a3",
+                        "lectureLength": "00:10:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nyPBfAZRRp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a Map, Working with Hierarchies",
+                        "lectureId": "67efc5c22692a0b11eaee9a4",
+                        "lectureLength": "00:14:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SxUFjTD8ZE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a Scatterplot , Applying Filters to Multiple Worksheets",
+                        "lectureId": "67efc5c22692a0b11eaee9a5",
+                        "lectureLength": "00:11:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99BKs7SgPM2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Let's Create Our First Dashboard!",
+                        "lectureId": "67efc5c22692a0b11eaee9a6",
+                        "lectureLength": "00:13:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QkbckyajQ6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding an Interactive Action - Filter",
+                        "lectureId": "67efc5c22692a0b11eaee9a7",
+                        "lectureLength": "00:15:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcpK7SntgHd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding an Interactive Action - Highlight",
+                        "lectureId": "67efc5c22692a0b11eaee9a8",
+                        "lectureLength": "00:13:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ks8EkRJM5p/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Joining, Blending and Relationships; PLUS: Dual Axis Charts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section Intro 5",
+                        "lectureId": "67efc5c22692a0b11eaee9aa",
+                        "lectureLength": "00:03:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53P6tFtPF7X/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding how LEFT, RIGHT, INNER and OUTER Join Work",
+                        "lectureId": "67efc5c22692a0b11eaee9ab",
+                        "lectureLength": "00:11:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62jd8sU8Scq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Joins with Duplicate Values",
+                        "lectureId": "67efc5c22692a0b11eaee9ac",
+                        "lectureLength": "00:04:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99BymdNZrpB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Joining on Multiple Fields",
+                        "lectureId": "67efc5c22692a0b11eaee9ad",
+                        "lectureLength": "00:06:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R2nYBp7sEu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The Showdown - Joining Data v.s. Blending Data in Tableau",
+                        "lectureId": "67efc5c22692a0b11eaee9ae",
+                        "lectureLength": "00:12:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFnPUrCKUE7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Blending in Tableau",
+                        "lectureId": "67efc5c22692a0b11eaee9af",
+                        "lectureLength": "00:15:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zTPxDqbB9d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dual Axis Chart",
+                        "lectureId": "67efc5c22692a0b11eaee9b0",
+                        "lectureLength": "00:13:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nAqCpeZK8z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Calculated Fields in a Blend (Advanced Topic)",
+                        "lectureId": "67efc5c22692a0b11eaee9b1",
+                        "lectureLength": "00:14:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DMTt82kRkC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "New Challenge and dataset!",
+                        "lectureId": "67efc5c22692a0b11eaee9b2",
+                        "lectureLength": "00:03:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59nJ2ZCCrMH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The Data Model",
+                        "lectureId": "67efc5c22692a0b11eaee9b3",
+                        "lectureLength": "00:13:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tMAh4hkdxD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Relationships in Tableau",
+                        "lectureId": "67efc5c22692a0b11eaee9b4",
+                        "lectureLength": "00:11:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z34CuDazSr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Section Recap",
+                        "lectureId": "67efc5c22692a0b11eaee9b5",
+                        "lectureLength": "00:05:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZKbZJhZH4E/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Maps, Joins & First Dashboard",
+                "assignmentId": "68f224e783492d3c7b6b545a",
+                "assignmentLink": "https://docs.google.com/document/d/180z7jCq--9C0AhUJyGOmbL8APQbKRTyI/edit"
+            },
+            {
+                "type": "section",
+                "name": "Table Calculations, Advanced Dashboards, Storytelling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section Intro 6",
+                        "lectureId": "67efc5c22692a0b11eaee9b7",
+                        "lectureLength": "00:01:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CErdXB8y29/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Downloading the Dataset and Connecting to Tableau",
+                        "lectureId": "67efc5c22692a0b11eaee9b8",
+                        "lectureLength": "00:03:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cXn6zgZPC5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mapping - how to Set Geographical Roles",
+                        "lectureId": "67efc5c22692a0b11eaee9b9",
+                        "lectureLength": "00:08:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HfTNAmqMUb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Table Calculations for Gender",
+                        "lectureId": "67efc5c22692a0b11eaee9ba",
+                        "lectureLength": "00:06:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EAruEg92Zm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Bins and Distribution for Age",
+                        "lectureId": "67efc5c22692a0b11eaee9bb",
+                        "lectureLength": "00:09:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KKzsaZ5kHC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Leveraging the Power of Parameters",
+                        "lectureId": "67efc5c22692a0b11eaee9bc",
+                        "lectureLength": "00:09:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33fyGJ9r2Sh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to Create a Tree Map Chart",
+                        "lectureId": "67efc5c22692a0b11eaee9bd",
+                        "lectureLength": "00:03:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ukgd4ZSseE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a Customer Segmentation Dashboard",
+                        "lectureId": "67efc5c22692a0b11eaee9be",
+                        "lectureLength": "00:07:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXSMasjFAZ4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Dashboard Interactivity",
+                        "lectureId": "67efc5c22692a0b11eaee9bf",
+                        "lectureLength": "00:04:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nMm7pCmJZm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Analyzing the Customer Segmentation Dashboard",
+                        "lectureId": "67efc5c22692a0b11eaee9c0",
+                        "lectureLength": "00:17:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dqJCM27mBX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a Storyline",
+                        "lectureId": "67efc5c22692a0b11eaee9c1",
+                        "lectureLength": "00:19:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JhPkYg8jy2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Advanced Data Preparation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section Intro 7",
+                        "lectureId": "67efc5c22692a0b11eaee9c3",
+                        "lectureLength": "00:02:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TRjnX9gn6J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What Format Your Data Should Be In",
+                        "lectureId": "67efc5c22692a0b11eaee9c4",
+                        "lectureLength": "00:07:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/prAT6JRPUt9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Interpreter",
+                        "lectureId": "67efc5c22692a0b11eaee9c5",
+                        "lectureLength": "00:11:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rKSHzmqjNU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pivot",
+                        "lectureId": "67efc5c22692a0b11eaee9c6",
+                        "lectureLength": "00:04:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FM5b8k7rc3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Splitting a Column into Multiple Columns",
+                        "lectureId": "67efc5c22692a0b11eaee9c7",
+                        "lectureLength": "00:03:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JRS5ZMpF24/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "MetaData Grid",
+                        "lectureId": "67efc5c22692a0b11eaee9c8",
+                        "lectureLength": "00:08:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aQEt8DFuGZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fixing Geographical Data Errors in Tableau",
+                        "lectureId": "67efc5c22692a0b11eaee9c9",
+                        "lectureLength": "00:08:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B358MtEsN4p/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Table Calculations & Storytelling",
+                "assignmentId": "68f224e883492d3c7b6b545c",
+                "assignmentLink": "https://docs.google.com/document/d/1Tk2kjVbq5UYFXiSCGR1WnxLG1ffIT8fx/edit#heading=h.c1s2jebuipjo"
+            },
+            {
+                "type": "section",
+                "name": "Clusters, Custom Territories, Design Features",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "The Challenge - Startup Expansion Analytics",
+                        "lectureId": "67efc5c22692a0b11eaee9cb",
+                        "lectureLength": "00:08:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CKa6Br4dey/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Custom Territories Via Groups",
+                        "lectureId": "67efc5c22692a0b11eaee9cc",
+                        "lectureLength": "00:10:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FJGcS9jRbG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Custom Territories Via Geographic Roles",
+                        "lectureId": "67efc5c22692a0b11eaee9cd",
+                        "lectureLength": "00:07:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaYkjRSRYXR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Clustering in Tableau",
+                        "lectureId": "67efc5c22692a0b11eaee9ce",
+                        "lectureLength": "00:09:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bM5sb2sj7d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding a Highlighter",
+                        "lectureId": "67efc5c22692a0b11eaee9cf",
+                        "lectureLength": "00:06:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65YY7AScaG8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cross-Database Joins",
+                        "lectureId": "67efc5c22692a0b11eaee9d0",
+                        "lectureLength": "00:09:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3y5ARGrj72G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modelling With Clusters",
+                        "lectureId": "67efc5c22692a0b11eaee9d1",
+                        "lectureLength": "00:15:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99EygECQ4rF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Saving Your Clusters",
+                        "lectureId": "67efc5c22692a0b11eaee9d2",
+                        "lectureLength": "00:05:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d3zGDrxEBU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "New Mobile Features",
+                        "lectureId": "67efc5c22692a0b11eaee9d3",
+                        "lectureLength": "00:06:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84pNsfE9xjP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Section Recap",
+                        "lectureId": "67efc5c22692a0b11eaee9d4",
+                        "lectureLength": "00:05:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PpCzk9xDAT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Tableau Toolkit",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section Intro 9",
+                        "lectureId": "67efc5c22692a0b11eaee9d6",
+                        "lectureLength": "00:03:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKrqQYHQCsC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data From PDF Files",
+                        "lectureId": "67efc5c22692a0b11eaee9d7",
+                        "lectureLength": "00:05:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pBpHckcjr82/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connecting to PDF",
+                        "lectureId": "67efc5c22692a0b11eaee9d8",
+                        "lectureLength": "00:13:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GQyQNBf5aD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connecting to Spatial Files",
+                        "lectureId": "67efc5c22692a0b11eaee9d9",
+                        "lectureLength": "00:08:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/388XAjDEnAd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Joining to Spatial Files",
+                        "lectureId": "67efc5c22692a0b11eaee9da",
+                        "lectureLength": "00:12:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QJ6f7hk4ZQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Putting It All Together",
+                        "lectureId": "67efc5c22692a0b11eaee9db",
+                        "lectureLength": "00:10:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARQUhK7Uej4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Step and Jump Line Chart",
+                        "lectureId": "67efc5c22692a0b11eaee9dc",
+                        "lectureLength": "00:11:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qg9szKtbZk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Viz in Tooltip",
+                        "lectureId": "67efc5c22692a0b11eaee9dd",
+                        "lectureLength": "00:14:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5hgeE5tbhJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Conclusion",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Course Overview",
+                        "lectureId": "67efc5c22692a0b11eaee9df",
+                        "lectureLength": "00:11:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PK3xZaHH7F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Thank You Video",
+                        "lectureId": "67efc5c22692a0b11eaee9e0",
+                        "lectureLength": "00:00:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YaZUXpmDx4/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Tableau Project",
+                "assignmentId": "68f224e983492d3c7b6b545e",
+                "assignmentLink": "https://docs.google.com/document/d/1zHAWMK2uf_YE6vO48KJWnpLiHHqAH7SouNBoYrFFt4g/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Job Readiness & Placement Support",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Building a Resume",
+                        "lectureId": "69d0d36449153561b6b61d38",
+                        "lectureLength": "00:58:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6djB9uyetBs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customizing the Resume as per Job Description",
+                        "lectureId": "69d0d36449153561b6b61d3b",
+                        "lectureLength": "00:16:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bd7N5PN2fd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to Apply for Jobs Internships",
+                        "lectureId": "69d0d36449153561b6b61d3e",
+                        "lectureLength": "00:56:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fub3adypDj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interview Preparation tricks and tips",
+                        "lectureId": "69d0d36449153561b6b61d41",
+                        "lectureLength": "00:24:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6G7774a32R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Additional things to make profile stronger",
+                        "lectureId": "69d0d36549153561b6b61d45",
+                        "lectureLength": "00:26:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ghKNkYxKD7y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mock Interview Flow",
+                        "lectureId": "69d0d38649153561b6b61d4b",
+                        "lectureLength": "00:36:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eyGB2sezu5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tableau Career Guide",
+                        "lectureId": "69d0d36549153561b6b61d48",
+                        "lectureLength": "00:29:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Np93HxBbCd/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6921a80f25c1857ee1adcecb",
+                "mentor": "Divya ",
+                "start": 19,
+                "end": 22,
+                "chatStart": 0,
+                "chatEnd": 0,
+                "time": "7 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db2",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/18dTkrLhppjqyVXSEzhr2A-CCIL6fp4jy"
+        ],
+        "notes": [],
+        "name": "Tableau",
+        "infoName": "Tableau",
+        "title": "Tableau Course",
+        "description": "Learn Tableau",
+        "video": "https://www.youtube.com/embed/vOrpu9qYqMY",
+        "introStats": {
+            "ratings": "4.8+",
+            "learners": "90000+",
+            "duration": "20Hrs"
+        },
+        "icon": "ComboPackIcons_TABLEAU",
+        "details": {
+            "ratings": 4.8,
+            "lectures": 35,
+            "duration": "20h 00m",
+            "enrolled": "90000+"
+        }
+    },
+    "fromCache": false
+}

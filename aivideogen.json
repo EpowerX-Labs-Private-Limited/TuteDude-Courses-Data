@@ -1,0 +1,530 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "69ff44a28668a9279c142e32",
+        "courseName": "AI Video Generation",
+        "slug": "aivideogen",
+        "category": "Video Editing",
+        "tpFolderId": "BPxZ7EytuqA",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6a610a118668a9279c16260d",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "A Complete course on AI Video Creation workflow",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Course Introduction",
+                        "lectureId": "69ff44a28668a9279c142e36",
+                        "lectureLength": "00:05:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sUj35argUJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Understanding Genrative AI Workflow",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "AI Video creation Foundation",
+                        "lectureId": "69ff44a28668a9279c142e38",
+                        "lectureLength": "00:09:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TM5cnNaaTS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generative AI for Video Production",
+                        "lectureId": "69ff44a28668a9279c142e39",
+                        "lectureLength": "00:19:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4nBKMgQMEd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding AI workflow",
+                        "lectureId": "69ff44a28668a9279c142e3a",
+                        "lectureLength": "00:13:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7e6pshgQxYR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generating voiceover with Eleven Labs",
+                        "lectureId": "69ff44a28668a9279c142e3b",
+                        "lectureLength": "00:16:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bzMD6zPSj5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create a Food Delivery App Audio Advertisement Using ElevenLabs",
+                "assignmentId": "6a2bcfec8668a9279c14d14b",
+                "assignmentLink": "https://docs.google.com/document/d/11uEhepOI5OaCg_gYieBX9nSe_OqryBAo92rg70DIwH8/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "AI Video Creation Methods",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Generating Prompt to video with Veo",
+                        "lectureId": "69ff44a28668a9279c142e3d",
+                        "lectureLength": "00:20:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zGNDCPKgu9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hedra and HeyGen for AI Avatar Videos",
+                        "lectureId": "69ff44a28668a9279c142e3e",
+                        "lectureLength": "00:12:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74DK6tmnhNn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Dynamic Ads with VEO AI",
+                        "lectureId": "69ff44a28668a9279c142e40",
+                        "lectureLength": "00:33:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JAamzrxRSr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Alien Vlogger videos with Gemini",
+                        "lectureId": "69ff44a28668a9279c142e41",
+                        "lectureLength": "00:25:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aFm8CpXDCM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generating Videos with Meta AI",
+                        "lectureId": "6a6e5984b6907e7275bd7c82",
+                        "lectureLength": "00:16:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3muEjpseFGk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create a Smartwatch Launch Teaser Using Veo",
+                "assignmentId": "6a2bd88e8668a9279c14d150",
+                "assignmentLink": "https://docs.google.com/document/d/1iWPx2OvXcP3kMRzl6Ec9RLUv8rq-0qnbas3NufVgwNg/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Create an AI Avatar Welcome Video using Hedra or HeyGen",
+                "assignmentId": "6a2bd9318668a9279c14d155",
+                "assignmentLink": "https://docs.google.com/document/d/1FJkgH8dHycFaD7IrAoTJWxYzyjq7ni0oA901yt7sVyk/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Create Two Different Fitness App Ads Using Veo AI",
+                "assignmentId": "6a2bdba28668a9279c14d15f",
+                "assignmentLink": "https://docs.google.com/document/d/1ws91JEmGlxIqsaGJbyahMvBR08EU7og2_drCV1BSbH8/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Create a Fictional Character Vlog Video using Gemini",
+                "assignmentId": "6a2bdc3b8668a9279c14d164",
+                "assignmentLink": "https://docs.google.com/document/d/1Ss47zUS-JLixYEHeQXLsNn3pC60YpFq69AAKF-LbPJg/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "AI Films and Documentaries",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "AI video Generation with Adobe",
+                        "lectureId": "69ff44a28668a9279c142e43",
+                        "lectureLength": "00:11:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Eg6t2XSzpq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adobe Firefly for Documentary based AI Videos",
+                        "lectureId": "69ff44a28668a9279c142e44",
+                        "lectureLength": "00:19:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JD7cDMxU43/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generating Shortfilm with FLow and Kling AI",
+                        "lectureId": "69ff44a28668a9279c142e45",
+                        "lectureLength": "00:25:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DrBfebZ4AG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Eleven labs and SUNO AI for AI films",
+                        "lectureId": "69ff44a28668a9279c142e46",
+                        "lectureLength": "00:35:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9R6jn3CSMAy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating AI Ads for a Product",
+                        "lectureId": "69ff44a28668a9279c142e47",
+                        "lectureLength": "00:16:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fNbTZkCj4z/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create a Documentary Video on a Social Topic using Adobe Firefly",
+                "assignmentId": "6a2bdcc98668a9279c14d169",
+                "assignmentLink": "https://docs.google.com/document/d/1zsRY78jJjinWx2b2mzW9-Wq5CUK4699B43wDOnX30Dw/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Create a Short Film on Concept of “A Day That Changed Everything” using Flow and Kling AI",
+                "assignmentId": "6a2be0908668a9279c14d1cb",
+                "assignmentLink": "https://docs.google.com/document/d/1IhTenxMMgq4mcV6R4FcADFxbHqrZ6tCHYIHhMmHDTco/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Generate Music and Narration for your Short Film using SUNO and ElevenLabs",
+                "assignmentId": "6a2be3838668a9279c14d1d0",
+                "assignmentLink": "https://docs.google.com/document/d/1OSAdhXv8WunVHGQO7XRlAWpKPUpRKwyPQF_AtPIkSH8/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Complete AI Filmmaing Workflow",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Social Message Films workflow with Focal ML",
+                        "lectureId": "69ff44a28668a9279c142e49",
+                        "lectureLength": "00:26:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f5UGAUzQsG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "FIlm Postproduction with Narration and Music",
+                        "lectureId": "69ff44a28668a9279c142e4a",
+                        "lectureLength": "00:17:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5a3yMKDSgC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Regenerating scenes with Gemini",
+                        "lectureId": "69ff44a28668a9279c142e4b",
+                        "lectureLength": "00:13:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82c34EU59A4/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Regenerate and Fix a Weak Scene of your Film using Gemini",
+                "assignmentId": "6a2be4648668a9279c14d1da",
+                "assignmentLink": "https://docs.google.com/document/d/1wk0CpgtA06oPudtPgYsPX5qcR9bUGMjlq00hFBHkUbk/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "AI Transformation Videos",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Start and End Frame reference",
+                        "lectureId": "69ff44a28668a9279c142e4d",
+                        "lectureLength": "00:13:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bFCr92HXMM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI for Visual Effects",
+                        "lectureId": "69ff44a28668a9279c142e4e",
+                        "lectureLength": "00:19:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3j4K2dFJ5b/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create a Room Makeover Transformation Video using Start and End Frame",
+                "assignmentId": "6a2be4ac8668a9279c14d1df",
+                "assignmentLink": "https://docs.google.com/document/d/1XUNX0LdlfPeT9xVIokt0q6VhQethjT7q-awBG3-KxD4/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "AI Graphic Novels and Presentation Videos",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Working with Notebook LM",
+                        "lectureId": "69ff44a28668a9279c142e50",
+                        "lectureLength": "00:16:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EEy9qN54Tg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating AI Graphic Novels",
+                        "lectureId": "69ff44a28668a9279c142e51",
+                        "lectureLength": "00:08:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARhapAh2Fc2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create an AI Graphic Novel from a Short Story",
+                "assignmentId": "6a2be5248668a9279c14d1e4",
+                "assignmentLink": "https://docs.google.com/document/d/1ivraSleYEwwxse_S_WxhScpO8cSZEv0lfrl0YymEd6M/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Generate an Audio Overview of your Story using Notebook LM",
+                "assignmentId": "6a2be9af8668a9279c14d27c",
+                "assignmentLink": "https://docs.google.com/document/d/1sJymBU0xLa_x0GOePTKQ49EN5bh5yics2_U5OtVLBok/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Movies Visual Effects with  AI",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Integrating  characters in AI Scene",
+                        "lectureId": "69ff44a28668a9279c142e53",
+                        "lectureLength": "00:15:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ARaN89yrxJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Refining Prompts to enhance AI videos",
+                        "lectureId": "69ff44a28668a9279c142e54",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BX2pjJS8RhA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generating Avatar Based AI Videos",
+                        "lectureId": "69ff44a28668a9279c142e55",
+                        "lectureLength": "00:07:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63J4uYXTZSd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating AI Ads for a Product",
+                        "lectureId": "69ff44a28668a9279c142e56",
+                        "lectureLength": "00:16:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fNbTZkCj4z/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create a Complete Product AD with Character Integration and VFX ",
+                "assignmentId": "6a2bea0e8668a9279c14d281",
+                "assignmentLink": "https://docs.google.com/document/d/1UMjdaY5FGzCOlcKmj4e1TbmQHHhGIL3oR5oJj3qm9ag/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "[ Capstone Assignment ]Reel for a Laundry App ",
+                "assignmentId": "6a2e5aed8668a9279c14d35c",
+                "assignmentLink": "https://docs.google.com/document/d/1Ive3MjYoxn3V4v1kMXgTsK6yGIMMby4HupWvaj4pJmM/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "AI Video Creation with Seedance",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Seedance interface",
+                        "lectureId": "6a7af678b6907e7275bdae97",
+                        "lectureLength": "00:26:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6afsCaxNHGF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI image editing with Seedance",
+                        "lectureId": "6a7af678b6907e7275bdae9a",
+                        "lectureLength": "00:10:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NtmdhGuZzf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generating videos with Seedance",
+                        "lectureId": "6a7af679b6907e7275bdae9d",
+                        "lectureLength": "00:23:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eX8GaYCnPa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animated short film and TVC with Seedance",
+                        "lectureId": "6a7af679b6907e7275bdaea0",
+                        "lectureLength": "00:40:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SZTK7m8d3G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Action-packed superhero ad in Seedance",
+                        "lectureId": "6a7af679b6907e7275bdaea3",
+                        "lectureLength": "00:32:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6T6X8kMmdG9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Long-form videos in Seedance",
+                        "lectureId": "6a7af679b6907e7275bdaea6",
+                        "lectureLength": "00:37:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47cRXePKXqE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Editing and motion control with Kling",
+                        "lectureId": "6a7af679b6907e7275bdaea9",
+                        "lectureLength": "00:19:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/krFYFYnt38e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cinema studio in Higgsfield",
+                        "lectureId": "6a7af67ab6907e7275bdaeac",
+                        "lectureLength": "00:36:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eN93XZB3Zb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Higgsfield marketing studio",
+                        "lectureId": "6a7af67ab6907e7275bdaeaf",
+                        "lectureLength": "00:21:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64A54AGumhm/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Final project",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "AI project Overview",
+                        "lectureId": "6a3a7b3a8668a9279c156237",
+                        "lectureLength": "00:20:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AnuEtABrEs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI project with VEO 3",
+                        "lectureId": "6a3a7b3b8668a9279c15623a",
+                        "lectureLength": "00:24:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tQAyrZcus3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Experimenting with VEO 3",
+                        "lectureId": "6a3a7b3b8668a9279c15623d",
+                        "lectureLength": "00:10:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XtnEQzfDbt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI project with Gemini",
+                        "lectureId": "6a3a7b3b8668a9279c156240",
+                        "lectureLength": "00:14:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KBZteY2rCP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Character Consistancy",
+                        "lectureId": "6a3a7b3c8668a9279c156243",
+                        "lectureLength": "00:09:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9h4Nbp7MBXz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Product ad with Gemini Omni",
+                        "lectureId": "6a3a7b3c8668a9279c156246",
+                        "lectureLength": "00:16:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nhCsdCPB5h/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Google FLow",
+                        "lectureId": "6a3a7b3c8668a9279c156249",
+                        "lectureLength": "00:35:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tDNK88Ks7d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advance Google flow",
+                        "lectureId": "6a3a7b3d8668a9279c15624c",
+                        "lectureLength": "00:53:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PXYQeKrDcS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create a Minimum 5-Minute AI Short Film (100% AI-Made)",
+                "assignmentId": "6a3a8f5b8668a9279c156250",
+                "assignmentLink": "https://docs.google.com/document/d/13nI4YMq_7tG7NgovuoldyLLGamA3Eh5G3mf6irgN5Qs/edit?tab=t.0"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6a1fd13cfc66b37ef64a5426",
+                "mentor": "Kaartikey",
+                "start": 19,
+                "end": 20.5,
+                "chatStart": 20.5,
+                "chatEnd": 22,
+                "time": "7:00 PM - 8:30 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db5",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            },
+            {
+                "_id": "6a7d7da4fc66b37ef64a884f",
+                "mentor": "Piyush",
+                "start": 20,
+                "end": 22,
+                "chatStart": 20,
+                "chatEnd": 22,
+                "time": "8:00 PM - 10:00 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db5",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "junior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1pYZZzI-kBtTfr40dChc_1GuE7b7ZRRRj?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

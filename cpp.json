@@ -1,0 +1,473 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680c86ea364f718dc17b6823",
+        "courseName": "C++",
+        "slug": "cpp",
+        "category": "technical",
+        "tpFolderId": "AanEYgQcGnD",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Getting Started",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction",
+                        "lectureId": "680c86ea364f718dc17b6825",
+                        "lectureLength": "00:09:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y3mUTerS9T/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setting up Visual Studio Code",
+                        "lectureId": "680c86ea364f718dc17b6826",
+                        "lectureLength": "00:13:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RU3BP97TEu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "BASICS",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction & Skeleton",
+                        "lectureId": "680c86ea364f718dc17b6828",
+                        "lectureLength": "00:19:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mX5pH7fY35/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Input Output, Variables & Data types",
+                        "lectureId": "680c86ea364f718dc17b6829",
+                        "lectureLength": "00:28:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98HZxgPaKzQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Arithmetic Operators & Precedence",
+                        "lectureId": "680c86ea364f718dc17b682a",
+                        "lectureLength": "00:24:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BGmsfk7D7n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Compound Operators, Expressions & Comments",
+                        "lectureId": "680c86ea364f718dc17b682b",
+                        "lectureLength": "00:16:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fhfeXMtU4yk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conditionals, If Else & Switch Case",
+                        "lectureId": "680c86ea364f718dc17b682c",
+                        "lectureLength": "00:42:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EPsyzYAzc84/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Programming Assignment 1",
+                "assignmentId": "68f2251583492d3c7b6b5519",
+                "assignmentLink": "https://docs.google.com/document/d/1OKd_eGX95RH3RKNSBSppRLUVrlyrt9Jg/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "Loops & Basic Data Structures",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Loops - While loops",
+                        "lectureId": "680c86ea364f718dc17b682f",
+                        "lectureLength": "00:15:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dxAGk9Hfpf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Loops - DoWhile & For loops",
+                        "lectureId": "680c86ea364f718dc17b6830",
+                        "lectureLength": "00:18:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xCk43AreMA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Arrays",
+                        "lectureId": "680c86ea364f718dc17b6831",
+                        "lectureLength": "00:28:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Ee5QjFchjD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pointers",
+                        "lectureId": "680c86ea364f718dc17b6832",
+                        "lectureLength": "00:11:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5C2agg8KhR9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Programming Assignment 2",
+                "assignmentId": "68f2251583492d3c7b6b551b",
+                "assignmentLink": "https://docs.google.com/document/d/1xrVQw4BJgjNtEb-sVgl9K2dWoK-Ii31f/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Strings",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Strings using Char Array",
+                        "lectureId": "680c86ea364f718dc17b6835",
+                        "lectureLength": "00:16:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F4JEFpNXpG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Strings using string Class",
+                        "lectureId": "680c86ea364f718dc17b6836",
+                        "lectureLength": "00:09:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pU4xaEjTGUH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Programming Assignment 3",
+                "assignmentId": "68f2251583492d3c7b6b551d",
+                "assignmentLink": "https://docs.google.com/document/d/1R4shRJInvQnhl0sPEgVv7h3NMZK03x_x/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Functions in C++ [1]",
+                        "lectureId": "680c86ea364f718dc17b6839",
+                        "lectureLength": "00:17:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qTkzrJHrPC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Functions in C++ [2]",
+                        "lectureId": "680c86ea364f718dc17b683a",
+                        "lectureLength": "00:34:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69AKDq68Zt5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Programming Assignment 4",
+                "assignmentId": "68f2251583492d3c7b6b551f",
+                "assignmentLink": "https://docs.google.com/document/d/1HicELuIUEjLKFBEZZeEOz4M_QLwChDsH/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "OOPs & Encapsulation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Structures in C++",
+                        "lectureId": "680c86ea364f718dc17b683d",
+                        "lectureLength": "00:16:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZEdkmxumKm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OOPs Basics",
+                        "lectureId": "680c86ea364f718dc17b683e",
+                        "lectureLength": "00:09:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ttTKCA8ZNp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Class & Objects",
+                        "lectureId": "680c86ea364f718dc17b683f",
+                        "lectureLength": "00:21:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsJD7YYAtDm/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Programming Assignment 5",
+                "assignmentId": "68f2251583492d3c7b6b5521",
+                "assignmentLink": "https://docs.google.com/document/d/1zFZXHNzFWkuSPm2tR0b1wLulG3RxporP/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Polymorphism",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Constructors & Fn Overloading",
+                        "lectureId": "680c86ea364f718dc17b6842",
+                        "lectureLength": "00:17:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62JdertMp62/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Class Functions",
+                        "lectureId": "680c86ea364f718dc17b6843",
+                        "lectureLength": "00:28:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PfEANsDj8R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Operator Overloading",
+                        "lectureId": "680c86ea364f718dc17b6844",
+                        "lectureLength": "00:15:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kKce7GH72G/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Programming Assignment 6",
+                "assignmentId": "68f2251583492d3c7b6b5523",
+                "assignmentLink": "https://docs.google.com/document/d/153u-Nl6M8m-ymVeK2d6LWLaAPOColC7h/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Inheritance",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Inheritance - Introduction",
+                        "lectureId": "680c86ea364f718dc17b6847",
+                        "lectureLength": "00:07:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AtEnGSpu9f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inheritance - Access Specifiers",
+                        "lectureId": "680c86ea364f718dc17b6848",
+                        "lectureLength": "00:20:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tBRsU9CreD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inheritance & Constructors",
+                        "lectureId": "680c86ea364f718dc17b6849",
+                        "lectureLength": "00:16:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zuNN4RMghU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of Inheritance",
+                        "lectureId": "680c86ea364f718dc17b684a",
+                        "lectureLength": "00:09:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Z8Rd8E5ya8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inheritance - Pointers & Fn Overriding",
+                        "lectureId": "680c86ea364f718dc17b684b",
+                        "lectureLength": "00:13:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzdfB7dKxc9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Programming Assignment 7",
+                "assignmentId": "68f2251583492d3c7b6b5525",
+                "assignmentLink": "https://docs.google.com/document/d/1Z9N6j1iyikve1PnqPVj78mXjAZwh6hMw/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Abstraction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Virtual Fns & Runtime Polymorphism",
+                        "lectureId": "680c86ea364f718dc17b684e",
+                        "lectureLength": "00:11:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XGyd4raDKG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Abstract Classes & Interface",
+                        "lectureId": "680c86ea364f718dc17b684f",
+                        "lectureLength": "00:07:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NuBc4fg2U9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Friend Fn & Classes",
+                        "lectureId": "680c86ea364f718dc17b6850",
+                        "lectureLength": "00:05:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtH6XKPqD6s/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Static Data Members",
+                        "lectureId": "680c86ea364f718dc17b6851",
+                        "lectureLength": "00:08:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rYTDTmqt6f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Static Functions in Class",
+                        "lectureId": "680c86ea364f718dc17b6852",
+                        "lectureLength": "00:05:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FJUrTktN7P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nested or Inner Classes",
+                        "lectureId": "680c86ea364f718dc17b6853",
+                        "lectureLength": "00:07:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hy9KG2YqbH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Destructors in C++",
+                        "lectureId": "680c86ea364f718dc17b6854",
+                        "lectureLength": "00:14:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4EBy4jzFqG/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Programming Assignment 8",
+                "assignmentId": "68f2251583492d3c7b6b5527",
+                "assignmentLink": "https://docs.google.com/document/d/1TPVQLnKkvVNBqqepxFLpn2snUQ_l4V13/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Exception Handling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Exception Handling - Introduction",
+                        "lectureId": "680c86ea364f718dc17b6857",
+                        "lectureLength": "00:09:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3fTcy5PpNZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exception Handling - Syntax & Use",
+                        "lectureId": "680c86ea364f718dc17b6858",
+                        "lectureLength": "00:09:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hKDF4EyqCF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exception Handling - Nested try, Multiple Catch",
+                        "lectureId": "680c86ea364f718dc17b6859",
+                        "lectureLength": "00:09:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FuANraktDY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Programming Assignment 9",
+                "assignmentId": "68f2251583492d3c7b6b5529",
+                "assignmentLink": "https://docs.google.com/document/d/1Ldik87YGvQm_YsZMtWerkvJaNffb4wKi/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Streams - File Input/Output in C%2B%2B",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Streams - Introduction",
+                        "lectureId": "680c86ea364f718dc17b685c",
+                        "lectureLength": "00:05:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KxEsZ2yttcq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Streams - Syntax (Using in programs)",
+                        "lectureId": "680c86ea364f718dc17b685d",
+                        "lectureLength": "00:16:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TATC4fJ8EN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Programming Assignment 10",
+                "assignmentId": "68f2251683492d3c7b6b552b",
+                "assignmentLink": "https://docs.google.com/document/d/14ItjeHZspiAaTjYCQq_1SnFWL0eTz-rV/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "STL - Standard Template Library",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Template Fns & Classes",
+                        "lectureId": "680c86ea364f718dc17b6860",
+                        "lectureLength": "00:13:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9U8tcBePKUU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "STL - Why do we need STL",
+                        "lectureId": "680c86ea364f718dc17b6861",
+                        "lectureLength": "00:07:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcbXaP9RUTM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "STL - Introduction",
+                        "lectureId": "680c86ea364f718dc17b6862",
+                        "lectureLength": "00:05:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Exh8FjdYGT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "STL - Using in Programs",
+                        "lectureId": "680c86ea364f718dc17b6863",
+                        "lectureLength": "00:23:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rmePpAe43c/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Programming Assignment 11",
+                "assignmentId": "68f2251683492d3c7b6b552d",
+                "assignmentLink": "https://docs.google.com/document/d/1ueE8SQaQS1t35ObG2b74_mNlWMJAV9ii/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6a0afbdefc66b37ef64a0787",
+                "mentor": "Krishna Singh",
+                "start": 20.5,
+                "end": 22,
+                "chatStart": 20.5,
+                "chatEnd": 22,
+                "time": "8:30 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds7",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    3,
+                    5
+                ],
+                "role": "junior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

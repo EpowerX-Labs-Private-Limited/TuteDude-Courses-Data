@@ -1,0 +1,922 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6876bba9aa7b36a500956aa3",
+        "courseName": "Natural language processing (NLP)",
+        "slug": "nlp",
+        "category": "Technical",
+        "tpFolderId": "C8bSBdzAU4E",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "68ee9028c9cf3d230ba68063",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Python-Data Types & Data Structures",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Machine Learning Intuition",
+                        "lectureId": "6876bba9aa7b36a500956aa5",
+                        "lectureLength": "00:24:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AN7CkFNn9xf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Python Data Types",
+                        "lectureId": "6876bba9aa7b36a500956aa6",
+                        "lectureLength": "00:15:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9j8UUKRGtc7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Types Practical",
+                        "lectureId": "6876bba9aa7b36a500956aa7",
+                        "lectureLength": "00:16:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52dDTMaY2A2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "List in Python",
+                        "lectureId": "6876bba9aa7b36a500956aa8",
+                        "lectureLength": "00:20:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eSFb6qYnB6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tuples in Python",
+                        "lectureId": "6876bba9aa7b36a500956aa9",
+                        "lectureLength": "00:16:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cUGCmpF87d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dictionary in Python",
+                        "lectureId": "6876bba9aa7b36a500956aaa",
+                        "lectureLength": "00:15:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h2ySRz4Z9qN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sets in Python",
+                        "lectureId": "6876bba9aa7b36a500956aab",
+                        "lectureLength": "00:15:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hUsNuZE7tnk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Fundamentals of Python Programming",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Loops in Python",
+                        "lectureId": "6876bba9aa7b36a500956aad",
+                        "lectureLength": "00:25:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AFfgyMqdgb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comprehension in Python",
+                        "lectureId": "6876bba9aa7b36a500956aae",
+                        "lectureLength": "00:14:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5dHGffep2D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Functions in Python",
+                        "lectureId": "6876bba9aa7b36a500956aaf",
+                        "lectureLength": "00:25:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HZDGC2pgKa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lambda Functions in Python",
+                        "lectureId": "6876bba9aa7b36a500956ab0",
+                        "lectureLength": "00:11:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A67GMjPs4fQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exception Handling in Python",
+                        "lectureId": "6876bba9aa7b36a500956ab1",
+                        "lectureLength": "00:13:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5erJ5j4EFQM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Python Libraries-Numpy,Pandas,Matplotlib",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Numpy Array Creation",
+                        "lectureId": "6876bba9aa7b36a500956ab3",
+                        "lectureLength": "00:22:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CSp2P8bPFT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Numpy Operations",
+                        "lectureId": "6876bba9aa7b36a500956ab4",
+                        "lectureLength": "00:17:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PxQMxRB8qC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Numpy Bonus Operations",
+                        "lectureId": "6876bba9aa7b36a500956ab5",
+                        "lectureLength": "00:12:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nHeJUhqGZR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pandas in Python",
+                        "lectureId": "6876bba9aa7b36a500956ab6",
+                        "lectureLength": "00:15:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ny7X5YDm2n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with CSV Files",
+                        "lectureId": "6876bba9aa7b36a500956ab7",
+                        "lectureLength": "00:07:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Anj3yJ9mu4X/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pandas Operations",
+                        "lectureId": "6876bba9aa7b36a500956ab8",
+                        "lectureLength": "00:24:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DHsUGdhA9x/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pandas Bonus Operations",
+                        "lectureId": "6876bba9aa7b36a500956ab9",
+                        "lectureLength": "00:08:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bZ8JNZznUm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Matplotlib in Python",
+                        "lectureId": "6876bba9aa7b36a500956aba",
+                        "lectureLength": "00:20:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZYCB6ntXhM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Regular Expressions in Python",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Regular Expressions in Python",
+                        "lectureId": "6876bba9aa7b36a500956abc",
+                        "lectureLength": "00:21:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qNkesjfxhr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 1",
+                "assignmentId": "68f2252483492d3c7b6b5576",
+                "assignmentLink": "https://drive.google.com/file/d/1lJmj6WrFaWXJsDsn-6XomY63G00D2o7L/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Introduction to NLP-Challenges & Applications",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "NLP-Introduction, Challenges & Applications",
+                        "lectureId": "6876bba9aa7b36a500956abe",
+                        "lectureLength": "00:17:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xx8cJCGjNh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Classification & Translation Pipeline",
+                        "lectureId": "6876bba9aa7b36a500956abf",
+                        "lectureLength": "00:24:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JScrAm8PyN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Clustering & Classification",
+                        "lectureId": "6876bba9aa7b36a500956ac0",
+                        "lectureLength": "00:10:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gDgnpdjNyF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Text Cleaning & Preprocessing using NLTK",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to NLTK",
+                        "lectureId": "6876bba9aa7b36a500956ac2",
+                        "lectureLength": "00:13:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kdHk6QUp7c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tokenization",
+                        "lectureId": "6876bba9aa7b36a500956ac3",
+                        "lectureLength": "00:16:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9PamaHyS5c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stop Word Removal",
+                        "lectureId": "6876bba9aa7b36a500956ac4",
+                        "lectureLength": "00:10:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37X42FMHpe7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stemming and Lemmatization",
+                        "lectureId": "6876bba9aa7b36a500956ac5",
+                        "lectureLength": "00:15:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RyMsuSQNZrz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Named Entity Recognition",
+                        "lectureId": "6876bba9aa7b36a500956ac6",
+                        "lectureLength": "00:14:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65NbmMbG4eT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to POS Tagging",
+                        "lectureId": "6876bba9aa7b36a500956ac7",
+                        "lectureLength": "00:11:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU6x8BuhxEr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "POS Tagging Architecture",
+                        "lectureId": "6876bba9aa7b36a500956ac8",
+                        "lectureLength": "00:20:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5e72Q8z8qPm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "POS Tagging Approach & Applications",
+                        "lectureId": "6876bba9aa7b36a500956ac9",
+                        "lectureLength": "00:28:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bNzEHBGQAaJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rare Word Removal",
+                        "lectureId": "6876bba9aa7b36a500956aca",
+                        "lectureLength": "00:12:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYtPgcbKzFZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Correcting Words using NLTK",
+                        "lectureId": "6876bba9aa7b36a500956acb",
+                        "lectureLength": "00:21:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KmudBTeAP5N/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Text Cleaning and Preprocessing using SpaCy",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Tokenization using SpaCy",
+                        "lectureId": "6876bba9aa7b36a500956acd",
+                        "lectureLength": "00:10:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FYhYr4ffFHy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "POS Tagging using Spacy",
+                        "lectureId": "6876bba9aa7b36a500956ace",
+                        "lectureLength": "00:21:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ke5xeghCHz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dependency Parsing using SpaCy",
+                        "lectureId": "6876bba9aa7b36a500956acf",
+                        "lectureLength": "00:15:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gxkpdZtr4t/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lemmatization using SpaCy",
+                        "lectureId": "6876bba9aa7b36a500956ad0",
+                        "lectureLength": "00:10:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRnyteg65fm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NER using SpaCy",
+                        "lectureId": "6876bba9aa7b36a500956ad1",
+                        "lectureLength": "00:09:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/392fAx3mGD9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vector Similarity in spaCy",
+                        "lectureId": "6876bba9aa7b36a500956ad2",
+                        "lectureLength": "00:22:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CuRdYqAHhb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NLTK vs spaCy",
+                        "lectureId": "6876bba9aa7b36a500956ad3",
+                        "lectureLength": "00:16:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4yF68pzg56z/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 2",
+                "assignmentId": "68f2252583492d3c7b6b5578",
+                "assignmentLink": "https://drive.google.com/file/d/1BLsdIO8XXUCyza3oN28InzOKgjuHuksA/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Machine Learning Crash Course",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Linear Regression",
+                        "lectureId": "6876bba9aa7b36a500956ad5",
+                        "lectureLength": "00:21:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69TEJJPTfCA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logistic Regression",
+                        "lectureId": "6876bba9aa7b36a500956ad6",
+                        "lectureLength": "00:17:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKEH79EAP85/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Support Vector Machine",
+                        "lectureId": "6876bba9aa7b36a500956ad7",
+                        "lectureLength": "00:24:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mFjYBrKYMa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "K Nearest Neighbors Algorithm",
+                        "lectureId": "6876bba9aa7b36a500956ad8",
+                        "lectureLength": "00:27:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ycsSk9fZGx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decision Trees",
+                        "lectureId": "6876bba9aa7b36a500956ad9",
+                        "lectureLength": "00:12:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95ejDruM2u6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Random Forest",
+                        "lectureId": "6876bba9aa7b36a500956ada",
+                        "lectureLength": "00:22:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2f69dNd7aM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Text Representation Techniques in NLP",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Bag of Words Technique",
+                        "lectureId": "6876bba9aa7b36a500956adc",
+                        "lectureLength": "00:27:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2dFF8sZTAD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "TF-IDF",
+                        "lectureId": "6876bba9aa7b36a500956add",
+                        "lectureLength": "00:15:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EFbht77jX8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Word Embeddings",
+                        "lectureId": "6876bba9aa7b36a500956ade",
+                        "lectureLength": "00:21:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AJ9Ug5spN2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sentence Embeddings",
+                        "lectureId": "6876bba9aa7b36a500956adf",
+                        "lectureLength": "00:17:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FhjzrN6ctY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Working with Text Files",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Working with Text Files",
+                        "lectureId": "6876bba9aa7b36a500956ae1",
+                        "lectureLength": "00:18:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3mBA7up3y4/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 3",
+                "assignmentId": "68f2252683492d3c7b6b557a",
+                "assignmentLink": "https://drive.google.com/file/d/1vLikelOam8GqeQRQ6IkBO2xSMSzsY3ry/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Sentiment Analysis in NLP",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Sentiment Analysis",
+                        "lectureId": "6876bba9aa7b36a500956ae3",
+                        "lectureLength": "00:20:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M5s4E4GxPN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Challenges, Applications & Takeaways",
+                        "lectureId": "6876bba9aa7b36a500956ae4",
+                        "lectureLength": "00:18:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fQhnJgNXUQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How sentiment is detected",
+                        "lectureId": "6876bba9aa7b36a500956ae5",
+                        "lectureLength": "00:15:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79JPEPrfZgM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sentiment Analysis Implementation",
+                        "lectureId": "6876bba9aa7b36a500956ae6",
+                        "lectureLength": "00:10:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bBmKyYh9QA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Preprocessing for Sentiment Analysis",
+                        "lectureId": "6876bba9aa7b36a500956ae7",
+                        "lectureLength": "00:26:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sBuRNSYqyZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Cleaning Code",
+                        "lectureId": "6876bba9aa7b36a500956ae8",
+                        "lectureLength": "00:08:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ukscQKYfSX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sentiment Analysis with machine Learning",
+                        "lectureId": "6876bba9aa7b36a500956ae9",
+                        "lectureLength": "00:16:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8U3JptF2hGD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ML for Sentiment Analysis Code",
+                        "lectureId": "6876bba9aa7b36a500956aea",
+                        "lectureLength": "00:11:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KsCycg629ey/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Training & Hyperparameter Tuning for Sentiment Analysis",
+                        "lectureId": "6876bba9aa7b36a500956aeb",
+                        "lectureLength": "00:32:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YeSJXHARnD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "ML Model Deployment using Streamlit",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Model Deployment",
+                        "lectureId": "6876bba9aa7b36a500956aed",
+                        "lectureLength": "00:16:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UYsXfZAQJG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to streamlit",
+                        "lectureId": "6876bba9aa7b36a500956aee",
+                        "lectureLength": "00:10:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8crUBG2mhP5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Model Deployment using Streamlit",
+                        "lectureId": "6876bba9aa7b36a500956aef",
+                        "lectureLength": "00:24:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38ttHpEMjDT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Multi Label Text Classification",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Multi Label Classification",
+                        "lectureId": "6876bba9aa7b36a500956af1",
+                        "lectureLength": "00:19:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8hURPcjMAK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multi Label Binarization",
+                        "lectureId": "6876bba9aa7b36a500956af2",
+                        "lectureLength": "00:10:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/694ntQ8BApJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Sentiment Analysis using WordVec Embeddings",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Word2Vec Embeddings",
+                        "lectureId": "6876bba9aa7b36a500956af4",
+                        "lectureLength": "00:15:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Gm8uerdsCp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Preparation for Sentiment Analysis using Word2Vec Embeddings",
+                        "lectureId": "6876bba9aa7b36a500956af5",
+                        "lectureLength": "00:20:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH27bbdU2za/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data preprocessing for sentiment analysis using word2vec embeddings",
+                        "lectureId": "6876bba9aa7b36a500956af6",
+                        "lectureLength": "00:15:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PGgm3jHSAj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Emotion Recognition in Text using GloVe",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Emotion Recognition in Text using GloVe",
+                        "lectureId": "6876bba9aa7b36a500956af8",
+                        "lectureLength": "00:21:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34rZPgHxnZ8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 4",
+                "assignmentId": "68f2252783492d3c7b6b557c",
+                "assignmentLink": "https://drive.google.com/file/d/1ZmzoSPJ8oigdMjVDLJK3kK-MOXhF5_rY/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "CV Parsing in NLP",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is CV Parsing in NLP",
+                        "lectureId": "6876bba9aa7b36a500956afa",
+                        "lectureLength": "00:20:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9tpnRrJSmt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Implementation of CV Parsing using Spacy3",
+                        "lectureId": "6876bba9aa7b36a500956afb",
+                        "lectureLength": "00:20:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gM7Be9NqXY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Sentiment Analysis using Deep Learning",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Deep Learning",
+                        "lectureId": "6876bba9aa7b36a500956afd",
+                        "lectureLength": "00:17:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GDnr2c4tCy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Machine Learning vs. Deep Learning",
+                        "lectureId": "6876bba9aa7b36a500956afe",
+                        "lectureLength": "00:14:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KbnNctDPUj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sentiment Analysis using Deep Learning",
+                        "lectureId": "6876bba9aa7b36a500956aff",
+                        "lectureLength": "00:17:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfMpQq5tDX4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Preparation for Sentiment Analysis using Deep Learning",
+                        "lectureId": "6876bba9aa7b36a500956b00",
+                        "lectureLength": "00:11:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eq4RQNnBcuQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Train Test Split for Sentiment Analysis Using Deep Learning",
+                        "lectureId": "6876bba9aa7b36a500956b01",
+                        "lectureLength": "00:08:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A23tar9J2KB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Artificial Neural Networks",
+                        "lectureId": "6876bba9aa7b36a500956b02",
+                        "lectureLength": "00:29:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8UdMxGnsKG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Convolutional Neural Networks",
+                        "lectureId": "6876bba9aa7b36a500956b03",
+                        "lectureLength": "00:13:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BCh2GrNmZX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Hate Speech Classification",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Hate Speech Classification",
+                        "lectureId": "6876bba9aa7b36a500956b05",
+                        "lectureLength": "00:11:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AY7kcp3JFjH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Workflow of Hate Speech Classification",
+                        "lectureId": "6876bba9aa7b36a500956b06",
+                        "lectureLength": "00:13:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65QKNFH4eZQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Implementation of Hate Speech Classification",
+                        "lectureId": "6876bba9aa7b36a500956b07",
+                        "lectureLength": "00:22:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CMmZ9uh3h9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Testing in Hate Speech Classification",
+                        "lectureId": "6876bba9aa7b36a500956b08",
+                        "lectureLength": "00:09:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38Za8xtYGda/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 5",
+                "assignmentId": "68f2252883492d3c7b6b557e",
+                "assignmentLink": "https://drive.google.com/file/d/14fCcpxMBVTyWeP2Aelc5NaR1_ccK7SKI/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Poetry Generation in NLP",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding RNN and its types",
+                        "lectureId": "6876bba9aa7b36a500956b0a",
+                        "lectureLength": "00:20:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAyDJxfmPX8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Challenges of RNNs",
+                        "lectureId": "6876bba9aa7b36a500956b0b",
+                        "lectureLength": "00:12:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/x938R8aj6B7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Poetry Generation in NLP",
+                        "lectureId": "6876bba9aa7b36a500956b0c",
+                        "lectureLength": "00:12:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sA4hr8s6UN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Transformers",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Transformers",
+                        "lectureId": "6876bba9aa7b36a500956b0e",
+                        "lectureLength": "00:18:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHHAgbsFXE9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Encoder Decoder Achitecture",
+                        "lectureId": "6876bba9aa7b36a500956b0f",
+                        "lectureLength": "00:13:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9d7kerXaxRG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applications of Transformers",
+                        "lectureId": "6876bba9aa7b36a500956b10",
+                        "lectureLength": "00:06:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bkA3qkCGyh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pretrained Language Models - BERT & GPT",
+                        "lectureId": "6876bba9aa7b36a500956b11",
+                        "lectureLength": "00:31:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C5byfUbB7x/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Prompt Engineering",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Prompt Engineering - Techniques & Examples",
+                        "lectureId": "6876bba9aa7b36a500956b13",
+                        "lectureLength": "00:36:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AygAnYecjbK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 6",
+                "assignmentId": "68f2252983492d3c7b6b5580",
+                "assignmentLink": "https://drive.google.com/file/d/1LgTYfSal4GIsWCy8nlTZQpU4Xfr0vEoX/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Multi-modal NLP",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Multi-modal NLP & Applications",
+                        "lectureId": "6876bba9aa7b36a500956b15",
+                        "lectureLength": "00:23:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZnBgmzFfZr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Intro to Gen AI",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to GEN AI",
+                        "lectureId": "6876bba9aa7b36a500956b17",
+                        "lectureLength": "00:19:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hZAkqRMx8zr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Capstone Project",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Capstone Project Hands-On",
+                        "lectureId": "6876bba9aa7b36a500956b19",
+                        "lectureLength": "00:47:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dughpArre5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Capstone Project",
+                "assignmentId": "68f2252a83492d3c7b6b5582",
+                "assignmentLink": "https://drive.google.com/file/d/1BneOUqFi3m5UKCM3GZq8OZUyT9IeU5mP/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Conclusion",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "NLP - Conclusion",
+                        "lectureId": "6876bba9aa7b36a500956b1b",
+                        "lectureLength": "00:19:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39H2MQnybJh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NLP - Future & Scope",
+                        "lectureId": "6876bba9aa7b36a500956b1c",
+                        "lectureLength": "00:09:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94FDNb5aZxQ/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "68c7ceb13eb42b2cd45025a6",
+                "mentor": "Chirag Saraswat  (AI Engineer)",
+                "start": 20,
+                "end": 22,
+                "time": "8:00 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=stg",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "chatEnd": 0.01,
+                "chatStart": 0.01,
+                "role": "junior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/file/d/1G7WFlPD4lpa7cPvCs5Z1zbRHsOmSHvcr/view"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

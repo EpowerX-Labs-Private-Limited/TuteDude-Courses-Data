@@ -1,0 +1,364 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6a9eb17fb6907e7275be1259",
+        "courseName": "Youtube Content Creation",
+        "slug": "youtubecreator",
+        "category": "Marketing",
+        "tpFolderId": "C699qE3auxF",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Introduction to Course",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Course",
+                        "lectureId": "6a9eb17fb6907e7275be125b",
+                        "lectureLength": "00:15:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AG534fdqkE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Basics of Video Production",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to YT",
+                        "lectureId": "6a9eb17fb6907e7275be125d",
+                        "lectureLength": "00:25:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5n6NJ6PJpn3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Production",
+                        "lectureId": "6a9eb17fb6907e7275be125e",
+                        "lectureLength": "00:35:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YdJDZ7CJRG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Post Production",
+                        "lectureId": "6a9eb17fb6907e7275be125f",
+                        "lectureLength": "00:44:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7SnPpHcnYg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to Implement 3 Stages in 3 Formats",
+                        "lectureId": "6a9eb17fb6907e7275be1260",
+                        "lectureLength": "00:37:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fAThkhSCkN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pre - Production",
+                        "lectureId": "6a9eb17fb6907e7275be1261",
+                        "lectureLength": "00:33:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUHTebq4au7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Quick Reel",
+                "assignmentId": "6aa4e3100770b38aada30dba",
+                "assignmentLink": "https://docs.google.com/document/d/1-v20cSrzFFj4LrUeIWZi5YB8jR3whxcY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "How to Build Your Niche",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Niche & User Psychology",
+                        "lectureId": "6a9eb17fb6907e7275be1263",
+                        "lectureLength": "00:31:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RpcXmAnuqz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to Build Your Niche & Stand Out",
+                        "lectureId": "6a9eb17fb6907e7275be1264",
+                        "lectureLength": "00:38:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UURgqqD6gE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Defining Your Niche and Sub Niches",
+                "assignmentId": "6aa4e3410770b38aada30dc5",
+                "assignmentLink": "https://docs.google.com/document/d/1Xq23P1KREnhL0ChKooo1dwedtVUyHDa8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "How to Build a Channel",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basic Information Before Channel Creation",
+                        "lectureId": "6a9eb17fb6907e7275be1266",
+                        "lectureLength": "00:27:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nf7X2UAu93/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Step by Step Guide",
+                        "lectureId": "6a9eb17fb6907e7275be1267",
+                        "lectureLength": "00:41:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Azp38kuCRp6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Channel Identity and Discoverability",
+                "assignmentId": "6aa4e3750770b38aada30dca",
+                "assignmentLink": "https://docs.google.com/document/d/1r3YLUr7_T2yqK3BPLP_amgg2nw1iWcrg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "How to Crack YT Shorts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Uploading a YT Short",
+                        "lectureId": "6a9eb17fb6907e7275be1269",
+                        "lectureLength": "00:30:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fC8B6bds5Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "YT Shorts Basics",
+                        "lectureId": "6a9eb17fb6907e7275be126a",
+                        "lectureLength": "00:25:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AuJHTsjqpfJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advance Shorts Editing & Colour Grading",
+                        "lectureId": "6a9eb17fb6907e7275be126b",
+                        "lectureLength": "00:26:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A525M3fBdkH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Creating Your First Short Form Video",
+                "assignmentId": "6aa4e38f0770b38aada30dcf",
+                "assignmentLink": "https://docs.google.com/document/d/1KCyfBWdyBCLt2Jwd-lwIbul7inssqTfy/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "How to Crack YT Long Format",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Long Form Content",
+                        "lectureId": "6a9eb17fb6907e7275be126d",
+                        "lectureLength": "00:34:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQ5JpK8HAde/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Step by Step Editing",
+                        "lectureId": "6a9eb17fb6907e7275be126e",
+                        "lectureLength": "00:34:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaC3HceUsCu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Thumbnail Masterclass (Canva Tutorial)",
+                        "lectureId": "6a9eb17fb6907e7275be126f",
+                        "lectureLength": "00:37:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n8SpSfmyGQJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Uploading a Video",
+                        "lectureId": "6a9eb17fb6907e7275be1270",
+                        "lectureLength": "00:36:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7Fe5Kbu7pj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Designing a High CTR Thumbnail",
+                "assignmentId": "6aa4e3b50770b38aada30dd4",
+                "assignmentLink": "https://docs.google.com/document/d/1Kg9qlCdaSEONEFkf3gnOEqII-vUSdMJO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Long Format Video 40 to 60 Seconds",
+                "assignmentId": "6aa4e3cd0770b38aada30dd9",
+                "assignmentLink": "https://docs.google.com/document/d/1716Iz0VF2wNYxmdt9qTPHrMD34uOEeEh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Understanding Copyright",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Types of Copyright & Community Guidelines",
+                        "lectureId": "6a9eb17fb6907e7275be1272",
+                        "lectureLength": "00:31:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uMRErEnyZ8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Copyright Claims",
+                        "lectureId": "6a9eb17fb6907e7275be1273",
+                        "lectureLength": "00:16:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7p6529cFD7r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Copyright Strikes",
+                        "lectureId": "6a9eb17fb6907e7275be1274",
+                        "lectureLength": "00:27:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8ArESnBjA9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "YouTube Copyright and Rights Management Quiz",
+                "assignmentId": "6aa4e3e20770b38aada30dde",
+                "assignmentLink": "https://docs.google.com/document/d/1ceL56dYJUebvk_sWlU2L2fY2mXT1fmK_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Youtube Live",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Pre-Requisite for YT Live",
+                        "lectureId": "6a9eb17fb6907e7275be1276",
+                        "lectureLength": "00:13:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3eCKXyZtjG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Prism Software Step by Step Guide",
+                        "lectureId": "6a9eb17fb6907e7275be1277",
+                        "lectureLength": "00:16:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKEXcJd3bQN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Setting Up and Broadcasting Your First YouTube Live",
+                "assignmentId": "6aa4e3f70770b38aada30de3",
+                "assignmentLink": "https://docs.google.com/document/d/1YxiJw12hoKpz4xE97ENCPfcU4tuJBlkR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "YT Monetisation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Monetization",
+                        "lectureId": "6a9eb17fb6907e7275be1279",
+                        "lectureLength": "00:19:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYGpJsjtJEs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "YPP & Other Sources",
+                        "lectureId": "6a9eb17fb6907e7275be127a",
+                        "lectureLength": "00:26:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kBYFuGx5Ad/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Google Adsense",
+                        "lectureId": "6a9eb17fb6907e7275be127b",
+                        "lectureLength": "00:15:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82fuRUqSNEn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Us Tax Info Tutorial",
+                        "lectureId": "6a9eb17fb6907e7275be127c",
+                        "lectureLength": "00:12:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4K5kZBS7XgT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Brand Outreach and Pitch Email",
+                "assignmentId": "6aa4e4250770b38aada30dec",
+                "assignmentLink": "https://docs.google.com/document/d/1T4r6YhxqrD7W5gcRjXReaP8CYLr9zRbB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Practical Blueprint",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "My Personal Blueprint",
+                        "lectureId": "6a9eb17fb6907e7275be127e",
+                        "lectureLength": "00:27:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zxE7TTAQGh/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Importance of Mental Health",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Handling Hate My Personal Experience",
+                        "lectureId": "6a9eb17fb6907e7275be1280",
+                        "lectureLength": "00:27:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACEYfpnEtK7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Competitive Analysis and Creator Breakdown",
+                "assignmentId": "6aa4e46d0770b38aada30df1",
+                "assignmentLink": "https://docs.google.com/document/d/1Lj5p19SMlrh8mkdJGSpMflo7bAqqgNYq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Creator Sustainability and Mental Health Action Plan",
+                "assignmentId": "6aa4e4850770b38aada30df6",
+                "assignmentLink": "https://docs.google.com/document/d/1EOT2OXHTT7XK934pCxsKlUo4_uAF9eKm/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Personal Reflection & Guidance",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "My Biggest Mistake (Conclusion)",
+                        "lectureId": "6a9eb17fb6907e7275be1282",
+                        "lectureLength": "00:30:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9z6DUBjb4RN/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": null,
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

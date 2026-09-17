@@ -1,0 +1,377 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6968984de5e41ad1ab1e7a7f",
+        "courseName": "DaVinci Resolve",
+        "slug": "davinciresolve",
+        "category": "Technical",
+        "tpFolderId": "C3XDsSE2NqQ",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "Introduction to Video editing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Video Editing",
+                        "lectureId": "6968984ee5e41ad1ab1e7a81",
+                        "lectureLength": "00:19:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FDjmXNMF7m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Essential Video editing Technique",
+                        "lectureId": "6968984ee5e41ad1ab1e7a82",
+                        "lectureLength": "00:15:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xkErc5KBGy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types and terms in Video Editing",
+                        "lectureId": "6968984ee5e41ad1ab1e7a83",
+                        "lectureLength": "00:10:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/437DHhnByGB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shot types and camera angles",
+                        "lectureId": "6968984ee5e41ad1ab1e7a84",
+                        "lectureLength": "00:16:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B55nDQQRQ4N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to DaVinci",
+                        "lectureId": "6968984ee5e41ad1ab1e7a85",
+                        "lectureLength": "00:19:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JhN7yEFtHF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Video Observation & Editing Analysis",
+                "assignmentId": "699c364eb16a195e5354c148",
+                "assignmentLink": "https://www.canva.com/design/DAHBxCzOE7o/kwcXowUQgDSux9JVYgEy8A/view?embed"
+            },
+            {
+                "type": "section",
+                "name": "understanding Da VInci Resolve",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the interface",
+                        "lectureId": "6968984ee5e41ad1ab1e7a87",
+                        "lectureLength": "00:18:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DR22pgJHEh7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring all pages of the DaVinci",
+                        "lectureId": "6968984ee5e41ad1ab1e7a88",
+                        "lectureLength": "00:17:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UYteyxCSf2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customizing the workspace",
+                        "lectureId": "6968984ee5e41ad1ab1e7a89",
+                        "lectureLength": "00:26:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Tp72rJEjrC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Editing your First Story",
+                        "lectureId": "6968984ee5e41ad1ab1e7a8a",
+                        "lectureLength": "00:40:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QJF8fJ6z3Q/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Edit Your First Video",
+                "assignmentId": "699c36c1b16a195e5354c14d",
+                "assignmentLink": "https://docs.google.com/document/d/1e0CN4lZmle_7zSLV_a39nQP1ZQcs0sxWCZJaWdF6r0g/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Text effects in Da VInci Resolve",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Text effects for your shorts and reels",
+                        "lectureId": "6968984ee5e41ad1ab1e7a8c",
+                        "lectureLength": "00:28:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tHrekSqDa6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Text effecgs in Fusion composition",
+                        "lectureId": "6968984ee5e41ad1ab1e7a8d",
+                        "lectureLength": "00:42:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbaTFPmMX6c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Motion graphics",
+                        "lectureId": "6968984ee5e41ad1ab1e7a8e",
+                        "lectureLength": "00:16:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6g5MU3kdt3h/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying DVE node",
+                        "lectureId": "6968984ee5e41ad1ab1e7a8f",
+                        "lectureLength": "00:16:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dByCmzn95j5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Switching from Fusion to Edit",
+                        "lectureId": "6968984ee5e41ad1ab1e7a90",
+                        "lectureLength": "00:12:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45Xscnd9jN9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Replicate Text Editing",
+                "assignmentId": "699c3717b16a195e5354c152",
+                "assignmentLink": "https://www.canva.com/design/DAHBxgjwjIE/oleKcogrGTulyRuebZ906A/view?embed"
+            },
+            {
+                "type": "section",
+                "name": "Fusion Motion graphics in Da VInci",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating fake shadows in Fusion",
+                        "lectureId": "6968984ee5e41ad1ab1e7a92",
+                        "lectureLength": "00:15:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bc6NCCk4Hs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Controlling Animation with spline curve",
+                        "lectureId": "6968984ee5e41ad1ab1e7a93",
+                        "lectureLength": "00:14:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdPK5PMjHX7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Pop up effect in DaVInci",
+                        "lectureId": "6968984ee5e41ad1ab1e7a94",
+                        "lectureLength": "00:12:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ysMG2Qr6xS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "3D motion Graphics in DaVInci",
+                        "lectureId": "6968984ee5e41ad1ab1e7a95",
+                        "lectureLength": "00:28:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FpmaKp4TYh/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Replicate Card Animation",
+                "assignmentId": "699c3739b16a195e5354c157",
+                "assignmentLink": "https://www.canva.com/design/DAHBxmdu1Lk/0XaCVKpjO0yEG2kFLeOe3w/view?embed"
+            },
+            {
+                "type": "section",
+                "name": "3d compositing in Da Vinci resolve",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Merge 3d mode for 3d Compositing",
+                        "lectureId": "6968984ee5e41ad1ab1e7a97",
+                        "lectureLength": "00:20:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mDAmB4CPkm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UNderstanding  3D Camera Animation",
+                        "lectureId": "6968984ee5e41ad1ab1e7a98",
+                        "lectureLength": "00:19:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5nAcN67TXt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lighting in 3d motion graphics",
+                        "lectureId": "6968984ee5e41ad1ab1e7a99",
+                        "lectureLength": "00:17:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nB4RT4EhfJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "3D logo animation in Davinci resolve",
+                        "lectureId": "6968984ee5e41ad1ab1e7a9a",
+                        "lectureLength": "00:20:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Att9nAB7Srs/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Color Grading in Da Vinci  Reslove",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "All about color grading in DaVinci",
+                        "lectureId": "6968984ee5e41ad1ab1e7a9c",
+                        "lectureLength": "00:29:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7t4XfmaXaUd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying color grading in various conditions",
+                        "lectureId": "6968984ee5e41ad1ab1e7a9d",
+                        "lectureLength": "00:46:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A7ehqsq97S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advance Color Grading",
+                        "lectureId": "6968984ee5e41ad1ab1e7a9e",
+                        "lectureLength": "00:27:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGr7Q9DsFfH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Tracking and Matchmoving in Da Vinci",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Undrstanding tracking",
+                        "lectureId": "6968984ee5e41ad1ab1e7aa0",
+                        "lectureLength": "00:29:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ua48k9QsY9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Traking and Camera Stablizing",
+                        "lectureId": "6968984ee5e41ad1ab1e7aa1",
+                        "lectureLength": "00:19:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Azjyh88Qta/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Planer tracking",
+                        "lectureId": "6968984ee5e41ad1ab1e7aa2",
+                        "lectureLength": "00:12:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RQ6sSxkQya/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying Perspective tracking",
+                        "lectureId": "6968984ee5e41ad1ab1e7aa3",
+                        "lectureLength": "00:07:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tquPe8cXUQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Traking Tv Screen for VFx",
+                        "lectureId": "6968984ee5e41ad1ab1e7aa4",
+                        "lectureLength": "00:14:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kJ58fXscQA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to Apply Surface Tracking",
+                        "lectureId": "6968984ee5e41ad1ab1e7aa5",
+                        "lectureLength": "00:17:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xnPDXgfrSh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Indroduction to Advance tracking",
+                        "lectureId": "6968984ee5e41ad1ab1e7aa6",
+                        "lectureLength": "00:00:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2Xfbaquk2X/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "3d Camera tracking in Va Vinci Resolve",
+                        "lectureId": "6968984ee5e41ad1ab1e7aa7",
+                        "lectureLength": "00:45:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fPmKDm8XCP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Working with sound",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Sound Properties",
+                        "lectureId": "6968984ee5e41ad1ab1e7aa9",
+                        "lectureLength": "00:37:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/526hY2n7g4M/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "fairlight for Sound Editing",
+                        "lectureId": "6968984ee5e41ad1ab1e7aaa",
+                        "lectureLength": "00:18:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JeCDktgMntG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Sound Effects",
+                        "lectureId": "6968984ee5e41ad1ab1e7aab",
+                        "lectureLength": "00:19:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ucEkckrTGY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Saving and Experting your video in Da Vinci",
+                        "lectureId": "6968984ee5e41ad1ab1e7aac",
+                        "lectureLength": "00:15:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99YA6eEAUtE/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "69a15bf3959c4775ed11a426",
+                "mentor": "Kaartikey",
+                "start": 19,
+                "end": 20.5,
+                "chatStart": 20.5,
+                "chatEnd": 22,
+                "time": "7:00 PM - 8:30 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db5",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "junior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/10lL7Pa6E13-iy-AvST64HXbpOYQDKxZt?usp=sharing"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

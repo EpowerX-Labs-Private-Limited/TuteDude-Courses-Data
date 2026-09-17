@@ -1,0 +1,890 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "68e35cafc9cf3d230ba64847",
+        "courseName": "Indesign",
+        "slug": "indesign",
+        "category": "Technical",
+        "tpFolderId": "68stM9dmdfS",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "Introduction to Adobe InDesign",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Adobe InDesign & It's Role in Publishing",
+                        "lectureId": "68e35cafc9cf3d230ba64849",
+                        "lectureLength": "00:03:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5z5sK9sBrUz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring  Homescreen Interface, Tools & Panels",
+                        "lectureId": "68e35cafc9cf3d230ba6484a",
+                        "lectureLength": "00:07:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6bCxdXUsAq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Optimization of Workspace",
+                        "lectureId": "68e35cafc9cf3d230ba6484b",
+                        "lectureLength": "00:20:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7KjGck5JM4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating & Managing New Documents (Print, Web, Mobile)",
+                        "lectureId": "68e35cafc9cf3d230ba6484c",
+                        "lectureLength": "00:25:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AqDBsmQDeC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setting Up Bleed, Slug, Margins, and Columns",
+                        "lectureId": "68e35cafc9cf3d230ba6484d",
+                        "lectureLength": "00:23:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mfXKP8gSuC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding File Formats",
+                        "lectureId": "68e35cafc9cf3d230ba6484e",
+                        "lectureLength": "00:11:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HRJmpzR88aD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Understanding Interface & Workspace  ",
+                "assignmentId": "69bba33149153561b6b5fef1",
+                "assignmentLink": "https://docs.google.com/document/d/1BKL-7ZTwmQLX7L8O_ZuYi-nHwUThjED-n2L80kryX1I/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Selection, Navigation & Basic Shapes",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Selection Tool & Direct Selection Tool",
+                        "lectureId": "68e35cafc9cf3d230ba64850",
+                        "lectureLength": "00:06:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cC8KdCDX52/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Shapes and Their Property",
+                        "lectureId": "68e35cafc9cf3d230ba64851",
+                        "lectureLength": "00:38:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98X4MCnkHs7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Group, Lock and Hide Option",
+                        "lectureId": "68e35cafc9cf3d230ba64852",
+                        "lectureLength": "00:13:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B89ASZxx5T9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Arranging the Shapes and Graphics",
+                        "lectureId": "68e35cafc9cf3d230ba64853",
+                        "lectureLength": "00:06:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/a8mErjhBZYn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Alignment Options",
+                        "lectureId": "68e35cafc9cf3d230ba64854",
+                        "lectureLength": "00:35:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sGxkmjjJJ8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Page Tool, Gap Tool, Hand Tool, Zoom Tool",
+                        "lectureId": "68e35cafc9cf3d230ba64855",
+                        "lectureLength": "00:17:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D63aqpeHYE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Document Setup & Margins",
+                "assignmentId": "69bba49049153561b6b5fef6",
+                "assignmentLink": "https://docs.google.com/document/d/1qH3HC78mox3rMZyz63EEPV2yO3eho2fQshOPG_LBVQE/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Selection, Navigation & Basic Shapes",
+                "assignmentId": "69bba50749153561b6b5fefb",
+                "assignmentLink": "https://docs.google.com/document/d/1_v8A5a4YOY88_vklAIy_l3xPb8IJfhkXNnryOOnh5eE/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Type Tools Features",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Type Tool & Type on a Path Tool",
+                        "lectureId": "68e35cafc9cf3d230ba64857",
+                        "lectureLength": "00:37:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YnsMnGzxkM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Type on a Path Tool",
+                        "lectureId": "68e35cafc9cf3d230ba64858",
+                        "lectureLength": "00:13:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ECpMS5zMjU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vertical Type Options",
+                        "lectureId": "68e35cafc9cf3d230ba64859",
+                        "lectureLength": "00:04:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae2ED4SRa7d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying Textwrapping while working with paragraph",
+                        "lectureId": "68e35cafc9cf3d230ba6485a",
+                        "lectureLength": "00:25:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtU85aagRf6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Text Frame & Threading",
+                "assignmentId": "69bba5b549153561b6b5ff00",
+                "assignmentLink": "https://docs.google.com/document/d/1ZFaRvo7tQjUn7WbdJmKX8O4u3mnRKneziL6yQK_8Rqw/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Paragraph & Character Styles",
+                "assignmentId": "69bba5cc49153561b6b5ff05",
+                "assignmentLink": "https://docs.google.com/document/d/1nD1sBg4cgVsv8vn4vd6rRAiMWZbbNHQllwP678YE-N0/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Drawing & Shape Tools",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "PenTool, Add Anchor and Delete Anchor Point Tool Feature",
+                        "lectureId": "68e35cafc9cf3d230ba6485c",
+                        "lectureLength": "00:22:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sBeqAGd9Q4n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PenTool UseCase with Example",
+                        "lectureId": "68e35cafc9cf3d230ba6485d",
+                        "lectureLength": "00:16:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ubg9PncqcH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pencil Tool, Smooth Tool & Eraser Tool",
+                        "lectureId": "68e35cafc9cf3d230ba6485e",
+                        "lectureLength": "00:06:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5k59tUPrcZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scissors Tool, Free Transform Tool",
+                        "lectureId": "68e35cafc9cf3d230ba6485f",
+                        "lectureLength": "00:19:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44CmGMrMf5e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Pathfinder to Manipulate Shapes",
+                        "lectureId": "68e35cafc9cf3d230ba64860",
+                        "lectureLength": "00:12:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bdbBAzNPdp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Path Optimization Optijons (Join, Open, Close & Reverse Path)",
+                        "lectureId": "68e35cafc9cf3d230ba64861",
+                        "lectureLength": "00:20:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AASsefX3pa/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": " Drawing and Shape Tools",
+                "assignmentId": "69bba62649153561b6b5ff0a",
+                "assignmentLink": "https://docs.google.com/document/d/1ewNVOh-59VPzaKU3Qq3S4YJXRmbgtNV-2ptNQRFFvJI/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Managing Frames, Content Collector Tool Set, Blur and Feather Feature",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Different Type of  Frame Tool (for Images)",
+                        "lectureId": "68e35cafc9cf3d230ba64863",
+                        "lectureLength": "00:38:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bsg2bQfZYbg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Content Collector Tool & Content Placer Tool",
+                        "lectureId": "68e35cafc9cf3d230ba64864",
+                        "lectureLength": "00:19:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qApFEdasQS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mange Opacity and Gradient Feather Tool",
+                        "lectureId": "68e35cafc9cf3d230ba64865",
+                        "lectureLength": "00:17:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MJZrcBFRAX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": " Image Placement & Fitting",
+                "assignmentId": "69bba65949153561b6b5ff0f",
+                "assignmentLink": "https://docs.google.com/document/d/1wqNDXciSG7SM9HPIPEKXFZlgDNMSDz_q9ztDOBU85E0/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Navigation & Measure Tools",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Uses of Measure Tool",
+                        "lectureId": "68e35cafc9cf3d230ba64867",
+                        "lectureLength": "00:05:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tsUTM6Msg6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Ruler, Guides & Grids Options",
+                        "lectureId": "68e35cafc9cf3d230ba64868",
+                        "lectureLength": "00:20:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UzxmmTn6as/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Multiple Columns",
+                        "lectureId": "68e35cafc9cf3d230ba64869",
+                        "lectureLength": "00:17:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSkc2eBhxTe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding, Deleting and Arranging Multiple Pages",
+                        "lectureId": "68e35cafc9cf3d230ba6486a",
+                        "lectureLength": "00:22:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hjYGSXYa5J/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Applying Color & Effects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Working with Solid & Gradient Color",
+                        "lectureId": "68e35cafc9cf3d230ba6486c",
+                        "lectureLength": "00:34:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5j2Q5C9yf5p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Color Theme Tool",
+                        "lectureId": "68e35cafc9cf3d230ba6486d",
+                        "lectureLength": "00:10:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8drUtSPcpnT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Eyedropper Tool and Exploring Some Hidden Features",
+                        "lectureId": "68e35cafc9cf3d230ba6486e",
+                        "lectureLength": "00:15:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5THtndq5znb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Note Tool (for annotations)",
+                        "lectureId": "68e35cafc9cf3d230ba6486f",
+                        "lectureLength": "00:04:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcrhJyDHCyY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Effects for Graphics Optimization",
+                        "lectureId": "68e35cafc9cf3d230ba64870",
+                        "lectureLength": "00:36:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4JPX9yTaxz/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Document & Page Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Pages Panel Overview",
+                        "lectureId": "68e35cafc9cf3d230ba64872",
+                        "lectureLength": "00:28:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J3646Cbper/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Master Sheets & Parent Pages Concept",
+                        "lectureId": "68e35cafc9cf3d230ba64873",
+                        "lectureLength": "00:37:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zFnsy2BQqy8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Formating with Liquid Layouts",
+                        "lectureId": "68e35cafc9cf3d230ba64874",
+                        "lectureLength": "00:22:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A7RaFRgSbb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adjust Layout Feature",
+                        "lectureId": "68e35cafc9cf3d230ba64875",
+                        "lectureLength": "00:16:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Yrd3c4DQnR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sections & Numbering Styles",
+                        "lectureId": "68e35cafc9cf3d230ba64876",
+                        "lectureLength": "00:24:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bc8mbg26cNr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multiple Page Sizes in One Document",
+                        "lectureId": "68e35cafc9cf3d230ba64877",
+                        "lectureLength": "00:05:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uEfX3gXRcR/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Navigation & Measure Tools - Precision Layout Practice",
+                "assignmentId": "69bba6ac49153561b6b5ff14",
+                "assignmentLink": "https://docs.google.com/document/d/1G6FGsTDIQ4OXnXU85_V1Ve0rMWwfgQYAzFNZ8W6LEog/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Typography & Advanced Text Handling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Text Frames & Threading Text",
+                        "lectureId": "68e35cafc9cf3d230ba64879",
+                        "lectureLength": "00:19:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jkcMq7GAMu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Character Formatting (Fonts, Kerning, Tracking)",
+                        "lectureId": "68e35cafc9cf3d230ba6487a",
+                        "lectureLength": "00:08:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CDp8Puagta/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Converting Fonts to Outline and Adding ImageTexture",
+                        "lectureId": "68e35cafc9cf3d230ba6487b",
+                        "lectureLength": "00:10:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A73csJNbZ9S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OpenType Features, Glyphs & Special Characters",
+                        "lectureId": "68e35cafc9cf3d230ba6487c",
+                        "lectureLength": "00:09:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3r6xeCNERT7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Paragraph and Character Style",
+                        "lectureId": "68e35cafc9cf3d230ba6487d",
+                        "lectureLength": "00:33:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gdra9QKgSB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explore the Line Style",
+                        "lectureId": "68e35cafc9cf3d230ba6487e",
+                        "lectureLength": "00:19:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B72GyqK3KEu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "FindChange for Text Corrections",
+                        "lectureId": "68e35cafc9cf3d230ba6487f",
+                        "lectureLength": "00:15:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATmFzTnXD5j/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Text Wrap Practice",
+                "assignmentId": "69bba71149153561b6b5ff19",
+                "assignmentLink": "https://docs.google.com/document/d/1NaK2Y4TMzFEM5A4yYw2RG5pGmY5fpszrg2KqBoysVI4/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Working with Images & Graphics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Importing & Placing Images",
+                        "lectureId": "68e35cafc9cf3d230ba64881",
+                        "lectureLength": "00:11:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tQ7fjz5KKc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Links Panel & Relinking Missing Files",
+                        "lectureId": "68e35cafc9cf3d230ba64882",
+                        "lectureLength": "00:16:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73e7etyHzES/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Image Fitting Options & Frame Adjustments",
+                        "lectureId": "68e35cafc9cf3d230ba64883",
+                        "lectureLength": "00:11:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mF8uDtsr32/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Anchored Objects & Inline Graphics",
+                        "lectureId": "68e35cafc9cf3d230ba64884",
+                        "lectureLength": "00:24:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eAkrsdSKmf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Frame Effects & Transparency",
+                        "lectureId": "68e35cafc9cf3d230ba64885",
+                        "lectureLength": "00:19:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXbXd8xkEZs/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Color, Swatches & Effects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "CMYK, RGB & Spot Colors",
+                        "lectureId": "68e35cafc9cf3d230ba64887",
+                        "lectureLength": "00:17:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PpdsctTmcQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating & Managing Swatches",
+                        "lectureId": "68e35cafc9cf3d230ba64888",
+                        "lectureLength": "00:29:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YEg8eGMhySP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding New Gradients to Swatches",
+                        "lectureId": "68e35cafc9cf3d230ba64889",
+                        "lectureLength": "00:13:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cfcYy7yeju/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transparency & Blending Options",
+                        "lectureId": "68e35cafc9cf3d230ba6488a",
+                        "lectureLength": "00:18:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BugbGQYCcry/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Object Styles for Consistency",
+                        "lectureId": "68e35cafc9cf3d230ba6488b",
+                        "lectureLength": "00:28:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FZb3kZZTKM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Color, Swatches & Effects",
+                "assignmentId": "69bba81d49153561b6b5ff1e",
+                "assignmentLink": "https://docs.google.com/document/d/1I9kKe34zCtKNWipWp9jF0uHj0PIQjodZp59NY7Xr2aI/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Tables & Data Handling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating & Formatting Tables",
+                        "lectureId": "68e35cafc9cf3d230ba6488d",
+                        "lectureLength": "00:39:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHcam5Y68fa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Table of Contents",
+                        "lectureId": "68e35cafc9cf3d230ba6488e",
+                        "lectureLength": "00:16:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ThYt4rjMxU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Calendear by using Table",
+                        "lectureId": "68e35cafc9cf3d230ba6488f",
+                        "lectureLength": "00:21:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jrmG6rprdN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Importing Tables from Excel",
+                        "lectureId": "68e35cafc9cf3d230ba64890",
+                        "lectureLength": "00:36:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/855qMpxTJzE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Learn to Design Table",
+                        "lectureId": "68e35cafc9cf3d230ba64891",
+                        "lectureLength": "00:26:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpcDFD8mRmA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Table & Cell Styles",
+                        "lectureId": "68e35cafc9cf3d230ba64892",
+                        "lectureLength": "00:19:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92CcZgGUp7q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Certificates",
+                        "lectureId": "68e35cafc9cf3d230ba64893",
+                        "lectureLength": "00:45:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XJfYZJuH6m/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Table Layout Design",
+                "assignmentId": "69bba86449153561b6b5ff23",
+                "assignmentLink": "https://docs.google.com/document/d/1uni7enHYSjyFo3FlAa42v0tMnxJYyj1AmznTJSzUTXw/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Advanced Layout Techniques",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Layers & Organizing Design Elements",
+                        "lectureId": "68e35cafc9cf3d230ba64895",
+                        "lectureLength": "00:23:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CG5EhnJhNe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Snippets",
+                        "lectureId": "68e35cafc9cf3d230ba64896",
+                        "lectureLength": "00:09:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KHa8xn9Cuq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Object Grids & Uses of Step and Repeat",
+                        "lectureId": "68e35cafc9cf3d230ba64897",
+                        "lectureLength": "00:18:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67zZr3jd2B3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Infographics with Shapes & Styles",
+                        "lectureId": "68e35cafc9cf3d230ba64898",
+                        "lectureLength": "00:36:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZFAnYx8A37/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Projects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Business Card Design",
+                        "lectureId": "68e35cafc9cf3d230ba6489a",
+                        "lectureLength": "00:32:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JJF9ndJham/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Process of CoverPage Design",
+                        "lectureId": "68e35cafc9cf3d230ba6489b",
+                        "lectureLength": "00:30:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PExeBApG3x/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Event Poster Design",
+                        "lectureId": "68e35cafc9cf3d230ba6489c",
+                        "lectureLength": "01:05:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrgRfCPKZr7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing the Social Media Banner",
+                        "lectureId": "68e35cafc9cf3d230ba6489d",
+                        "lectureLength": "01:01:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PcX42fz3Yn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tri-Fold Leaflet Design",
+                        "lectureId": "68e35cafc9cf3d230ba6489e",
+                        "lectureLength": "00:53:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uq7Ggggajp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Restaurant Menu Design",
+                        "lectureId": "68e35cafc9cf3d230ba6489f",
+                        "lectureLength": "00:27:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rdFeHraN29/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Flyer for Marketing Campaign",
+                        "lectureId": "68e35cafc9cf3d230ba648a0",
+                        "lectureLength": "00:43:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eqQAqUbn2U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Resume Designing",
+                        "lectureId": "68e35cafc9cf3d230ba648a1",
+                        "lectureLength": "00:33:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/974YuxhDDSz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to Design Hoarding",
+                        "lectureId": "68e35cafc9cf3d230ba648a2",
+                        "lectureLength": "00:58:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T8msHE68Km/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Learn to Design Flex of Standee",
+                        "lectureId": "68e35cafc9cf3d230ba648a3",
+                        "lectureLength": "01:07:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9A3TdNSfYkU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NewsPaper Ads Design",
+                        "lectureId": "68e35cafc9cf3d230ba648a4",
+                        "lectureLength": "00:41:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9euusbypBgU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Web Banner Ads Design",
+                        "lectureId": "68e35cafc9cf3d230ba648a5",
+                        "lectureLength": "00:53:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bkCXYN4sXb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Digital Publishing & Interactive Features",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Interactive PDFs (Buttons, Links, Forms)",
+                        "lectureId": "68e35cafc9cf3d230ba648a7",
+                        "lectureLength": "00:43:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h9rYpt9qqD2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Audio, Video, Animations",
+                        "lectureId": "68e35cafc9cf3d230ba648a8",
+                        "lectureLength": "00:28:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GCHK3urNee/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Accessibility & Inclusive Design",
+                        "lectureId": "68e35cafc9cf3d230ba648a9",
+                        "lectureLength": "00:29:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kTYPPMYmtkf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customize and export the design documents",
+                        "lectureId": "68e3622ec9cf3d230ba648be",
+                        "lectureLength": "00:23:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hNyq3S3hg6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "QR Code Generator",
+                        "lectureId": "68e35cafc9cf3d230ba648aa",
+                        "lectureLength": "00:13:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zBpHjgKpPD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Hyperlink Design and Documents",
+                        "lectureId": "68e35cafc9cf3d230ba648ab",
+                        "lectureLength": "00:52:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mNMeezMNk5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Interactive Buttons",
+                        "lectureId": "68e35cafc9cf3d230ba648ac",
+                        "lectureLength": "00:33:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BE3p97HMF6h/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding custom google map over the venue",
+                        "lectureId": "68e36237c9cf3d230ba648c1",
+                        "lectureLength": "00:18:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JpgJEnMQdB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Prepress, Printing & Exporting",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Preflight Check & Fixing Errors",
+                        "lectureId": "68e35cafc9cf3d230ba648ae",
+                        "lectureLength": "00:12:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XYRN3yU7e6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Packaging Files (Fonts, Images, Assets)",
+                        "lectureId": "68e35cafc9cf3d230ba648af",
+                        "lectureLength": "00:08:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FndqxMNyHn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Print Export Settings (PDFX Standards)",
+                        "lectureId": "68e35cafc9cf3d230ba648b0",
+                        "lectureLength": "00:09:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43ZTt4Dc2ZE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exporting for Web & Social Media",
+                        "lectureId": "68e35cafc9cf3d230ba648b1",
+                        "lectureLength": "00:21:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4MGHrBFaFY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Collaboration & Workflow",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Adobe Integration & Applications",
+                        "lectureId": "68e35cafc9cf3d230ba648b3",
+                        "lectureLength": "00:07:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qKZRYZJydU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Import and Export from Other Softwares",
+                        "lectureId": "68e35cafc9cf3d230ba648b4",
+                        "lectureLength": "00:09:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APSZSQSAN3K/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Versioning & File Management Best Practices",
+                        "lectureId": "68e35cafc9cf3d230ba648b5",
+                        "lectureLength": "00:05:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PNqd8dcCj4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Course Completion",
+                        "lectureId": "68e35cafc9cf3d230ba648b6",
+                        "lectureLength": "00:01:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nxB29RuuQN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Capstone Project - ",
+                "assignmentId": "69bba8ae49153561b6b5ff28",
+                "assignmentLink": "https://docs.google.com/document/d/1s2fyOMM1N-YVp4O-f_uDPz5vmg1rKPm4KVRRkx0soPA/edit?usp=sharing"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6968e0bc959c4775ed2ec182",
+                "mentor": "Sudhanshu Joshi",
+                "start": 21,
+                "end": 23,
+                "chatStart": 21,
+                "chatEnd": 23,
+                "time": "9 PM - 11 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds10",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

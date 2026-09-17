@@ -1,0 +1,398 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680c86eb364f718dc17b6f22",
+        "courseName": "Risk Management",
+        "slug": "riskmanagement",
+        "category": "bussiness",
+        "tpFolderId": "65R6JX7PyKd",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "68ed3195c9cf3d230ba67777",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to the Course",
+                        "lectureId": "680c86eb364f718dc17b6f24",
+                        "lectureLength": "00:04:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fnBgntyzET/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Risk Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Financial Risk",
+                        "lectureId": "680c86eb364f718dc17b6f26",
+                        "lectureLength": "00:30:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgXqxyjNxzm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Governance",
+                        "lectureId": "680c86eb364f718dc17b6f27",
+                        "lectureLength": "00:28:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSE3b3Bxdd9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Code of Conduct",
+                        "lectureId": "680c86eb364f718dc17b6f28",
+                        "lectureLength": "00:10:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sDBPuKpt8zm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Aggregation",
+                        "lectureId": "680c86eb364f718dc17b6f29",
+                        "lectureLength": "00:21:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/F9rh6sKsgGj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ERM",
+                        "lectureId": "680c86eb364f718dc17b6f2a",
+                        "lectureLength": "00:27:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FJxBGkgbnk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Country Risk",
+                        "lectureId": "680c86eb364f718dc17b6f2b",
+                        "lectureLength": "00:23:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuMXKBzaJxc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignmnet",
+                "assignmentId": "69bb960e49153561b6b5feda",
+                "assignmentLink": "https://docs.google.com/document/d/1lHc0Qt5tfS9pYN9pwldeyYb6byC0Gdcc18N_aBH1Pck/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Financial Market",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Banks",
+                        "lectureId": "680c86eb364f718dc17b6f2d",
+                        "lectureLength": "00:20:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bc6hxQ6aPD7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Insurance & Pension",
+                        "lectureId": "680c86eb364f718dc17b6f2e",
+                        "lectureLength": "00:24:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9kxptncQER/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fund Management",
+                        "lectureId": "680c86eb364f718dc17b6f2f",
+                        "lectureLength": "00:21:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AUjU5nDXMS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How do firms manage risks",
+                        "lectureId": "680c86eb364f718dc17b6f30",
+                        "lectureLength": "00:29:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hm7PufbqjT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Corporate Bonds",
+                        "lectureId": "680c86eb364f718dc17b6f31",
+                        "lectureLength": "00:33:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSbaQuXYjJS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Operational Risk",
+                        "lectureId": "680c86eb364f718dc17b6f32",
+                        "lectureLength": "00:25:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/h2cJyJGNUky/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exchanges and OTC Market",
+                        "lectureId": "680c86eb364f718dc17b6f33",
+                        "lectureLength": "00:30:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuNyUtXxcdK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Central Clearing",
+                        "lectureId": "680c86eb364f718dc17b6f34",
+                        "lectureLength": "00:23:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ug6URzDKA3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "External and Internal Credit Rating",
+                        "lectureId": "680c86eb364f718dc17b6f35",
+                        "lectureLength": "00:24:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XfaY9tTFJF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Futures",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Derivatives",
+                        "lectureId": "680c86eb364f718dc17b6f37",
+                        "lectureLength": "00:21:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C38BcpZxXNe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Futures Market",
+                        "lectureId": "680c86eb364f718dc17b6f38",
+                        "lectureLength": "00:21:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aDau3mQKAa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Futures for Hedging",
+                        "lectureId": "680c86eb364f718dc17b6f39",
+                        "lectureLength": "00:19:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6csdn2ZYP6Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Foreign Exchange Markets",
+                        "lectureId": "680c86eb364f718dc17b6f3a",
+                        "lectureLength": "00:30:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UXN8QE8gQq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pricing Financial",
+                        "lectureId": "680c86eb364f718dc17b6f3b",
+                        "lectureLength": "00:17:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99rcFUp4HeU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Commodity Forwards and Futures",
+                        "lectureId": "680c86eb364f718dc17b6f3c",
+                        "lectureLength": "00:21:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KngSFyNcKD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Trading Strategies",
+                        "lectureId": "680c86eb364f718dc17b6f3d",
+                        "lectureLength": "00:11:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uz37cqDe4G/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Options",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Options Market",
+                        "lectureId": "680c86eb364f718dc17b6f3f",
+                        "lectureLength": "00:25:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J7pyXRyceqD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Properties of Options",
+                        "lectureId": "680c86eb364f718dc17b6f40",
+                        "lectureLength": "00:22:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdP4Q22rTGk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exotic Options",
+                        "lectureId": "680c86eb364f718dc17b6f41",
+                        "lectureLength": "00:12:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BC2myzt2cC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pricing Convention",
+                        "lectureId": "680c86eb364f718dc17b6f42",
+                        "lectureLength": "00:09:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8prnXzu99Xm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interest Rate",
+                        "lectureId": "680c86eb364f718dc17b6f43",
+                        "lectureLength": "00:15:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ccTJpDETS9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bond Yiels and Return Calculations",
+                        "lectureId": "680c86eb364f718dc17b6f44",
+                        "lectureLength": "00:20:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6G2JbqM4Ng/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Properties of Interest Rate",
+                        "lectureId": "680c86eb364f718dc17b6f45",
+                        "lectureLength": "00:10:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94jgex689aT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interest Rate Futures",
+                        "lectureId": "680c86eb364f718dc17b6f46",
+                        "lectureLength": "00:24:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xUypfKrGEB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Swap",
+                        "lectureId": "680c86eb364f718dc17b6f47",
+                        "lectureLength": "00:08:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bepysr7zFjE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Binomial Trees",
+                        "lectureId": "680c86eb364f718dc17b6f48",
+                        "lectureLength": "00:07:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ByF9Gn2Q7Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "BSM Model",
+                        "lectureId": "680c86eb364f718dc17b6f49",
+                        "lectureLength": "00:08:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFjmyA77qeS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Option Greeks",
+                        "lectureId": "680c86eb364f718dc17b6f4a",
+                        "lectureLength": "00:07:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mgmXdcexST/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Mathematics for Risk Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Learn about Time Series Analysis",
+                        "lectureId": "680c86eb364f718dc17b6f4c",
+                        "lectureLength": "00:05:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Arnb29zuzd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Learn about Hypothesis Testing",
+                        "lectureId": "680c86eb364f718dc17b6f4d",
+                        "lectureLength": "00:12:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KMnr8TBeMd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linear Correlation and Linear regression",
+                        "lectureId": "680c86eb364f718dc17b6f4e",
+                        "lectureLength": "00:11:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJDGfXmthAa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Historical Simulation, Value-at-Risk and Expected Shortfall",
+                        "lectureId": "680c86eb364f718dc17b6f4f",
+                        "lectureLength": "00:09:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46mt4BeSSXf/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Application of Risk Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Stress Testing",
+                        "lectureId": "680c86eb364f718dc17b6f51",
+                        "lectureLength": "00:07:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AzB53APjjq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Application",
+                        "lectureId": "680c86eb364f718dc17b6f52",
+                        "lectureLength": "00:21:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/588FhHYDqRF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignement",
+                "assignmentId": "69bb962449153561b6b5fedf",
+                "assignmentLink": "https://docs.google.com/document/d/17xO5UNmwgdhE_6-yQ38qOyv2PXIwKM54hckEun6GVvE/edit?usp=sharing"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "68eca5c38423ce530155a318",
+                "mentor": "Aniket",
+                "start": 20,
+                "end": 23,
+                "time": "8 PM - 11 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db6",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "junior",
+                "chatEnd": 23,
+                "chatStart": 20
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

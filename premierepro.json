@@ -1,0 +1,1034 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "68d3b123265a541c97171950",
+        "courseName": "Adobe Premiere Pro",
+        "slug": "premierepro",
+        "category": "Technical",
+        "tpFolderId": "8aZZuNmtQuA",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": true,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "Intro to video editing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Video Editing",
+                        "lectureId": "68d3b123265a541c97171955",
+                        "lectureLength": "00:14:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cgJ39jbJCF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of Video Editing",
+                        "lectureId": "68d3b123265a541c97171953",
+                        "lectureLength": "00:15:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6kPrAbGMCa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Audio Video Copyright Terminologies",
+                        "lectureId": "68d3b123265a541c97171952",
+                        "lectureLength": "00:10:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrQYfScATAb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Various Shot Types",
+                        "lectureId": "68d3b123265a541c97171954",
+                        "lectureLength": "00:16:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kqhnmr94UB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "68ec9c04c9cf3d230ba66bb1",
+                        "lectureLength": "00:03:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNpe5cQ2Ut/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "How to Download Premiere pro",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to Download Premiere Pro Free",
+                        "lectureId": "68d3ff37265a541c97171a2a",
+                        "lectureLength": "00:08:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99zgRREyASp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Download Using Other Sources",
+                        "lectureId": "68d3fea6265a541c97171a23",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUurXxfurkK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Downloading the Full Software for Lifetine",
+                        "lectureId": "68d3fecf265a541c97171a26",
+                        "lectureLength": "00:10:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2DzHT3XQsK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Adobe Premiere",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Installing Adobe Premiere",
+                        "lectureId": "68d3b123265a541c9717195c",
+                        "lectureLength": "00:14:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TmSd33AHRH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Importing Video in Premiere",
+                        "lectureId": "68d3b123265a541c9717195b",
+                        "lectureLength": "00:14:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sRNNfba8BfF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Importing images and logos",
+                        "lectureId": "68d3b123265a541c9717195a",
+                        "lectureLength": "00:06:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82EhYbQKRS2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation Footages in timeline",
+                        "lectureId": "68d3b123265a541c97171957",
+                        "lectureLength": "00:09:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UdQx6h9Esu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Effect controls",
+                        "lectureId": "68d3b123265a541c9717195f",
+                        "lectureLength": "00:08:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y6xsKbAAyH6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Editing tools in Premiere",
+                        "lectureId": "68d3b123265a541c97171959",
+                        "lectureLength": "00:12:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NFKtEzjPrCr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Audio",
+                        "lectureId": "68d3b123265a541c97171960",
+                        "lectureLength": "00:14:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XaEPuQ5XBG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Text in Editing",
+                        "lectureId": "68d3b123265a541c97171961",
+                        "lectureLength": "00:04:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mGT8U2DPEJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mixing Videos and text with audio-1",
+                        "lectureId": "68d3b123265a541c9717195d",
+                        "lectureLength": "00:14:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QSSBqQNxxk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mixing Videos and text with audio",
+                        "lectureId": "68d3b123265a541c9717195e",
+                        "lectureLength": "00:06:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8A6C3cXCdsU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Controlling Volume on Timeline",
+                        "lectureId": "68d3b123265a541c97171958",
+                        "lectureLength": "00:13:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Kk9f2ZebNp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Recreate the Video",
+                "assignmentId": "696770db3fe192563aa9ff8b",
+                "assignmentLink": "https://www.canva.com/design/DAG-XffBs2Y/bFGAAOQ8DEvxnwxbW6f6vw/edit?utm_content=DAG-XffBs2Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "section",
+                "name": "Editing Videos with Premiere",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Applying effects",
+                        "lectureId": "68d3b123265a541c97171964",
+                        "lectureLength": "00:08:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Y8Adzt4bg8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adjusting levels",
+                        "lectureId": "68d3b123265a541c97171963",
+                        "lectureLength": "00:04:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Aqff7huDD3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Effects and Adjustments",
+                        "lectureId": "68d3b123265a541c97171966",
+                        "lectureLength": "00:12:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tBSfgnJmBT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stylized Effects",
+                        "lectureId": "68d3b123265a541c97171968",
+                        "lectureLength": "00:08:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6az5DXyFgJe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Effects and Transitions",
+                        "lectureId": "68d3b123265a541c97171967",
+                        "lectureLength": "00:12:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHETZFqXC3R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text effects in Premiere",
+                        "lectureId": "68d3b123265a541c97171969",
+                        "lectureLength": "00:13:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C4MREne5tr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Chroma Effects",
+                        "lectureId": "68d3b123265a541c97171965",
+                        "lectureLength": "00:11:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT9CE5hsqeD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Effects - Presets ",
+                "assignmentId": "69aad003db44913abd4caad1",
+                "assignmentLink": "https://www.canva.com/design/DAHDJmsmI78/VY08qKgaS6AW2SEK9ZnZIw/edit?utm_content=DAHDJmsmI78&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "assignment",
+                "name": "Effects & Attributes (Stylize Effects)",
+                "assignmentId": "69aad02bdb44913abd4caadb",
+                "assignmentLink": "https://www.canva.com/design/DAHDKLn-kmM/diHrZIXj4j4_PgmHCewPpQ/edit?utm_content=DAHDKLn-kmM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "assignment",
+                "name": "Transitions (only)",
+                "assignmentId": "69aad03cdb44913abd4caae0",
+                "assignmentLink": "https://www.canva.com/design/DAHDKD9Ync4/uQQKV5bGMmlUAyQmj5f4IQ/edit?utm_content=DAHDKD9Ync4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "assignment",
+                "name": "Chroma Effects (only)",
+                "assignmentId": "69aad060db44913abd4caaea",
+                "assignmentLink": "https://www.canva.com/design/DAHDKQkuxBk/cSzSE-I3dVmQdfkN-TKwew/edit?utm_content=DAHDKQkuxBk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "section",
+                "name": "Color correction in Premiere Pro",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to color correction",
+                        "lectureId": "68d3b123265a541c9717196d",
+                        "lectureLength": "00:08:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeMnQ8JMjRp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lumetri Scopes",
+                        "lectureId": "68d3b123265a541c9717196e",
+                        "lectureLength": "00:07:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rXH33mJdR5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Color curves",
+                        "lectureId": "68d3b123265a541c9717196c",
+                        "lectureLength": "00:08:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XgK7HFrd7pD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Essential graphics",
+                        "lectureId": "68d3b123265a541c9717196b",
+                        "lectureLength": "00:06:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53nUPt24jJB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Working with Text in Premiere Pro",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Importance fo Text effects",
+                        "lectureId": "696a0f09f982c2e11e09de19",
+                        "lectureLength": "00:09:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gKm9fakCna/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Glow text",
+                        "lectureId": "696a0f09f982c2e11e09de1c",
+                        "lectureLength": "00:07:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PqA7hF8SzR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cinematic Text",
+                        "lectureId": "696a0f0af982c2e11e09de1f",
+                        "lectureLength": "00:05:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qENgcMMudx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text masking",
+                        "lectureId": "696a0f0af982c2e11e09de22",
+                        "lectureLength": "00:04:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXHRhTF8ENZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Burning Effect",
+                        "lectureId": "696a0f0bf982c2e11e09de25",
+                        "lectureLength": "00:09:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XUjFdpJRC5Y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "More detailed Effect",
+                        "lectureId": "696a0f0bf982c2e11e09de28",
+                        "lectureLength": "00:09:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rGx5DruzYek/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text behind Castle-1",
+                        "lectureId": "696a0f0cf982c2e11e09de2b",
+                        "lectureLength": "00:14:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fcks32KxYb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text behind castle 2",
+                        "lectureId": "696a0f0cf982c2e11e09de2e",
+                        "lectureLength": "00:08:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98BFxUaqEtg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating frame for Text",
+                        "lectureId": "696a0f0df982c2e11e09de31",
+                        "lectureLength": "00:08:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58zptseNSfY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text appear in Frame",
+                        "lectureId": "696a0f0df982c2e11e09de34",
+                        "lectureLength": "00:10:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dN7E339b88d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Slice Cut",
+                        "lectureId": "696a0f0ef982c2e11e09de37",
+                        "lectureLength": "00:12:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YF3epndNCg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Write on effect",
+                        "lectureId": "696a0f0ef982c2e11e09de3a",
+                        "lectureLength": "00:06:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eEsF8hnxKq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Digital Text Effect",
+                        "lectureId": "696a0f0ff982c2e11e09de3d",
+                        "lectureLength": "00:23:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Dc2CkNgTEA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Write on Effect in Detail",
+                        "lectureId": "696a0f0ff982c2e11e09de40",
+                        "lectureLength": "00:09:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xKKQR5YQ5rx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Slot machine Effect",
+                        "lectureId": "696a0f10f982c2e11e09de43",
+                        "lectureLength": "00:16:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qNMjgcGzq7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text masking Effect",
+                        "lectureId": "696a0f10f982c2e11e09de46",
+                        "lectureLength": "00:11:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B64jMHH6ZED/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Premade Transition",
+                        "lectureId": "696a0f10f982c2e11e09de49",
+                        "lectureLength": "00:17:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bd4aUCD4zDZ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Color Corrections",
+                "assignmentId": "69aad08adb44913abd4caaef",
+                "assignmentLink": "https://www.canva.com/design/DAHDKXNoo4g/jSA2J4SrH5byGmfsymYONg/edit?utm_content=DAHDKXNoo4g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "section",
+                "name": "Editing For youtube Stories",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Editing Youtube Stories",
+                        "lectureId": "68d40027265a541c97171a3b",
+                        "lectureLength": "00:07:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37HBmDC4Juy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shooting for youtube",
+                        "lectureId": "68d40044265a541c97171a41",
+                        "lectureLength": "00:09:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BCbEg9TjJa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Importing Footage in Premiere Pro",
+                        "lectureId": "68d40034265a541c97171a3e",
+                        "lectureLength": "00:09:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CBMp3cYrMb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Arranging footages in premiere",
+                        "lectureId": "68d40077265a541c97171a4a",
+                        "lectureLength": "00:06:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gQXCbSRHhrn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Editing Clips for stories",
+                        "lectureId": "68d4001e265a541c97171a38",
+                        "lectureLength": "00:07:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fT8nN6fJNe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Downloading Stock footages for stories",
+                        "lectureId": "68d40014265a541c97171a35",
+                        "lectureLength": "00:08:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k4JjYQM7Ma/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Copyright-Free Audio",
+                        "lectureId": "68d40007265a541c97171a32",
+                        "lectureLength": "00:08:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YGdGCqKde8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Premiere Composers",
+                        "lectureId": "68d40063265a541c97171a47",
+                        "lectureLength": "00:06:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TDtYYjJNUHC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying Stylized Transitions",
+                        "lectureId": "68d400bd265a541c97171a50",
+                        "lectureLength": "00:09:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zsCaECRQSQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying Stock Footages",
+                        "lectureId": "68d400a6265a541c97171a4d",
+                        "lectureLength": "00:07:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8emueQQd5Dg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text animation",
+                        "lectureId": "68d40053265a541c97171a44",
+                        "lectureLength": "00:07:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46TzttU3NYy/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Text Masking",
+                "assignmentId": "69aad09bdb44913abd4caaf4",
+                "assignmentLink": "https://www.canva.com/design/DAHDKyvlKlo/An4EF98H246VZsT0McOfUQ/edit?utm_content=DAHDKyvlKlo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "assignment",
+                "name": "Burning Effect",
+                "assignmentId": "69aad0acdb44913abd4caaf9",
+                "assignmentLink": "https://www.canva.com/design/DAHDLOKCaYU/4E5U0qTlQ3QuDzcR5wPjVQ/edit?utm_content=DAHDLOKCaYU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "assignment",
+                "name": "Text Behind Object",
+                "assignmentId": "69aad0cbdb44913abd4caafe",
+                "assignmentLink": "https://www.canva.com/design/DAHDLFpABOQ/D3EhCwrvX-qb8vmo0Q0FGQ/edit?utm_content=DAHDLFpABOQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "assignment",
+                "name": "Text in frame + Slice Cut",
+                "assignmentId": "69aad0e6db44913abd4cab03",
+                "assignmentLink": "https://www.canva.com/design/DAHDLCZsTKs/0K07zKoIwPZrfyHBEFr2bw/edit?utm_content=DAHDLCZsTKs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "assignment",
+                "name": "Slot Machine",
+                "assignmentId": "69aad103db44913abd4cab08",
+                "assignmentLink": "https://www.canva.com/design/DAHDLBretpI/RK4TtjyJ8pDPWMhVsApivg/edit?utm_content=DAHDLBretpI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "assignment",
+                "name": "Premade Transitions",
+                "assignmentId": "69aad115db44913abd4cab0d",
+                "assignmentLink": "https://www.canva.com/design/DAHDLFtnRio/cXjTTA4QvewYavdoNDlgiQ/edit?utm_content=DAHDLFtnRio&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "section",
+                "name": "Color Correction Indepth",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Color correction",
+                        "lectureId": "68d40185265a541c97171a68",
+                        "lectureLength": "00:06:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BguYydGRk2c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Color Grading",
+                        "lectureId": "68d40192265a541c97171a6b",
+                        "lectureLength": "00:09:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UK93jYyDsq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Continue Color Grading and Correction",
+                        "lectureId": "68d40144265a541c97171a56",
+                        "lectureLength": "00:07:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ez2UGpPs8j/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying Lumetri Colors",
+                        "lectureId": "68d401a7265a541c97171a6e",
+                        "lectureLength": "00:07:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6e2gbCpRGFY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Colour Grading Presets",
+                        "lectureId": "68d40bfb265a541c97171d24",
+                        "lectureLength": "00:11:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgCAg6gCsaT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Detail Color Grading",
+                        "lectureId": "68d40152265a541c97171a59",
+                        "lectureLength": "00:06:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BKM9S6KgpD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Secondary Colors and Masking",
+                        "lectureId": "68d4017c265a541c97171a65",
+                        "lectureLength": "00:08:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tDnpUZr6eH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "More Color Grading",
+                        "lectureId": "68d4015d265a541c97171a5c",
+                        "lectureLength": "00:07:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dmXbCd6mzC7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "More Text animation",
+                        "lectureId": "68d40168265a541c97171a5f",
+                        "lectureLength": "00:09:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9C2nhgCB9X8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rendering in Premiere Pro",
+                        "lectureId": "68d40172265a541c97171a62",
+                        "lectureLength": "00:10:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpC9ncNc87M/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Working more efficiently with Premiere",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Tips 1",
+                        "lectureId": "68d3b123265a541c97171992",
+                        "lectureLength": "00:08:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dc7gmcXeyh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tips 2",
+                        "lectureId": "68d3b123265a541c97171993",
+                        "lectureLength": "00:10:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sFm6ybHqKQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tips 3",
+                        "lectureId": "68d3b123265a541c97171994",
+                        "lectureLength": "00:13:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TZXPsNCbTb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tips 4",
+                        "lectureId": "68d3b123265a541c97171995",
+                        "lectureLength": "00:16:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4623C9FfRR2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tips 5",
+                        "lectureId": "68d3b123265a541c97171996",
+                        "lectureLength": "00:04:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBbuCDxUspU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tips 6",
+                        "lectureId": "68d3b123265a541c97171997",
+                        "lectureLength": "00:10:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Zr2umB8YyY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Shorts and Stories in Premiere Pro",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Preparing for Story video editing",
+                        "lectureId": "68d40cd8265a541c97171dbf",
+                        "lectureLength": "00:09:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXnDX5zFsG4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Writing Script for Story videos",
+                        "lectureId": "68d40ce8265a541c97171dc2",
+                        "lectureLength": "00:08:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E4rYUHBhxS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Recording audio for Story",
+                        "lectureId": "68d40d00265a541c97171dc5",
+                        "lectureLength": "00:08:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uUjEFsGkaz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Refining Audio for Story",
+                        "lectureId": "68d40d0f265a541c97171dc8",
+                        "lectureLength": "00:09:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XEny7GmMMY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Collecting Assestss for story",
+                        "lectureId": "68d40d1f265a541c97171dcb",
+                        "lectureLength": "00:10:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nbCpj3T9NHF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assembling assets in Premiere",
+                        "lectureId": "68d40d32265a541c97171dce",
+                        "lectureLength": "00:09:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABfjS5fugRk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Background music ",
+                        "lectureId": "68d40d4d265a541c97171dd1",
+                        "lectureLength": "00:09:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pNuHUgDKQb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic animation in Premiere pro",
+                        "lectureId": "68d40d61265a541c97171dd4",
+                        "lectureLength": "00:10:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAuA9x7eNfY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stock footage and chroma editing",
+                        "lectureId": "68d40d71265a541c97171dd7",
+                        "lectureLength": "00:12:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Pt3PkcxQqk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ading Masking effect",
+                        "lectureId": "68d40d88265a541c97171dda",
+                        "lectureLength": "00:07:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8h9tSp6kPz9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding special effects",
+                        "lectureId": "68d40d96265a541c97171ddd",
+                        "lectureLength": "00:08:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47FStHMp8CN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding sound effects",
+                        "lectureId": "68d40da0265a541c97171de0",
+                        "lectureLength": "00:08:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82Z8y7zSm5q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installing Premiere composer",
+                        "lectureId": "68d40daf265a541c97171de3",
+                        "lectureLength": "00:10:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bmQZRT97uJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying eeefcts through premiere composer",
+                        "lectureId": "68d40dc3265a541c97171de6",
+                        "lectureLength": "00:13:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKhxKjtYRHF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transitions in premiere composer",
+                        "lectureId": "68d40dce265a541c97171de9",
+                        "lectureLength": "00:16:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TcJ48rxyzm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text animaton with premiere composer",
+                        "lectureId": "68d40dd9265a541c97171dec",
+                        "lectureLength": "00:10:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8884GFPjM8S/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Captions in Premiere Pro",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Captions",
+                        "lectureId": "68d3b123265a541c97171999",
+                        "lectureLength": "00:06:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsTb7S9ctNE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Captions 1",
+                        "lectureId": "68d3b123265a541c9717199a",
+                        "lectureLength": "00:07:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94KucTHjfRH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Captions 2",
+                        "lectureId": "68d3b123265a541c9717199b",
+                        "lectureLength": "00:05:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eJZdyYYMg7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Captions 3",
+                        "lectureId": "68d3b123265a541c9717199c",
+                        "lectureLength": "00:06:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uEPEJb8Ggh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Captions 4",
+                        "lectureId": "68d3b123265a541c9717199d",
+                        "lectureLength": "00:08:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ty3dfAeU9D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Captions 5",
+                        "lectureId": "68d3b123265a541c9717199e",
+                        "lectureLength": "00:10:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BReHHqypKGx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Captions 6",
+                        "lectureId": "68d3b123265a541c9717199f",
+                        "lectureLength": "00:11:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S53rn4SKk4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Captions 7",
+                        "lectureId": "68d3b123265a541c971719a0",
+                        "lectureLength": "00:15:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AB3phQq3FSz/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Editing for  social media",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Preparing for scene setup",
+                        "lectureId": "68d3b123265a541c971719a6",
+                        "lectureLength": "00:09:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcE6kc2CHZX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying Effects",
+                        "lectureId": "68d3b123265a541c971719a5",
+                        "lectureLength": "00:08:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtCgTDc6Yyh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Background Score",
+                        "lectureId": "68d3b123265a541c971719a2",
+                        "lectureLength": "00:08:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K2XzsT94TP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Special effects Sound",
+                        "lectureId": "68d3b123265a541c971719a7",
+                        "lectureLength": "00:10:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DgxqHS9zRS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Continue working with sound",
+                        "lectureId": "68d3b123265a541c971719a3",
+                        "lectureLength": "00:15:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KNz9Dmnqum/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Essential Graphics",
+                        "lectureId": "68d3b123265a541c971719a4",
+                        "lectureLength": "00:14:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GJHCGpudSM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Music video Editing in Premiere",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Organizing Footages for Music Video Editing",
+                        "lectureId": "68d3b123265a541c971719ab",
+                        "lectureLength": "00:08:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfJA3tTpJkg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adjustment Layer effects",
+                        "lectureId": "68d3b123265a541c971719a9",
+                        "lectureLength": "00:07:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/beSr46xURzA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Overlay Effects",
+                        "lectureId": "68d3b123265a541c971719ac",
+                        "lectureLength": "00:08:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jM2NrehD8q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing manual effects",
+                        "lectureId": "68d3b123265a541c971719aa",
+                        "lectureLength": "00:09:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44hNptQAH9C/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sync effects with music beats",
+                        "lectureId": "68d3b123265a541c971719ae",
+                        "lectureLength": "00:15:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NDadbfJfsH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reversing Footage",
+                        "lectureId": "68d3b123265a541c971719ad",
+                        "lectureLength": "00:14:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QJNzQqeXcH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Learning VFX with Adobe Premiere Pro",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to vfx in Premiere Pro",
+                        "lectureId": "68d407ad265a541c97171aa8",
+                        "lectureLength": "00:10:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PXe6Uxanys/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Wire Removing Effect in Premiere",
+                        "lectureId": "68d407dd265a541c97171ab7",
+                        "lectureLength": "00:07:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hk2AaH9mEj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Refining Masks",
+                        "lectureId": "68d407cb265a541c97171ab1",
+                        "lectureLength": "00:06:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DY8xk4RNcb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keyframe Editing",
+                        "lectureId": "68d407b7265a541c97171aab",
+                        "lectureLength": "00:08:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dr7xGUgB6G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Prepare for Scene to VFX",
+                        "lectureId": "68d407c1265a541c97171aae",
+                        "lectureLength": "00:06:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yBYHQzQmpH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Clean Plate",
+                        "lectureId": "68d407d4265a541c97171ab4",
+                        "lectureLength": "00:06:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/D6QQ4ehrdsC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying Magical Twist",
+                        "lectureId": "68d40794265a541c97171aa2",
+                        "lectureLength": "00:08:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zs7CCR8tta/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Finalizing the VFX scene",
+                        "lectureId": "68d407a2265a541c97171aa5",
+                        "lectureLength": "00:06:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByAQk44Pqan/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "687f82b64cffeabaa9bfe2cd",
+                "mentor": "Kaartikey",
+                "start": 19,
+                "end": 20.5,
+                "time": "7:00 PM - 8:30 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db5",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "junior",
+                "chatEnd": 22,
+                "chatStart": 20.5
+            }
+        ],
+        "resource": [
+            "https://docs.google.com/document/d/1PFWoEik-I5-ydghG-lNFUC6WmTOsPHFAWJa6nfc7DiM/edit?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

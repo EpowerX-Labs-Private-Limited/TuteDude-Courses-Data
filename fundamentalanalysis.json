@@ -1,0 +1,331 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680c86ea364f718dc17b6b86",
+        "courseName": "Fundamental Analysis",
+        "slug": "fundamentalanalysis",
+        "category": "bussiness",
+        "tpFolderId": "7KUnZzKYeCR",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Overview",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Course Overview",
+                        "lectureId": "680c86ea364f718dc17b6b88",
+                        "lectureLength": "00:08:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JaY3R9e8DY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "TIPS",
+                        "lectureId": "680c86ea364f718dc17b6b89",
+                        "lectureLength": "00:10:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHumjSyGkcD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to the stock market",
+                        "lectureId": "680c86ea364f718dc17b6b8b",
+                        "lectureLength": "00:04:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYn3XmCKXsR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Risks and benefits, Reason behind movement of stock",
+                        "lectureId": "680c86ea364f718dc17b6b8c",
+                        "lectureLength": "00:24:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZEqtq7dah4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Common Myths",
+                        "lectureId": "680c86ea364f718dc17b6b8d",
+                        "lectureLength": "00:15:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D9gxFfPnCq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Avenues to Invest in the Stock Market",
+                        "lectureId": "680c86ea364f718dc17b6b8e",
+                        "lectureLength": "00:20:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqkFXGAeCz2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Avenues to Invest in the Stock Market Part 2",
+                        "lectureId": "680c86ea364f718dc17b6b8f",
+                        "lectureLength": "00:08:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKcmx9DEbyK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Avenues to invest and Demat account",
+                        "lectureId": "680c86ea364f718dc17b6b90",
+                        "lectureLength": "00:18:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xgau9bz9M6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Difference between Investing and Trading",
+                        "lectureId": "680c86ea364f718dc17b6b91",
+                        "lectureLength": "00:15:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5k3j3h23muT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Choosing the right Broker",
+                        "lectureId": "680c86ea364f718dc17b6b92",
+                        "lectureLength": "00:23:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RB6rQSpPJ9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types Of Investors",
+                        "lectureId": "680c86ea364f718dc17b6b93",
+                        "lectureLength": "00:09:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XQNe7nqMZ3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Economics 101",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Economics 101 topic 1",
+                        "lectureId": "680c86ea364f718dc17b6b95",
+                        "lectureLength": "00:34:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95tPRpmKGk4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Effect of broader economy on the stock market",
+                        "lectureId": "680c86ea364f718dc17b6b96",
+                        "lectureLength": "00:06:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xjfdyftR3r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cycles of an economy",
+                        "lectureId": "680c86ea364f718dc17b6b97",
+                        "lectureLength": "00:09:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fmcSgrAAn9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Fundamental Analysis",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Fundamental Analysis",
+                        "lectureId": "680c86ea364f718dc17b6b99",
+                        "lectureLength": "00:03:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8N5QmDHtyXX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to fundamental analysis",
+                        "lectureId": "680c86ea364f718dc17b6b9a",
+                        "lectureLength": "00:06:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52D9fm2sujy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Components of Fundamental Analysis",
+                        "lectureId": "680c86ea364f718dc17b6b9b",
+                        "lectureLength": "00:15:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mzxYUcp9S2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Industry Analysis, SWOT",
+                        "lectureId": "680c86ea364f718dc17b6b9c",
+                        "lectureLength": "00:19:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5443Rsu3tbx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Porter's Five Forces",
+                        "lectureId": "680c86ea364f718dc17b6b9d",
+                        "lectureLength": "00:11:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2PXfZfx3dQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "BCG Matrix",
+                        "lectureId": "680c86ea364f718dc17b6b9e",
+                        "lectureLength": "00:10:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QYCP6Dmpdb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Analyzing Financial Statements P&L",
+                        "lectureId": "680c86ea364f718dc17b6b9f",
+                        "lectureLength": "00:12:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39C2SUZuuN6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Balance Sheet",
+                        "lectureId": "680c86ea364f718dc17b6ba0",
+                        "lectureLength": "00:09:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FcyszeFQp2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cash Flow Statement",
+                        "lectureId": "680c86ea364f718dc17b6ba1",
+                        "lectureLength": "00:04:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hgMXYkZf3F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ratios - Liquidity Ratios and Activity Ratios",
+                        "lectureId": "680c86ea364f718dc17b6ba2",
+                        "lectureLength": "00:15:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BK9FzeAbHt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Leverage Ratios and Profitability Ratios",
+                        "lectureId": "680c86ea364f718dc17b6ba3",
+                        "lectureLength": "00:14:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CtT9hexXeK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Commonly used Ratios",
+                        "lectureId": "680c86ea364f718dc17b6ba4",
+                        "lectureLength": "00:19:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kBB2ESdBng/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Industries Specific Ratio",
+                        "lectureId": "680c86ea364f718dc17b6ba5",
+                        "lectureLength": "00:14:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NnDnasaPQn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Role of Dividends",
+                        "lectureId": "680c86ea364f718dc17b6ba6",
+                        "lectureLength": "00:13:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KdRgjg7Ngj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ITC Case Study Part 1",
+                        "lectureId": "680c86ea364f718dc17b6ba7",
+                        "lectureLength": "00:25:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G78AnedQ2D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case Study Part 2",
+                        "lectureId": "680c86ea364f718dc17b6ba8",
+                        "lectureLength": "00:31:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Ps2S7z5yHJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "HDFC Bank Case study",
+                        "lectureId": "680c86ea364f718dc17b6ba9",
+                        "lectureLength": "00:34:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BpS9qqZMa9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "How to analyse an IPO",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to Analyze an IPO",
+                        "lectureId": "680c86ea364f718dc17b6bab",
+                        "lectureLength": "00:43:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Am87jtUskFn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Happiest Mind IPO Example",
+                        "lectureId": "680c86ea364f718dc17b6bac",
+                        "lectureLength": "00:19:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g8fh8fmNz9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Portfolio Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Portfolio Management",
+                        "lectureId": "680c86ea364f718dc17b6bae",
+                        "lectureLength": "00:19:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cCTbe8JSh9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What next",
+                        "lectureId": "680c86ea364f718dc17b6baf",
+                        "lectureLength": "00:05:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/569Fu7xMnJJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Final Assignment",
+                "assignmentId": "68f2251683492d3c7b6b5530",
+                "assignmentLink": "https://docs.google.com/document/d/1-t9ITro6VkbhtnCbD0-IMrLFnwRAVwUH/edit"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "69cbaf66959c4775ed11d193",
+                "mentor": "Aniket",
+                "start": 20,
+                "end": 23,
+                "chatStart": 20,
+                "chatEnd": 23,
+                "time": "8 PM - 11 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db6",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

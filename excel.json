@@ -1,0 +1,695 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6a3958d08668a9279c153165",
+        "courseName": "Excel With Ai",
+        "slug": "excel",
+        "category": "Data Science & Analytics",
+        "tpFolderId": "3aztA4MZgzg",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6a61095e8668a9279c16238f",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Getting Ready for Excel – Setup, Workflow & Best Practices",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Excel in Workplace",
+                        "lectureId": "6a3958d08668a9279c153167",
+                        "lectureLength": "00:21:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRqRgkes8t2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Excel Interface and Navigation",
+                        "lectureId": "6a3958d08668a9279c153168",
+                        "lectureLength": "00:27:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jRdNk2kGeT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Excel Interface and Navigation with AI",
+                        "lectureId": "6a3958d08668a9279c153169",
+                        "lectureLength": "00:32:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyUDNxK5xjU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Entry & Basic formattting",
+                        "lectureId": "6a3958d08668a9279c15316a",
+                        "lectureLength": "00:40:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MrAnpbkXrnJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Edit sheet, rows and columns",
+                        "lectureId": "6a3958d08668a9279c15316b",
+                        "lectureLength": "00:33:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78aFs4SRsb6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment: Excel Setup & Readiness Check",
+                        "lectureId": "6a3958d08668a9279c15316c",
+                        "lectureLength": "00:34:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Tj8ejbd2Q/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Fundamentals & Setup",
+                "assignmentId": "6a5891ea8668a9279c15906d",
+                "assignmentLink": "https://docs.google.com/document/d/1bU3RceyVNC7j4LagyhoMSD1VTRwVEDf3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Data Handling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Excel Smart Selection & Paste Special",
+                        "lectureId": "6a3958d08668a9279c15316e",
+                        "lectureLength": "00:29:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9mJSk5nHzu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fill Handle, Flash Fill & Auto Fill",
+                        "lectureId": "6a3958d08668a9279c15316f",
+                        "lectureLength": "00:14:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QJU7ygty36G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Excel Cell/Row Management & Go To Special",
+                        "lectureId": "6a3958d08668a9279c153170",
+                        "lectureLength": "00:50:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uSqdgr6Xq8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cell & Range Concepts Revisited with AI",
+                        "lectureId": "6a3958d08668a9279c153171",
+                        "lectureLength": "00:51:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mHtm9eYBtd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment: Cell & Range Practice",
+                        "lectureId": "6a3958d08668a9279c153172",
+                        "lectureLength": "00:50:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nBrPrZ9TAr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Evaluation Assignment (Cell & Data Handling)",
+                "assignmentId": "6a5892198668a9279c159072",
+                "assignmentLink": "http://docs.google.com/document/d/1EL7kdXO4s3QvTpPvMgm6CWka2ARtez3u/edit"
+            },
+            {
+                "type": "assignment",
+                "name": "Theory Assignment (Cell & Data Handling",
+                "assignmentId": "6a5892358668a9279c159077",
+                "assignmentLink": "https://docs.google.com/document/d/1Gabbeq-PFXbwSSX7WdRC3Bo07_NaQe3D/edit"
+            },
+            {
+                "type": "section",
+                "name": "Data Cleaning & Preparation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Text cleaning",
+                        "lectureId": "6a3958d08668a9279c153174",
+                        "lectureLength": "00:50:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m8Tp9rnKCK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Find & Replace with Wildcards",
+                        "lectureId": "6a3958d08668a9279c153175",
+                        "lectureLength": "00:46:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jmBk7z39PH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Handling Missing & Error Values",
+                        "lectureId": "6a3958d08668a9279c153176",
+                        "lectureLength": "00:32:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yeyteDTryK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Validation & Controlled Inputs",
+                        "lectureId": "6a3958d08668a9279c153177",
+                        "lectureLength": "00:54:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nEzaAnun7K/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Excel Data Cleaning using AI-Part 1",
+                        "lectureId": "6a3958d08668a9279c153178",
+                        "lectureLength": "00:36:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gsQ925GhtdJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Excel Data Cleaning using AI-Part 2",
+                        "lectureId": "6a3958d08668a9279c153179",
+                        "lectureLength": "00:26:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nQrQfMd2TP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cleaning a Messy Sales Dataset",
+                        "lectureId": "6a3958d08668a9279c15317a",
+                        "lectureLength": "00:55:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m65XS4yeCH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Evaluation Assignment (Data Cleaning & Preparation",
+                "assignmentId": "6a5892508668a9279c15907c",
+                "assignmentLink": "https://docs.google.com/document/d/1GWp_0BivaP5KZcYFEMAsuUSOK3RRelvd/edit"
+            },
+            {
+                "type": "assignment",
+                "name": "Theory Assignment (Data Cleaning & Preparation",
+                "assignmentId": "6a5892688668a9279c159081",
+                "assignmentLink": "https://docs.google.com/document/d/1Y47wiGq8xCHGDb56mRhbUA6A2gwQnCRS/edit#heading=h.oijxep2z4y20"
+            },
+            {
+                "type": "section",
+                "name": "Logical & Lookup Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Logical Function-Part 1",
+                        "lectureId": "6a3958d08668a9279c15317c",
+                        "lectureLength": "00:55:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BmJkykEfrM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lookup Functions and its Limitations",
+                        "lectureId": "6a3958d08668a9279c15317d",
+                        "lectureLength": "00:53:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XJUpxSJc3z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Xlookup and Index+Match",
+                        "lectureId": "6a3958d08668a9279c15317e",
+                        "lectureLength": "00:40:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7e22s3kAfJd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dynamic Lookup",
+                        "lectureId": "6a3958d08668a9279c15317f",
+                        "lectureLength": "00:42:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zApqY8BAT6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lookup Logic using AI",
+                        "lectureId": "6a3958d08668a9279c153180",
+                        "lectureLength": "00:47:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DbGU4u3ZRh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Banking Case Study",
+                        "lectureId": "6a3958d08668a9279c153181",
+                        "lectureLength": "00:46:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3c3yFYC3HFx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logical Funtions-Part 2",
+                        "lectureId": "6a3958d08668a9279c153182",
+                        "lectureLength": "00:22:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yF52UZDbuY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": " Evaluation Assignment (Excel Functions & Formula Intelligence)",
+                "assignmentId": "6a5892da8668a9279c159086",
+                "assignmentLink": "https://docs.google.com/document/d/1W9F_qdw8BE4gmjaTqHbbWRoTTKEk-7cF/edit"
+            },
+            {
+                "type": "assignment",
+                "name": "Theory Assignment (Excel Functions & Formula Intelligence)",
+                "assignmentId": "6a5892fa8668a9279c15908b",
+                "assignmentLink": "https://docs.google.com/document/d/1KJDLT-IcEqDoBCG8opbwN74VLmCOTDij/edit#heading=h.5c7uknc14hre"
+            },
+            {
+                "type": "section",
+                "name": "Date, Time & Text Intelligence",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Date Functions",
+                        "lectureId": "6a3958d08668a9279c153184",
+                        "lectureLength": "00:42:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3H8kAjma48D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Text Functions",
+                        "lectureId": "6a3958d08668a9279c153185",
+                        "lectureLength": "00:45:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S8HmZXdBhb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dynamic Array Functions",
+                        "lectureId": "6a3958d08668a9279c153186",
+                        "lectureLength": "00:54:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86UqHUjCq22/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Date, Text & Dynamic Formula Automation using AI",
+                        "lectureId": "6a3958d08668a9279c153187",
+                        "lectureLength": "00:44:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DBZyh4M8HY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Monthly & Fiscal Regional Performance Analysis",
+                        "lectureId": "6a3958d08668a9279c153188",
+                        "lectureLength": "00:48:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KAtMdZG5fS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": " Evaluation Assignment (Date, Time & Text Intelligence)",
+                "assignmentId": "6a5893108668a9279c159090",
+                "assignmentLink": "https://docs.google.com/document/d/1ZZb-HtUjdjfahZzGt--xWzdY_WGxR1wk/edit"
+            },
+            {
+                "type": "assignment",
+                "name": "Theory Assignment (Date, Time & Text Intelligence)",
+                "assignmentId": "6a5893368668a9279c159095",
+                "assignmentLink": "https://docs.google.com/document/d/1j5yy8bkljqZlX80cW1bRBOeXIDHuog_8/edit#heading=h.r1k98lwlrel4"
+            },
+            {
+                "type": "section",
+                "name": "Pivot Tables & Pivot Charts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Pivot Table Fundamentals",
+                        "lectureId": "6a3958d08668a9279c15318a",
+                        "lectureLength": "00:41:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f7EpNrM8zDm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Pivot Calculations & Grouping",
+                        "lectureId": "6a3958d08668a9279c15318b",
+                        "lectureLength": "00:29:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82M2xZ9b6Mj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dashboard using Pivot Charts, Slicers and Timelines",
+                        "lectureId": "6a3958d08668a9279c15318c",
+                        "lectureLength": "00:51:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pcXjXkEQca/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generate Pivot Insights using AI",
+                        "lectureId": "6a3958d08668a9279c15318d",
+                        "lectureLength": "00:54:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dENy9fPMBd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interactive E-commerce Dashboard",
+                        "lectureId": "6a3958d08668a9279c15318e",
+                        "lectureLength": "00:29:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xxztyDp5dp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Evaluation Assignment (Pivot Tables, Pivot Charts & Interactive Reporting)",
+                "assignmentId": "6a5893518668a9279c15909a",
+                "assignmentLink": "https://docs.google.com/document/d/1oLI052Bq-PbvkhCaUeC7t2CiwRaFH5kz/edit"
+            },
+            {
+                "type": "assignment",
+                "name": "Theory Assignment (Pivot Tables, Pivot Charts & Interactive Reporting)",
+                "assignmentId": "6a5893678668a9279c15909f",
+                "assignmentLink": "https://docs.google.com/document/d/1yqnh54zv89t3cuuhXCPdnes1jFgneUjL/edit#heading=h.kgglz7p1t9im"
+            },
+            {
+                "type": "section",
+                "name": "Dashboards & Data Storytelling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "KPI Design & Advanced Conditional Formatting",
+                        "lectureId": "6a3958d08668a9279c153190",
+                        "lectureLength": "00:45:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6y3aesm7Ynz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building Dashboards using Slicers & Controls",
+                        "lectureId": "6a3958d08668a9279c153191",
+                        "lectureLength": "00:41:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jZQerkj9Uj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Improving Dashboard Design & Insights using AI",
+                        "lectureId": "6a3958d08668a9279c153192",
+                        "lectureLength": "00:47:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87dbskAeRzA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Executive Healthcare Management Dashboard",
+                        "lectureId": "6a3958d08668a9279c153193",
+                        "lectureLength": "00:41:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UMAgNhZtNk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": " Evaluation Assignment (Dashboards & Data Storytelling)",
+                "assignmentId": "6a58937b8668a9279c1590a4",
+                "assignmentLink": "https://docs.google.com/document/d/1ws20FsIr73IVX7Tr62n55jd3FhsDTEuY/edit#heading=h.7u59evia9rw4"
+            },
+            {
+                "type": "assignment",
+                "name": "Theory Assignment (Dashboards & Data Storytelling)",
+                "assignmentId": "6a5893918668a9279c1590a9",
+                "assignmentLink": "https://docs.google.com/document/d/1KyqgZnH68GYXak531koqagGNiH0oYQlk/edit#heading=h.iooyml73uyi3"
+            },
+            {
+                "type": "section",
+                "name": "Power Query & Automation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Power Query Fundamentals & Data Import",
+                        "lectureId": "6a3958d08668a9279c153195",
+                        "lectureLength": "00:30:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JyrBrgC9XR7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Data Cleaning & Transformation",
+                        "lectureId": "6a3958d08668a9279c153196",
+                        "lectureLength": "00:42:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Km72bJXtxg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Automated & Refreshable Reports - Part 1",
+                        "lectureId": "6a3958d08668a9279c153197",
+                        "lectureLength": "00:55:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5d5QRTeBfHk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Automated & Refreshable Reports - Part 2",
+                        "lectureId": "6a3958d08668a9279c153198",
+                        "lectureLength": "00:28:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/As5CcNdHdCp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Power Query Workflows using AI",
+                        "lectureId": "6a3958d08668a9279c153199",
+                        "lectureLength": "00:54:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3P9cEEUzz4u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "End_to_End_Case_Study",
+                        "lectureId": "6a3958d08668a9279c15319a",
+                        "lectureLength": "00:39:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76YpyBrcNFn/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Evaluation Assignment (Power Query & Automation)",
+                "assignmentId": "6a5893ae8668a9279c1590ae",
+                "assignmentLink": "https://docs.google.com/document/d/1gD2iOOtj_4YeynixXTW0BPv6XPQJQCS2/edit"
+            },
+            {
+                "type": "assignment",
+                "name": " Theory Assignment (Power Query & Automation)",
+                "assignmentId": "6a5893cc8668a9279c1590b3",
+                "assignmentLink": "https://docs.google.com/document/d/1I1-X44sF3256o7L99ZCR_jHMoLc0n-n9/edit#heading=h.lr0mwjbffwna"
+            },
+            {
+                "type": "section",
+                "name": "Power Pivot, DAX & Data Modeling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Power Pivot and Relationship Modeling",
+                        "lectureId": "6a3958d08668a9279c15319c",
+                        "lectureLength": "00:45:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EYfDmGPKTc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DAX Fundamentals",
+                        "lectureId": "6a3958d08668a9279c15319d",
+                        "lectureLength": "00:42:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GYaTNZ4cgY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understand DAX Measures using AI",
+                        "lectureId": "6a3958d08668a9279c15319e",
+                        "lectureLength": "00:45:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NasRp52D44/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "End-to-End case study using Power Pivot and DAX Measures",
+                        "lectureId": "6a3958d08668a9279c15319f",
+                        "lectureLength": "00:55:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8b5n9Zqz95K/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Evaluation Assignment (Power Pivot, DAX & Data Modeling)",
+                "assignmentId": "6a5894508668a9279c1590b8",
+                "assignmentLink": "https://docs.google.com/document/d/1jXK5PIxV_UpzhVnB8TzaFQOEs4ZL_nJA/edit#heading=h.ffufefqe0tt0"
+            },
+            {
+                "type": "assignment",
+                "name": "Theory Assignment (Power Pivot, DAX & Data Modeling)",
+                "assignmentId": "6a5894668668a9279c1590bd",
+                "assignmentLink": "https://docs.google.com/document/d/1J08A6Zcu6ma1gtkamDr1N7wdkrz2yKVu/edit#heading=h.44w6d8hsrcxd"
+            },
+            {
+                "type": "section",
+                "name": "Macro and VBA",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Macro",
+                        "lectureId": "6a3958d08668a9279c1531a1",
+                        "lectureLength": "00:45:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9as8F62G4h3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "VBA Funbdamentals",
+                        "lectureId": "6a3958d08668a9279c1531a2",
+                        "lectureLength": "00:28:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rkMxTETyb4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "VBA - Conditions and Loops",
+                        "lectureId": "6a3958d08668a9279c1531a3",
+                        "lectureLength": "00:40:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78jDspYhkMS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Excel Objects and Business Automation using VBA",
+                        "lectureId": "6a3958d08668a9279c1531a4",
+                        "lectureLength": "00:27:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YYgBR2jffr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reporting Automation Project",
+                        "lectureId": "6a3958d08668a9279c1531a5",
+                        "lectureLength": "00:37:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PZFKu9Up2N/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Evaluation Assignment (Macros & VBA)",
+                "assignmentId": "6a58947e8668a9279c1590c2",
+                "assignmentLink": "https://docs.google.com/document/d/1XTNwrUO4KY8SBSSNIaNI_YDqGZf3JhTF/edit"
+            },
+            {
+                "type": "assignment",
+                "name": " Theory Assignment (Macros & VBA)",
+                "assignmentId": "6a5894a88668a9279c1590c7",
+                "assignmentLink": "https://docs.google.com/document/d/1aenE_ZIktPGYx-gCiaj3cxLmS6w4cq2t/edit"
+            },
+            {
+                "type": "section",
+                "name": "Analysis using Claude",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Analysis using Claude - Part 1",
+                        "lectureId": "6a3958d08668a9279c1531a7",
+                        "lectureLength": "00:33:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/332azrxsaTU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Analysis using Claude - Part 2",
+                        "lectureId": "6a3958d08668a9279c1531a8",
+                        "lectureLength": "00:31:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BJsG8mNZz3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Evaluation Assignment (Analysis using Claude)",
+                "assignmentId": "6a5894ed8668a9279c159246",
+                "assignmentLink": "https://docs.google.com/document/d/1IlR3J0s2Y_d6RYPqQS5-tMf9mMzeHWjB/edit#heading=h.1fahybjeex3k"
+            },
+            {
+                "type": "assignment",
+                "name": "Theory Assignment (Business Analysis using Claude)",
+                "assignmentId": "6a5895048668a9279c15924b",
+                "assignmentLink": "https://docs.google.com/document/d/1Yiv1U1D1hRaSHj1VcKsHuNvjUuYSk3RO/edit"
+            },
+            {
+                "type": "section",
+                "name": "End-to-End Case Study using Copilot",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "End-to-End Case study using Co-pilot",
+                        "lectureId": "6a3958d08668a9279c1531aa",
+                        "lectureLength": "00:26:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X3MRQRfD6R/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Placement-ready Module",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Session 1 - End to End Case Study",
+                        "lectureId": "6a3958d08668a9279c1531ac",
+                        "lectureLength": "00:16:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QYbKNEGxYm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Session 2 - Resume Building",
+                        "lectureId": "6a3958d08668a9279c1531ad",
+                        "lectureLength": "00:19:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GBhutcQqDZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Session 3 - Interview Preparation",
+                        "lectureId": "6a3958d08668a9279c1531ae",
+                        "lectureLength": "00:21:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pMaBUjxFN3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Capstone Evaluation Assignment (Stock Market Analytics)",
+                "assignmentId": "6a58951d8668a9279c159250",
+                "assignmentLink": "https://docs.google.com/document/d/1XIOewf-OFoogkXJVZhAPSm_xSVrUxB4_/edit#heading=h.1z6hm49xd3zh"
+            },
+            {
+                "type": "assignment",
+                "name": "Theory Assignment (Microsoft Copilot & AI Productivity)",
+                "assignmentId": "6a5895348668a9279c159255",
+                "assignmentLink": "https://docs.google.com/document/d/16iUsBGsxDGZdkYbVhg9L3Kf3AhtkimxJ/edit"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "698048eb959c4775ed08ff2c",
+                "mentor": "Rahul ",
+                "start": 21,
+                "end": 23,
+                "chatStart": 20.5,
+                "chatEnd": 23,
+                "time": "9:00 PM - 11:30 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db7",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1SrSgB6HrX_MtlTaO_duagVs8yub_ub3n?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

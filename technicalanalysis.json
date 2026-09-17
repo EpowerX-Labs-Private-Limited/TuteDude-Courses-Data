@@ -1,0 +1,635 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680c86ea364f718dc17b69f5",
+        "courseName": "Technical Analysis",
+        "slug": "technicalanalysis",
+        "category": "bussiness",
+        "tpFolderId": "6qk9exbFm5q",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Introduction to the Course",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to the Course",
+                        "lectureId": "680c86ea364f718dc17b69f7",
+                        "lectureLength": "00:03:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QyBFsf4j5k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Technical Analysis and 3 assumptions",
+                        "lectureId": "680c86ea364f718dc17b69f8",
+                        "lectureLength": "00:04:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJC8ma64QSx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Difference Between Fundamental and Technical Analysis",
+                        "lectureId": "680c86ea364f718dc17b69f9",
+                        "lectureLength": "00:03:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aDcXEgNBGA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "How To Become A Sucessful Trader",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How To Become A Sucessful Trader",
+                        "lectureId": "680c86ea364f718dc17b69fb",
+                        "lectureLength": "00:02:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XxZkMBYuMT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Become a billionaire with tips?",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Trading Tips Is A Scam",
+                        "lectureId": "680c86ea364f718dc17b69fd",
+                        "lectureLength": "00:10:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3s8NyjQ8m5N/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Types Of Chart",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Types Of Chart",
+                        "lectureId": "680c86ea364f718dc17b69ff",
+                        "lectureLength": "00:02:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bscq5gArY7H/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Tradingview Tour",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Tradingview Tour",
+                        "lectureId": "680c86ea364f718dc17b6a01",
+                        "lectureLength": "00:13:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CyaJxcMcsD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "What Is Candle And Types Of Candle",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What Is Candle And Types Of Candle",
+                        "lectureId": "680c86ea364f718dc17b6a03",
+                        "lectureLength": "00:13:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kjgyjqA9q52/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Types Of Trends",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Types Of Trends",
+                        "lectureId": "680c86ea364f718dc17b6a05",
+                        "lectureLength": "00:14:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zTGCKntDCq/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Candlestick Patterns",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Bull And Bear Marubozu",
+                        "lectureId": "680c86ea364f718dc17b6a07",
+                        "lectureLength": "00:31:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABB4uFyfAkz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bullish Hammer",
+                        "lectureId": "680c86ea364f718dc17b6a08",
+                        "lectureLength": "00:27:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kEjfUuCRqG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bearish Hammer",
+                        "lectureId": "680c86ea364f718dc17b6a09",
+                        "lectureLength": "00:23:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJgnJuzZCRN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Doji And Spinning Top",
+                        "lectureId": "680c86ea364f718dc17b6a0a",
+                        "lectureLength": "00:16:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EgEmbHMnst/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Candle Pattern Bullish and Bearish Engulfing",
+                        "lectureId": "680c86ea364f718dc17b6a0b",
+                        "lectureLength": "00:39:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5x5Y9pXh7AF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dark Cloud Cover",
+                        "lectureId": "680c86ea364f718dc17b6a0c",
+                        "lectureLength": "00:16:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tnsmDnu2Ef/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Peircing",
+                        "lectureId": "680c86ea364f718dc17b6a0d",
+                        "lectureLength": "00:20:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JPS3Tb37p8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Morning Star",
+                        "lectureId": "680c86ea364f718dc17b6a0e",
+                        "lectureLength": "00:24:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NNQkDh8dKS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Evening Star",
+                        "lectureId": "680c86ea364f718dc17b6a0f",
+                        "lectureLength": "00:18:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85buyrPXj9k/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Price Action Basics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Price Action and its tools",
+                        "lectureId": "680c86ea364f718dc17b6a11",
+                        "lectureLength": "00:02:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BP9MJTQFnXj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Support and Resistance",
+                        "lectureId": "680c86ea364f718dc17b6a12",
+                        "lectureLength": "00:09:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3QkNCRCaHy9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Supply and Demand Zone",
+                        "lectureId": "680c86ea364f718dc17b6a13",
+                        "lectureLength": "00:06:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pRxp6GRZp6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying price action on charts",
+                        "lectureId": "680c86ea364f718dc17b6a14",
+                        "lectureLength": "00:15:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2UDFNHe2x7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Chart Patterns",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Double Top",
+                        "lectureId": "680c86ea364f718dc17b6a16",
+                        "lectureLength": "00:26:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RnQa5MQjRt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Double Top on Charts",
+                        "lectureId": "680c86ea364f718dc17b6a17",
+                        "lectureLength": "00:09:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZeybmhBMDj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Double Bottom",
+                        "lectureId": "680c86ea364f718dc17b6a18",
+                        "lectureLength": "00:21:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hqRsB4EQcn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Double Bottom on Charts",
+                        "lectureId": "680c86ea364f718dc17b6a1a",
+                        "lectureLength": "00:07:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PEfXS2UgJ4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Triple Top",
+                        "lectureId": "680c86ea364f718dc17b6a1b",
+                        "lectureLength": "00:21:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YAfzskhTsa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Triple Top on Charts",
+                        "lectureId": "680c86ea364f718dc17b6a1c",
+                        "lectureLength": "00:07:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXJ77DmYkrn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Triple Bottom",
+                        "lectureId": "680c86ea364f718dc17b6a1d",
+                        "lectureLength": "00:20:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XpUssZ5GHTq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Triple Bottom on Charts",
+                        "lectureId": "680c86ea364f718dc17b6a1e",
+                        "lectureLength": "00:05:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83r4NY8y4pH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Head And Shoulder",
+                        "lectureId": "680c86ea364f718dc17b6a1f",
+                        "lectureLength": "00:20:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RqHFu3npQE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Head And Shoulder on Charts",
+                        "lectureId": "680c86ea364f718dc17b6a20",
+                        "lectureLength": "00:04:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ACZ5hNEKUe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inverse Head And Shoulder",
+                        "lectureId": "680c86ea364f718dc17b6a21",
+                        "lectureLength": "00:19:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EHm65CSkrP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inverse Head And Shoulder on Charts",
+                        "lectureId": "680c86ea364f718dc17b6a22",
+                        "lectureLength": "00:05:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RpkMAPJqGEQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ascending Triangle",
+                        "lectureId": "680c86ea364f718dc17b6a23",
+                        "lectureLength": "00:17:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NktTGxnBRh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ascending Triangle on Charts",
+                        "lectureId": "680c86ea364f718dc17b6a24",
+                        "lectureLength": "00:05:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tzS5hGe639/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Descending Triangle",
+                        "lectureId": "680c86ea364f718dc17b6a25",
+                        "lectureLength": "00:17:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EAqUyhSKkZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Descending Triangle on Charts",
+                        "lectureId": "680c86ea364f718dc17b6a26",
+                        "lectureLength": "00:06:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gDu8CfHBTY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Symmetrical Triangle",
+                        "lectureId": "680c86ea364f718dc17b6a27",
+                        "lectureLength": "00:26:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nY8Naz8QBxe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Symmetrical Triangle on Charts",
+                        "lectureId": "680c86ea364f718dc17b6a28",
+                        "lectureLength": "00:05:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9NAAUfXg4E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bull Flag And Pole",
+                        "lectureId": "680c86ea364f718dc17b6a29",
+                        "lectureLength": "00:15:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9dRtzxPsC8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bull Flag And Pole on Charts",
+                        "lectureId": "680c86ea364f718dc17b6a2a",
+                        "lectureLength": "00:05:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eM2aD2UDF9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bear Flag And Pole",
+                        "lectureId": "680c86ea364f718dc17b6a2b",
+                        "lectureLength": "00:11:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR5KPJukHZx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bear Flag And Pole on Charts",
+                        "lectureId": "680c86ea364f718dc17b6a2c",
+                        "lectureLength": "00:04:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7mA6MDCB7C/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Price Action Advanced",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction",
+                        "lectureId": "680c86ea364f718dc17b6a2e",
+                        "lectureLength": "00:01:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2QKyRRZ6Ks/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How To Use Trendlines",
+                        "lectureId": "680c86ea364f718dc17b6a2f",
+                        "lectureLength": "00:17:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApmYtdbHdmJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Time Frames",
+                        "lectureId": "680c86ea364f718dc17b6a30",
+                        "lectureLength": "00:08:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Apbne7ZqSST/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Breakout",
+                        "lectureId": "680c86ea364f718dc17b6a31",
+                        "lectureLength": "00:11:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7mDd6egJgh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reversal",
+                        "lectureId": "680c86ea364f718dc17b6a32",
+                        "lectureLength": "00:10:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axbfyj3x5qF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Retest",
+                        "lectureId": "680c86ea364f718dc17b6a33",
+                        "lectureLength": "00:11:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPpp2KbM5n3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Swing Setup",
+                        "lectureId": "680c86ea364f718dc17b6a34",
+                        "lectureLength": "00:09:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QJRszfNFz6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Intraday Strategy",
+                        "lectureId": "680c86ea364f718dc17b6a35",
+                        "lectureLength": "00:11:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nrC9qXkR2x/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Technical Indicators",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "RSI",
+                        "lectureId": "680c86ea364f718dc17b6a37",
+                        "lectureLength": "00:19:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59zMZmQ697S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rsi Divergence",
+                        "lectureId": "680c86ea364f718dc17b6a38",
+                        "lectureLength": "00:18:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6zkNRJgZ85/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bollinger Bands",
+                        "lectureId": "680c86ea364f718dc17b6a39",
+                        "lectureLength": "00:32:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Hsxuh6a5Kx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vwap",
+                        "lectureId": "680c86ea364f718dc17b6a3a",
+                        "lectureLength": "00:23:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7MCNZ6TsxF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Average Directional Index",
+                        "lectureId": "680c86ea364f718dc17b6a3b",
+                        "lectureLength": "00:20:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BzbyePArAK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pivot",
+                        "lectureId": "680c86ea364f718dc17b6a3c",
+                        "lectureLength": "00:07:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fEjHFE533aN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Moving Averages",
+                        "lectureId": "680c86ea364f718dc17b6a3d",
+                        "lectureLength": "00:21:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46D2Ch356Tb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fibonacci",
+                        "lectureId": "680c86ea364f718dc17b6a3e",
+                        "lectureLength": "00:17:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kXz3TuETkJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Quadrant 2 Risk Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Strict Stoploss",
+                        "lectureId": "680c86ea364f718dc17b6a40",
+                        "lectureLength": "00:23:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKcgkbAU7yd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Target",
+                        "lectureId": "680c86ea364f718dc17b6a41",
+                        "lectureLength": "00:11:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9naj3fHJBjk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Risk Reward ratio",
+                        "lectureId": "680c86ea364f718dc17b6a42",
+                        "lectureLength": "00:16:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hCGfcRcgUc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Position Sizing",
+                        "lectureId": "680c86ea364f718dc17b6a43",
+                        "lectureLength": "00:07:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67UT52YzH2m/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Quadrant 3 - Psycology",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Key points to take care of",
+                        "lectureId": "680c86ea364f718dc17b6a45",
+                        "lectureLength": "00:09:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fygyPtHxa4F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Do's and Dont's",
+                        "lectureId": "680c86ea364f718dc17b6a46",
+                        "lectureLength": "00:08:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UQn8jmxhsY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vicious Circle",
+                        "lectureId": "680c86ea364f718dc17b6a47",
+                        "lectureLength": "00:07:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4G5qsHYFj8R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Journal Writing",
+                        "lectureId": "680c86ea364f718dc17b6a48",
+                        "lectureLength": "00:06:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPJQpmGUXfK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Quadrant 4 - Life Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Life Management",
+                        "lectureId": "680c86ea364f718dc17b6a4a",
+                        "lectureLength": "00:09:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzEPhUTxn9x/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Live trading with Technical Analysis",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How To Apply Technical Analysis Part 1",
+                        "lectureId": "680c86ea364f718dc17b6a4c",
+                        "lectureLength": "00:13:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4smd9kTgm75/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How To Apply Technical Analysis Part 2",
+                        "lectureId": "680c86ea364f718dc17b6a4d",
+                        "lectureLength": "00:09:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQDPBQqj55K/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Conclusion",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Conclusion",
+                        "lectureId": "680c86ea364f718dc17b6a4f",
+                        "lectureLength": "00:05:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yBHdAZTHjm/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Candlestick Patterns in YES Bank",
+                "assignmentId": "68f224be83492d3c7b6b540f",
+                "assignmentLink": "https://docs.google.com/document/d/1H7XkmK3lXlzzETYRkhOCjxGSFwnZDauS/edit?usp=drive_link&ouid=104032267420242941965&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": null,
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

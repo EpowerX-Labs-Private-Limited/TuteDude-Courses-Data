@@ -1,0 +1,975 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6a952f00b6907e7275be0be8",
+        "courseName": "Unreal Engine",
+        "slug": "unrealengine",
+        "category": "Software Development",
+        "tpFolderId": "7ja9g5bQBX7",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Course",
+                        "lectureId": "6a952f00b6907e7275be0bec",
+                        "lectureLength": "00:17:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AXD97YYQkA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Game Development and UE",
+                        "lectureId": "6a952f00b6907e7275be0bed",
+                        "lectureLength": "00:47:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsbNByJE4Qr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Unreal Engine 5 Features",
+                        "lectureId": "6a952f00b6907e7275be0bee",
+                        "lectureLength": "00:30:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rf74Y4b4X7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Game Development Pipeline",
+                        "lectureId": "6a952f00b6907e7275be0bef",
+                        "lectureLength": "00:38:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cfY5Mf8s2S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UE Launcher",
+                        "lectureId": "6a952f00b6907e7275be0bf0",
+                        "lectureLength": "00:07:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EskrFrRhE8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Project",
+                        "lectureId": "6a952f00b6907e7275be0bf1",
+                        "lectureLength": "00:07:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5dQb2gsyGgX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Optimizing Viewport Performance",
+                        "lectureId": "6a952f00b6907e7275be0bf2",
+                        "lectureLength": "00:05:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AnSCtckphB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction for Unity Developers",
+                        "lectureId": "6a952f00b6907e7275be0bf3",
+                        "lectureLength": "00:21:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jdNphKNNqe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Unity to UE Theory",
+                        "lectureId": "6a952f00b6907e7275be0bf4",
+                        "lectureLength": "00:12:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YeAssYbDeJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Viewport Navigation and Object Transformation",
+                        "lectureId": "6a952f00b6907e7275be0bf5",
+                        "lectureLength": "00:14:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qRRK7m6TTE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "More Optimization",
+                        "lectureId": "6a952f00b6907e7275be0bf6",
+                        "lectureLength": "00:05:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qDyEjQPGCM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Levels, Actors and Components",
+                        "lectureId": "6a952f00b6907e7275be0bf7",
+                        "lectureLength": "00:11:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fHTbxFpngN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Actors and Outliner",
+                        "lectureId": "6a952f00b6907e7275be0bf8",
+                        "lectureLength": "00:18:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYMesaTkKKz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assets and Content Drawer",
+                        "lectureId": "6a952f00b6907e7275be0bf9",
+                        "lectureLength": "00:10:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h74JK3PFxT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of Lights",
+                        "lectureId": "6a952f00b6907e7275be0bfa",
+                        "lectureLength": "00:20:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uCAS7PrDM5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shaders and Materials",
+                        "lectureId": "6a952f00b6907e7275be0bfb",
+                        "lectureLength": "00:10:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CXG9SR4Sxb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Your First Actor Blueprint",
+                        "lectureId": "6a952f00b6907e7275be0bfc",
+                        "lectureLength": "00:13:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hm6MtB5RUjX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Changing Material on Actor Overlap",
+                        "lectureId": "6a952f00b6907e7275be0bfd",
+                        "lectureLength": "00:12:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQ4Py8cMcrg/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Blueprints",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Blueprints Theory",
+                        "lectureId": "6a952f00b6907e7275be0bff",
+                        "lectureLength": "00:28:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CB4zGFsXMf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Programming Theory",
+                        "lectureId": "6a952f00b6907e7275be0c00",
+                        "lectureLength": "00:18:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cH2TDeJbAF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Blueprint Classes",
+                        "lectureId": "6a952f00b6907e7275be0c01",
+                        "lectureLength": "00:24:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56UUuCsu98M/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Moving an Actor Using Event Tick in Blueprints",
+                        "lectureId": "6a952f00b6907e7275be0c02",
+                        "lectureLength": "00:12:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98hQ7kJZKC9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating and Using Structs in Blueprints",
+                        "lectureId": "6a952f00b6907e7275be0c03",
+                        "lectureLength": "00:13:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HGgxZ3fcjyX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Blueprint Functions",
+                        "lectureId": "6a952f00b6907e7275be0c04",
+                        "lectureLength": "00:25:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GrUT4AM4eQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating and Using Macros in Blueprints",
+                        "lectureId": "6a952f00b6907e7275be0c05",
+                        "lectureLength": "00:14:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eFGGpTYutuR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Execution Flow",
+                        "lectureId": "6a952f00b6907e7275be0c06",
+                        "lectureLength": "00:33:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6An7qXXU69m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Blueprint Loops",
+                        "lectureId": "6a952f00b6907e7275be0c07",
+                        "lectureLength": "00:20:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CGUFuE29Nz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Arrays in Blueprints",
+                        "lectureId": "6a952f00b6907e7275be0c08",
+                        "lectureLength": "00:23:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tYtUUruEF4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Flip Flop Node",
+                        "lectureId": "6a952f00b6907e7275be0c09",
+                        "lectureLength": "00:18:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sFXGMzfzjnc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OOP in UE5",
+                        "lectureId": "6a952f00b6907e7275be0c0a",
+                        "lectureLength": "00:43:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aUrMrDf7eb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Object Class",
+                        "lectureId": "6a952f00b6907e7275be0c0b",
+                        "lectureLength": "00:10:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ufkdznBnfC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inheritance Hierarchy in UE",
+                        "lectureId": "6a952f00b6907e7275be0c0c",
+                        "lectureLength": "00:23:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH9GBuPYNsM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Technical Architecture",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Visual Scripting",
+                        "lectureId": "6a952f00b6907e7275be0c44",
+                        "lectureLength": "00:32:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NSYzzAJCRd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Blueprint Virtual Machine and C++ Performance Comparison",
+                        "lectureId": "6a952f00b6907e7275be0c45",
+                        "lectureLength": "00:16:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ac65MRUMdDc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Skeletal Meshes",
+                        "lectureId": "6a952f00b6907e7275be0c46",
+                        "lectureLength": "00:35:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49u7J6MEBGR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UObject, Actor Lifecycle, and Component Attachment",
+                        "lectureId": "6a952f00b6907e7275be0c47",
+                        "lectureLength": "00:28:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axn9CmxrzDx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Blueprint Classes",
+                        "lectureId": "6a952f00b6907e7275be0c48",
+                        "lectureLength": "00:20:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxUkYuQRZ4D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Memory Management",
+                        "lectureId": "6a952f00b6907e7275be0c49",
+                        "lectureLength": "00:23:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aq7gBnJhyqg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Execution Flow",
+                        "lectureId": "6a952f00b6907e7275be0c4a",
+                        "lectureLength": "00:33:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6An7qXXU69m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Events and Macros",
+                        "lectureId": "6a952f00b6907e7275be0c4b",
+                        "lectureLength": "00:23:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UM62yfhf7r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Composition and Blueprint Components",
+                        "lectureId": "6a952f00b6907e7275be0c4c",
+                        "lectureLength": "00:34:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8JjatE3hUa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Animation Blueprints and Anim Graphs",
+                        "lectureId": "6a952f00b6907e7275be0c4d",
+                        "lectureLength": "00:29:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8445sxKkcsn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UMG and Widgets",
+                        "lectureId": "6a952f00b6907e7275be0c4e",
+                        "lectureLength": "00:30:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cfhZ8P3DFRg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Networking and Multiplayer",
+                        "lectureId": "6a952f00b6907e7275be0c4f",
+                        "lectureLength": "00:34:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BpPdKePPmM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Communication Patterns",
+                        "lectureId": "6a952f00b6907e7275be0c50",
+                        "lectureLength": "00:31:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jPHDT6GSfU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Performance and Debugging",
+                        "lectureId": "6a952f00b6907e7275be0c51",
+                        "lectureLength": "00:28:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TZenMPgZHF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating an Interaction System Using Casting",
+                        "lectureId": "6a952f00b6907e7275be0c52",
+                        "lectureLength": "00:30:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FQF9fjNAtQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating and Implementing Blueprint Interfaces",
+                        "lectureId": "6a952f00b6907e7275be0c53",
+                        "lectureLength": "00:16:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApPRZD9XppA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Event Dispatchers",
+                        "lectureId": "6a952f00b6907e7275be0c54",
+                        "lectureLength": "00:27:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6djFH2JRZaS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Blueprint Components",
+                        "lectureId": "6a952f00b6907e7275be0c55",
+                        "lectureLength": "00:24:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2pynRESRf3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hybrid Approach",
+                        "lectureId": "6a952f00b6907e7275be0c56",
+                        "lectureLength": "00:25:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sm8zKbFkT9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Profiling Blueprint Performance",
+                        "lectureId": "6a952f00b6907e7275be0c57",
+                        "lectureLength": "00:26:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ctRuj7ZUBx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Skeletal Meshes",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Armature",
+                        "lectureId": "6a952f00b6907e7275be0c27",
+                        "lectureLength": "00:33:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kheSxCHNcz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Skeletal Meshes",
+                        "lectureId": "6a952f00b6907e7275be0c28",
+                        "lectureLength": "00:35:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49u7J6MEBGR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Practical Exploration",
+                        "lectureId": "6a952f00b6907e7275be0c29",
+                        "lectureLength": "00:30:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/csA4pYzqFX9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Import Workflows",
+                        "lectureId": "6a952f00b6907e7275be0c2a",
+                        "lectureLength": "00:22:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXHza7k5MCs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation Blueprints",
+                        "lectureId": "6a952f00b6907e7275be0c2b",
+                        "lectureLength": "00:35:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ya3QuCtGr6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sockets and Ragdolls",
+                        "lectureId": "6a952f00b6907e7275be0c2c",
+                        "lectureLength": "00:38:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qDDNjpQmGq/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Materials",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Color and Textures",
+                        "lectureId": "6a952f00b6907e7275be0c0e",
+                        "lectureLength": "00:32:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tUMSshCgXU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rendering Pipeline",
+                        "lectureId": "6a952f00b6907e7275be0c0f",
+                        "lectureLength": "00:30:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/G9AJ5Bb4Sdf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shader Theory",
+                        "lectureId": "6a952f00b6907e7275be0c10",
+                        "lectureLength": "00:15:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tJU53YPBZk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PBR Theory",
+                        "lectureId": "6a952f00b6907e7275be0c11",
+                        "lectureLength": "00:26:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TyaAg2qzKE3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Texture Maps",
+                        "lectureId": "6a952f00b6907e7275be0c12",
+                        "lectureLength": "00:23:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Axhru9kBguc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Material Basics",
+                        "lectureId": "6a952f00b6907e7275be0c13",
+                        "lectureLength": "00:28:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7J6Yg94DjzM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Material Instance",
+                        "lectureId": "6a952f00b6907e7275be0c14",
+                        "lectureLength": "00:21:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Hjk4U6bgAH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PBR Textures",
+                        "lectureId": "6a952f00b6907e7275be0c15",
+                        "lectureLength": "00:15:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35jpng6E9qB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PBR Materials",
+                        "lectureId": "6a952f00b6907e7275be0c16",
+                        "lectureLength": "00:30:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gE6qA6cXF6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Material Instances",
+                        "lectureId": "6a952f00b6907e7275be0c17",
+                        "lectureLength": "00:29:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p5pgNN738yY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Material Functions",
+                        "lectureId": "6a952f00b6907e7275be0c18",
+                        "lectureLength": "00:21:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Mt6tkFu8Ry/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shading Models",
+                        "lectureId": "6a952f00b6907e7275be0c19",
+                        "lectureLength": "00:14:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDcGMHCQPPj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced UE Systems",
+                        "lectureId": "6a952f00b6907e7275be0c1a",
+                        "lectureLength": "00:30:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GYKXdXyEuX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Lighting",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Default Sky Light",
+                        "lectureId": "6a952f00b6907e7275be0c1c",
+                        "lectureLength": "00:25:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53UZmQrAbHr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lighting Models",
+                        "lectureId": "6a952f00b6907e7275be0c1d",
+                        "lectureLength": "00:26:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZdRgYKYrUn/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Modelling Tools",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Modelling Introduction",
+                        "lectureId": "6a952f00b6907e7275be0c23",
+                        "lectureLength": "00:14:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AN7xpXjtahz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Primitive Models",
+                        "lectureId": "6a952f00b6907e7275be0c24",
+                        "lectureLength": "00:25:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45r24mEueKA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cube Builder",
+                        "lectureId": "6a952f00b6907e7275be0c25",
+                        "lectureLength": "00:29:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Bn2MFZ2NQe/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Landscaping Tools",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Landscaping Introduction",
+                        "lectureId": "6a952f00b6907e7275be0c1f",
+                        "lectureLength": "00:32:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84DNchXHjgn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Importing Heightmaps",
+                        "lectureId": "6a952f00b6907e7275be0c20",
+                        "lectureLength": "00:12:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eJNtbSN3UT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Painting Landscapes",
+                        "lectureId": "6a952f00b6907e7275be0c21",
+                        "lectureLength": "00:36:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yjykN2U6aaB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Game Audio",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Game Audio Design",
+                        "lectureId": "6a952f00b6907e7275be0c2e",
+                        "lectureLength": "00:30:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uHMZud73YB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UE Audio Pipeline",
+                        "lectureId": "6a952f00b6907e7275be0c2f",
+                        "lectureLength": "00:32:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A789cPr4uek/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to MetaSounds",
+                        "lectureId": "6a952f00b6907e7275be0c30",
+                        "lectureLength": "00:23:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZkzZrqYcs8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Spatial Audio & Sound Attenuation",
+                        "lectureId": "6a952f00b6907e7275be0c31",
+                        "lectureLength": "00:30:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FdC6NM8zar/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adaptive Music",
+                        "lectureId": "6a952f00b6907e7275be0c32",
+                        "lectureLength": "00:29:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4seg34JGaGQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sound Classes",
+                        "lectureId": "6a952f00b6907e7275be0c33",
+                        "lectureLength": "00:23:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rJT9ZfQkBt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing Ambience and Audio Volumes",
+                        "lectureId": "6a952f00b6907e7275be0c34",
+                        "lectureLength": "00:29:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KYsPXEp7GX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dialogue Systems",
+                        "lectureId": "6a952f00b6907e7275be0c35",
+                        "lectureLength": "00:26:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48xmHrPyza3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Footsteps and Physical Sounds",
+                        "lectureId": "6a952f00b6907e7275be0c36",
+                        "lectureLength": "00:14:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GtcFrACS4x/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UI Sounds",
+                        "lectureId": "6a952f00b6907e7275be0c37",
+                        "lectureLength": "00:21:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNMR9HbcrA9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Game Design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Game Design Principles",
+                        "lectureId": "6a952f00b6907e7275be0c3b",
+                        "lectureLength": "00:12:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5m9pTFtmJEf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Core Loops and Moment-to-Moment Design",
+                        "lectureId": "6a952f00b6907e7275be0c3c",
+                        "lectureLength": "00:22:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3BEz4Cf8yD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Player Agency and Meaningful Choices",
+                        "lectureId": "6a952f00b6907e7275be0c3d",
+                        "lectureLength": "00:18:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HyhFrDFBHK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Game Feel and Game Juice",
+                        "lectureId": "6a952f00b6907e7275be0c3e",
+                        "lectureLength": "00:22:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98qCk3CsePX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Game Difficulty and the Flow State",
+                        "lectureId": "6a952f00b6907e7275be0c3f",
+                        "lectureLength": "00:20:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xFubmhxAp3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing Difficulty Curves",
+                        "lectureId": "6a952f00b6907e7275be0c40",
+                        "lectureLength": "00:20:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zucJJrjb3kt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reward Systems and Reinforcement",
+                        "lectureId": "6a952f00b6907e7275be0c41",
+                        "lectureLength": "00:22:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jDkCf9CYec/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Intrinsic and Extrinsic Rewards",
+                        "lectureId": "6a952f00b6907e7275be0c42",
+                        "lectureLength": "00:29:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QzBDMkUKFG/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Implementation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Importing Sound Waves and MetaSounds in Unreal Engine",
+                        "lectureId": "6a952f00b6907e7275be0c39",
+                        "lectureLength": "00:24:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HQnEZ8spaX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Project 1",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Game",
+                        "lectureId": "6a952f00b6907e7275be0c59",
+                        "lectureLength": "00:11:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ka5c5cB4Ar/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project Setup",
+                        "lectureId": "6a952f00b6907e7275be0c5a",
+                        "lectureLength": "00:10:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/937uf6kb7dr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Level Blockout",
+                        "lectureId": "6a952f00b6907e7275be0c5b",
+                        "lectureLength": "00:16:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SHnzHq5FQ9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lighting the Level",
+                        "lectureId": "6a952f00b6907e7275be0c5c",
+                        "lectureLength": "00:17:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6NAERUmKpc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interactive Door",
+                        "lectureId": "6a952f00b6907e7275be0c5d",
+                        "lectureLength": "00:25:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92GgbatMb4G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Implementing Line Trace Raycasting in Blueprints",
+                        "lectureId": "6a952f00b6907e7275be0c5e",
+                        "lectureLength": "00:24:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qkXxtkcmSA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grabbing Objects",
+                        "lectureId": "6a952f00b6907e7275be0c5f",
+                        "lectureLength": "00:25:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GphJXFh6gB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Actor Tags in Blueprints",
+                        "lectureId": "6a952f00b6907e7275be0c60",
+                        "lectureLength": "00:12:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgyGNy7G6Tx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Project 2",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Project Creation",
+                        "lectureId": "6a952f00b6907e7275be0c62",
+                        "lectureLength": "00:14:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xRJBD26xGX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Project 3",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Project Overview",
+                        "lectureId": "6a952f00b6907e7275be0c64",
+                        "lectureLength": "00:13:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FrcGGx6qKBC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project Setup",
+                        "lectureId": "6a952f00b6907e7275be0c65",
+                        "lectureLength": "00:10:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/937uf6kb7dr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PlayerBase Setup and Input",
+                        "lectureId": "6a952f00b6907e7275be0c66",
+                        "lectureLength": "00:15:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pXyH9FBZBN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Input",
+                        "lectureId": "6a952f00b6907e7275be0c67",
+                        "lectureLength": "00:18:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BEcegu4sGF6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Character Movement",
+                        "lectureId": "6a952f00b6907e7275be0c68",
+                        "lectureLength": "00:21:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ay7RfeZZbsX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Character Rotation Settings and Blueprint Comments",
+                        "lectureId": "6a952f00b6907e7275be0c69",
+                        "lectureLength": "00:07:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cka8t4ksSe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Implementing Character Jumping in Blueprints",
+                        "lectureId": "6a952f00b6907e7275be0c6a",
+                        "lectureLength": "00:10:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/952cSYYdqG9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Implementing Walk Speed in Blueprints",
+                        "lectureId": "6a952f00b6907e7275be0c6b",
+                        "lectureLength": "00:18:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cyDf4QSafT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Refactoring Sprint Logic Using Blueprint Functions",
+                        "lectureId": "6a952f00b6907e7275be0c6c",
+                        "lectureLength": "00:16:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RBy2rzhsXX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation Blueprint",
+                        "lectureId": "6a952f00b6907e7275be0c6d",
+                        "lectureLength": "00:24:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cqnjPfKXbg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setting Up State Machines in Animation Blueprints",
+                        "lectureId": "6a952f00b6907e7275be0c6e",
+                        "lectureLength": "00:16:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3u6ryxry2Uf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating and Setting Up Blend Spaces",
+                        "lectureId": "6a952f00b6907e7275be0c6f",
+                        "lectureLength": "00:13:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UnYgtSdMxZ4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Configuring Blend Space Axis Values for Character Movement",
+                        "lectureId": "6a952f00b6907e7275be0c70",
+                        "lectureLength": "00:09:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Qan7YZTFnK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation States",
+                        "lectureId": "6a952f00b6907e7275be0c71",
+                        "lectureLength": "00:08:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bj2952gnNfk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Game Design",
+                        "lectureId": "6a952f00b6907e7275be0c72",
+                        "lectureLength": "00:19:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbqducqNzMa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Game Gyms",
+                        "lectureId": "6a952f00b6907e7275be0c73",
+                        "lectureLength": "00:16:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APzdJH9kpEB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Game Gyms Exploration",
+                        "lectureId": "6a952f00b6907e7275be0c74",
+                        "lectureLength": "00:16:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eCKFSCdD6Z/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": null,
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

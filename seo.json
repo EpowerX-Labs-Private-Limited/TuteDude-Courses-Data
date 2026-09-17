@@ -1,0 +1,393 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "68b81b81aa7b36a50095de20",
+        "courseName": "Search Engine Optimization (SEO) Mastery",
+        "slug": "seo",
+        "category": "Technical",
+        "tpFolderId": "9j4u8Je7HZk",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "68ed314ec9cf3d230ba67734",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Basics of SEO",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is SEO",
+                        "lectureId": "68b81b81aa7b36a50095de22",
+                        "lectureLength": "00:09:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AapCqf7xHfT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Why Seo",
+                        "lectureId": "68b81b81aa7b36a50095de23",
+                        "lectureLength": "00:09:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cZD85xPyFU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is search Engines",
+                        "lectureId": "68b81b81aa7b36a50095de24",
+                        "lectureLength": "00:08:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72GETrkFD7b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Search engine Working",
+                        "lectureId": "68b81b81aa7b36a50095de25",
+                        "lectureLength": "00:18:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Y22UMagguGg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "type of seo",
+                        "lectureId": "68d1ad0b265a541c971716a8",
+                        "lectureLength": "00:15:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83K3qgb7hPA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Keyword Research",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Keyword Fundamentals",
+                        "lectureId": "68b81b81aa7b36a50095de27",
+                        "lectureLength": "00:11:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/R2dgabuTKa4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "type of keywords",
+                        "lectureId": "68d1ad8d265a541c971716b1",
+                        "lectureLength": "00:14:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83Dhr34sqmN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Importance of Keyword Research",
+                        "lectureId": "68d1adbc265a541c971716b7",
+                        "lectureLength": "00:07:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PRcZGYpJBr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to do Keyword research",
+                        "lectureId": "68d1adce265a541c971716ba",
+                        "lectureLength": "00:03:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dZaAR7PMZS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keyword Research  - Google Keyword Planner",
+                        "lectureId": "68d1af62265a541c971716f0",
+                        "lectureLength": "00:27:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RFpZxE7Phe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keyword Research - AI",
+                        "lectureId": "68d1af93265a541c971716f3",
+                        "lectureLength": "00:13:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zBJyzk5YHK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "On-Page SEO",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "On Page importance",
+                        "lectureId": "68d1b068265a541c97171707",
+                        "lectureLength": "00:07:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/985pDzdHhqf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is META tags_ Meta Tags Preview",
+                        "lectureId": "68d1b06f265a541c9717170a",
+                        "lectureLength": "00:30:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UFAzZJHF28/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to write effective meta title_ How to write convincing meta description",
+                        "lectureId": "68d1b093265a541c9717170d",
+                        "lectureLength": "00:06:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BM54anxf5TT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to URL Structure",
+                        "lectureId": "68d1b0b2265a541c97171710",
+                        "lectureLength": "00:13:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mFPCyaAxZG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of URL Structure",
+                        "lectureId": "68d1b0c5265a541c97171713",
+                        "lectureLength": "00:12:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76zchhEb774/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is W3c Validator & its uses",
+                        "lectureId": "68d1b0e9265a541c97171716",
+                        "lectureLength": "00:14:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GYxyj49Txu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Header Tags ",
+                        "lectureId": "68d1b11d265a541c9717171a",
+                        "lectureLength": "00:19:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MT8s287FeT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Image and Alt Tag",
+                        "lectureId": "68d1b134265a541c9717171d",
+                        "lectureLength": "00:15:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eFMCSGFzNt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Internal Linking in SEO",
+                        "lectureId": "68d1b16b265a541c97171720",
+                        "lectureLength": "00:18:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N7Xx7KxRKx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Website Structure",
+                        "lectureId": "68d1b1d3265a541c97171723",
+                        "lectureLength": "00:16:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YrDe65sZQ4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Content Optimization",
+                        "lectureId": "68d1b202265a541c97171726",
+                        "lectureLength": "00:13:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4frFRxBsZp9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "panda algorithm",
+                        "lectureId": "68d1b227265a541c9717172a",
+                        "lectureLength": "00:16:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fhm92RUtME/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "On Page Analysis by AI ",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "On Page Analysis by AI ",
+                        "lectureId": "68d1b6f8265a541c9717179f",
+                        "lectureLength": "00:15:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rSc72SF2D7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Technical SEO",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is technical seo",
+                        "lectureId": "68d1b2bc265a541c97171737",
+                        "lectureLength": "00:11:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/haCmdQxPAeg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Broken Links",
+                        "lectureId": "68d1b341265a541c9717173a",
+                        "lectureLength": "00:22:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qGg6AJ6azD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Robots.txt",
+                        "lectureId": "68d1b383265a541c97171740",
+                        "lectureLength": "00:22:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3enrCsfFdnJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Canonical issue",
+                        "lectureId": "68d1b39b265a541c97171743",
+                        "lectureLength": "00:22:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gDdXbDBBu4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Sitemap (Sitemap.xml and sitemap)",
+                        "lectureId": "68d1b3bc265a541c97171746",
+                        "lectureLength": "00:33:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADFFNFK5xJF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Website Speed Test",
+                        "lectureId": "68d1b3fc265a541c97171749",
+                        "lectureLength": "00:33:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbYmrAGgcZc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "SEO Analysis Tool",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "On page Analysis Tools",
+                        "lectureId": "68d1b44f265a541c9717174e",
+                        "lectureLength": "00:58:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UKCashU2kt/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Off-Page SEO",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Off Page",
+                        "lectureId": "68d1b496265a541c97171757",
+                        "lectureLength": "00:14:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Amk6uMr58rr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Backlinks & its types",
+                        "lectureId": "68d1b4ae265a541c9717175a",
+                        "lectureLength": "00:18:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c4g8s5XUzf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Backlinks Quality factors",
+                        "lectureId": "68d1b4c1265a541c9717175d",
+                        "lectureLength": "00:27:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hBjNGqrh6M/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Off Page Submission Activities",
+                        "lectureId": "68d1b4db265a541c97171760",
+                        "lectureLength": "00:07:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TdaATFBSmgu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Blog Submission",
+                        "lectureId": "68d1b4ee265a541c97171763",
+                        "lectureLength": "00:31:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nqQTn5aNCG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Article Submission",
+                        "lectureId": "68d1b504265a541c97171766",
+                        "lectureLength": "00:27:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdmFKp5mzzX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Classified Submission",
+                        "lectureId": "68d1b51f265a541c97171769",
+                        "lectureLength": "00:24:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cPsTebRcnE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "QA Submission",
+                        "lectureId": "68d1d6a3265a541c971717da",
+                        "lectureLength": "00:18:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JHcNDBgbPZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PR Submission",
+                        "lectureId": "68d1d697265a541c971717d7",
+                        "lectureLength": "00:19:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Kuk5scmzCT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Infographic Submission",
+                        "lectureId": "68d1d688265a541c971717d4",
+                        "lectureLength": "00:10:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7sZ8mFZpHyf/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment SEO",
+                "assignmentId": "68f2254983492d3c7b6b6012",
+                "assignmentLink": "https://docs.google.com/document/d/1MFmMlNFQViiwE5EOijohe1TlEEG-42Z3/edit"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "68c1278e76a235503a8b1b24",
+                "mentor": "Ratnadeep Sen",
+                "start": 20.5,
+                "end": 22,
+                "time": "8:30 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds4",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "chatEnd": 0.01,
+                "chatStart": 0.01,
+                "role": "junior"
+            }
+        ],
+        "resource": [
+            "https://docs.google.com/document/d/1_tpIKImRyu_2b0FskLDPsI90t0hqwFWShWpSNuf-3kY/edit?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

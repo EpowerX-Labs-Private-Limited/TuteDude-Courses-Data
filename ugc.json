@@ -1,0 +1,411 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6a537ce38668a9279c158fc6",
+        "courseName": "UGC",
+        "slug": "ugc",
+        "category": "Marketing",
+        "tpFolderId": "8zRFEUGr3cD",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6a61092a8668a9279c162348",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Understanding UGC",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Course Overview",
+                        "lectureId": "6a537ce38668a9279c158fc8",
+                        "lectureLength": "00:26:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cB3FqUExqp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is UGC ?",
+                        "lectureId": "6a537ce38668a9279c158fc9",
+                        "lectureLength": "00:42:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7M3J26XCNdg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UGC Creator VS Influencers",
+                        "lectureId": "6a537ce38668a9279c158fca",
+                        "lectureLength": "00:33:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54xU6nTf52A/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Do you need followers for UGC ?",
+                        "lectureId": "6a537ce38668a9279c158fcb",
+                        "lectureLength": "00:30:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ52dCBhCaB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of UGC Video PART 1",
+                        "lectureId": "6a537ce38668a9279c158fcc",
+                        "lectureLength": "00:33:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hx8UQQ5S7u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of UGC Video PART 2",
+                        "lectureId": "6a537ce38668a9279c158fcd",
+                        "lectureLength": "00:30:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5R26psEYX6d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Why brands pay UGC Creators ?",
+                        "lectureId": "6a537ce38668a9279c158fce",
+                        "lectureLength": "00:23:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tqDtRTNrCP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Beginner myths about UGC",
+                        "lectureId": "6a537ce38668a9279c158fcf",
+                        "lectureLength": "00:23:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A77XHPMHt5S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UGC Opportunities",
+                        "lectureId": "6a537ce38668a9279c158fd0",
+                        "lectureLength": "00:30:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CDhEFMmKX8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Define Your Learning Objectives.docx",
+                "assignmentId": "6a54aa788668a9279c15900a",
+                "assignmentLink": "https://docs.google.com/document/d/1uQ73QH9aPyzKNdDklbvGQxH1b1w8B3gM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Compare UGC Videos vs. Influencer Promotions.docx",
+                "assignmentId": "6a54ab008668a9279c15900f",
+                "assignmentLink": "https://docs.google.com/document/d/1_GIh-8c0RiCSQziY3jjA3iB98rX3w-mN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Analyze 5 UGC Creators",
+                "assignmentId": "6a54ab178668a9279c159014",
+                "assignmentLink": "https://docs.google.com/document/d/1-EnW44yDioh4BGpgzJrrBhesRThgLh2y/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Script Writing Practice",
+                "assignmentId": "6a54ab3a8668a9279c159019",
+                "assignmentLink": "https://docs.google.com/document/d/1pstO8mw6iVH_k3GrfkY25w_CbJ29xdsV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Identify Your Biggest UGC Myth",
+                "assignmentId": "6a54ac308668a9279c15901e",
+                "assignmentLink": "https://docs.google.com/document/d/1Sw-p2yMm2tW9WOLTMVpPEPcqbEWMz9uV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Research Brands Using UGC",
+                "assignmentId": "6a54ac478668a9279c159023",
+                "assignmentLink": "https://docs.google.com/document/d/1UYq6k6EKVN3IzxhPkXx9GXlq_SlVdzbN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Building your UGC Identity",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Choosing Niches",
+                        "lectureId": "6a537ce38668a9279c158fd2",
+                        "lectureLength": "00:41:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APaxkmHKuUE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Natural Content Style",
+                        "lectureId": "6a537ce38668a9279c158fd3",
+                        "lectureLength": "00:36:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcaHxJFybXX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Becoming Confident on Camera",
+                        "lectureId": "6a537ce38668a9279c158fd4",
+                        "lectureLength": "00:33:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKb8fMym95p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Looking natural instead of Salesy",
+                        "lectureId": "6a537ce38668a9279c158fd5",
+                        "lectureLength": "00:33:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QfEnRcTX9z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Personal Branding for UGC Creators",
+                        "lectureId": "6a537ce38668a9279c158fd6",
+                        "lectureLength": "00:35:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fpHejtK3kHK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Build Your Brand List",
+                "assignmentId": "6a54ac7b8668a9279c159028",
+                "assignmentLink": "https://docs.google.com/document/d/149rbgbeTPzj1elUtfPlkq_7IH4jQjswk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Create Recommendation Videos in Different Sty",
+                "assignmentId": "6a54ace48668a9279c15902d",
+                "assignmentLink": "https://docs.google.com/document/d/1yESaHYj421Bf5Q7x3V8LV0oxJc68yP-W/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Create a Product Review Video",
+                "assignmentId": "6a54ad088668a9279c159032",
+                "assignmentLink": "https://docs.google.com/document/d/1pETfO0rX_Nsl5PmUy9X9TVbZmrhH3ImT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Optimize Your Creator Profile",
+                "assignmentId": "6a54ad208668a9279c159037",
+                "assignmentLink": "https://docs.google.com/document/d/13pmGXWsSWKAWCIwRO-4bvQpYGbSmHLZ9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "UGC Video Creation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Hooks for UGC",
+                        "lectureId": "6a537ce38668a9279c158fd8",
+                        "lectureLength": "00:45:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DdMrzMEE6k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ad psychology and trust on camera",
+                        "lectureId": "6a537ce38668a9279c158fd9",
+                        "lectureLength": "00:09:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jNNJJubKCe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "script writing and CTA writing",
+                        "lectureId": "6a537ce38668a9279c158fda",
+                        "lectureLength": "00:39:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpGQZnsurNS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Storytelling in Ads PART 1",
+                        "lectureId": "6a537ce38668a9279c158fdb",
+                        "lectureLength": "00:16:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtbpACeaaaC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Storytelling in Ads PART 2",
+                        "lectureId": "6a537ce38668a9279c158fdc",
+                        "lectureLength": "00:29:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AteSgQpbG4u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Camera Angles, Lighting and Audio",
+                        "lectureId": "6a537ce38668a9279c158fdd",
+                        "lectureLength": "00:33:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rymNDBb86n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Editing PART 1",
+                        "lectureId": "6a537ce38668a9279c158fde",
+                        "lectureLength": "00:15:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sMr9aMSSpR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Editing PART 2",
+                        "lectureId": "6a537ce38668a9279c158fdf",
+                        "lectureLength": "00:22:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYR3QmfPDk6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "B Rolls and Filming in small spaces",
+                        "lectureId": "6a537ce38668a9279c158fe0",
+                        "lectureLength": "00:22:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Atxdc8XsPbd/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Hook Writing Practice.",
+                "assignmentId": "6a54ad478668a9279c15903c",
+                "assignmentLink": "https://docs.google.com/document/d/1FNcRSKGJP-v_f6NnuvoF695kLKSFf_Vc/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Create UGC Videos Using Four Core Elements",
+                "assignmentId": "6a54ad5e8668a9279c159041",
+                "assignmentLink": "https://docs.google.com/document/d/13KWyjmZFFW7PKrPq4ut7PcsA6ntvTG6V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Storytelling Script Writing",
+                "assignmentId": "6a54ad748668a9279c159046",
+                "assignmentLink": "https://docs.google.com/document/d/1s5RANVkATBlnXCCqKuq29sVNcTSONg2t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Camera Angle Practice.",
+                "assignmentId": "6a54ad888668a9279c15904b",
+                "assignmentLink": "https://docs.google.com/document/d/1TEI5fxD66UiZ3GdLWCZSib3RXZc1VPU_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Editing Practice.",
+                "assignmentId": "6a54ada98668a9279c159050",
+                "assignmentLink": "https://docs.google.com/document/d/1CAnYH_637zr9OCJWWjn59_HI3Vku33Rr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Portfolio and Brand Outreach",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "UGC Portfolio",
+                        "lectureId": "6a537ce38668a9279c158fe2",
+                        "lectureLength": "00:40:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SAZuCfjQSG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pitching brands",
+                        "lectureId": "6a537ce38668a9279c158fe3",
+                        "lectureLength": "00:22:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rtgDeRCmBF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UGC Platforms",
+                        "lectureId": "6a537ce38668a9279c158fe4",
+                        "lectureLength": "00:35:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6JE2Ke6DSH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Join UGC Platforms.",
+                "assignmentId": "6a54adc78668a9279c159055",
+                "assignmentLink": "https://docs.google.com/document/d/1uLQf7lhOEd6bwyYBmVIA5HJ1WEcI8zSe/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Pricing and Monetisation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Pricing UGC videos",
+                        "lectureId": "6a537ce38668a9279c158fe6",
+                        "lectureLength": "00:37:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7G8ckuRse9z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Contracts and Invoicing",
+                        "lectureId": "6a537ce38668a9279c158fe7",
+                        "lectureLength": "00:33:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XRXtGNnU3h/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create Your UGC Rate Card.",
+                "assignmentId": "6a54adf38668a9279c15905a",
+                "assignmentLink": "https://docs.google.com/document/d/1MaV_njWr1tf3yaolJSyDdatXFNl5yqtC/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Real Brand Workflow",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Brand Briefing",
+                        "lectureId": "6a537ce38668a9279c158fe9",
+                        "lectureLength": "00:32:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjyZrGHSzQY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Revision process",
+                        "lectureId": "6a537ce38668a9279c158fea",
+                        "lectureLength": "00:19:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRUGPSZgj6S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Balancing Ethics and Earning",
+                        "lectureId": "6a537ce38668a9279c158feb",
+                        "lectureLength": "00:37:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MfXG9zCQQF/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6a79e05efc66b37ef64a879a",
+                "mentor": "Jahanvi Shegal",
+                "start": 19,
+                "end": 21,
+                "chatStart": 19,
+                "chatEnd": 21,
+                "time": "7:00 PM - 9:00 PM",
+                "url": "https://campus.tutedude.com/uiux?room=mn-stg-1",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

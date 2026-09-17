@@ -1,0 +1,986 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "68ecb9d5c9cf3d230ba66f7b",
+        "courseName": "Large Language Model",
+        "slug": "llm",
+        "category": "Technical",
+        "tpFolderId": "7qMhQzXZrPg",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "Introduction to Course",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to course LLM Engineering",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f7d",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Building LLM Products",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Large Language model engineering",
+                        "lectureId": "68eceb18c9cf3d230ba6743e",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YztSDmJ5M2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ollama setup - windows",
+                        "lectureId": "68eced2bc9cf3d230ba6745d",
+                        "lectureLength": "00:06:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nAH7yqbCYR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ollama setup Mac",
+                        "lectureId": "68ecee9bc9cf3d230ba67479",
+                        "lectureLength": "00:06:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TmhnAg5hehU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building LLM Applications & best practises",
+                        "lectureId": "68eceae6c9cf3d230ba67429",
+                        "lectureLength": "00:10:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73sk8UREc5f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Key Skills & Tools for AI development",
+                        "lectureId": "68eceb24c9cf3d230ba67444",
+                        "lectureLength": "00:08:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46j52TfNck2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding frontier models gpt, claude, open source llms",
+                        "lectureId": "68eced47c9cf3d230ba6746b",
+                        "lectureLength": "00:12:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xZMcxtC29d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Power of local llms - hindi tutor",
+                        "lectureId": "68eced40c9cf3d230ba67468",
+                        "lectureLength": "00:04:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QYcyK3TbQ5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating AI Powered Web Summarizer using Gemini and BS4",
+                        "lectureId": "68eceaffc9cf3d230ba67432",
+                        "lectureLength": "00:17:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az34BtAbNTY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comparing LLM models",
+                        "lectureId": "68eceaf9c9cf3d230ba6742f",
+                        "lectureLength": "00:17:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RtpBrHrJPs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Leveraging GPTs canvas feature",
+                        "lectureId": "68eceb2ac9cf3d230ba67447",
+                        "lectureLength": "00:04:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PXEaZ2pGFy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Gemini vs Cohere for analytical tasks",
+                        "lectureId": "68eceb11c9cf3d230ba6743b",
+                        "lectureLength": "00:08:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaZpqshYGD9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Evaluating metaAI and perplexity",
+                        "lectureId": "68eceb0ac9cf3d230ba67438",
+                        "lectureLength": "00:05:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mK6caDDG5xr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to transformers",
+                        "lectureId": "68eceb1dc9cf3d230ba67441",
+                        "lectureLength": "00:18:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UQj5zEmzhg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Enhancing LLM reliability through prompt engineering",
+                        "lectureId": "68eceb06c9cf3d230ba67435",
+                        "lectureLength": "00:36:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33dC2xjFFyq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding llm parameters",
+                        "lectureId": "68eced3ac9cf3d230ba67465",
+                        "lectureLength": "00:13:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3CseTqnRrA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding gpt tokenization",
+                        "lectureId": "68eced32c9cf3d230ba67460",
+                        "lectureLength": "00:11:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Tg8CTnKUMK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Claude 3.5s Alignment and Artifact Creation",
+                        "lectureId": "68eceaecc9cf3d230ba6742c",
+                        "lectureLength": "00:03:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5DybheFf5s/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Build a multimodal chatbot : LLMS, Agents, Gradio UI",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Building MultiModal Chatbots",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f7f",
+                        "lectureLength": "00:22:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Kh2kmhhrafD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mastering multiple AI APIs",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f80",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HUzxphAj9R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building Advanced AI Assistants with LLMs",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f81",
+                        "lectureLength": "00:20:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KDNp8jCSyp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building Multimodal AI Assistants",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f82",
+                        "lectureLength": "00:18:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRgJ5m2CnsF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Adversarial AI Conversations with OpenAI & Claude",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f83",
+                        "lectureLength": "00:08:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38HZ3Nqj6qA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Gradio",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f84",
+                        "lectureLength": "00:09:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9csURYNJKgt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Implementing Streaming Responses from LLM APIs",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f85",
+                        "lectureLength": "00:08:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8cpNh8mD9X/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Chatbot Development",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f86",
+                        "lectureLength": "00:14:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mHYzC4TSGp5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Practical Implementation - Chatbot Creation",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f87",
+                        "lectureLength": "00:25:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YCeJC7tGTXA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Open Source Gen AI:Build Autonomous Solutions with Gen AI",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Getting Started with Hugging Face",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f89",
+                        "lectureLength": "00:20:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QKQ96USCEn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Hugging Face",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f8a",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jZttcZYmSm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Google Colab Free Cloud platform for ML",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f8b",
+                        "lectureLength": "00:06:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4edAUN3RFUj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Running AI Models with Google Colab & Hugging Face",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f8c",
+                        "lectureLength": "00:08:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBqZjbzBfA6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Google Colab+HuggingFace",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f8d",
+                        "lectureLength": "00:08:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BteeQkRKppr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hugging Face Transformers for AI Tasks",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f8e",
+                        "lectureLength": "00:18:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GF4jh8cTBg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hugging Face Pipelines Simplifying AI Tasks",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f8f",
+                        "lectureLength": "00:13:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XJ8HyHc7RP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tokenization for LLMs",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f90",
+                        "lectureLength": "00:19:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZYEGtg2PGq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tokenization in Modern AI LLAMA 3.1",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f91",
+                        "lectureLength": "00:06:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JCNHkmHHTR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comparing Tokenizers in Open source AI Models",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f92",
+                        "lectureLength": "00:08:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Uhg5gc3Amz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Efficient Inference with Open Source LLMs on Hugging Face",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f93",
+                        "lectureLength": "00:06:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTU7SKP8Nds/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Efficiently Running LLMs with Quantisation",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f94",
+                        "lectureLength": "00:04:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33RjspAqXA8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Combining Frontier & Open Source Models for Audio- Text",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f95",
+                        "lectureLength": "00:22:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqPmbygkPTR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building synthetic data for AI Model Development",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f96",
+                        "lectureLength": "00:08:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ed5EJXCZym/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "LLM Showdown:Evaluating Models",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Choosing b w open source & closed source llms",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f98",
+                        "lectureLength": "00:18:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATGYyGy7gt9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scaling Laws, Model Size and Evaluating LLM Performance",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f99",
+                        "lectureLength": "00:19:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/337yg677xqa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Evaluating Real World LLMs beyond Benchmarks",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f9a",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qZaKRDjCAj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Choosing the Best LLM for Coding Projects",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f9b",
+                        "lectureLength": "00:13:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ajHxAdacmM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Closed vs Open LLMs",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f9c",
+                        "lectureLength": "00:13:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ecYQrna8rBK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to compare Open Source Language Models",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f9d",
+                        "lectureLength": "00:15:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96uMh89UNSR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Human Evaluation of LLMs with Chatbot Arena",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f9e",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtaAGQyDDY6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI Powered Python to C++",
+                        "lectureId": "68ecb9d5c9cf3d230ba66f9f",
+                        "lectureLength": "00:17:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ghcfY8MKKpB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Python to C++ Code Implementation",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fa0",
+                        "lectureLength": "00:11:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gzAPBdKeMy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comparing GPT-4 and Claude 3.5 Sonnet for code generation",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fa1",
+                        "lectureLength": "00:13:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXfR6g8tffd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GPT vs Claude Code Generation",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fa2",
+                        "lectureLength": "00:06:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABNCsg9x8pa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Leveraging LLMs for Code Optimisation",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fa3",
+                        "lectureLength": "00:15:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8t737c7PCjN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How LLMs handle complex code conversion tasks",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fa4",
+                        "lectureLength": "00:11:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CmTAmEEFFN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Claude vs Python for Code Generation",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fa5",
+                        "lectureLength": "00:07:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q5JzRg3gY2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building LLM powered Code Generation UIs",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fa6",
+                        "lectureLength": "00:13:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8D8RSTjTr4P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Open Source LLMs for Code Generation Hugging Face Endpoints Explored",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fa7",
+                        "lectureLength": "00:21:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qFpDTFxKH7G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploying Code Generation Models with Hugging Face Inference Endpoints",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fa8",
+                        "lectureLength": "00:13:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJ7RTPFz7cS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building Hybrid LLM Systems for Code Conversion",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fa9",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6ZGKDFG8rq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI Code Generation Comprehensive Comparison",
+                        "lectureId": "68ecb9d5c9cf3d230ba66faa",
+                        "lectureLength": "00:13:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66kEUQDQNC2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Evaluating Code Generation Models",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fab",
+                        "lectureLength": "00:06:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xg5ger2Dfr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Evaluating LLM Performance in Real World Applications",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fac",
+                        "lectureLength": "00:14:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XDY2gdQxq3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Mastering RAG",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is RAG(Retrieval Augmented Generation)",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fae",
+                        "lectureLength": "00:36:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDRTpPbyyBy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building a RAG System from Scratch",
+                        "lectureId": "68ecb9d5c9cf3d230ba66faf",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ysk6NAxxkc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RAG Practical Implementation",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fb0",
+                        "lectureLength": "00:08:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/947rqBd5nzT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vector Embeddings & their role in RAG",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fb1",
+                        "lectureLength": "00:14:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATBUFeBk7NU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Simplifying RAG with LangChain",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fb2",
+                        "lectureLength": "00:18:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ThE73Jfh8rG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Effective Text Splitting for RAG Applications",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fb3",
+                        "lectureLength": "00:16:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42PZSntqpaA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Preparing Data for Vector Databases in RAG Applications",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fb4",
+                        "lectureLength": "00:21:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8c6x7emNNY7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Vector Embeddings & RAG Systems",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fb5",
+                        "lectureLength": "00:13:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3THzuaReSse/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Visualising Vector Embeddings",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fb6",
+                        "lectureLength": "00:08:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UKNmGn5Gu7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RAG Hands On Codes",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fb7",
+                        "lectureLength": "00:12:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3euryQhfMt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Troubleshooting & optimising RAG Systems",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fb8",
+                        "lectureLength": "00:30:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bkDsRXnBEE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Fine Tuning Frontier LLMs using LoRA , QLoRA",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Finetuning LLMs - From Inference to Training",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fba",
+                        "lectureLength": "00:16:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xFnZqJP7pY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Finding and Crafting Datasets for LLM Fine Tuning Sources & Techniques",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fbb",
+                        "lectureLength": "00:15:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/678MH6EnMXD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Evaluating LLMs",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fbc",
+                        "lectureLength": "00:09:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tgCSZMst2D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "LLM Deployment Pipeline",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fbd",
+                        "lectureLength": "00:08:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87RJ23zCJnP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Prompting, RAG & Fine Tuning When to use which approach",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fbe",
+                        "lectureLength": "00:17:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U97jShGn54/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to create a balanced dataset for LLM Training",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fbf",
+                        "lectureLength": "00:11:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4jUZrEBbej2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building Effective ML Baselines for NLP Tasks",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fc0",
+                        "lectureLength": "00:09:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mdQp7rXrys/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Feature Scaling in ML",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fc1",
+                        "lectureLength": "00:07:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pKKhRzGdq3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linear Regression in ML",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fc2",
+                        "lectureLength": "00:16:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89SkxkgD576/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Random Forest Regression",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fc3",
+                        "lectureLength": "00:12:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XjNucd3hJC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bag of Words NLP Implementing Count Vectorizer for Text Analysis in ML",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fc4",
+                        "lectureLength": "00:25:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N6ubAYF7Qs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Support Vector Regression in ML",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fc5",
+                        "lectureLength": "00:13:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/t2Xm8YhMbCc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comparing GPT-4 Mini to Traditional AI Models in price estimation",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fc6",
+                        "lectureLength": "00:07:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Be6Uh4rYuSr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "LLMs vs Traditional ML",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fc7",
+                        "lectureLength": "00:11:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FCYZxPXF2K/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "LoRA, QLoRA, PEFT",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fc8",
+                        "lectureLength": "00:23:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PSjGk3hrza/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fine Tuning GPT Models with Open API & Monitoring Tools",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fc9",
+                        "lectureLength": "00:09:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CraAYNS6KQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mastering LLM Fine Tuning",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fca",
+                        "lectureLength": "00:07:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DcRDmbDepq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Monitoring & Interpreting LLM Fine tuning process",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fcb",
+                        "lectureLength": "00:26:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9U2jZ9Nssmb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Why fine tuning LLMs might fail and how to overcome it",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fcc",
+                        "lectureLength": "00:08:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9x62FKNbNTF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Fine-tuned Open Source Models to compete with Frontier Models",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Parameter Efficient Fine Tuning for LLMs",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fce",
+                        "lectureLength": "00:07:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABpTFf4Qrnr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fine Tuning LLMs with Limited GPU Memory using QLoRA",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fcf",
+                        "lectureLength": "00:17:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FChdGp599k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hyperparameters & best practices in LoRA QLoRA",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fd0",
+                        "lectureLength": "00:08:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MYfxntFfSH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reducing LLM Size without sacrificing performance",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fd1",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3MGpU274jr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Quantisation Techniques for reducing LLM Memory Footprint",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fd2",
+                        "lectureLength": "00:04:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RmtDPen68e9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tokenization strategies in LLMs",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fd3",
+                        "lectureLength": "00:27:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKYYGfbuP5M/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Efficient Loading, Tokenization and Fine Tuning of LLaMA 3.1",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fd4",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bPEq6BxXe9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Navigating HuggingFace_s LLM Leaderboard & selecting base models",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fd5",
+                        "lectureLength": "00:20:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H2J326EN78/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Impact of Quantization on LLM Performance",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fd6",
+                        "lectureLength": "00:08:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mQJ67SMkMY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Optimising LLAMA to compete with GPT 4",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fd7",
+                        "lectureLength": "00:10:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QmD8NEkuDJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Epochs and training dynamics in LLM Fine Tuning",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fd8",
+                        "lectureLength": "00:08:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Me84y5tGmU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setting optimal hyperparameters for LLM Fine Tuning",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fd9",
+                        "lectureLength": "00:09:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQnTepTua9Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Monitoring & Optimising LLM Fine Tuning with W&B",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fda",
+                        "lectureLength": "00:10:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EJ7bmH7Sdn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tracking & visualising LLM Fine tuning Progress",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fdb",
+                        "lectureLength": "00:07:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nqazjmsEej/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Visualising Model training with W&B , Hugging Face",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fdc",
+                        "lectureLength": "00:06:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nHDjD73tGZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "End to End LLM Fine tuning for Business Solutions",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fdd",
+                        "lectureLength": "00:11:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S22zNbgF8E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Training Process in LLMs",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fde",
+                        "lectureLength": "00:11:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ez2buNK57e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Token Prediction & Real Time Monitoring in LLM Fine Tuning",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fdf",
+                        "lectureLength": "00:09:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xg3AAyRug2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fine Tuned Models vs Frontier Models & Performance Optimisation",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fe0",
+                        "lectureLength": "00:13:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4FprAjA59k8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Evaluating & Comparing Fine tuned LLMs",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fe1",
+                        "lectureLength": "00:03:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rdh5rTGFTX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Build autonomous multi agent systems collaborating with models",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "LLMS with Multi Agent & Serverless Deployment",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fe3",
+                        "lectureLength": "00:17:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJaA73JC74D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Efficiently running LLMs in cloud environments",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fe4",
+                        "lectureLength": "00:09:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxsNF873dyH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploying AI Models as Serverless APIs in the Cloud",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fe5",
+                        "lectureLength": "00:06:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cUH4pG8g24/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building production ready RAG Systems",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fe6",
+                        "lectureLength": "00:12:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cXYgQh87Up/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Vector spaces in RAG",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fe7",
+                        "lectureLength": "00:05:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87PT66HbDkB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RAG Value proposition & core mechanics",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fe8",
+                        "lectureLength": "00:05:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5h3qpfzgpBH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hybrid Ensemble architecture for pricing",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fe9",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XNuMu7zDaQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mastering Structured Outputs for LLM Automation",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fea",
+                        "lectureLength": "00:12:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9psBjux66dG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mastering structured output with GPT-4",
+                        "lectureId": "68ecb9d5c9cf3d230ba66feb",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7DBPAXnqdNA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Defining Agentic AI Hallmarks",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fec",
+                        "lectureLength": "00:11:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae3cDhqJN2a/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The architecture of Autonomy",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fed",
+                        "lectureLength": "00:11:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qxyj5hnq36/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Agents Core Loop Building from scratch",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fee",
+                        "lectureLength": "00:08:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nZxKgxschT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Gradio AI Interface",
+                        "lectureId": "68ecb9d5c9cf3d230ba66fef",
+                        "lectureLength": "00:08:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j38aXbBKxU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Real Time Monitoring for autonomous AI agents",
+                        "lectureId": "68ecb9d5c9cf3d230ba66ff0",
+                        "lectureLength": "00:11:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EZqcgQRnpe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Autonomus agent framework",
+                        "lectureId": "68ecb9d5c9cf3d230ba66ff1",
+                        "lectureLength": "00:05:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hzZZeFJZx8/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6968e13f959c4775ed2f8be2",
+                "mentor": "Chirag Saraswat  (AI Engineer)",
+                "start": 20,
+                "end": 22,
+                "chatStart": 0,
+                "chatEnd": 0,
+                "time": "8:00 PM - 10:00 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=stg",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

@@ -1,0 +1,322 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "68eb76dcc9cf3d230ba6651e",
+        "courseName": "Graphic Design With AI",
+        "slug": "graphicdesignwithai",
+        "category": "Technical",
+        "tpFolderId": "AYbskpQc3pz",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "Introduction of Ai and Graphic Design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Ai Graphic Design ",
+                        "lectureId": "68eb7740c9cf3d230ba66524",
+                        "lectureLength": "00:54:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fssNNfxejH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "The Ai Operator's Playbook",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Mastering Ai Tools",
+                        "lectureId": "68eb7969c9cf3d230ba665a0",
+                        "lectureLength": "01:44:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CCePKrrfyR/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "AI Graphic Designing ",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "The Psychology of Design Understanding how visuals influence minds",
+                        "lectureId": "68eb7794c9cf3d230ba6652e",
+                        "lectureLength": "00:29:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSueCpM9NCd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ai in Graphic Design Crafting Creative Work",
+                        "lectureId": "68eb778cc9cf3d230ba6652b",
+                        "lectureLength": "00:41:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A98phuUAf4G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ai Image generation Transforming Ideas into visuals",
+                        "lectureId": "68eb7d1cc9cf3d230ba66642",
+                        "lectureLength": "00:45:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4e75KQx6H76/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 1",
+                "assignmentId": "6964b25ecfb436b316fa5a1f",
+                "assignmentLink": "https://docs.google.com/document/d/1ME9GlCG8W149Ssz4Kx64M4ZmHyMSJuWtu_pMQDJcmvQ/edit?tab=t.0#heading=h.htv9o5xglec4"
+            },
+            {
+                "type": "section",
+                "name": "AI for Photoshop The New Era of Creation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Adobe Photoshop Essentials Mastering the Basics",
+                        "lectureId": "68eb77d0c9cf3d230ba66539",
+                        "lectureLength": "00:31:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZHEp2x7NHy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Crafting in Photoshop From Concept to Creation",
+                        "lectureId": "68eb77e3c9cf3d230ba6653f",
+                        "lectureLength": "00:37:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtC5jMSYc22/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Blending Creativity with AI Using AI While Designing in Photoshop",
+                        "lectureId": "68eb77dbc9cf3d230ba6653c",
+                        "lectureLength": "00:45:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhZJ97HBZDu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Psychology & Inspiration Creating with Purpose",
+                        "lectureId": "68eb77ecc9cf3d230ba66542",
+                        "lectureLength": "00:40:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JQe4zgfYRk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Photoshop AI Explained How Adobe’s AI Really Works",
+                        "lectureId": "68eb77f5c9cf3d230ba66545",
+                        "lectureLength": "00:34:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QSSDzjDU33/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "AI for Adobe Illustrator The New Era of Creation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Adobe Illustrator What It Is and Why It Matters",
+                        "lectureId": "68eb7825c9cf3d230ba66550",
+                        "lectureLength": "00:29:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MEG4kD72Pf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Illustrator Basics Building Your Creative Foundation",
+                        "lectureId": "68eb781dc9cf3d230ba6654d",
+                        "lectureLength": "00:49:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32xmFkMQXeS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mastering Illustrator Tools The Core of Vector Design",
+                        "lectureId": "68eb7830c9cf3d230ba66553",
+                        "lectureLength": "00:26:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYSgd8cJMfe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing with Illustrator & AI Merging Precision with Intelligence",
+                        "lectureId": "68eb7816c9cf3d230ba6654a",
+                        "lectureLength": "00:37:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kb4397UY5m/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 2",
+                "assignmentId": "69650ca23fe192563aa9f95e",
+                "assignmentLink": "https://docs.google.com/document/d/1GInCDAzOybN_6dLhWcKggTqrX_YeG1HK9i01ZimNpPc/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Branding 3.0 Mastering the Art of AI-Driven Design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Branding with AI & Design Psychology Building Meaningful Identities",
+                        "lectureId": "68eb786fc9cf3d230ba66570",
+                        "lectureLength": "00:45:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XZt2MTB4c3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logo Creation Crafting Symbols that Speak",
+                        "lectureId": "68eb7874c9cf3d230ba66573",
+                        "lectureLength": "00:44:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mn7trF8TGf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI-Driven Branding in Photoshop Turning Ideas into Visual Impact",
+                        "lectureId": "68eb7869c9cf3d230ba6656d",
+                        "lectureLength": "00:44:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76yk2kyNphF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Branding with AI Blending Creativity and Strategy",
+                        "lectureId": "68eb7861c9cf3d230ba6656a",
+                        "lectureLength": "00:37:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cTUgt3hBnE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The Psychology Behind Brand Design Creating Emotionally Resonant Brands",
+                        "lectureId": "68eb787bc9cf3d230ba66576",
+                        "lectureLength": "00:40:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8R6qd9ambhg/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Ethics & Intelligence_ Mastering AI Tools Responsibly",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "AI Ethics in Design Creating Responsibly in the Age of Automation",
+                        "lectureId": "68eb789bc9cf3d230ba6657b",
+                        "lectureLength": "00:32:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JkQFX5nxBR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Clients & Invoicing The Business Side of Design",
+                        "lectureId": "68eb78aac9cf3d230ba66581",
+                        "lectureLength": "00:33:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RNGgyEsSKq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Essential AI Tools & Software Accelerating Your Creative Growth",
+                        "lectureId": "68eb78a2c9cf3d230ba6657e",
+                        "lectureLength": "00:29:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tfQuYebcj9g/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Ch-8 360° Marketing & Branding Mastery_ Build, Scale & Dominate Your Market",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to 360° Branding Building Brands That Speak Everywhere",
+                        "lectureId": "68eb78ebc9cf3d230ba66595",
+                        "lectureLength": "00:45:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KXgR5UerSc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "From Brainstorming to Brand Creation Logo, Identity & Concept Development",
+                        "lectureId": "68eb78e1c9cf3d230ba66592",
+                        "lectureLength": "00:41:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KRhTbrNGE2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Finalizing the Brand Cohesive Visual Systems & Brand Consistency",
+                        "lectureId": "68eb78dbc9cf3d230ba6658f",
+                        "lectureLength": "00:42:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjfcXJqdkrh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI Powered Mockups & Real World Applications Bringing Your Brand to Life",
+                        "lectureId": "68eb78cdc9cf3d230ba66589",
+                        "lectureLength": "00:36:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46UE2ta9nFF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The Psychology of Branding How Brands Grow Through Strategy, Design & Character Creation (With Case Studies)",
+                        "lectureId": "68eb78f9c9cf3d230ba6659b",
+                        "lectureLength": "00:37:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZTtXeG6PgR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Viral Content Designing for Reach, Emotion & Shareability",
+                        "lectureId": "68eb78d3c9cf3d230ba6658c",
+                        "lectureLength": "00:41:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ssSFh6uG3NK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Market Psychology & Marketing Strategy Understanding What Truly Works",
+                        "lectureId": "68eb78f3c9cf3d230ba66598",
+                        "lectureLength": "00:34:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RGne2jY7cJN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI for Creative Growth Tools, Client Experiences & Course Wrap Up",
+                        "lectureId": "68eb78c0c9cf3d230ba66586",
+                        "lectureLength": "00:32:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MbBU5s3Mn3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 3",
+                "assignmentId": "69650c383fe192563aa9f959",
+                "assignmentLink": "https://docs.google.com/document/d/1yO2QgOOAq9sFaeg_XCF6gEXjcrlZcQCVX-IufCTn52A/edit?usp=sharing"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "695d46b39391f1e3aa70535a",
+                "mentor": "Sudhanshu Joshi",
+                "start": 21,
+                "end": 23,
+                "chatStart": 21,
+                "chatEnd": 23,
+                "time": "9 PM - 11 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds10",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [
+            "https://docs.google.com/document/d/1acQ9xPm-CaLIHGHemlBnu2JkMH1xtpjEW7YWKeAmT2k/edit?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

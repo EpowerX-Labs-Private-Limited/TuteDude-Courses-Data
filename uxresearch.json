@@ -1,0 +1,356 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680c86eb364f718dc17b6fad",
+        "courseName": "UX Research",
+        "slug": "uxresearch",
+        "category": "visual_arts",
+        "tpFolderId": "3xZ9qtc5R2F",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Introduction To UX",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "User Experience Research",
+                        "lectureId": "680c86eb364f718dc17b6faf",
+                        "lectureLength": "00:14:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EgeZXGAdpPK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Brief history of UX design and Characteristics of good UX",
+                        "lectureId": "680c86eb364f718dc17b6fb0",
+                        "lectureLength": "00:07:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4e2ReJBPScg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Design Thinking Process?",
+                        "lectureId": "680c86eb364f718dc17b6fb1",
+                        "lectureLength": "00:11:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6x9A3n8fuxs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Roles of UX in Product Development",
+                        "lectureId": "680c86eb364f718dc17b6fb2",
+                        "lectureLength": "00:11:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SkyP4Kgdyf/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "User Experience Research",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is User Experience Research",
+                        "lectureId": "680c86eb364f718dc17b6fb4",
+                        "lectureLength": "00:11:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HNJbAaYsmSx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of UX Research",
+                        "lectureId": "680c86eb364f718dc17b6fb5",
+                        "lectureLength": "00:12:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TjRqQQ44Fj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Primary UX Research",
+                        "lectureId": "680c86eb364f718dc17b6fb6",
+                        "lectureLength": "00:25:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ap246XT88B2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Secondary Research",
+                        "lectureId": "680c86eb364f718dc17b6fb7",
+                        "lectureLength": "00:25:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApJQbcqm7yz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logical Fallacies and Biases in Research",
+                        "lectureId": "680c86eb364f718dc17b6fb8",
+                        "lectureLength": "00:11:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7S9nznna3JT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Define Stage",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is DEFINE in UX Design Thinking Process",
+                        "lectureId": "680c86eb364f718dc17b6fba",
+                        "lectureLength": "00:23:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HQRJcz8zsyd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Empathy Mapping?",
+                        "lectureId": "680c86eb364f718dc17b6fbb",
+                        "lectureLength": "00:21:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Jx7ghqy8un/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What are User Persona?",
+                        "lectureId": "680c86eb364f718dc17b6fbc",
+                        "lectureLength": "00:22:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dpGDZp3dZ3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is a customer journey?",
+                        "lectureId": "680c86eb364f718dc17b6fbd",
+                        "lectureLength": "00:25:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zrcaxQ3HZb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Other Analysis Methods",
+                        "lectureId": "680c86eb364f718dc17b6fbe",
+                        "lectureLength": "00:29:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zeUTNRM2Cx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem that needs to be solved",
+                        "lectureId": "680c86eb364f718dc17b6fbf",
+                        "lectureLength": "00:12:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uFx5zAh5J3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Information Architecture",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Ideation?",
+                        "lectureId": "680c86eb364f718dc17b6fc1",
+                        "lectureLength": "00:28:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjXxedqpRJJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Information Architecture?",
+                        "lectureId": "680c86eb364f718dc17b6fc2",
+                        "lectureLength": "00:21:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDa2HCq9FfF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is navigation in design?",
+                        "lectureId": "680c86eb364f718dc17b6fc3",
+                        "lectureLength": "00:26:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kAnsxuDrDp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Common navigation design pattern",
+                        "lectureId": "680c86eb364f718dc17b6fc4",
+                        "lectureLength": "00:17:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NpGS3kkFqe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inclusive Design",
+                        "lectureId": "680c86eb364f718dc17b6fc5",
+                        "lectureLength": "00:31:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfUaQFAGP8K/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Design System",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is a design system?",
+                        "lectureId": "680c86eb364f718dc17b6fc7",
+                        "lectureLength": "00:34:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GUz5a5aKHa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Approach a Design system",
+                        "lectureId": "680c86eb364f718dc17b6fc8",
+                        "lectureLength": "00:29:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MqgcKAEkRX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Wireframes",
+                        "lectureId": "680c86eb364f718dc17b6fc9",
+                        "lectureLength": "00:38:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BK6djZnAB4C/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "User Testing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is testing in design thinking process?",
+                        "lectureId": "680c86eb364f718dc17b6fcb",
+                        "lectureLength": "00:28:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEJQJ2kmdru/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "User Testing methods",
+                        "lectureId": "680c86eb364f718dc17b6fcc",
+                        "lectureLength": "00:24:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QqnaztQrcB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Usability Testing",
+                        "lectureId": "680c86eb364f718dc17b6fcd",
+                        "lectureLength": "00:25:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XAq2XgBCmR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Heuristic Evaluation",
+                        "lectureId": "680c86eb364f718dc17b6fce",
+                        "lectureLength": "00:37:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u7ZFZFMJAn/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "UX Tools & Strategy",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "UX Research UX Tools and Strategy",
+                        "lectureId": "680c86eb364f718dc17b6fd0",
+                        "lectureLength": "00:41:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B36N8FCkHCA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is UX strategy?",
+                        "lectureId": "680c86eb364f718dc17b6fd1",
+                        "lectureLength": "00:24:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fXHTaETNUUc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is UX writing?",
+                        "lectureId": "680c86eb364f718dc17b6fd2",
+                        "lectureLength": "00:24:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yBqKmFNUaz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Top UI UX Trends",
+                        "lectureId": "680c86eb364f718dc17b6fd3",
+                        "lectureLength": "00:21:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUsYck4CFNB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "UX Case Study",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to make UX Case study from Scratch?",
+                        "lectureId": "680c86eb364f718dc17b6fd5",
+                        "lectureLength": "00:26:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7T9fQXAeFHp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is a UX case study?",
+                        "lectureId": "680c86eb364f718dc17b6fd6",
+                        "lectureLength": "00:49:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uzqsygAj3P/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "UX Case Study 1",
+                "assignmentId": "68f2251083492d3c7b6b54ac",
+                "assignmentLink": "https://docs.google.com/document/d/1YLXgeSShrb0LarQDqw0-21rXk5HC7DkkjNvMvbVMUHo/edit?tab=t.0"
+            },
+            {
+                "type": "assignment",
+                "name": "UX Case Study 2",
+                "assignmentId": "68f2251083492d3c7b6b54ae",
+                "assignmentLink": "https://docs.google.com/document/d/1kx78uQm6th21lApeKxTt81BvVedLPkcK0fT15S9IxRA/edit?usp=sharing"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6992fe74959c4775ed10aa0f",
+                "mentor": "Aatreyee",
+                "start": 19,
+                "end": 21,
+                "chatStart": 20.5,
+                "chatEnd": 22,
+                "time": "7:00 PM - 9:00 PM",
+                "url": "https://campus.tutedude.com/uiux?room=mr2",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "junior"
+            },
+            {
+                "_id": "6a1eea5ffc66b37ef64a53f0",
+                "mentor": "Aman Singh",
+                "start": 18.5,
+                "end": 21.5,
+                "chatStart": 0,
+                "chatEnd": 0,
+                "time": "6:30 PM - 9:30 PM",
+                "url": "https://campus.tutedude.com/uiux?room=mr1",
+                "isAvailable": true,
+                "availableDays": [
+                    0,
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

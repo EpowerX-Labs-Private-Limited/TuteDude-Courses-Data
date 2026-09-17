@@ -1,0 +1,1488 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680c83c9254f51e69e863cde",
+        "courseName": "MERN Stack",
+        "slug": "mernstack",
+        "category": "technical",
+        "tpFolderId": "3Gu5HN6B9x8",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": true,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "68eaa184c9cf3d230ba663eb",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Intro to Web Development",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to the course",
+                        "lectureId": "680c83c9254f51e69e863ce0",
+                        "lectureLength": "00:05:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Z9Da4hfHbE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How Internet Works",
+                        "lectureId": "680c83c9254f51e69e863ce1",
+                        "lectureLength": "00:08:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9H6Nc9QtJ2S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Web Development",
+                        "lectureId": "680c83c9254f51e69e863ce2",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KJbPXuA3k8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Fundamentals of Web Technology",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Fundamentals of Web Technology",
+                        "lectureId": "68791322aa7b36a500958a48",
+                        "lectureLength": "01:01:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NcQY9EfDpJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Complete Git and GitHub Commands",
+                        "lectureId": "6879132daa7b36a500958a4b",
+                        "lectureLength": "00:36:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXEQr35BbA5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "HTML",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Fundamentals of Web Applications",
+                        "lectureId": "680c83c9254f51e69e863ce4",
+                        "lectureLength": "00:22:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABXegACm4kY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Intro to HTML",
+                        "lectureId": "680c83c9254f51e69e863ce5",
+                        "lectureLength": "00:12:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33dZrFzJ7Ny/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Head Tag in HTML",
+                        "lectureId": "680c83c9254f51e69e863ce6",
+                        "lectureLength": "00:20:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q2pDKrE9Z3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Formatters",
+                        "lectureId": "680c83c9254f51e69e863ce7",
+                        "lectureLength": "00:22:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36RZFHTMg6u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Images in HTML",
+                        "lectureId": "680c83c9254f51e69e863ce8",
+                        "lectureLength": "00:22:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tUyy4PHXhT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lists in HTML",
+                        "lectureId": "680c83c9254f51e69e863ce9",
+                        "lectureLength": "00:21:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjnjpExmpbR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tables in HTML",
+                        "lectureId": "680c83c9254f51e69e863cea",
+                        "lectureLength": "00:24:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzKqP8RxEd8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Web Resume",
+                        "lectureId": "680c83c9254f51e69e863ceb",
+                        "lectureLength": "00:25:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKkGsRsdnRh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Links in HTML",
+                        "lectureId": "680c83c9254f51e69e863cec",
+                        "lectureLength": "00:24:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ybtM3m83kN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Forms in HTML -  01",
+                        "lectureId": "680c83c9254f51e69e863ced",
+                        "lectureLength": "00:40:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A985BmrBDpp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Forms 2.2",
+                        "lectureId": "680c83c9254f51e69e863cee",
+                        "lectureLength": "00:29:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AX9PQaDMMkD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Semantic Tags in HTML",
+                        "lectureId": "680c83c9254f51e69e863cef",
+                        "lectureLength": "00:25:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xrHT3EC4NDx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hosting the application",
+                        "lectureId": "680c83c9254f51e69e863cf0",
+                        "lectureLength": "00:18:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ym5nTHt7UU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PROJECT- Putting it all together",
+                        "lectureId": "680c83c9254f51e69e863cf1",
+                        "lectureLength": "00:20:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BckHr2SnknK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 1",
+                "assignmentId": "68f224f483492d3c7b6b5471",
+                "assignmentLink": "https://docs.google.com/document/d/15cziKumjUdWJZ4RCQbSdw5THbO9fPHA-clzovFn5WCY/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "CSS",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to CSS",
+                        "lectureId": "680c83c9254f51e69e863cf4",
+                        "lectureLength": "00:25:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pcG7eckYQG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CSS Selectors",
+                        "lectureId": "680c83c9254f51e69e863cf5",
+                        "lectureLength": "00:41:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nu2CaPcUxs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Colors in CSS",
+                        "lectureId": "680c83c9254f51e69e863cf6",
+                        "lectureLength": "00:26:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5N8TEUAXfhF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Units in CSS",
+                        "lectureId": "680c83c9254f51e69e863cf7",
+                        "lectureLength": "00:31:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RpBYK2XxcE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Box Model in CSS",
+                        "lectureId": "680c83c9254f51e69e863cf8",
+                        "lectureLength": "00:23:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pHbUy7b2Qf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Texts and Fonts in CSS",
+                        "lectureId": "680c83c9254f51e69e863cf9",
+                        "lectureLength": "00:38:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkAjbBtDtT2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Display in CSS",
+                        "lectureId": "680c83c9254f51e69e863cfa",
+                        "lectureLength": "00:28:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TPG8Q2FQyy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Positions in CSS",
+                        "lectureId": "680c83c9254f51e69e863cfb",
+                        "lectureLength": "00:24:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8HcynXhUm9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Overflow, Float and Clear in CSS",
+                        "lectureId": "680c83c9254f51e69e863cfc",
+                        "lectureLength": "00:22:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B37nGUUM9Bh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "FlexBox in CSS",
+                        "lectureId": "680c83c9254f51e69e863cfd",
+                        "lectureLength": "00:40:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BPGEzdDPJcG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grid in CSS",
+                        "lectureId": "680c83c9254f51e69e863cfe",
+                        "lectureLength": "00:37:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mKFp6MPRzQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grid Portfolio in CSS",
+                        "lectureId": "680c83c9254f51e69e863cff",
+                        "lectureLength": "00:28:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bdxtGMDG34/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Media Queries in CSS",
+                        "lectureId": "680c83c9254f51e69e863d00",
+                        "lectureLength": "00:26:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ysS94xX8NT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CSS Variables",
+                        "lectureId": "680c83c9254f51e69e863d01",
+                        "lectureLength": "00:29:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BTbeq3B7dH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transform in CSS",
+                        "lectureId": "680c83c9254f51e69e863d02",
+                        "lectureLength": "00:25:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PFBMyZY6Zs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tranistion in CSS",
+                        "lectureId": "680c83c9254f51e69e863d03",
+                        "lectureLength": "00:30:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mHXh6dzETPR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keyframe Animations",
+                        "lectureId": "680c83c9254f51e69e863d04",
+                        "lectureLength": "00:38:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uZ2rtbFmtE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 2",
+                "assignmentId": "68f224f583492d3c7b6b5473",
+                "assignmentLink": "https://docs.google.com/document/d/1WujW8TJ6gencKAHDXfSZoVpOPEwvYU2K6DrimShUe0c/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "HTML CSS Project",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Bella Vista - Project Demo",
+                        "lectureId": "68790badaa7b36a500957ad8",
+                        "lectureLength": "00:09:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B42YqtbYkzB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bella Vista - Header and Navigation",
+                        "lectureId": "68790bb2aa7b36a500957adb",
+                        "lectureLength": "00:31:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sxgqFrrePn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bella Vista - Hero Section",
+                        "lectureId": "68790bb8aa7b36a500957ade",
+                        "lectureLength": "00:27:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5eEFFrDPPtf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bella Vista - Menu Section",
+                        "lectureId": "68790bbfaa7b36a500957ae1",
+                        "lectureLength": "00:25:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5agQRsk4a8S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bella Vista - About Section",
+                        "lectureId": "68790bc5aa7b36a500957ae4",
+                        "lectureLength": "00:17:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7u9BnKsHKkF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bella Vista - Contact Us Section",
+                        "lectureId": "68790bcbaa7b36a500957ae7",
+                        "lectureLength": "00:30:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bx4Rm6udxk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bella Vista - CSS Custom Property and Responsive Design",
+                        "lectureId": "68790bd0aa7b36a500957aea",
+                        "lectureLength": "00:25:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KBppHskEhT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bella Vista - Footer Section",
+                        "lectureId": "68790bd5aa7b36a500957aed",
+                        "lectureLength": "00:25:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DeZ3qqqayf/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Javascript",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to JS",
+                        "lectureId": "68764a7daa7b36a500956428",
+                        "lectureLength": "00:36:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hdTbnnF9Q3Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Types in JS",
+                        "lectureId": "68764a86aa7b36a50095642b",
+                        "lectureLength": "00:27:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YPyPEr7zeX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Operators in JS",
+                        "lectureId": "68764a8daa7b36a50095642e",
+                        "lectureLength": "00:40:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eUUxpeySqf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "If-Else Condition",
+                        "lectureId": "68764a95aa7b36a500956431",
+                        "lectureLength": "00:27:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jczbUZqnSz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Switch in JS",
+                        "lectureId": "68764a9aaa7b36a500956434",
+                        "lectureLength": "00:15:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a8mR5zmrbs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Loops in JS",
+                        "lectureId": "68764aa1aa7b36a500956437",
+                        "lectureLength": "00:34:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mrzj6s4HRD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Arrays in JS",
+                        "lectureId": "68764aa8aa7b36a50095643a",
+                        "lectureLength": "00:34:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eCERsET5cQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Functions in JS",
+                        "lectureId": "68764aadaa7b36a50095643d",
+                        "lectureLength": "00:32:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYEzqgggAyf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Funcs in JS",
+                        "lectureId": "68764ab3aa7b36a500956440",
+                        "lectureLength": "00:27:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Tc8d7hHbZ5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Call Back Hell in JS",
+                        "lectureId": "68764ab9aa7b36a500956443",
+                        "lectureLength": "00:23:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pXJCQUDHRj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Promises in JS",
+                        "lectureId": "68764abeaa7b36a500956446",
+                        "lectureLength": "00:34:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Tmd8PPNBuQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DOM Manipulations in JS",
+                        "lectureId": "68764ac4aa7b36a500956449",
+                        "lectureLength": "00:32:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4d8X79AkUZN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Events in JS",
+                        "lectureId": "68764accaa7b36a50095644c",
+                        "lectureLength": "00:26:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xe8bxjGS9n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 3",
+                "assignmentId": "68f224f683492d3c7b6b5475",
+                "assignmentLink": "https://www.canva.com/design/DAGtbr6eZWQ/SpYOfT6fAV8sGn_jzo9jLQ/edit?utm_content=DAGtbr6eZWQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "section",
+                "name": "The Killer Website (Frontend Project)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Setting up the folder structure",
+                        "lectureId": "680c83c9254f51e69e863d3b",
+                        "lectureLength": "00:20:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/795AzBJmZnC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Responsive grid system",
+                        "lectureId": "680c83c9254f51e69e863d3c",
+                        "lectureLength": "00:06:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8ueQdhGaN2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Header section - Part-1",
+                        "lectureId": "680c83c9254f51e69e863d3d",
+                        "lectureLength": "00:12:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4csjKy3FU6S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Header section - Part-2",
+                        "lectureId": "680c83c9254f51e69e863d3e",
+                        "lectureLength": "00:18:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nFYkXheSnB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Header section - Part-3",
+                        "lectureId": "680c83c9254f51e69e863d3f",
+                        "lectureLength": "00:14:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dXqFEbCuQYy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Feature section - Part-1",
+                        "lectureId": "680c83c9254f51e69e863d40",
+                        "lectureLength": "00:11:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Rx4FM8N83p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Feature section - Part-2",
+                        "lectureId": "680c83c9254f51e69e863d41",
+                        "lectureLength": "00:11:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JkcKGzYmK2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Favorite meal section - Part-1",
+                        "lectureId": "680c83c9254f51e69e863d42",
+                        "lectureLength": "00:10:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KedcNjfUZJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Favorite meal section - Part-2",
+                        "lectureId": "680c83c9254f51e69e863d43",
+                        "lectureLength": "00:09:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsBTm7s3H3g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating how it works section - Part-1",
+                        "lectureId": "680c83c9254f51e69e863d44",
+                        "lectureLength": "00:10:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6x7NTt5zKBd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating how it works section - Part-2",
+                        "lectureId": "680c83c9254f51e69e863d45",
+                        "lectureLength": "00:16:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fym38d7xEM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the city section - Part-1",
+                        "lectureId": "680c83c9254f51e69e863d46",
+                        "lectureLength": "00:13:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MGF6GcCmYN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the city section - Part-2",
+                        "lectureId": "680c83c9254f51e69e863d47",
+                        "lectureLength": "00:12:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cd5FeuznbC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Customer testimonial section - Part-1",
+                        "lectureId": "680c83c9254f51e69e863d48",
+                        "lectureLength": "00:06:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dhQcz7gBfj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Customer testimonial section - Part-2",
+                        "lectureId": "680c83c9254f51e69e863d49",
+                        "lectureLength": "00:10:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pRfjAMrXkc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Sign up section - Part-1",
+                        "lectureId": "680c83c9254f51e69e863d4a",
+                        "lectureLength": "00:11:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tKcRJquYRx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Sign up section - Part-2",
+                        "lectureId": "680c83c9254f51e69e863d4b",
+                        "lectureLength": "00:12:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6a7A6tJany/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the contact form section - Part-1",
+                        "lectureId": "680c83c9254f51e69e863d4c",
+                        "lectureLength": "00:14:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qgBU7aSRzS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the contact form section - Part-2",
+                        "lectureId": "680c83c9254f51e69e863d4d",
+                        "lectureLength": "00:07:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57zcKkksA43/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the footer section - Part-1",
+                        "lectureId": "680c83c9254f51e69e863d4e",
+                        "lectureLength": "00:06:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ag3XFjmj8KS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the footer section - Part-2",
+                        "lectureId": "680c83c9254f51e69e863d4f",
+                        "lectureLength": "00:14:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q8GF4Hrd55/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Making webpage responsive - Part-1",
+                        "lectureId": "680c83c9254f51e69e863d50",
+                        "lectureLength": "00:17:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APdAmEz7s7M/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Making webpage responsive - Part-2",
+                        "lectureId": "680c83c9254f51e69e863d51",
+                        "lectureLength": "00:18:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bndHJTDUDx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Including jquery",
+                        "lectureId": "680c83c9254f51e69e863d52",
+                        "lectureLength": "00:03:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gggHZBcAhQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scrolling effect",
+                        "lectureId": "680c83c9254f51e69e863d53",
+                        "lectureLength": "00:07:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XpArFhHCF6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding animations",
+                        "lectureId": "680c83c9254f51e69e863d54",
+                        "lectureLength": "00:12:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8UCb94mSf7U/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 4",
+                "assignmentId": "68f224f783492d3c7b6b5477",
+                "assignmentLink": "https://www.canva.com/design/DAGucWTXdRo/RyB-eo5uw2ZiTK41ZFQN5Q/edit?utm_content=DAGucWTXdRo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "section",
+                "name": "Tailwind CSS",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to TailwindCSS",
+                        "lectureId": "686cd3e5318dfa98a32da2b8",
+                        "lectureLength": "00:10:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PDaydKAqJE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tailwind CSS setup with CDN",
+                        "lectureId": "686cd414318dfa98a32da2c7",
+                        "lectureLength": "00:18:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JfzmzmNkgk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tailwind CSS with CLI",
+                        "lectureId": "686cd41c318dfa98a32da2ca",
+                        "lectureLength": "00:18:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEs2tFXsRC5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Importance of Tailwnd CSS",
+                        "lectureId": "686cd3d4318dfa98a32da2b2",
+                        "lectureLength": "00:13:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qZJGMYKTBF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Colors in Tailwind CSS",
+                        "lectureId": "686cd392318dfa98a32da29d",
+                        "lectureLength": "00:16:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Zn7SHzcgac/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Margin and Padding in Tailwind CSS",
+                        "lectureId": "686cd3ef318dfa98a32da2bb",
+                        "lectureLength": "00:23:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGYbG7ZExku/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Width in Tailwind CSS",
+                        "lectureId": "686cd424318dfa98a32da2cd",
+                        "lectureLength": "00:22:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ecscMtmQDZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Height in Tailwind CSS",
+                        "lectureId": "686cd3ca318dfa98a32da2af",
+                        "lectureLength": "00:22:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uajAjMRANf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Size Class in Tailwind CSS",
+                        "lectureId": "686cd40b318dfa98a32da2c4",
+                        "lectureLength": "00:16:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JH9s98n3ET/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Positions in Tailwind CSS",
+                        "lectureId": "686cd402318dfa98a32da2c1",
+                        "lectureLength": "00:22:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Xuz2CXaag7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Container Class in Tailwind CSS",
+                        "lectureId": "686cd3a6318dfa98a32da2a3",
+                        "lectureLength": "00:16:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsKhchy2hE4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Background Classes in Tailwind CSS",
+                        "lectureId": "686cd389318dfa98a32da29a",
+                        "lectureLength": "00:17:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtRSnd2pNTh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Filter Class in Tailwind CSS",
+                        "lectureId": "686cd3af318dfa98a32da2a6",
+                        "lectureLength": "00:14:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dFra6ftcsu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interactivity with Tailwind CSS",
+                        "lectureId": "686cd3dc318dfa98a32da2b5",
+                        "lectureLength": "00:21:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah6f68z6JMs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Media Query and Its Breakpoints in Tailwind CSS",
+                        "lectureId": "686cd3f8318dfa98a32da2be",
+                        "lectureLength": "00:21:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BFKdRpdmDA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Column Classes in Tailwind CSS",
+                        "lectureId": "686cd39d318dfa98a32da2a0",
+                        "lectureLength": "00:22:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7j6Q93ffxpJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Flex Classes in Tailwind CSS",
+                        "lectureId": "686cd3b8318dfa98a32da2a9",
+                        "lectureLength": "00:23:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ACDyTzjQUU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grid in Tailwind CSS",
+                        "lectureId": "686cd3c1318dfa98a32da2ac",
+                        "lectureLength": "00:12:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/85pkeeYPXJs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animations in Tailwind CSS",
+                        "lectureId": "686cd36f318dfa98a32da297",
+                        "lectureLength": "00:12:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kb7hkQfjGE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "ReactJs",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to React",
+                        "lectureId": "680c83c9254f51e69e863db9",
+                        "lectureLength": "00:08:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeE3sgSBFsZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Road Map to React",
+                        "lectureId": "680c83c9254f51e69e863dba",
+                        "lectureLength": "00:16:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XYj7Mk56QE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create a react project",
+                        "lectureId": "680c83c9254f51e69e863dbb",
+                        "lectureLength": "00:43:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gAfRj3qpYES/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Undertsand the React Flow and File Structures",
+                        "lectureId": "680c83c9254f51e69e863dbc",
+                        "lectureLength": "00:41:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ep7gHzDMHs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating our own Custom React library and JSX",
+                        "lectureId": "680c83c9254f51e69e863dbd",
+                        "lectureLength": "00:51:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tezUZsGS7N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hooks in React",
+                        "lectureId": "680c83c9254f51e69e863dbe",
+                        "lectureLength": "00:29:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SHBp8hNtR4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Props in React",
+                        "lectureId": "680c83c9254f51e69e863dbf",
+                        "lectureLength": "00:47:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d75gRmqsrH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UseState, useCallback, useEffect, useRef in React Hooks",
+                        "lectureId": "680c83c9254f51e69e863dc0",
+                        "lectureLength": "00:58:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jqZ97H52ec/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hooks Implementation",
+                        "lectureId": "683dbfec60ac3b71532c24d6",
+                        "lectureLength": "00:19:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hEBRe4XYjU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "React - Router",
+                        "lectureId": "683dbff560ac3b71532c24d7",
+                        "lectureLength": "01:09:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XMCgAa8x6P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Context API",
+                        "lectureId": "683dbfff60ac3b71532c24d8",
+                        "lectureLength": "00:36:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AxRsPkQYCA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Context API Part 2",
+                        "lectureId": "683dc00860ac3b71532c24d9",
+                        "lectureLength": "00:24:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Bs27rXKsrn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "To Do Context With Local Storage",
+                        "lectureId": "683dc01260ac3b71532c24da",
+                        "lectureLength": "01:15:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5h9JuUaHUnk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keeper App Project Part-1",
+                        "lectureId": "683dc01a60ac3b71532c24db",
+                        "lectureLength": "00:06:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rMSUfAZ8s4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keeper App Project Part-2",
+                        "lectureId": "683dc02560ac3b71532c24dc",
+                        "lectureLength": "00:03:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48uZhN2N8FX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Keeper App Project Part-3",
+                        "lectureId": "683dc02e60ac3b71532c24dd",
+                        "lectureLength": "00:11:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7nUB93gtQj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 5",
+                "assignmentId": "68f224f883492d3c7b6b5479",
+                "assignmentLink": "https://www.canva.com/design/DAGtb-Bxa6Q/ZUQF3FrQ3RwmfzU0ainSJg/edit"
+            },
+            {
+                "type": "section",
+                "name": "NodeJs",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Node and Creating a node server",
+                        "lectureId": "68790e02aa7b36a500957e89",
+                        "lectureLength": "00:27:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dcPsX76s4d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Req, Res, Http Status Codes and HTTP Methods",
+                        "lectureId": "68790e08aa7b36a500957e8c",
+                        "lectureLength": "00:26:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jyBdgsD9ue/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Routing & Redirectional Requests",
+                        "lectureId": "68790e0eaa7b36a500957e8f",
+                        "lectureLength": "00:42:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EBuGkpXH8x/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Node To-Do-List Application",
+                        "lectureId": "68790e14aa7b36a500957e92",
+                        "lectureLength": "00:49:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xfJnS2h264/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 6",
+                "assignmentId": "68f224f983492d3c7b6b547b",
+                "assignmentLink": "https://docs.google.com/document/d/146bBZb0RaCHJ61HMLqg-PcLmnrMaG_b1siVlqQ1Nnxw/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "ExpressJs",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Express",
+                        "lectureId": "68790f60aa7b36a500957fc5",
+                        "lectureLength": "00:16:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kYmT5fJfBy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "To Do List Appln - ExpressJS",
+                        "lectureId": "68790f68aa7b36a500957fc8",
+                        "lectureLength": "00:24:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hheh567jxG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Library Managment System SetUp",
+                        "lectureId": "68790f6faa7b36a500957fcb",
+                        "lectureLength": "00:57:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mSsXsfN9hh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Library Managamnet System",
+                        "lectureId": "68790f74aa7b36a500957fce",
+                        "lectureLength": "02:13:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yJAQN5qBAxu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 7",
+                "assignmentId": "68f224fa83492d3c7b6b547d",
+                "assignmentLink": "https://docs.google.com/document/d/1eXT0XfZLMWlI2fDFh70In76NKWiA78s-kz-00WBV5mA/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "MongoDB",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to MongoDB",
+                        "lectureId": "68790fa8aa7b36a5009580f4",
+                        "lectureLength": "00:20:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQxCKz769Z7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connection to MongoDB, Project Setup & dotenv",
+                        "lectureId": "68790fafaa7b36a5009580f7",
+                        "lectureLength": "00:41:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5DBJueSx5P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Models (Collections Structure) in MongoDb",
+                        "lectureId": "68790fb5aa7b36a5009580fa",
+                        "lectureLength": "00:27:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/m4HJpGmZUYc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Controllers (Book Controller) & DTO",
+                        "lectureId": "68790fbbaa7b36a5009580fd",
+                        "lectureLength": "00:55:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXGnkNDDZqf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Controllers (User Controller)",
+                        "lectureId": "68790fc0aa7b36a500958100",
+                        "lectureLength": "00:35:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95fdshNgngb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 8",
+                "assignmentId": "68f224fb83492d3c7b6b547f",
+                "assignmentLink": "https://docs.google.com/document/d/1wO_veynvdtaZBtj-ekfqz6-flTqn6aYlDOdJodQ86K0/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "Bootstrap",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Bootstrap",
+                        "lectureId": "6879112eaa7b36a50095847f",
+                        "lectureLength": "00:11:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Y5mGjR9X4Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Features in Bootstrap",
+                        "lectureId": "68791138aa7b36a500958482",
+                        "lectureLength": "00:08:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rQjDdRFxEM3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Colours & Typography in Bootstrap",
+                        "lectureId": "6879113eaa7b36a500958485",
+                        "lectureLength": "00:26:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HUMdu6uZDG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Buttons & Buttons Groups",
+                        "lectureId": "68791143aa7b36a500958488",
+                        "lectureLength": "00:25:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HjPFDDtcub/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Utility Classes in Bootstrap",
+                        "lectureId": "68791148aa7b36a50095848b",
+                        "lectureLength": "00:33:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ze9m33UA5C/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "BreakPoints and Containers",
+                        "lectureId": "6879114eaa7b36a50095848e",
+                        "lectureLength": "00:12:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8M6N39TNpDB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grid Layouts in Bootstrap",
+                        "lectureId": "68791161aa7b36a500958491",
+                        "lectureLength": "00:18:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7C5q6aZfG3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project Intro with Grid",
+                        "lectureId": "68791167aa7b36a500958494",
+                        "lectureLength": "00:12:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3szunqXheHg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Navbar in Bootstrap",
+                        "lectureId": "6879116baa7b36a500958497",
+                        "lectureLength": "00:19:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34J8yg5EqJG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cards in Bootstrap",
+                        "lectureId": "68791171aa7b36a50095849a",
+                        "lectureLength": "00:12:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KQTFuUpRXp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Accordians in Bootstrap",
+                        "lectureId": "68791176aa7b36a50095849d",
+                        "lectureLength": "00:20:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cDBjhkyfSpS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "List Groups in Bootstrap",
+                        "lectureId": "6879117aaa7b36a5009584a0",
+                        "lectureLength": "00:10:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8Qr3PkQxu7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bootstrap Icons",
+                        "lectureId": "6879117faa7b36a5009584a3",
+                        "lectureLength": "00:13:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TkDXupP3r9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Forms in Bootstrap",
+                        "lectureId": "68791184aa7b36a5009584a6",
+                        "lectureLength": "00:24:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rZHQJKBTZj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tooltips in Bootstrap",
+                        "lectureId": "68791188aa7b36a5009584a9",
+                        "lectureLength": "00:14:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72nbMRjp8sM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modals in Bootstrap",
+                        "lectureId": "6879118daa7b36a5009584ac",
+                        "lectureLength": "00:21:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eE6bzCM6nt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Offcanvas in Bootstrap",
+                        "lectureId": "68791195aa7b36a5009584af",
+                        "lectureLength": "00:14:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65XCCermP4D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dropdowns in Bootstrap",
+                        "lectureId": "6879119aaa7b36a5009584b2",
+                        "lectureLength": "00:10:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uKct2RDBJE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tabs in Bootstrap",
+                        "lectureId": "6879119eaa7b36a5009584b5",
+                        "lectureLength": "00:15:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcAmQ9nZNHb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "MERN Fullstack project",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro MERN stack & MERN project",
+                        "lectureId": "6884a263aa7b36a50095b0ae",
+                        "lectureLength": "00:07:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95hGcfzYGrZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Express App SetUp",
+                        "lectureId": "6884a113aa7b36a50095b09c",
+                        "lectureLength": "00:24:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT5CRN4bsjM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Express Router and API Endpoints",
+                        "lectureId": "6884a11caa7b36a50095b09f",
+                        "lectureLength": "00:17:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnXjTMkAJex/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "MongoDB Atlas and Mongoose",
+                        "lectureId": "6884a2c5aa7b36a50095b0b2",
+                        "lectureLength": "00:11:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39x3QgGbrBr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Models And Schemas",
+                        "lectureId": "6884a308aa7b36a50095b0b7",
+                        "lectureLength": "00:15:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BsyaKKJ8Sc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Controllers Part - 01",
+                        "lectureId": "6884a06daa7b36a50095b090",
+                        "lectureLength": "00:20:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B532UXS2uTr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Controllers (Part - 02)",
+                        "lectureId": "6884a084aa7b36a50095b093",
+                        "lectureLength": "00:17:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBMTQJ92zDA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a react app - Frontend",
+                        "lectureId": "6884a107aa7b36a50095b099",
+                        "lectureLength": "00:18:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64BARtc6aUK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fetching the data from backend to frontend",
+                        "lectureId": "6884a1a1aa7b36a50095b0a5",
+                        "lectureLength": "00:23:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Tq96nGjRuRG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "New workout form",
+                        "lectureId": "68849f7daa7b36a50095b08a",
+                        "lectureLength": "00:24:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SgCJjDPkDG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Integerating React Context, useReducer Hooks",
+                        "lectureId": "6884a1b0aa7b36a50095b0a8",
+                        "lectureLength": "00:24:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Z9y7YprQS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deleting card date",
+                        "lectureId": "68e13853c9cf3d230ba64757",
+                        "lectureLength": "00:10:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAcHDAmCgQR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Handling Error Response",
+                        "lectureId": "68e1325dc9cf3d230ba64729",
+                        "lectureLength": "00:12:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cNpe3Kq5M6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "MERN Finishing Touch",
+                        "lectureId": "68e13245c9cf3d230ba64726",
+                        "lectureLength": "00:16:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXK73eUe4mX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "MERN Authentication & Security",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro and starter project",
+                        "lectureId": "68ad7ec4aa7b36a50095d24a",
+                        "lectureLength": "00:10:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pdEC5bEx7c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "User routes, controller and model",
+                        "lectureId": "68ad7f11aa7b36a50095d26e",
+                        "lectureLength": "00:20:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A65AjzP3Nb3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Signing up a user and hashing their password",
+                        "lectureId": "68ad7f06aa7b36a50095d268",
+                        "lectureLength": "00:13:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B22jhuDHeUK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Email and passowrd validation",
+                        "lectureId": "68ad7eb7aa7b36a50095d244",
+                        "lectureLength": "00:07:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KgxKeJxaYk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "JSON web tokens (theory)",
+                        "lectureId": "68ad7ecaaa7b36a50095d24d",
+                        "lectureLength": "00:05:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfGzb6Y6rxG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Signing tokens",
+                        "lectureId": "68ad7f00aa7b36a50095d265",
+                        "lectureLength": "00:08:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxaQ99phB2D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logging user in",
+                        "lectureId": "68ad7ed1aa7b36a50095d250",
+                        "lectureLength": "00:08:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MJSjPx8QTs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating react auth context",
+                        "lectureId": "68ad7eafaa7b36a50095d241",
+                        "lectureLength": "00:10:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4q7NJ3xyxHK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Login and signup forms",
+                        "lectureId": "68ad7ed8aa7b36a50095d253",
+                        "lectureLength": "00:15:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Fgfu8pXNtH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Making a usesignup hook",
+                        "lectureId": "68ad7ee9aa7b36a50095d25c",
+                        "lectureLength": "00:24:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GJpxhfpgeu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Making a uselogout hook",
+                        "lectureId": "68ad7ee4aa7b36a50095d259",
+                        "lectureLength": "00:13:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86kYy3zDykp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Making a uselogin hook",
+                        "lectureId": "68ad7edeaa7b36a50095d256",
+                        "lectureLength": "00:09:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aKApyAm8aZz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Updating the initial auth status",
+                        "lectureId": "68ad7f0caa7b36a50095d26b",
+                        "lectureLength": "00:16:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TTYp8hAbxE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Protecting API routes",
+                        "lectureId": "68ad7ef1aa7b36a50095d25f",
+                        "lectureLength": "00:23:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jkxTfs92X9t/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Having authorized requests",
+                        "lectureId": "68ad7ebdaa7b36a50095d247",
+                        "lectureLength": "00:13:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Qaysqa6KEG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Protecting react routes",
+                        "lectureId": "68ad7ef8aa7b36a50095d262",
+                        "lectureLength": "00:09:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkDUygFPhUf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assigning workouts to Users",
+                        "lectureId": "68ad7e9caa7b36a50095d23e",
+                        "lectureLength": "00:15:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7f4rCMNTS9S/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Final Project",
+                "assignmentId": "68f224fc83492d3c7b6b5481",
+                "assignmentLink": "https://drive.google.com/file/d/1OuCxo7IHh7vgXQ2LF-B9YUgvt4VciWaw/view?usp=sharing"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "687f82b64cffeabaa9bfe2c6",
+                "mentor": "Shreyas Tungar",
+                "start": 20,
+                "end": 23,
+                "time": "8 PM - 11:00 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db3",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "chatEnd": 23,
+                "chatStart": 20,
+                "role": "junior"
+            }
+        ],
+        "resource": [
+            "https://docs.google.com/document/d/1on9p3ULq18bXP-66_UrMNhAFDlcOpcnM5eXZkDKgFPs/edit?usp=drive_link"
+        ],
+        "notes": [],
+        "name": "Web Development MERN Stack",
+        "infoName": "MERN Stack",
+        "title": "MERN Stack Online Course: Becoming a Full-Stack Developer",
+        "description": "Our MERN Stack Course offers detailed training in modern web development. Enjoy self-paced learning and a 100% refund upon successful course completion.",
+        "video": "https://www.youtube.com/embed/VBhy3ircd_M",
+        "introStats": {
+            "ratings": "4.8+",
+            "learners": "90000+",
+            "duration": "68h 14m",
+            "language": "Hindi / English"
+        },
+        "icon": "ComboPackIcons_MERN",
+        "details": {
+            "lectures": "181",
+            "duration": "68h 14m",
+            "enrolled": "90000+",
+            "language": "Hindi/English"
+        }
+    },
+    "fromCache": false
+}

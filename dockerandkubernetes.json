@@ -1,0 +1,2048 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "69ca5aec49153561b6b60b16",
+        "courseName": "Docker and Kubernetes\"",
+        "slug": "dockerandkubernetes",
+        "category": "DevOps & Cloud",
+        "tpFolderId": "A5sJTuKhaKz",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6a610aa78668a9279c1627f4",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Welcome",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Docker and Kubernetes Course Introduction",
+                        "lectureId": "69ca5aec49153561b6b60b18",
+                        "lectureLength": "00:07:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5JpxU6Tr9fP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to docker",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to docker Overview",
+                        "lectureId": "69ca5aec49153561b6b60b1a",
+                        "lectureLength": "00:01:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QADM9fqU9Gs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to containers",
+                        "lectureId": "69ca5aec49153561b6b60b1b",
+                        "lectureLength": "00:11:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Khm5YK6ZYU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to docker",
+                        "lectureId": "69ca5aec49153561b6b60b1c",
+                        "lectureLength": "00:08:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p6eEQM676Pa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker workflow, architecture and components",
+                        "lectureId": "69ca5aec49153561b6b60b1d",
+                        "lectureLength": "00:22:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68UXXHsS7Tz/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Installing tools",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Installing tools Overview",
+                        "lectureId": "69ca5aec49153561b6b60b1f",
+                        "lectureLength": "00:01:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86hrEC48Qu5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installing docker on linux",
+                        "lectureId": "69ca5aec49153561b6b60b20",
+                        "lectureLength": "00:02:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Fr5fdp5HZx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Installing docker on linux",
+                        "lectureId": "69ca5aec49153561b6b60b21",
+                        "lectureLength": "00:09:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQmXG4UTnhh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installing docker on windows",
+                        "lectureId": "69ca5aec49153561b6b60b22",
+                        "lectureLength": "00:03:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xYXGAQAshE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Installing docker on windows",
+                        "lectureId": "69ca5aec49153561b6b60b23",
+                        "lectureLength": "00:03:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6McDCQ9sfgY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On installing docker on windows part 2",
+                        "lectureId": "69ca5aec49153561b6b60b24",
+                        "lectureLength": "00:03:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GXGhgjGbxP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On installing docker on windows part 3",
+                        "lectureId": "69ca5aec49153561b6b60b25",
+                        "lectureLength": "00:21:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Unt2Azdy2J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Removing installations",
+                        "lectureId": "69ca5aec49153561b6b60b26",
+                        "lectureLength": "00:11:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KYCRQ4XP9C/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Node.js",
+                        "lectureId": "69ca5aec49153561b6b60b27",
+                        "lectureLength": "00:07:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m84HY6e89b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Installing Node.js",
+                        "lectureId": "69ca5aec49153561b6b60b28",
+                        "lectureLength": "00:07:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mzfxN6YDua/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Postman",
+                        "lectureId": "69ca5aec49153561b6b60b29",
+                        "lectureLength": "00:03:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8z3Dqp8Mr6B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installing Postman",
+                        "lectureId": "69ca5aec49153561b6b60b2a",
+                        "lectureLength": "00:04:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M2cS2TU75a/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vs Code",
+                        "lectureId": "69ca5aec49153561b6b60b2b",
+                        "lectureLength": "00:02:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yuDeSTDM5N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installing Vs Code",
+                        "lectureId": "69ca5aec49153561b6b60b2c",
+                        "lectureLength": "00:04:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q7fSk7PQyy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding EC2 and traffic management before we start",
+                        "lectureId": "69ca5aec49153561b6b60b2d",
+                        "lectureLength": "00:13:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZtnN9jZcNY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installing tools Overview",
+                        "lectureId": "69ca5aec49153561b6b60b2e",
+                        "lectureLength": "00:01:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86hrEC48Qu5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installing instructions",
+                        "lectureId": "69ca5aec49153561b6b60b2f",
+                        "lectureLength": "00:03:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxQrCmtKXmh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installing kind, kubectl and docker",
+                        "lectureId": "69ca5aec49153561b6b60b30",
+                        "lectureLength": "00:11:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86XMTbnYkQK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Running containers with docker",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Running containers with docker Overview",
+                        "lectureId": "69ca5aec49153561b6b60b32",
+                        "lectureLength": "00:00:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CsPPmTRraj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Container Lifecycle",
+                        "lectureId": "69ca5aec49153561b6b60b33",
+                        "lectureLength": "00:10:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3a4Z5n5rS38/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Running docker with docker cli",
+                        "lectureId": "69ca5aec49153561b6b60b34",
+                        "lectureLength": "00:06:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6teP5kygxPF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Docker CLI part-1",
+                        "lectureId": "69ca5aec49153561b6b60b35",
+                        "lectureLength": "00:14:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96ASrr4gF8A/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Docker CLI part-2",
+                        "lectureId": "69ca5aec49153561b6b60b36",
+                        "lectureLength": "00:32:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtEzg6Pud8b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Docker CLI (advance level commands) part - 3",
+                        "lectureId": "69ca5aec49153561b6b60b37",
+                        "lectureLength": "00:31:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7J5hZUrN5ad/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Installing Docker on an EC2 Instance",
+                "assignmentId": "6a3387ec8668a9279c14e344",
+                "assignmentLink": "https://docs.google.com/document/d/1GQGoHT-myKcpaZwfn0kR6kzPSbxftXFJ/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Project - Nginx",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Nginx",
+                        "lectureId": "69ca5aec49153561b6b60b39",
+                        "lectureLength": "00:03:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fjHzMmE8C55/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nginx Project-1",
+                        "lectureId": "69ca5aec49153561b6b60b3a",
+                        "lectureLength": "00:10:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Md6yeEPx84/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nginx Project-1 Hands On",
+                        "lectureId": "69ca5aec49153561b6b60b3b",
+                        "lectureLength": "00:21:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCkDQsN2zxa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nginx Project-1 testing Hands On",
+                        "lectureId": "69ca5aec49153561b6b60b3c",
+                        "lectureLength": "00:03:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ccDTpzdQgR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nginx Project-2",
+                        "lectureId": "69ca5aec49153561b6b60b3d",
+                        "lectureLength": "00:12:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUY9MKXy33X/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nginx Project-2 Hands On",
+                        "lectureId": "69ca5aec49153561b6b60b3e",
+                        "lectureLength": "00:25:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEUmrYu7rhy/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Install and Run Nginx Using Docker on EC2",
+                "assignmentId": "6a3388098668a9279c14e349",
+                "assignmentLink": "https://docs.google.com/document/d/18F-wU89QbZ96cEVMkLPxFXaO6qdxxKSm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Images",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Images Overview",
+                        "lectureId": "69ca5aec49153561b6b60b40",
+                        "lectureLength": "00:01:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgcqsB4dtRK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Images a deeper dive",
+                        "lectureId": "69ca5aec49153561b6b60b41",
+                        "lectureLength": "00:09:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RSk9DMqJg7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Container Registries",
+                        "lectureId": "69ca5aec49153561b6b60b42",
+                        "lectureLength": "00:11:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9RJbZrNCS7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Docker Hub tutorial",
+                        "lectureId": "69ca5aec49153561b6b60b43",
+                        "lectureLength": "00:08:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ECexDn98rF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Handling images from Docker Hub CLI",
+                        "lectureId": "69ca5aec49153561b6b60b44",
+                        "lectureLength": "00:09:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABcG7g64jzZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Files",
+                        "lectureId": "69ca5aec49153561b6b60b45",
+                        "lectureLength": "00:07:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59CeKzfFPG4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Simple Docker File",
+                        "lectureId": "69ca5aec49153561b6b60b46",
+                        "lectureLength": "00:11:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33dS2haSy7e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Simple Nginx Docker File",
+                        "lectureId": "69ca5aec49153561b6b60b47",
+                        "lectureLength": "00:11:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MbSkCaTN3n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Building a Docker File for Node.js web app",
+                        "lectureId": "69ca5aec49153561b6b60b48",
+                        "lectureLength": "00:09:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnMYj6Busqd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Implementing Docker File",
+                        "lectureId": "69ca5aec49153561b6b60b49",
+                        "lectureLength": "00:14:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeUUkNfyQf7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - copying local docker files into our image",
+                        "lectureId": "69ca5aec49153561b6b60b4a",
+                        "lectureLength": "00:11:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EmDc4sx5FZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Images vs Containers",
+                        "lectureId": "69ca5aec49153561b6b60b4b",
+                        "lectureLength": "00:09:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82nH8dSc5nT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Docker Image Management on EC2",
+                "assignmentId": "6a3388278668a9279c14e34e",
+                "assignmentLink": "https://docs.google.com/document/d/19SyN4sR9Dmow41jj4JOoHm4awY4_IwkK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Building a Docker Image Using a Dockerfile on EC2",
+                "assignmentId": "6a338a028668a9279c14e353",
+                "assignmentLink": "https://docs.google.com/document/d/171D2g8woz9mE3y0jI7Fm1K7QOiu2xW-t/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Project -Containerizing Express App",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Containerizing an Express app",
+                        "lectureId": "69ca5aec49153561b6b60b4d",
+                        "lectureLength": "00:10:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ppkxNFkZjJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Containerizing an Express app Hands On",
+                        "lectureId": "69ca5aec49153561b6b60b4e",
+                        "lectureLength": "00:19:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dRSZ5measA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Containerizing an Express.js Application on EC2",
+                "assignmentId": "6a338b128668a9279c14e358",
+                "assignmentLink": "https://docs.google.com/document/d/1HHMi-ie0EVRbWcJWlvkbFdB4K2EpuTuh/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Images deeper dive",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Docker layered architecture",
+                        "lectureId": "69ca5aec49153561b6b60b50",
+                        "lectureLength": "00:14:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5maspfnyhmK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Environmental variables",
+                        "lectureId": "69ca5aec49153561b6b60b51",
+                        "lectureLength": "00:06:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pgEgUk5eDn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Distroless Images",
+                        "lectureId": "69ca5aec49153561b6b60b52",
+                        "lectureLength": "00:05:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Uezkz2PFNQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Docker Layered architecture",
+                        "lectureId": "69ca5aec49153561b6b60b53",
+                        "lectureLength": "00:13:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UheY6sbs9r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Docker Images Deeper Dive",
+                        "lectureId": "69ca5aec49153561b6b60b54",
+                        "lectureLength": "00:09:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNcs4AfsxNM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CMD vs Entrypoint vs Env Variables",
+                        "lectureId": "69ca5aec49153561b6b60b55",
+                        "lectureLength": "00:07:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CFhZj5aedm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Docker File",
+                        "lectureId": "69ca5aec49153561b6b60b56",
+                        "lectureLength": "00:09:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37cPp2BcrUU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Multistage Docker File",
+                        "lectureId": "69ca5aec49153561b6b60b57",
+                        "lectureLength": "00:12:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBRhPRSrFAh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Running a Multistage Docker File",
+                        "lectureId": "69ca5aec49153561b6b60b58",
+                        "lectureLength": "00:15:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5a2tPgGX6ch/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Demonstrating Distroless Images",
+                        "lectureId": "69ca5aec49153561b6b60b59",
+                        "lectureLength": "00:18:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/q6CQS4F2bGx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Dockerignore",
+                        "lectureId": "69ca5aec49153561b6b60b5a",
+                        "lectureLength": "00:10:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MaktSsGFqPz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Images Deeper Dive",
+                        "lectureId": "69ca5aec49153561b6b60b5b",
+                        "lectureLength": "00:01:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49BtU2pDZTP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Understanding Docker Layered Architecture on EC2",
+                "assignmentId": "6a338b308668a9279c14e35d",
+                "assignmentLink": "https://docs.google.com/document/d/1hSANl1V6Y0wkFrN8Bi_3U0WV_OwTc6Cl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Multi-Stage Dockerfile on EC2",
+                "assignmentId": "6a338b458668a9279c14e362",
+                "assignmentLink": "https://docs.google.com/document/d/1a9l2pUgRk4fILTsSF3tS4awvIzDRdukx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Project-Containerizing React Application",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Containerzing a React App",
+                        "lectureId": "69ca5aec49153561b6b60b5d",
+                        "lectureLength": "00:08:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BndD9MKFgJE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Containerzing a React App",
+                        "lectureId": "69ca5aec49153561b6b60b5e",
+                        "lectureLength": "00:20:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C37xfCGXbk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Containerizing a React Application on EC2",
+                "assignmentId": "6a338b9c8668a9279c14e367",
+                "assignmentLink": "https://docs.google.com/document/d/1VJvCZl3AsQU_vQbiXsfvvmjpcA_7ObES/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Docker Volumes",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Docker Volumes Overview",
+                        "lectureId": "69ca5aec49153561b6b60b60",
+                        "lectureLength": "00:00:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACt8mfb62t8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Volumes",
+                        "lectureId": "69ca5aec49153561b6b60b61",
+                        "lectureLength": "00:07:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ZEgCxfeRR4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Docker Volumes",
+                        "lectureId": "69ca5aec49153561b6b60b62",
+                        "lectureLength": "00:10:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QNhtgygRGB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data persistence and Bind Mounts",
+                        "lectureId": "69ca5aec49153561b6b60b63",
+                        "lectureLength": "00:08:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48AEfUB4hS9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Named volumes and cli management",
+                        "lectureId": "69ca5aec49153561b6b60b64",
+                        "lectureLength": "00:02:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pdpHab2BKZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On building a web app using with persistant data",
+                        "lectureId": "69ca5aec49153561b6b60b65",
+                        "lectureLength": "00:12:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47XeCYBJ2cC/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Demonstrate Data persistence on Docker",
+                "assignmentId": "6a338bb68668a9279c14e36c",
+                "assignmentLink": "https://docs.google.com/document/d/1J-hXso95GQoM2-YJ5kK1pULtQwcdsWzt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Advanced resource management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Advanced resource management Overview",
+                        "lectureId": "69ca5aec49153561b6b60b67",
+                        "lectureLength": "00:01:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANehxu8xEtK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Resource Management in Docker",
+                        "lectureId": "69ca5aec49153561b6b60b68",
+                        "lectureLength": "00:02:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35r6tMEsUHF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Limiting CPU usage Hands On",
+                        "lectureId": "69ca5aec49153561b6b60b69",
+                        "lectureLength": "00:09:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y6pPRRJjQn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Limiting memory usage Hands On",
+                        "lectureId": "69ca5aec49153561b6b60b6a",
+                        "lectureLength": "00:12:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fHbKxdbeuY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Restart policies in Docker",
+                        "lectureId": "69ca5aec49153561b6b60b6b",
+                        "lectureLength": "00:03:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SYjzuE7gNt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Restart Policies",
+                        "lectureId": "69ca5aec49153561b6b60b6c",
+                        "lectureLength": "00:13:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kpfR6HTbG5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Networking in Detail",
+                        "lectureId": "69ca5aec49153561b6b60b6d",
+                        "lectureLength": "00:09:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NyYnRu2jEA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Default Bridge Network",
+                        "lectureId": "69ca5aec49153561b6b60b6e",
+                        "lectureLength": "00:08:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76n2YTtYEgM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - User Defined Bridge Network",
+                        "lectureId": "69ca5aec49153561b6b60b6f",
+                        "lectureLength": "00:09:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgqGUcczSBz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Host Network",
+                        "lectureId": "69ca5aec49153561b6b60b70",
+                        "lectureLength": "00:09:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97BPD2T34pr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Limiting CPU and Memory Usage in Docker Containers on EC2",
+                "assignmentId": "6a338c2c8668a9279c14e371",
+                "assignmentLink": "https://docs.google.com/document/d/1_KTbJ2Ci4wO6HuF_pnqHF59W7lTC68Hi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Docker Restart Policies on EC2",
+                "assignmentId": "6a338c418668a9279c14e376",
+                "assignmentLink": "https://docs.google.com/document/d/10L2Z4EJUDrk7cnD2ViUADCqs_kTVuv02/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Docker Compose",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Docker Compose Overview",
+                        "lectureId": "69ca5aec49153561b6b60b72",
+                        "lectureLength": "00:01:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKyRBsnxmaq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Compose",
+                        "lectureId": "69ca5aec49153561b6b60b73",
+                        "lectureLength": "00:07:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3GMYFx3ff5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On- Docker Compose Basics",
+                        "lectureId": "69ca5aec49153561b6b60b74",
+                        "lectureLength": "00:05:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rekJhqBXts/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On- Building MySQL DB using Docker Compose",
+                        "lectureId": "69ca5aec49153561b6b60b75",
+                        "lectureLength": "00:09:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UK3BDtPBYk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Using env variables in Docker Compose",
+                        "lectureId": "69ca5aec49153561b6b60b76",
+                        "lectureLength": "00:06:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJX3MPTq7PG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Bind Mount",
+                        "lectureId": "69ca5aec49153561b6b60b77",
+                        "lectureLength": "00:10:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fmQB7jYKxd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Managing volumes and networks using Docker Compose",
+                        "lectureId": "69ca5aec49153561b6b60b78",
+                        "lectureLength": "00:10:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AERt7zS77B9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building a backend service using Docker Compose",
+                        "lectureId": "69ca5aec49153561b6b60b79",
+                        "lectureLength": "00:05:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hNf4mNnFJP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Adding a backend service",
+                        "lectureId": "69ca5aec49153561b6b60b7a",
+                        "lectureLength": "00:12:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8THen6ysdMm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Compose comparision",
+                        "lectureId": "69ca5aec49153561b6b60b7b",
+                        "lectureLength": "00:02:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Br7AtktF92K/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Build a MySQL Database Using Docker Compose on EC2",
+                "assignmentId": "6a338c5e8668a9279c14e37b",
+                "assignmentLink": "https://docs.google.com/document/d/1omI2dioBASd1tjQgq_6pQrr-DW_7QpEq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Add a Backend Service on Docker Compose on EC2",
+                "assignmentId": "6a338c6f8668a9279c14e380",
+                "assignmentLink": "https://docs.google.com/document/d/18nKQnhJRcbp8xYLiwWODIPx0Y8Fyuacw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Code and deploy an applications with docker compose",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Containerizing Notes Application using Docker Compose",
+                        "lectureId": "69ca5aec49153561b6b60b7d",
+                        "lectureLength": "00:12:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ygypczdtG2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Package.json",
+                        "lectureId": "69ca5aec49153561b6b60b7e",
+                        "lectureLength": "00:02:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Sp74hxPzT5m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Server.js",
+                        "lectureId": "69ca5aec49153561b6b60b7f",
+                        "lectureLength": "00:06:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A354cCBZFUc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DockerFile 1",
+                        "lectureId": "69ca5aec49153561b6b60b80",
+                        "lectureLength": "00:01:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69R7ZybAdEA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "index.html",
+                        "lectureId": "69ca5aec49153561b6b60b81",
+                        "lectureLength": "00:02:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjSxtpR5ZDz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "style.css",
+                        "lectureId": "69ca5aec49153561b6b60b82",
+                        "lectureLength": "00:00:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/M8SpJ27bfGx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "app.js",
+                        "lectureId": "69ca5aec49153561b6b60b83",
+                        "lectureLength": "00:06:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XzPDS9NdEj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker compose.yaml",
+                        "lectureId": "69ca5aec49153561b6b60b84",
+                        "lectureLength": "00:07:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3GMYFx3ff5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Compiling our code on docker compose",
+                        "lectureId": "69ca5aec49153561b6b60b85",
+                        "lectureLength": "00:20:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36xSR9tMGXZ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Code and Deploy a Full Application Using Docker Compose on EC2",
+                "assignmentId": "6a338c918668a9279c14e385",
+                "assignmentLink": "https://docs.google.com/document/d/1VU-Cj8oE8Svm8J2FVHdvMxrhCsVtU3BV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Exam + Interview Preparation [Docker]",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Exam + Interview Preparation [Docker] Overview",
+                        "lectureId": "69ca5aec49153561b6b60b87",
+                        "lectureLength": "00:01:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgKbk6xqpB5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Docker Concepts (easy)",
+                        "lectureId": "69ca5aec49153561b6b60b88",
+                        "lectureLength": "00:07:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8TdcRUBBd7Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Architecture (easy)",
+                        "lectureId": "69ca5aec49153561b6b60b89",
+                        "lectureLength": "00:06:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTFMJdyyddk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Docker Commands (easy)",
+                        "lectureId": "69ca5aec49153561b6b60b8a",
+                        "lectureLength": "00:06:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hauTc7Fx56/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker File (easy)",
+                        "lectureId": "69ca5aec49153561b6b60b8b",
+                        "lectureLength": "00:08:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36xmBnruHAp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Storage and Networking (easy)",
+                        "lectureId": "69ca5aec49153561b6b60b8c",
+                        "lectureLength": "00:04:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXnydcdsXnp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Images (Moderate)",
+                        "lectureId": "69ca5aec49153561b6b60b8d",
+                        "lectureLength": "00:08:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y2N4fndG5uN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Networking (Moderate)",
+                        "lectureId": "69ca5aec49153561b6b60b8e",
+                        "lectureLength": "00:04:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rQ2BgnT3Rk9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Storage (Moderate)",
+                        "lectureId": "69ca5aec49153561b6b60b8f",
+                        "lectureLength": "00:04:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9km8YytYYeH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Runtime (Moderate)",
+                        "lectureId": "69ca5aec49153561b6b60b90",
+                        "lectureLength": "00:03:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JKJTqBeXxz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Compose (Moderate)",
+                        "lectureId": "69ca5aec49153561b6b60b91",
+                        "lectureLength": "00:01:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ub8gDe8GRf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Security (Moderate)",
+                        "lectureId": "69ca5aec49153561b6b60b92",
+                        "lectureLength": "00:04:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g64SymJNdp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Kubernetes",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Kubernetes Overview",
+                        "lectureId": "69ca5aec49153561b6b60b94",
+                        "lectureLength": "00:01:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gyyfdu6AUg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Kubernetes",
+                        "lectureId": "69ca5aec49153561b6b60b95",
+                        "lectureLength": "00:24:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/526r73zkS8g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Control Plane an essential part of k8s",
+                        "lectureId": "69ca5aec49153561b6b60b96",
+                        "lectureLength": "00:08:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqCGyef72XF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Plane an essential part of k8s",
+                        "lectureId": "69ca5aec49153561b6b60b97",
+                        "lectureLength": "00:06:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MH5kea2CGM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Kubect - interaction between user and cluster",
+                        "lectureId": "69ca5aec49153561b6b60b98",
+                        "lectureLength": "00:09:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGxcaCUD2AD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Running containers on K8s",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Running containers on K8s Overview",
+                        "lectureId": "69ca5aec49153561b6b60b9a",
+                        "lectureLength": "00:00:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SSPnqHf8Cj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Pods",
+                        "lectureId": "69ca5aec49153561b6b60b9b",
+                        "lectureLength": "00:08:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fqF22kG3Qt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pod Lifecycle",
+                        "lectureId": "69ca5aec49153561b6b60b9c",
+                        "lectureLength": "00:05:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AQmaczPX8a/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pod Creation",
+                        "lectureId": "69ca5aec49153561b6b60b9d",
+                        "lectureLength": "00:05:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cDjXMaBSrq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker & Pod",
+                        "lectureId": "69ca5aec49153561b6b60b9e",
+                        "lectureLength": "00:03:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4y2bnHAts46/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Pod basics",
+                        "lectureId": "69ca5aec49153561b6b60b9f",
+                        "lectureLength": "00:11:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eMCM46gATJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Pod Management",
+                        "lectureId": "69ca5aec49153561b6b60ba0",
+                        "lectureLength": "00:09:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N4dHFkyEgT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Exposing pods to services",
+                        "lectureId": "69ca5aec49153561b6b60ba1",
+                        "lectureLength": "00:18:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63UapJcDah4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On- Implementing Color API",
+                        "lectureId": "69ca5aec49153561b6b60ba2",
+                        "lectureLength": "00:16:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XR72mhtsBb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Kubernetes Pod Management on EC2",
+                "assignmentId": "6a338cbb8668a9279c14e38a",
+                "assignmentLink": "https://docs.google.com/document/d/1jC2w5_NBzqeQJ54UNgNYQnVz7WLDGgco/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Implementing a Color API on Kubernetes on EC2",
+                "assignmentId": "6a338cd28668a9279c14e38f",
+                "assignmentLink": "https://docs.google.com/document/d/1rE4ZzeMllbnsXhtdnNUBcENKJ-9aXqLE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Object Management and YAML Manifest",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Object Management and YAML Manifest Overview",
+                        "lectureId": "69ca5aec49153561b6b60ba4",
+                        "lectureLength": "00:02:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7S48GQYbhsK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Object Management in K8s",
+                        "lectureId": "69ca5aec49153561b6b60ba5",
+                        "lectureLength": "00:12:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sa2DYUpucK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "K8s Manifest Files",
+                        "lectureId": "69ca5aec49153561b6b60ba6",
+                        "lectureLength": "00:04:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANhcdf4fctk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Imperative Commands",
+                        "lectureId": "69ca5aec49153561b6b60ba7",
+                        "lectureLength": "00:12:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/By8MZ2dnXDQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Imperative object configurations",
+                        "lectureId": "69ca5aec49153561b6b60ba8",
+                        "lectureLength": "00:13:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FEUNX3BU9P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Declarative object configurations",
+                        "lectureId": "69ca5aec49153561b6b60ba9",
+                        "lectureLength": "00:13:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jFzqG3bT78/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Building Pod Manifest Files",
+                        "lectureId": "69ca5aec49153561b6b60baa",
+                        "lectureLength": "00:12:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tEyBqMrD8Gy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Building Deployment Manifest Files",
+                        "lectureId": "69ca5aec49153561b6b60bab",
+                        "lectureLength": "00:14:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bm3qGaqUT2u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Building Service Manifest Files",
+                        "lectureId": "69ca5aec49153561b6b60bac",
+                        "lectureLength": "00:06:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jfUNFg7bT9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Building Secret Manifest Files",
+                        "lectureId": "69ca5aec49153561b6b60bad",
+                        "lectureLength": "00:06:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ar6FTgyq57T/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Building StatefulSet Manifest Files",
+                        "lectureId": "69ca5aec49153561b6b60bae",
+                        "lectureLength": "00:07:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SzqeTNxZGB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Build a Pod Manifest",
+                "assignmentId": "6a338cf18668a9279c14e394",
+                "assignmentLink": "https://docs.google.com/document/d/1ZS6fHQH2lf3GRvzUqb65xaynx__-ApxV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Build a Deployment Manifest",
+                "assignmentId": "6a338d028668a9279c14e399",
+                "assignmentLink": "https://docs.google.com/document/d/19DnQ5zo4n1i6sTNMeXPdY96K9-w-0S1V/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Build a Secret Manifest",
+                "assignmentId": "6a338d168668a9279c14e39e",
+                "assignmentLink": "https://docs.google.com/document/d/1f_SEfSJcWm80WsFKF6R_UUjOl6LbuT7k/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Build a Service Manifest",
+                "assignmentId": "6a338d278668a9279c14e3a3",
+                "assignmentLink": "https://docs.google.com/document/d/16j4Dmce5LkhUfXZLA27Zxz7bW5vPHyDB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Deeper Dive into Replication and Deployment",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Deeper Dive into Replication and Deployment Overview",
+                        "lectureId": "69ca5aec49153561b6b60bb0",
+                        "lectureLength": "00:01:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZajcbUqAGq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ReplicaSets",
+                        "lectureId": "69ca5aec49153561b6b60bb1",
+                        "lectureLength": "00:10:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApkfZ7tBysU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Creating and Managing ReplicaSets",
+                        "lectureId": "69ca5aec49153561b6b60bb2",
+                        "lectureLength": "00:10:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5K5gSunxmnm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Understanding ReplicaSet's Shortcomings",
+                        "lectureId": "69ca5aec49153561b6b60bb3",
+                        "lectureLength": "00:16:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3q7mxQ8QFX2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deployments",
+                        "lectureId": "69ca5aec49153561b6b60bb4",
+                        "lectureLength": "00:07:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3dK7Yjn2FS3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On- Creating and Managing Deployments",
+                        "lectureId": "69ca5aec49153561b6b60bb5",
+                        "lectureLength": "00:07:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUEMr5YTz7k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Updating Pod template",
+                        "lectureId": "69ca5aec49153561b6b60bb6",
+                        "lectureLength": "00:05:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uqMnT3hMsQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Rollouts and scaling",
+                        "lectureId": "69ca5aec49153561b6b60bb7",
+                        "lectureLength": "00:08:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AesGScPxz8c/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create and Manage Deployments on Kubernetes",
+                "assignmentId": "6a338d3f8668a9279c14e3a8",
+                "assignmentLink": "https://docs.google.com/document/d/1kymqtmWPVks1Y-GLxA0FpnB4ifqtNPVN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Managing Rollouts and Scaling on Kubernetes",
+                "assignmentId": "6a338d548668a9279c14e3ad",
+                "assignmentLink": "https://docs.google.com/document/d/1w_jckJj2TJkvwqtDfJL_pzt66oYOR9m-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "K8 Services",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "K8 Services Overview",
+                        "lectureId": "69ca5aec49153561b6b60bb9",
+                        "lectureLength": "00:01:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86Y4DDk2qKz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Services",
+                        "lectureId": "69ca5aec49153561b6b60bba",
+                        "lectureLength": "00:06:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A354cCBZFUc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Implementing Color API using services",
+                        "lectureId": "69ca5aec49153561b6b60bbb",
+                        "lectureLength": "00:15:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CQyu9gqqEa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "continuation lecture - adding traffic generator to Color API",
+                        "lectureId": "69ca5aec49153561b6b60bbc",
+                        "lectureLength": "00:08:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88thphzkCGj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Demonstrating external name service",
+                        "lectureId": "69ca5aec49153561b6b60bbd",
+                        "lectureLength": "00:08:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rdzkJkGJJz/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Demonstrate ExternalName Service on Kubernetes on EC2",
+                "assignmentId": "6a338d6b8668a9279c14e3b2",
+                "assignmentLink": "https://docs.google.com/document/d/1hTak3ZxJLqOGqFL3lyFyXyoNBwaMqSKA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Resource Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Resource Management Overview",
+                        "lectureId": "69ca5aec49153561b6b60bbf",
+                        "lectureLength": "00:01:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMayA2u6DmZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Labels and Selectors in depth discussion",
+                        "lectureId": "69ca5aec49153561b6b60bc0",
+                        "lectureLength": "00:09:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKadmKpHmGq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Labels and Selectors",
+                        "lectureId": "69ca5aec49153561b6b60bc1",
+                        "lectureLength": "00:16:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HUr758PYPC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Annotations",
+                        "lectureId": "69ca5aec49153561b6b60bc3",
+                        "lectureLength": "00:11:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Abzj7g5DD2H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Annotations",
+                        "lectureId": "69ca5aec49153561b6b60bc4",
+                        "lectureLength": "00:15:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BJushDQ5rb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to organizing resources in K8s (namespaces)",
+                        "lectureId": "69ca5aec49153561b6b60bc5",
+                        "lectureLength": "00:13:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bt9MA8fjBfZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - How to create and manage namesapces",
+                        "lectureId": "69ca5aec49153561b6b60bc6",
+                        "lectureLength": "00:17:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MukH8NyUpS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Cross namespace communication",
+                        "lectureId": "69ca5aec49153561b6b60bc7",
+                        "lectureLength": "00:06:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aRZFncMbYYR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Resource, Quotas and Limits",
+                        "lectureId": "69ca5aec49153561b6b60bc8",
+                        "lectureLength": "00:06:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5t2rDm55Rny/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Implementing Resource Quotas",
+                        "lectureId": "69ca5aec49153561b6b60bc9",
+                        "lectureLength": "00:13:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tEKQm6ddJ3c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Implementing Resource Requests and Limits",
+                        "lectureId": "69ca5aec49153561b6b60bca",
+                        "lectureLength": "00:16:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jZ2X7g4QCr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding different probes in K8s",
+                        "lectureId": "69ca5aec49153561b6b60bcb",
+                        "lectureLength": "00:12:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57TBCk6HDF7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Startup Probe",
+                        "lectureId": "69ca5aec49153561b6b60bcc",
+                        "lectureLength": "00:12:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEZGxp9f6E7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Liveness Probe",
+                        "lectureId": "69ca5aec49153561b6b60bcd",
+                        "lectureLength": "00:17:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9thqReZ7ZKk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Readiness Probe",
+                        "lectureId": "69ca5aec49153561b6b60bce",
+                        "lectureLength": "00:16:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87nSDnke8zh/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create Custom Namespaces on Kubernetes",
+                "assignmentId": "6a338d868668a9279c14e3b7",
+                "assignmentLink": "https://docs.google.com/document/d/1jUxhePQCLUF051t_DfCmFiI9YuKDpFxx/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Demonstrate a Kubernetes Probe",
+                "assignmentId": "6a338d968668a9279c14e3bc",
+                "assignmentLink": "https://docs.google.com/document/d/1R-93ETOomVo5s78qnobIIj53ZlXF4bll/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Storage & Persistence",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Storage & Persistence Overview",
+                        "lectureId": "69ca5aec49153561b6b60bd0",
+                        "lectureLength": "00:01:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q8UmPmzf4J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to volumes in K8s",
+                        "lectureId": "69ca5aec49153561b6b60bd1",
+                        "lectureLength": "00:11:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xPqRbRGzrk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EmptyDir & Local Volumes",
+                        "lectureId": "69ca5aec49153561b6b60bd2",
+                        "lectureLength": "00:03:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GQUD6uJum42/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to persistent volume claims (pvc)",
+                        "lectureId": "69ca5aec49153561b6b60bd3",
+                        "lectureLength": "00:07:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9can5x2kqCN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Using EmptyDir",
+                        "lectureId": "69ca5aec49153561b6b60bd4",
+                        "lectureLength": "00:13:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tPCXsb27Jx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Implementing persistent volumes",
+                        "lectureId": "69ca5aec49153561b6b60bd5",
+                        "lectureLength": "00:14:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HKgggGZs4Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - making and managing volumes in depth",
+                        "lectureId": "69ca5aec49153561b6b60bd6",
+                        "lectureLength": "00:18:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Sxy6Ncmm93/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to StatefulSets in K8s",
+                        "lectureId": "69ca5aec49153561b6b60bd7",
+                        "lectureLength": "00:13:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7APErBQBNpF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Implementing StatefulSets with persistent volumes",
+                        "lectureId": "69ca5aec49153561b6b60bd8",
+                        "lectureLength": "00:11:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MsNHGk4PNa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Implementing StatefulSets with Dynamically persistent volumes",
+                        "lectureId": "69ca5aec49153561b6b60bd9",
+                        "lectureLength": "00:10:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T7qs2YhABN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Headless Service",
+                        "lectureId": "69ca5aec49153561b6b60bda",
+                        "lectureLength": "00:12:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SEsUNSRRrp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Implement Persistent Volumes on Kubernetes",
+                "assignmentId": "6a338db78668a9279c14e3c1",
+                "assignmentLink": "https://docs.google.com/document/d/1pCMhUnTIFtwg9bTmbxFfb4b8ZxHOYqnR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Implement Persistent StatefulSets on Kubernetes",
+                "assignmentId": "6a338dca8668a9279c14e3c6",
+                "assignmentLink": "https://docs.google.com/document/d/1P6rE1IsbZkIHltYpFYN0sXIi5_w8dT9-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Configuration Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Configuration Management Overview",
+                        "lectureId": "69ca5aec49153561b6b60bdc",
+                        "lectureLength": "00:01:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ2tECkfZJD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to ConfigMaps",
+                        "lectureId": "69ca5aec49153561b6b60bdd",
+                        "lectureLength": "00:05:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uMhf68bjeF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Passing Information from ConfigMaps to Pods by environmental variables",
+                        "lectureId": "69ca5aec49153561b6b60bde",
+                        "lectureLength": "00:11:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xAUeEAbcGk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Mounting ConfigMaps inside volumes",
+                        "lectureId": "69ca5aec49153561b6b60bdf",
+                        "lectureLength": "00:15:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M49ruGtefP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Secrets in K8s",
+                        "lectureId": "69ca5aec49153561b6b60be0",
+                        "lectureLength": "00:05:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mNJJMBQy6sa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Passing information as secrets as env variables",
+                        "lectureId": "69ca5aec49153561b6b60be1",
+                        "lectureLength": "00:13:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bj5Hn4K28S4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Mounting secrets as volumes in pods",
+                        "lectureId": "69ca5aec49153561b6b60be2",
+                        "lectureLength": "00:11:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gcMypT8YKX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Demonstrate ConfigMaps on Kubernetes",
+                "assignmentId": "6a338de88668a9279c14e3cb",
+                "assignmentLink": "https://docs.google.com/document/d/1Dv_RFOd4-eiWmvtXQp_8STH91aTfKBUH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Mounting Secrets as Volumes in Pods on Kubernetes",
+                "assignmentId": "6a338df98668a9279c14e3d0",
+                "assignmentLink": "https://docs.google.com/document/d/19_z-v1GaNJv5xUWa0pKDy32OX9283mhS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "K8 security fundamentals",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "K8 security fundamentals Overview",
+                        "lectureId": "69ca5aec49153561b6b60be4",
+                        "lectureLength": "00:01:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BS8NYS6BM4e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Security in Kubernetes",
+                        "lectureId": "69ca5aec49153561b6b60be5",
+                        "lectureLength": "00:24:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yJsZ9N9Qa4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RBAC in Kubernetes",
+                        "lectureId": "69ca5aec49153561b6b60be6",
+                        "lectureLength": "00:07:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ScU4E4HuCB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Kubernetes API",
+                        "lectureId": "69ca5aec49153561b6b60be7",
+                        "lectureLength": "00:09:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3J7tZaFq2K5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - API resources",
+                        "lectureId": "69ca5aec49153561b6b60be8",
+                        "lectureLength": "00:13:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/888U5ZmuqmY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - creating users ray and jam",
+                        "lectureId": "69ca5aec49153561b6b60be9",
+                        "lectureLength": "00:17:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XyFGA77nz7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - continuation users ray and jam",
+                        "lectureId": "69ca5aec49153561b6b60bea",
+                        "lectureLength": "00:17:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JY54nZT36N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - cluster level RBAC",
+                        "lectureId": "69ca5aec49153561b6b60beb",
+                        "lectureLength": "00:13:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93HJCZ9FCCZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Service Accounts",
+                        "lectureId": "69ca5aec49153561b6b60bec",
+                        "lectureLength": "00:09:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXqqNM8pXGR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Service Account",
+                        "lectureId": "69ca5aec49153561b6b60bed",
+                        "lectureLength": "00:14:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Mf3QaTx5sm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Network Policies",
+                        "lectureId": "69ca5aec49153561b6b60bee",
+                        "lectureLength": "00:07:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9axjg2jpQ3B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Calico",
+                        "lectureId": "69ca5aec49153561b6b60bef",
+                        "lectureLength": "00:04:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdnjnzpduTr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Network Policies",
+                        "lectureId": "69ca5aec49153561b6b60bf0",
+                        "lectureLength": "00:15:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j97RYGUd3j/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Managing traffic between pods",
+                        "lectureId": "69ca5aec49153561b6b60bf1",
+                        "lectureLength": "00:15:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39zmRuffEY2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pod Security Standards (PSS)",
+                        "lectureId": "69ca5aec49153561b6b60bf2",
+                        "lectureLength": "00:07:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qd8FUK5ddM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - PSS",
+                        "lectureId": "69ca5aec49153561b6b60bf3",
+                        "lectureLength": "00:14:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQEE3hcf4XF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create 2 Users on Kubernetes",
+                "assignmentId": "6a338e178668a9279c14e3d5",
+                "assignmentLink": "https://docs.google.com/document/d/1luiBLNl30sr9MMkL5CJuJaaBOuaaNsin/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Demonstrate Management of Traffic Between Pods on Kubernetes",
+                "assignmentId": "6a338e2f8668a9279c14e625",
+                "assignmentLink": "https://docs.google.com/document/d/1P2pek6p8Vd5PQCJv4lP05gHMniWZoCv8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Kustomize",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Kustomize Overview",
+                        "lectureId": "69ca5aec49153561b6b60bf5",
+                        "lectureLength": "00:01:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pdUM4xGNHc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Kustomize",
+                        "lectureId": "69ca5aec49153561b6b60bf6",
+                        "lectureLength": "00:09:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88jmBjcxfte/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands 0n - Kustomize",
+                        "lectureId": "69ca5aec49153561b6b60bf7",
+                        "lectureLength": "00:16:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95r8xUQcshP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Base and Overlays",
+                        "lectureId": "69ca5aec49153561b6b60bf8",
+                        "lectureLength": "00:03:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66q6NeK3gzf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - JSON and SMP patch",
+                        "lectureId": "69ca5aec49153561b6b60bf9",
+                        "lectureLength": "00:19:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dn3u7JuAbK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transformations & Generators",
+                        "lectureId": "69ca5aec49153561b6b60bfa",
+                        "lectureLength": "00:04:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M9bfA9fZ2M/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Transformations",
+                        "lectureId": "69ca5aec49153561b6b60bfb",
+                        "lectureLength": "00:18:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XSzxjDBk32/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Generators",
+                        "lectureId": "69ca5aec49153561b6b60bfc",
+                        "lectureLength": "00:16:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6DQS6dzDrc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Demonstrate Kustomize on Kubernetes",
+                "assignmentId": "6a338e498668a9279c14e62a",
+                "assignmentLink": "https://docs.google.com/document/d/1dmRTjnjlDt1om-3tpO_jhmyPWqwC-hZh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Projects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating EKS Cluster using Terraform",
+                        "lectureId": "69ca5aec49153561b6b60bfe",
+                        "lectureLength": "00:00:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QnAzA5XtEr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Exam & Interview Preparation [Kubernetes]",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Exam & Interview Preparation [Kubernetes] Overview",
+                        "lectureId": "69ca5aec49153561b6b60c00",
+                        "lectureLength": "00:01:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hPCACpa4M5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pod Questions",
+                        "lectureId": "69ca5aec49153561b6b60c01",
+                        "lectureLength": "00:09:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qx4CdSByPaS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Kubernetes questions",
+                        "lectureId": "69ca5aec49153561b6b60c02",
+                        "lectureLength": "00:04:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zXKnpDjxrQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deployment and ReplicaSet Questions",
+                        "lectureId": "69ca5aec49153561b6b60c03",
+                        "lectureLength": "00:08:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tCJkNm89pd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Resume Workshop",
+                        "lectureId": "69ca5aec49153561b6b60c04",
+                        "lectureLength": "00:13:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SMKf4YEjND/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PostgreSQL Database on Kubernetes Cluster",
+                        "lectureId": "6a03390a8668a9279c14355e",
+                        "lectureLength": "01:00:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aYsXHqRQP2E/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "[Project] - Full Stack Docker Production environment",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Project Introduction",
+                        "lectureId": "6a03313b8668a9279c142ee5",
+                        "lectureLength": "00:04:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zMKSMfAAY2D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is todo application and purpose",
+                        "lectureId": "6a03313b8668a9279c142ee8",
+                        "lectureLength": "00:06:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BcZt4hmaZh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Prerequisites, tools and technologies",
+                        "lectureId": "6a03313b8668a9279c142eeb",
+                        "lectureLength": "00:05:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HZUqRcgjzM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Application Workflow",
+                        "lectureId": "6a03313b8668a9279c142eee",
+                        "lectureLength": "00:02:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37gf2b9yNj4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "File & Folder Architecture",
+                        "lectureId": "6a03313c8668a9279c142ef1",
+                        "lectureLength": "00:09:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Xp6S4A6jy6b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Installation",
+                        "lectureId": "6a03313c8668a9279c142ef4",
+                        "lectureLength": "00:04:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6m3XApmCnDg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Project structure",
+                        "lectureId": "6a03313c8668a9279c142ef7",
+                        "lectureLength": "00:04:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69RT7f8XXrt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploying backend, frontend and related files",
+                        "lectureId": "6a03313c8668a9279c142efa",
+                        "lectureLength": "00:05:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94tR2DueRru/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Docker and docker compose files",
+                        "lectureId": "6a03313c8668a9279c142efd",
+                        "lectureLength": "00:03:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dUxj46KjSQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploying Docker and docker compose files",
+                        "lectureId": "6a03313c8668a9279c142f00",
+                        "lectureLength": "00:03:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zd29bKaDnC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building, testing and adding backup mechanism to our todo application",
+                        "lectureId": "6a0334418668a9279c142f1b",
+                        "lectureLength": "00:17:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fBEDbTYHtR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explanation myapp backend package.json",
+                        "lectureId": "6a0334608668a9279c142f1e",
+                        "lectureLength": "00:03:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FTKXRzhueA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explanation myapp  backend src index.js",
+                        "lectureId": "6a03313d8668a9279c142f05",
+                        "lectureLength": "00:08:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6umS6nn4364/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explanation myapp frontend index.html",
+                        "lectureId": "6a0334848668a9279c142f21",
+                        "lectureLength": "00:02:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9b9Cu5Y8ygu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explanation myapp frontend package.json",
+                        "lectureId": "6a0334a08668a9279c142f24",
+                        "lectureLength": "00:03:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8jcTeuqzBu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explanation myapp frontend src app.jsx",
+                        "lectureId": "6a03313d8668a9279c142f0a",
+                        "lectureLength": "00:04:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uSHMU8ztrf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explanation myapp frontend src app.jsx continuation",
+                        "lectureId": "6a03313d8668a9279c142f0d",
+                        "lectureLength": "00:04:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uSHMU8ztrf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explanation myapp frontend src main.jsx and vite.config.js",
+                        "lectureId": "6a03313e8668a9279c142f10",
+                        "lectureLength": "00:09:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fRYyetHb3e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explanation myapp backup.sh (Backup Strategy)",
+                        "lectureId": "6a0334c98668a9279c142f27",
+                        "lectureLength": "00:06:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99kptSsSyBC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explanation myapp backend DockerFile",
+                        "lectureId": "6a03313e8668a9279c142f14",
+                        "lectureLength": "00:07:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eFG75kJbC7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explanation myapp frontend DockerFile",
+                        "lectureId": "6a03313e8668a9279c142f17",
+                        "lectureLength": "00:06:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AChCBTZ9Mma/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explanation myapp docker compose.yaml",
+                        "lectureId": "6a0334e58668a9279c142f2a",
+                        "lectureLength": "00:09:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AUUEfXP8hf/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6a53fd70fc66b37ef64a62b8",
+                "mentor": "Rohit",
+                "start": 20,
+                "end": 23,
+                "chatStart": 20,
+                "chatEnd": 23,
+                "time": "08:00 PM - 11:00 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds3",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

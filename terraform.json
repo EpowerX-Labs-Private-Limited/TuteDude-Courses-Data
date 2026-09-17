@@ -1,0 +1,1374 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6a206a868668a9279c14bd79",
+        "courseName": "Terraform",
+        "slug": "terraform",
+        "category": "DevOps & Cloud",
+        "tpFolderId": "9sHxZxx78g3",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6a6109c68668a9279c16253b",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Course Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Course Introduction",
+                        "lectureId": "6a206a868668a9279c14bd7b",
+                        "lectureLength": "00:15:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nQmGJ4EHKp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Terraform and IaC",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Terraform and IaC Overview",
+                        "lectureId": "6a206a868668a9279c14bd7d",
+                        "lectureLength": "00:00:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qjzjjCe2Hk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stages of infrastructure provisioning",
+                        "lectureId": "6a206a868668a9279c14bd7e",
+                        "lectureLength": "00:05:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FAQbnDKHmJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to IAC",
+                        "lectureId": "6a206a868668a9279c14bd7f",
+                        "lectureLength": "00:16:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6e47gRu4Q7T/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Core concepts of IAC",
+                        "lectureId": "6a206a868668a9279c14bd80",
+                        "lectureLength": "00:06:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8jPxbMNpfns/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is terraform?",
+                        "lectureId": "6a206a868668a9279c14bd81",
+                        "lectureLength": "00:12:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5aT5s8aZ496/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terraform best practices",
+                        "lectureId": "6a206a868668a9279c14bd82",
+                        "lectureLength": "00:04:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N6mncmzzzJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Tools Download and Installations",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Installing Vs Code",
+                        "lectureId": "6a206a868668a9279c14bd84",
+                        "lectureLength": "00:04:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8HNyjMYPdZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Making an AWS account",
+                        "lectureId": "6a206a868668a9279c14bd85",
+                        "lectureLength": "00:02:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EPRqz7QPnP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating EC2 instance and Installing Terraform",
+                        "lectureId": "6a206a868668a9279c14bd86",
+                        "lectureLength": "00:08:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QDPZS6y3Tq/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Deeper Dive into Terraform",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Deeper Dive into Terraform Overview",
+                        "lectureId": "6a206a868668a9279c14bd88",
+                        "lectureLength": "00:01:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6gYsQCQ2eHd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is HCL?",
+                        "lectureId": "6a206a868668a9279c14bd89",
+                        "lectureLength": "00:07:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kYU78j8mQd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Running terraform cli for the first time",
+                        "lectureId": "6a206a868668a9279c14bd8a",
+                        "lectureLength": "00:03:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87Z5RphTbsc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terraform workflow",
+                        "lectureId": "6a206a868668a9279c14bd8b",
+                        "lectureLength": "00:04:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ETQC4NC5uQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a simple S3 bucket using terraform",
+                        "lectureId": "6a206a868668a9279c14bd8c",
+                        "lectureLength": "00:17:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8atqERhKUpQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terraform State",
+                        "lectureId": "6a206a868668a9279c14bd8d",
+                        "lectureLength": "00:10:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A44fjgJxDmr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Terraform State",
+                        "lectureId": "6a206a868668a9279c14bd8e",
+                        "lectureLength": "00:30:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BaaGcx7XXeP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Backends in Terraform",
+                        "lectureId": "6a206a868668a9279c14bd8f",
+                        "lectureLength": "00:05:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3m2QRFJKDRc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terraform Providers",
+                        "lectureId": "6a206a868668a9279c14bd90",
+                        "lectureLength": "00:07:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DhXxAJYUTF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating versioned and locked infra",
+                        "lectureId": "6a206a868668a9279c14bd91",
+                        "lectureLength": "00:32:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9r86sn8My6e/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Creating S3 bucket",
+                "assignmentId": "6a33a0c68668a9279c14e68a",
+                "assignmentLink": "https://docs.google.com/document/d/1Q-FutDOsNA_6wlqvLfFGiAsNBGacutu1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Create a simple s3 bucket using terraform",
+                "assignmentId": "6a33a0dd8668a9279c14e68f",
+                "assignmentLink": "https://docs.google.com/document/d/18--wv5zmYlsL8ZIQGuTCPfz1aPTJO1yk/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Understanding Resources",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Resources Overview",
+                        "lectureId": "6a206a868668a9279c14bd93",
+                        "lectureLength": "00:01:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DXpA62GX6A/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS overview - what is AWS",
+                        "lectureId": "6a206a868668a9279c14bd94",
+                        "lectureLength": "00:10:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jDPjmcnXhT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS overview - EC2",
+                        "lectureId": "6a206a868668a9279c14bd95",
+                        "lectureLength": "00:06:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Pz3Gj4GygQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS overview - S3",
+                        "lectureId": "6a206a868668a9279c14bd96",
+                        "lectureLength": "00:06:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HPn38gNMam/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS overview - VPC",
+                        "lectureId": "6a206a868668a9279c14bd97",
+                        "lectureLength": "00:03:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uukqJxbsJy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS overview - Lambda",
+                        "lectureId": "6a206a868668a9279c14bd98",
+                        "lectureLength": "00:02:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pMc7yGehek/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS overview - Databases",
+                        "lectureId": "6a206a868668a9279c14bd99",
+                        "lectureLength": "00:03:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dajPxYs6Qt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS overview - ECS & EKS",
+                        "lectureId": "6a206a868668a9279c14bd9a",
+                        "lectureLength": "00:03:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxPbpPjz4nK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS key takeaways",
+                        "lectureId": "6a206a868668a9279c14bd9b",
+                        "lectureLength": "00:04:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nZ4ERJNDGy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is a terraform resource?",
+                        "lectureId": "6a206a868668a9279c14bd9c",
+                        "lectureLength": "00:06:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7f7QcS2dGmF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Resources components",
+                        "lectureId": "6a206a868668a9279c14bd9d",
+                        "lectureLength": "00:14:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/632ZD5HSsra/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project [VPC ARCHITECTURE] - overview",
+                        "lectureId": "6a206a868668a9279c14bd9e",
+                        "lectureLength": "00:08:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/389rK3mcsYG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project [VPC ARCHITECTURE] - setting up tools (part-1)",
+                        "lectureId": "6a206a868668a9279c14bd9f",
+                        "lectureLength": "00:09:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76YesEuMGUy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project [VPC ARCHITECTURE] - variables .tf (part-2)",
+                        "lectureId": "6a206a868668a9279c14bda0",
+                        "lectureLength": "00:07:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXtUTa72hpe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project [VPC ARCHITECTURE] - main.tf (part-3)",
+                        "lectureId": "6a206a868668a9279c14bda1",
+                        "lectureLength": "00:27:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gdyTMKAkg2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create a simple EC2 instance using terraform",
+                "assignmentId": "6a33a5998668a9279c14e7f9",
+                "assignmentLink": "https://docs.google.com/document/d/1flIi7WhYlXoPxUyM5UYk2U51rt6u_0Cg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Create a full VPC Architecture using Terraform",
+                "assignmentId": "6a33a5ac8668a9279c14e7fe",
+                "assignmentLink": "https://docs.google.com/document/d/1YYR7d1LjSQFGIduSTzN2ZTdEHmRW7Xwo/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "[PROJECT]: - Hosting S3 static website using terraform",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Project Overview",
+                        "lectureId": "6a206a868668a9279c14bda4",
+                        "lectureLength": "00:14:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ25AFmXU8s/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - 1",
+                        "lectureId": "6a206a868668a9279c14bda5",
+                        "lectureLength": "00:18:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53aCTCyeaBY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - 2",
+                        "lectureId": "6a206a868668a9279c14bda6",
+                        "lectureLength": "00:13:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xTAMThZ4tG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What we learnt?",
+                        "lectureId": "6a206a868668a9279c14bda7",
+                        "lectureLength": "00:02:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37dqR2Qg5CZ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Host a static website on S3",
+                "assignmentId": "6a33a5c98668a9279c14e803",
+                "assignmentLink": "https://docs.google.com/document/d/1grFwM0EUsvy98GgWp9WckygU5UlAjIeN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Data Sources",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Data Sources Overview",
+                        "lectureId": "6a206a868668a9279c14bda9",
+                        "lectureLength": "00:00:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATuSY7jBhRb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data sources in terraform",
+                        "lectureId": "6a206a868668a9279c14bdaa",
+                        "lectureLength": "00:18:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARAGQgMugCb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On- Fetching AMI data",
+                        "lectureId": "6a206a868668a9279c14bdab",
+                        "lectureLength": "00:13:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ezF6X9Fg2F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Fetching account info and region",
+                        "lectureId": "6a206a868668a9279c14bdac",
+                        "lectureLength": "00:14:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EG8zBgHEC7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Fetching VPC data",
+                        "lectureId": "6a206a868668a9279c14bdad",
+                        "lectureLength": "00:18:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mtU9fj2f8D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Fetching availability zones",
+                        "lectureId": "6a206a868668a9279c14bdae",
+                        "lectureLength": "00:13:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbyQtd9Dym7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Creating IAM policies",
+                        "lectureId": "6a206a868668a9279c14bdaf",
+                        "lectureLength": "00:11:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98AnYJcFX48/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Fetch AWS account information",
+                "assignmentId": "6a33a5e48668a9279c14e808",
+                "assignmentLink": "https://docs.google.com/document/d/1vBWM4vUfB0MNvEz0FcrcbvykjAIQAuYJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Create a custom IAM policy",
+                "assignmentId": "6a33a5f88668a9279c14e80d",
+                "assignmentLink": "https://docs.google.com/document/d/1IwxpclIjHGDniWLXLBMdp8l93QPhGcwe/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Input variables, locals and outputs",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Input variables, locals and outputs Overview",
+                        "lectureId": "6a206a868668a9279c14bdb1",
+                        "lectureLength": "00:01:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANUtQDBYptg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Input and Output variables in Terraform",
+                        "lectureId": "6a206a868668a9279c14bdb2",
+                        "lectureLength": "00:14:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZn8M6PkAmE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Types of variables - 1",
+                        "lectureId": "6a206a868668a9279c14bdb3",
+                        "lectureLength": "00:31:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zTk3atEeJz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Types of variables - 2",
+                        "lectureId": "6a206a868668a9279c14bdb4",
+                        "lectureLength": "00:34:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAXKnuu7R9h/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with .tfvars",
+                        "lectureId": "6a206a868668a9279c14bdb5",
+                        "lectureLength": "00:03:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pJd2MtFaRt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - .tfvars",
+                        "lectureId": "6a206a868668a9279c14bdb6",
+                        "lectureLength": "00:18:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53aCTCyeaBY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with locals",
+                        "lectureId": "6a206a868668a9279c14bdb7",
+                        "lectureLength": "00:02:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SPqBBQQqUn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - locals",
+                        "lectureId": "6a206a868668a9279c14bdb8",
+                        "lectureLength": "00:17:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RDK6ZCMC7P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with outputs.tf",
+                        "lectureId": "6a206a868668a9279c14bdb9",
+                        "lectureLength": "00:01:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Km38J5FYHj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - outputs.tf",
+                        "lectureId": "6a206a868668a9279c14bdba",
+                        "lectureLength": "00:26:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AfN3CSAJ4F/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create an EC2 instance",
+                "assignmentId": "6a33a6118668a9279c14e812",
+                "assignmentLink": "https://docs.google.com/document/d/1oGqv3_CTnRsM4c10Gpd_ZjRHPNmQ0xx9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Expressions and Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Expressions and Functions Overview",
+                        "lectureId": "6a206a868668a9279c14bdbc",
+                        "lectureLength": "00:01:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93BcZUpD9m8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Operators in terraform",
+                        "lectureId": "6a206a868668a9279c14bdbd",
+                        "lectureLength": "00:06:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33gmegBDEFM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Variables and arithmetic operators",
+                        "lectureId": "6a206a868668a9279c14bdbe",
+                        "lectureLength": "00:08:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zZBbzMPZyS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comparison operators",
+                        "lectureId": "6a206a868668a9279c14bdbf",
+                        "lectureLength": "00:05:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/973jnUXDHfa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logical operators",
+                        "lectureId": "6a206a868668a9279c14bdc0",
+                        "lectureLength": "00:06:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89fbHm5fT85/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conditional operators",
+                        "lectureId": "6a206a868668a9279c14bdc1",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42kTKcCqndU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "String operators",
+                        "lectureId": "6a206a868668a9279c14bdc2",
+                        "lectureLength": "00:07:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZqjERTp5aj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Collection operators",
+                        "lectureId": "6a206a868668a9279c14bdc3",
+                        "lectureLength": "00:05:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YYHKyyFZGE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Operators real world examples",
+                        "lectureId": "6a206a868668a9279c14bdc4",
+                        "lectureLength": "00:06:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FnauExPrH3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Expressions and Transformations (Basic Lists)",
+                        "lectureId": "6a206a868668a9279c14bdc5",
+                        "lectureLength": "00:10:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NtgqT6Qz3D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Expressions and Transformations (Basic Maps)",
+                        "lectureId": "6a206a868668a9279c14bdc6",
+                        "lectureLength": "00:09:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kUa3JaCmHz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Transformations using lists",
+                        "lectureId": "6a206a868668a9279c14bdc7",
+                        "lectureLength": "00:13:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah6dT3yJSqf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Key Transformations",
+                        "lectureId": "6a206a868668a9279c14bdc8",
+                        "lectureLength": "00:10:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Sjp3EcrE7g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "String Functions",
+                        "lectureId": "6a206a868668a9279c14bdc9",
+                        "lectureLength": "00:18:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CK2QJSHymB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Number Functions",
+                        "lectureId": "6a206a868668a9279c14bdca",
+                        "lectureLength": "00:10:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/c4yShdxf7XT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Collection Functions",
+                        "lectureId": "6a206a868668a9279c14bdcb",
+                        "lectureLength": "00:10:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7b2mA7Jf42g/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Operators",
+                "assignmentId": "6a33a6f28668a9279c14e817",
+                "assignmentLink": "https://docs.google.com/document/d/1Zi4ryV_pyJf_0MiML-EtVxAaour2xFqr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Expressions and Transformations",
+                "assignmentId": "6a33a7088668a9279c14e81c",
+                "assignmentLink": "https://docs.google.com/document/d/1MarpX6uK6BDYhs2VghYFMp6FhAnGIB0H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Functions",
+                "assignmentId": "6a33a72e8668a9279c14e821",
+                "assignmentLink": "https://docs.google.com/document/d/1BkYAlxpXraGzNufSDFI3kZmPCGdCuljV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Multi Resource Creation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Multi Resource Creation Overview",
+                        "lectureId": "6a206a868668a9279c14bdcd",
+                        "lectureLength": "00:01:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3qYCRgXSb7y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating VPC Architecture using Terraform",
+                        "lectureId": "6a206a868668a9279c14bdce",
+                        "lectureLength": "00:12:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GfM5AY8G8X/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PART-1] Creating VPC infrastructure",
+                        "lectureId": "6a206a868668a9279c14bdcf",
+                        "lectureLength": "00:27:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YhUgpDg8C7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PART-2] Deploying EC2 servers on created VPC infra",
+                        "lectureId": "6a206a868668a9279c14bdd0",
+                        "lectureLength": "00:17:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BH8yYX7hQhD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PART-3] Deploying a web interface on created infrastructure",
+                        "lectureId": "6a206a868668a9279c14bdd1",
+                        "lectureLength": "00:10:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AczhrRk9PbY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT] - SNS notification application",
+                        "lectureId": "6a206a868668a9279c14bdd2",
+                        "lectureLength": "00:13:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ac2gPNjudf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT] - SNS app - Creating file structure",
+                        "lectureId": "6a206a868668a9279c14bdd3",
+                        "lectureLength": "00:08:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bxGjYJTfbH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT] - SNS app - Building \".tf\" files",
+                        "lectureId": "6a206a868668a9279c14bdd4",
+                        "lectureLength": "00:15:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXhuCBTGDTr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT] - SNS app - Deploying App",
+                        "lectureId": "6a206a868668a9279c14bdd5",
+                        "lectureLength": "00:14:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AndbZAXEq4y/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Draw Architecture",
+                "assignmentId": "6a33a74f8668a9279c14eb14",
+                "assignmentLink": "https://docs.google.com/document/d/1Cs60gWDDPxYOMi5BTia6xo73X-zUoQrF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "IAM through Terraform",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "IAM through Terraform Overview",
+                        "lectureId": "6a206a868668a9279c14bdd7",
+                        "lectureLength": "00:01:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uctetz327R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating users and Roles",
+                        "lectureId": "6a206a868668a9279c14bdd8",
+                        "lectureLength": "00:05:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fs6jKYtnTS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploying IAM users",
+                        "lectureId": "6a206a868668a9279c14bdd9",
+                        "lectureLength": "00:12:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dSbddhA2Yj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On: Code iam user -1",
+                        "lectureId": "6a206a868668a9279c14bdda",
+                        "lectureLength": "00:10:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67RPYHd9PhE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On: code iam user -2",
+                        "lectureId": "6a206a868668a9279c14bddb",
+                        "lectureLength": "00:16:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2MBZCEuYHb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On: code iam user -3",
+                        "lectureId": "6a206a868668a9279c14bddc",
+                        "lectureLength": "00:06:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zg83Azb47h/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On: code iam role -1",
+                        "lectureId": "6a206a868668a9279c14bddd",
+                        "lectureLength": "00:15:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/549xFrspbAh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On: code iam role -2",
+                        "lectureId": "6a206a868668a9279c14bdde",
+                        "lectureLength": "00:04:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87DDxZ5ZD2b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On: code iam role -3",
+                        "lectureId": "6a206a868668a9279c14bddf",
+                        "lectureLength": "00:10:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ahc6x4ZeSdu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create a custom IAM role",
+                "assignmentId": "6a33a9198668a9279c14eb19",
+                "assignmentLink": "https://docs.google.com/document/d/16LXDnVnIZGqmlZowgumwV2Gwrf84rzyD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "[PROJECT]: - Managing users and roles through terraform",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Theory - Smart User Role Management",
+                        "lectureId": "6a206a868668a9279c14bde1",
+                        "lectureLength": "00:11:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R6SKxBmmK2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Understanding code",
+                        "lectureId": "6a206a868668a9279c14bde2",
+                        "lectureLength": "00:19:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBar5RzsRQb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Understanding code (users and outputs)",
+                        "lectureId": "6a206a868668a9279c14bde3",
+                        "lectureLength": "00:12:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86eJsJ5AYsh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Project deployment (testing users)",
+                        "lectureId": "6a206a868668a9279c14bde4",
+                        "lectureLength": "00:15:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yEpS9b79Rs/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Smart user role management",
+                "assignmentId": "6a33a93d8668a9279c14eb1e",
+                "assignmentLink": "https://docs.google.com/document/d/1mfo0aCetd3H-O1F50TuuZ-erbK1KGK72/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Terraform Modules",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Terraform Modules",
+                        "lectureId": "6a206a868668a9279c14bde6",
+                        "lectureLength": "00:13:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9k6ncsAYD9n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Hello world module & common error fixing",
+                        "lectureId": "6a206a868668a9279c14bde7",
+                        "lectureLength": "00:14:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgyXRtTd7fg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Creating secure s3 bucket called 3 times using modules",
+                        "lectureId": "6a206a868668a9279c14bde8",
+                        "lectureLength": "00:22:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6abuEuq8D6P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Implementing modules that generate app config files",
+                        "lectureId": "6a206a868668a9279c14bde9",
+                        "lectureLength": "00:11:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/42m5zbKUGCa/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Terraform module",
+                "assignmentId": "6a33a9598668a9279c14eb23",
+                "assignmentLink": "https://docs.google.com/document/d/1dcfAnXw0cQq_OLg4ubuMSxzYZtgzAsMj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Terraform Lifecycle Validations",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Terraform Lifecycle Validations Overview",
+                        "lectureId": "6a206a868668a9279c14bdeb",
+                        "lectureLength": "00:01:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CaDEm55zEp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding lifecycle validations",
+                        "lectureId": "6a206a868668a9279c14bdec",
+                        "lectureLength": "00:11:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CBbsbpkSGk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Preconditions",
+                        "lectureId": "6a206a868668a9279c14bded",
+                        "lectureLength": "00:17:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TPjrjsZFAN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Preconditions [more examples]",
+                        "lectureId": "6a206a868668a9279c14bdee",
+                        "lectureLength": "00:15:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FrUrpfuCKr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Postconditions",
+                        "lectureId": "6a206a868668a9279c14bdef",
+                        "lectureLength": "00:16:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48AHMrETdck/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Check Blocks",
+                        "lectureId": "6a206a868668a9279c14bdf0",
+                        "lectureLength": "00:16:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rzcZXQ63dE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Miniproject - Implementing lifecycle validation on real infrastructure",
+                        "lectureId": "6a206a868668a9279c14bdf1",
+                        "lectureLength": "00:20:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j9H2Qhf339z/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Lifecycle Validation",
+                "assignmentId": "6a33b0508668a9279c14eb28",
+                "assignmentLink": "https://docs.google.com/document/d/1nY9jw1zTlSysALa00F-VC5tObp-Muwqf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Terraform Workspace",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Terraform Workspace Overview",
+                        "lectureId": "6a206a868668a9279c14bdf3",
+                        "lectureLength": "00:01:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Hg22U4K484/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terraform Cloud",
+                        "lectureId": "6a206a868668a9279c14bdf4",
+                        "lectureLength": "00:13:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35SmpTCh3B4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terraform Workspaces",
+                        "lectureId": "6a206a868668a9279c14bdf5",
+                        "lectureLength": "00:13:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BG4JayQ8af7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On: - Creating and Managing Workspaces",
+                        "lectureId": "6a206a868668a9279c14bdf6",
+                        "lectureLength": "00:23:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbCetBQPC4q/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Workspaces",
+                "assignmentId": "6a33b06c8668a9279c14eb2d",
+                "assignmentLink": "https://docs.google.com/document/d/1jfBhOLHdjXYc_esjwUB09opdAjhJK4gR/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Terraform State Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Terraform State Management Overview",
+                        "lectureId": "6a206a868668a9279c14bdf8",
+                        "lectureLength": "00:01:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66ssNXB6XEt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "State Manipulation",
+                        "lectureId": "6a206a868668a9279c14bdf9",
+                        "lectureLength": "00:14:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Dd5hJqeE4k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - State Manipulation",
+                        "lectureId": "6a206a868668a9279c14bdfa",
+                        "lectureLength": "00:17:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BR5stTdxPrs/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "TF State",
+                "assignmentId": "6a33b0878668a9279c14eb32",
+                "assignmentLink": "https://docs.google.com/document/d/1r57I9s0faZAcse9I8BDkTifYIKyeE9DZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Rise of OpenTofu",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Rise of OpenToFu",
+                        "lectureId": "6a206a868668a9279c14bdfc",
+                        "lectureLength": "00:17:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RsP4J8JXj25/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Implementing OpenToFU",
+                        "lectureId": "6a206a868668a9279c14bdfd",
+                        "lectureLength": "00:09:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RjjM5GQx6ad/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Open Tofu",
+                "assignmentId": "6a33b09d8668a9279c14eb37",
+                "assignmentLink": "https://docs.google.com/document/d/1PseBqJ525z40RNlZFFzHWn_TTaxZohhS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "[PROJECT]: - Constructing a Highly Available & Scalable Infrastructure",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Project",
+                        "lectureId": "6a206a868668a9279c14bdff",
+                        "lectureLength": "00:12:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9AaXMuaSC2M/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding IaC files",
+                        "lectureId": "6a206a868668a9279c14be00",
+                        "lectureLength": "00:14:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uSAQqyJ8bh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project Deployment",
+                        "lectureId": "6a206a868668a9279c14be01",
+                        "lectureLength": "00:24:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AY56nZpdRjs/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Create a Highly available & scalable infrastructure",
+                "assignmentId": "6a33b0c08668a9279c14eb3c",
+                "assignmentLink": "https://docs.google.com/document/d/1pSMkrQuDZp3cseP4S79OFOYXxNDzE0ib/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "[PROJECT]: - 3-Tier Web Infrastructure with Terraform",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is a 3-Tier Web Architecture?",
+                        "lectureId": "6a206a868668a9279c14be03",
+                        "lectureLength": "00:22:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fJHhYzC8Cp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project Theory",
+                        "lectureId": "6a206a868668a9279c14be04",
+                        "lectureLength": "00:22:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N5DDxSCJkk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Main.tf",
+                        "lectureId": "6a206a868668a9279c14be05",
+                        "lectureLength": "00:01:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47myXmCBFRJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Variables.tf",
+                        "lectureId": "6a206a868668a9279c14be06",
+                        "lectureLength": "00:03:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zHXe9xqqeZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "VPC.tf",
+                        "lectureId": "6a206a868668a9279c14be07",
+                        "lectureLength": "00:07:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Xn6t6m5dGg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SG.tf",
+                        "lectureId": "6a206a868668a9279c14be08",
+                        "lectureLength": "00:05:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8k2FEjTbERU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ALB.tf",
+                        "lectureId": "6a206a868668a9279c14be09",
+                        "lectureLength": "00:02:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3K9tTu95xTR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IAM.tf",
+                        "lectureId": "6a206a868668a9279c14be0a",
+                        "lectureLength": "00:01:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BCY48rZsK2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3.tf",
+                        "lectureId": "6a206a868668a9279c14be0b",
+                        "lectureLength": "00:01:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MDUn56xdtB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Database.tf",
+                        "lectureId": "6a206a868668a9279c14be0c",
+                        "lectureLength": "00:03:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Y6qdGDHx97/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "asg_backend.tf",
+                        "lectureId": "6a206a868668a9279c14be0d",
+                        "lectureLength": "00:02:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Ktg4Rbgxkq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "asg_frontend.tf",
+                        "lectureId": "6a206a868668a9279c14be0e",
+                        "lectureLength": "00:02:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hzEPBJy7hF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "outputs.tf & tfvars",
+                        "lectureId": "6a206a868668a9279c14be0f",
+                        "lectureLength": "00:02:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GB9ferynJU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project Deployment & Testing",
+                        "lectureId": "6a206a868668a9279c14be10",
+                        "lectureLength": "00:20:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74sHGPmMYYa/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "3-Tier Web Infrastructure with Terraform",
+                "assignmentId": "6a33b0e38668a9279c14eb41",
+                "assignmentLink": "https://drive.google.com/drive/folders/1OIoAg0twF24np-o_7YXcCv5JmsinYKhi?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Interview & Exam preparation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Resume Workshop",
+                        "lectureId": "6a206a868668a9279c14be12",
+                        "lectureLength": "00:16:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83HGQDJ3MUs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Easy question set",
+                        "lectureId": "6a206a868668a9279c14be13",
+                        "lectureLength": "00:16:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PtRJAg7UPx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Medium question set (part-1)",
+                        "lectureId": "6a206a868668a9279c14be14",
+                        "lectureLength": "00:09:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SdR5pbKDFD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Medium question set (part-2)",
+                        "lectureId": "6a206a868668a9279c14be15",
+                        "lectureLength": "00:08:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AC6XBXuMFjd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Medium question set (part-3)",
+                        "lectureId": "6a206a868668a9279c14be16",
+                        "lectureLength": "00:08:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUhcs9yJH9R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Medium question set (part-4)",
+                        "lectureId": "6a206a868668a9279c14be17",
+                        "lectureLength": "00:07:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UgUe99fmJD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Medium question set (part -5)",
+                        "lectureId": "6a206a868668a9279c14be18",
+                        "lectureLength": "00:14:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fsR7mtpjEQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced question set (part-1)",
+                        "lectureId": "6a206a868668a9279c14be19",
+                        "lectureLength": "00:11:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gYZCQqxjMC/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Future Enhancements",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Future Enhancements Overview",
+                        "lectureId": "6a206a868668a9279c14be1b",
+                        "lectureLength": "00:01:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Ep6MxU9Fad/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OpenToFu ecosystem",
+                        "lectureId": "6a206a868668a9279c14be1c",
+                        "lectureLength": "00:08:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQ98nmZrqXA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI & Intelligent Automation",
+                        "lectureId": "6a206a868668a9279c14be1d",
+                        "lectureLength": "00:07:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zMYKP2XBbS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Improved State Management",
+                        "lectureId": "6a206a868668a9279c14be1e",
+                        "lectureLength": "00:04:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqbQYRcEUtG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Enhanced Testing Framework",
+                        "lectureId": "6a206a868668a9279c14be1f",
+                        "lectureLength": "00:09:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6a2QhFCm6RH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modules & Reusability",
+                        "lectureId": "6a206a868668a9279c14be20",
+                        "lectureLength": "00:04:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/873fyyU4r4c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Performance & Reusability",
+                        "lectureId": "6a206a868668a9279c14be21",
+                        "lectureLength": "00:03:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QGSPrDzDGQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Drift Detection & Remediation",
+                        "lectureId": "6a206a868668a9279c14be22",
+                        "lectureLength": "00:05:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PUHy53aSek/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multi Cloud & Hybrid Improvements",
+                        "lectureId": "6a206a868668a9279c14be23",
+                        "lectureLength": "00:04:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MjZH4EPxTbT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Security Enhancements",
+                        "lectureId": "6a206a868668a9279c14be24",
+                        "lectureLength": "00:10:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9r7RfUP6gaZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Developer Experience",
+                        "lectureId": "6a206a868668a9279c14be25",
+                        "lectureLength": "00:02:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3brbPBanyP9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terraform Stacks",
+                        "lectureId": "6a206a868668a9279c14be26",
+                        "lectureLength": "00:03:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgPfHyKtRbB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cloud Cost Integration",
+                        "lectureId": "6a206a868668a9279c14be27",
+                        "lectureLength": "00:04:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yNkEfAXK887/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6a53fe23fc66b37ef64a62c2",
+                "mentor": "Rohit",
+                "start": 20,
+                "end": 23,
+                "chatStart": 20,
+                "chatEnd": 23,
+                "time": "8:00 PM - 11:00 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds3",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1BnKrO4yur_4uiB12_qhHy6KPGDX3-DTW?usp=sharing"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

@@ -1,0 +1,733 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6a731a7eb6907e7275bd8147",
+        "courseName": "Growth Hacking",
+        "slug": "growthhacking",
+        "category": "Marketing",
+        "tpFolderId": "4jTRBsUxQd6",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "How Growth Actually Works",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to the course",
+                        "lectureId": "6a731a7eb6907e7275bd8149",
+                        "lectureLength": "00:00:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JRXqUEspFz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Growth is not Marketing",
+                        "lectureId": "6a731a7eb6907e7275bd814a",
+                        "lectureLength": "00:37:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ujfx4CpGRP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The AARRR Framework - Your First Diagnostic Tool",
+                        "lectureId": "6a731a7eb6907e7275bd814b",
+                        "lectureLength": "00:37:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3trQFeT4u5D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How Consumer Startups Actually Grow - The Messy Reality",
+                        "lectureId": "6a731a7eb6907e7275bd814c",
+                        "lectureLength": "00:39:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mF5TDypJ3R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How Growth Teams Are Set Up Inside Startups",
+                        "lectureId": "6a731a7eb6907e7275bd814d",
+                        "lectureLength": "00:42:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7AYt2GzQXDG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How Growth Teams Work With Product, Data & Marketing",
+                        "lectureId": "6a731a7eb6907e7275bd814e",
+                        "lectureLength": "00:42:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3d2SuDsdDDc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Teardown How Swiggy Grew City by City",
+                        "lectureId": "6a731a7eb6907e7275bd814f",
+                        "lectureLength": "00:44:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CzPucgKXJD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "AARRR_Funnel_Map.",
+                "assignmentId": "6a759a27b6907e7275bdadfa",
+                "assignmentLink": "https://docs.google.com/document/d/1YT2ao7JgRvRS_Csr4hJovfE-V7fjRM6H/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Consumer Psychology & User Behaviour",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How Users Actually Make Decisions (It's Not Rational)",
+                        "lectureId": "6a731a7eb6907e7275bd8152",
+                        "lectureLength": "00:29:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92UEb4hPnmx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Friction - The Thing Quietly Killing Your Conversion",
+                        "lectureId": "6a731a7eb6907e7275bd8153",
+                        "lectureLength": "00:30:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Z8xDfaRYAk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Habit Loops - How Apps Make Themselves Unforgettable",
+                        "lectureId": "6a731a7eb6907e7275bd8154",
+                        "lectureLength": "00:30:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4c4MF4XfxeA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Trust, Urgency & Incentives - When They Work and When They Backfire",
+                        "lectureId": "6a731a7eb6907e7275bd8155",
+                        "lectureLength": "00:29:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mkjXH3q8XE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Choice Architecture - What You Show Shapes What They Do",
+                        "lectureId": "6a731a7eb6907e7275bd8156",
+                        "lectureLength": "00:31:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UHkU4XC6hF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Behavioural Nudges - Small Design Choices With Big Impact",
+                        "lectureId": "6a731a7eb6907e7275bd8157",
+                        "lectureLength": "00:31:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AreyMxYAcTM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OPERATOR REALITY Why Discounts Don't Build Loyalty",
+                        "lectureId": "6a731a7eb6907e7275bd8158",
+                        "lectureLength": "00:31:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HZ6g3ZUHJmJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Consumer Psychology Teardown Q-commerce, Food Delivery , Fintech",
+                        "lectureId": "6a731a7eb6907e7275bd8159",
+                        "lectureLength": "00:40:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88cPRGxDMn7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Behavioural_Triggers",
+                "assignmentId": "6a759a3bb6907e7275bdadff",
+                "assignmentLink": "https://docs.google.com/document/d/1OilJvXQk9o97LWnWBxZVccGQMgNIn9zo/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Metrics That Drive Decisions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Metrics That Matter vs Metrics That Feel Good",
+                        "lectureId": "6a731a7eb6907e7275bd815c",
+                        "lectureLength": "00:34:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Asz8TyD5Y5d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Engagement Metrics DAU, WAU, MAU & Stickiness",
+                        "lectureId": "6a731a7eb6907e7275bd815d",
+                        "lectureLength": "00:32:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Btz2uqj34RS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cohort Analysis - The Chart That Shows You the Truth",
+                        "lectureId": "6a731a7eb6907e7275bd815e",
+                        "lectureLength": "00:40:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZyCUUEaus7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Funnel Metrics CTR, CVR, AOV and What Moves Them",
+                        "lectureId": "6a731a7eb6907e7275bd815f",
+                        "lectureLength": "00:35:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AFGdrhKCtX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OPERATOR REALITY Why Higher CTR Can Reduce Revenue",
+                        "lectureId": "6a731a7eb6907e7275bd8160",
+                        "lectureLength": "00:25:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gcNTU7R5aa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Retention Curves - Reading the Shape, Not Just the Number",
+                        "lectureId": "6a731a7eb6907e7275bd8161",
+                        "lectureLength": "00:34:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uFDm5bU5CB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Incrementality & ROI - Did Your Campaign Actually Work",
+                        "lectureId": "6a731a7eb6907e7275bd8162",
+                        "lectureLength": "00:34:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rRXcK8KN7d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pre Post, A B Logic & When Each Method Is Right",
+                        "lectureId": "6a731a7eb6907e7275bd8163",
+                        "lectureLength": "00:27:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BB6h6jUTazz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Workshop Diagnose a Real Funnel Dataset",
+                        "lectureId": "6a731a7eb6907e7275bd8164",
+                        "lectureLength": "00:29:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8GSNcYbj4S/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Diagnose_Funnel_Leakage.",
+                "assignmentId": "6a759a4fb6907e7275bdae04",
+                "assignmentLink": "https://docs.google.com/document/d/1mu7ZcZ8lv3Urq6M_2wlVaxGOE8bRcow1/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Acquisition That Doesn't Break the Bank",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Paid, Organic, Referral, Product-Led - Choosing Your Channel Mix",
+                        "lectureId": "6a731a7eb6907e7275bd8166",
+                        "lectureLength": "00:30:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Exntq56bkf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CAC, LTV & Payback - The Unit Economics of Acquisition",
+                        "lectureId": "6a731a7eb6907e7275bd8167",
+                        "lectureLength": "00:33:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AufMAg9XhFj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "GTM for Consumer Startups - Launch Before You're Ready",
+                        "lectureId": "6a731a7eb6907e7275bd8168",
+                        "lectureLength": "00:26:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uEXdqrqNrE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Organic Growth Loops vs Paid Growth Loops",
+                        "lectureId": "6a731a7eb6907e7275bd8169",
+                        "lectureLength": "00:32:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fzkPJBxuSe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Content as a Growth Channel",
+                        "lectureId": "6a731a7eb6907e7275bd816a",
+                        "lectureLength": "00:37:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a6TGc69NfP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SEO Fundamentals Earn Traffic without Paying for it",
+                        "lectureId": "6a731a7eb6907e7275bd816b",
+                        "lectureLength": "00:36:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XKXhkGdrgH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Influencer Marketing & Partnerships",
+                        "lectureId": "6a731a7eb6907e7275bd816c",
+                        "lectureLength": "00:36:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/896QRkUyc5p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Acquisition Teardown Swiggy Regional vs Udaan B2B",
+                        "lectureId": "6a731a7eb6907e7275bd816d",
+                        "lectureLength": "00:44:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tMGnMQ8BM8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Design_Acquisition_Strategy.",
+                "assignmentId": "6a759a64b6907e7275bdae09",
+                "assignmentLink": "https://docs.google.com/document/d/1jQh8gViivcgljEc_UNRxASGnFE25L_yi/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Activation & Onboarding Systems",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Activation Is Not the First Order - It's the First Habit",
+                        "lectureId": "6a731a7eb6907e7275bd8170",
+                        "lectureLength": "00:37:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88qSm7EjfXX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Discovery Optimisation - Can Users Find What They Came For",
+                        "lectureId": "6a731a7eb6907e7275bd8171",
+                        "lectureLength": "00:26:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PTtY29zxRC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reducing Activation Friction - Fix Before You Build",
+                        "lectureId": "6a731a7eb6907e7275bd8172",
+                        "lectureLength": "00:27:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6t8SUYKuaq4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Onboarding Teardown Swiggy, Zepto & an International App",
+                        "lectureId": "6a731a7eb6907e7275bd8173",
+                        "lectureLength": "00:31:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C52CEr5PcPc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Onboarding The First 7 Minutes That Decide Everything",
+                        "lectureId": "6a731a7eb6907e7275bd8174",
+                        "lectureLength": "00:36:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NPZHYFnSQk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Onboarding_Audit.",
+                "assignmentId": "6a759a7fb6907e7275bdae0e",
+                "assignmentLink": "https://docs.google.com/document/d/1EGUcY2FVpg8-nQSkT1AQO77ADQdh2yVB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Retention, CRM & Lifecycle Systems",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Why Retention Is the Only Growth Metric That Compounds",
+                        "lectureId": "6a731a7eb6907e7275bd8176",
+                        "lectureLength": "00:31:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ntKrnRFbgZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CRM 101 - Channels, Reach & What Each One Is Actually Good For",
+                        "lectureId": "6a731a7eb6907e7275bd8177",
+                        "lectureLength": "00:37:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Usg2ZKrssh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Segmentation - Stop Talking to Everyone the Same Way",
+                        "lectureId": "6a731a7eb6907e7275bd8178",
+                        "lectureLength": "00:33:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63taarpy24Y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lifecycle Mapping - The Right Message at the Right Moment",
+                        "lectureId": "6a731a7eb6907e7275bd8179",
+                        "lectureLength": "00:39:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yYQTyq8zQF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Push Notifications - Delivered, Opened, Tapped",
+                        "lectureId": "6a731a7eb6907e7275bd817a",
+                        "lectureLength": "00:27:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6jNYEjnCRq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OPERATOR REALITY Why More Notifications Can Hurt Retention",
+                        "lectureId": "6a731a7eb6907e7275bd817b",
+                        "lectureLength": "00:19:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9q85zGgejyr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Email for Retention - Still Powerful if You Know How",
+                        "lectureId": "6a731a7eb6907e7275bd817c",
+                        "lectureLength": "00:39:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pFTmch8k93/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "WhatsApp as a Retention Channel - Powerful but Easy to Burn",
+                        "lectureId": "6a731a7eb6907e7275bd817d",
+                        "lectureLength": "00:28:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjJbh2PyhhP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Win-Back Campaigns - Getting Lapsed Users to Come Back",
+                        "lectureId": "6a731a7eb6907e7275bd817e",
+                        "lectureLength": "00:37:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9CKf2GEz8q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Personalisation in CRM - From Segments to 1-to-1",
+                        "lectureId": "6a731a7eb6907e7275bd817f",
+                        "lectureLength": "00:25:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4r47YPFfRH6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Loyalty Systems - What Actually Builds Long-Term Retention",
+                        "lectureId": "6a731a7eb6907e7275bd8180",
+                        "lectureLength": "00:34:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fAkKqJ5TfT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CRM Tools Landscape",
+                        "lectureId": "6a731a7eb6907e7275bd8181",
+                        "lectureLength": "00:39:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xDcB2DADQph/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Workshop Build a Full Lifecycle CRM Strategy",
+                        "lectureId": "6a731a7eb6907e7275bd8182",
+                        "lectureLength": "00:35:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BZuSGCaUjf/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Lifecycle_Strategy.",
+                "assignmentId": "6a759a9cb6907e7275bdae13",
+                "assignmentLink": "https://docs.google.com/document/d/1os2kjjhYg49hcMTHRuMgQmn8scaCIhYO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Merchandising, Discovery & App Real Estate",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "App Real Estate - The Most Contested Space in a Consumer Startup",
+                        "lectureId": "6a731a7eb6907e7275bd8184",
+                        "lectureLength": "00:27:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5cZrGkYJue7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Viewport Engineering - What Users See Shapes What They Do",
+                        "lectureId": "6a731a7eb6907e7275bd8185",
+                        "lectureLength": "00:27:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bhxudNBRZg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scroll Behaviour - What Gets Seen, What Gets Skipped",
+                        "lectureId": "6a731a7eb6907e7275bd8186",
+                        "lectureLength": "00:38:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49SSHJnahYJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Widget Strategy - Building the Homepage That Sells",
+                        "lectureId": "6a731a7eb6907e7275bd8187",
+                        "lectureLength": "00:28:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QxkkUM6J6g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Banner Hierarchy & CTR Psychology",
+                        "lectureId": "6a731a7eb6907e7275bd8188",
+                        "lectureLength": "00:28:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mUFPTUpZeF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Why High CTR Can Reduce Revenue",
+                        "lectureId": "6a731a7eb6907e7275bd8189",
+                        "lectureLength": "00:19:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Tm3Ks5gNCX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Carousel Psychology - Swipes, Stops & Engagement Patterns",
+                        "lectureId": "6a731a7eb6907e7275bd818a",
+                        "lectureLength": "00:35:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52Exyqqx8BC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dynamic Slotting - Letting Data Decide the Shelf",
+                        "lectureId": "6a731a7eb6907e7275bd818b",
+                        "lectureLength": "00:26:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Sf2KhxX6Xd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Category Spread & Discoverability Systems",
+                        "lectureId": "6a731a7eb6907e7275bd818c",
+                        "lectureLength": "00:37:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JcZUqkjdKy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "JTBD + AOV Systems - Selling More Without Selling Harder",
+                        "lectureId": "6a731a7eb6907e7275bd818d",
+                        "lectureLength": "00:25:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kMM436TCAT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Personalisation Systems - How the App Learns What You Want",
+                        "lectureId": "6a731a7eb6907e7275bd818e",
+                        "lectureLength": "00:34:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdX7xZ7XZHu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Merchandising Teardown Swiggy vs. Blinkit vs. Amazon",
+                        "lectureId": "6a731a7eb6907e7275bd818f",
+                        "lectureLength": "00:33:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mNzyt8hAu9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Homepage_Merchandising_Redesign.",
+                "assignmentId": "6a759ab1b6907e7275bdae18",
+                "assignmentLink": "https://docs.google.com/document/d/1kLYbtOi_3LBu9cOPHZcGjjmo4qjCP34c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Experimentation & CRO",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Why Most A B Tests Fail Before They Even Launch",
+                        "lectureId": "6a731a7eb6907e7275bd8191",
+                        "lectureLength": "00:25:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5e8A4nQ6kz4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Writing a Sharp Hypothesis - The Skill That Separates Good Testers",
+                        "lectureId": "6a731a7eb6907e7275bd8192",
+                        "lectureLength": "00:21:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63eGZDkarRs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing an A B Test That Actually Teaches You Something",
+                        "lectureId": "6a731a7eb6907e7275bd8193",
+                        "lectureLength": "00:40:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NY2AySp5jb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reading Test Results Without Fooling Yourself",
+                        "lectureId": "6a731a7eb6907e7275bd8194",
+                        "lectureLength": "00:29:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjMcjkXb6P4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OPERATOR REALITY Why Great Experiments Fail",
+                        "lectureId": "6a731a7eb6907e7275bd8195",
+                        "lectureLength": "00:19:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4pJGqcksCSC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CRO Systems - Building a High-Velocity Test Machine",
+                        "lectureId": "6a731a7eb6907e7275bd8196",
+                        "lectureLength": "00:22:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N2DXUjKYcB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Reverse A B & Natural Experiments - Testing When You Can't Test",
+                        "lectureId": "6a731a7eb6907e7275bd8197",
+                        "lectureLength": "00:22:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gA9jCBmuNu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Personalisation Testing - When Every User Is the Experiment",
+                        "lectureId": "6a731a7eb6907e7275bd8198",
+                        "lectureLength": "00:26:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUfqe47dCy4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Workshop Build a 10-Experiment Roadmap",
+                        "lectureId": "6a731a7eb6907e7275bd8199",
+                        "lectureLength": "00:31:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2dg92kAxQ6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Experiment_Roadmap.",
+                "assignmentId": "6a759ac3b6907e7275bdae1d",
+                "assignmentLink": "https://docs.google.com/document/d/1CA5lqCHcFN-npA8QT7aNpp1AX5SaoDUj/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Marketplace Growth & Unit Economics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How Two-Sided Marketplaces Actually Grow",
+                        "lectureId": "6a731a7eb6907e7275bd819b",
+                        "lectureLength": "00:39:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ST7Mnt5Urp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Contribution Margin - The Number Every Growth Person Should Know",
+                        "lectureId": "6a731a7eb6907e7275bd819c",
+                        "lectureLength": "00:36:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ps7uPdhrCE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pricing Experiments in a Marketplace - What Changes, What Breaks",
+                        "lectureId": "6a731a7eb6907e7275bd819d",
+                        "lectureLength": "00:28:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YFCxTKYDzZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Supply Strategy, Category Economics & Expansion Decisions",
+                        "lectureId": "6a731a7eb6907e7275bd819e",
+                        "lectureLength": "00:26:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3N9dQYjEQB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Marketplace Growth Teardown Swiggy Delivery Economics",
+                        "lectureId": "6a731a7eb6907e7275bd819f",
+                        "lectureLength": "00:45:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hFrcM89g5Q/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Optimise_Marketplace_Economics.",
+                "assignmentId": "6a759ad7b6907e7275bdae22",
+                "assignmentLink": "https://docs.google.com/document/d/1FRXLszMHRvi3-45cbsi4cRVsuXJ2fZYh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Teardowns & Capstone",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Teardown How Swiggy Built a Growth System at Scale",
+                        "lectureId": "6a731a7eb6907e7275bd81a1",
+                        "lectureLength": "00:36:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkGTyE4xzMP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Teardown Blinkit and the Q-Commerce Growth Model",
+                        "lectureId": "6a731a7eb6907e7275bd81a2",
+                        "lectureLength": "00:40:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HyQb2BK397/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Teardown How Netflix Retains a Global Audience",
+                        "lectureId": "6a731a7eb6907e7275bd81a3",
+                        "lectureLength": "00:25:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4xZSNb4CQ3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Teardown Amazon's Merchandising System",
+                        "lectureId": "6a731a7eb6907e7275bd81a4",
+                        "lectureLength": "00:32:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BCF44yTbxJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Teardown Zomato's Growth Playbook vs. Swiggy's",
+                        "lectureId": "6a731a7eb6907e7275bd81a5",
+                        "lectureLength": "00:26:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqxgBbkyKBe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to Audit Any Growth System - The Operator's Method",
+                        "lectureId": "6a731a7eb6907e7275bd81a6",
+                        "lectureLength": "00:28:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5s5uRafaM7J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Operator Reality ",
+                        "lectureId": "6a731a7eb6907e7275bd81a7",
+                        "lectureLength": "00:44:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KJjSEZ2KRr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Workshop The Growth Lead's Pressure Test",
+                        "lectureId": "6a731a7eb6907e7275bd81a8",
+                        "lectureLength": "00:44:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NJhTGpSEkfS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Capstone_Complete_Growth_Audit.",
+                "assignmentId": "6a759ae8b6907e7275bdae27",
+                "assignmentLink": "https://docs.google.com/document/d/18abpg-a3C8YlzLO8WJQoJ5pSolY1CsMB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": null,
+        "resource": [
+            "https://drive.google.com/drive/folders/1_JzaAnPd9nV1TbpvZLvGrp3F72IB3Vgx?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

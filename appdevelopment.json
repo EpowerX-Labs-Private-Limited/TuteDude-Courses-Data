@@ -1,0 +1,633 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680c86eb364f718dc17b7317",
+        "courseName": "App Development",
+        "slug": "appdevelopment",
+        "category": "technical",
+        "tpFolderId": "A8xHKSzgRSf",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "69709b177a4c1d6f20288951",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Intro To IDE And Installation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro To IDE",
+                        "lectureId": "680c86eb364f718dc17b7319",
+                        "lectureLength": "00:09:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sJPcrZ2BSG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installing IDE",
+                        "lectureId": "680c86eb364f718dc17b731a",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4a4a9aHZ3Ya/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Conditional Statements, Functions And Arrays",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "If-Else-Else If",
+                        "lectureId": "680c86eb364f718dc17b731c",
+                        "lectureLength": "00:09:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6c568ZSHxN9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "When Statement, Lambda Operator",
+                        "lectureId": "680c86eb364f718dc17b731d",
+                        "lectureLength": "00:09:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5P5bAyp7YY6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Function And Suspend Functions",
+                        "lectureId": "680c86eb364f718dc17b731e",
+                        "lectureLength": "00:25:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99k96SaH7UP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dispatcher Types",
+                        "lectureId": "680c86eb364f718dc17b731f",
+                        "lectureLength": "00:07:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89D7hs58EEt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Arrays And List",
+                        "lectureId": "680c86eb364f718dc17b7320",
+                        "lectureLength": "00:13:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9PGC5GjH2Xx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment",
+                "assignmentId": "69e3801f49153561b6b64952",
+                "assignmentLink": "https://docs.google.com/document/d/1KYQH5B9Khyq2i4Xo0fwGXSdYddgoC9X7WEOdqIsQlz0/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "OOPs In Kotlin",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Classes And Objects",
+                        "lectureId": "680c86eb364f718dc17b7322",
+                        "lectureLength": "00:08:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yqhgQhkNX4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inheritance",
+                        "lectureId": "680c86eb364f718dc17b7323",
+                        "lectureLength": "00:21:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9nuagRFPRJe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interface",
+                        "lectureId": "680c86eb364f718dc17b7324",
+                        "lectureLength": "00:11:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBpHcmFt49g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Encapsulation",
+                        "lectureId": "680c86eb364f718dc17b7325",
+                        "lectureLength": "00:10:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkbCJRCJdDa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Polymorphism",
+                        "lectureId": "680c86eb364f718dc17b7326",
+                        "lectureLength": "00:08:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQTKx9sXx8H/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment",
+                "assignmentId": "69e3803449153561b6b64957",
+                "assignmentLink": "https://docs.google.com/document/d/15-XAfX058fGqgfuQAND3kPfVG32K3fEDwlC22lUlmL0/edit?usp=sharin"
+            },
+            {
+                "type": "section",
+                "name": "Intro To Basic UI Components",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Linear Layout And Button And Text View",
+                        "lectureId": "680c86eb364f718dc17b7328",
+                        "lectureLength": "00:21:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASU2nug4yRk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Edit Text And Image View",
+                        "lectureId": "680c86eb364f718dc17b7329",
+                        "lectureLength": "00:15:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56S2cNyyC3h/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Recycler View",
+                        "lectureId": "680c86eb364f718dc17b732a",
+                        "lectureLength": "00:40:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7eE8AQhCj47/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Recycler View Outro",
+                        "lectureId": "680c86eb364f718dc17b732b",
+                        "lectureLength": "00:03:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f8fNTy6dx2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Calculator App With Basic UI",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Calculator App Part 1",
+                        "lectureId": "680c86eb364f718dc17b732d",
+                        "lectureLength": "00:01:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Mm5GpPxaM5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Calculator App Part 2",
+                        "lectureId": "680c86eb364f718dc17b732e",
+                        "lectureLength": "00:28:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHuRMjYfyfT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Calculator App Part 3",
+                        "lectureId": "680c86eb364f718dc17b732f",
+                        "lectureLength": "00:53:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HkQGnYbphx2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Activity Lifecycles And Toast In Kotlin",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Activity Life Cycles",
+                        "lectureId": "680c86eb364f718dc17b7331",
+                        "lectureLength": "00:06:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2qMsnft5PU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Custom Toast Message",
+                        "lectureId": "680c86eb364f718dc17b7332",
+                        "lectureLength": "00:06:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Yhj3B5gxf5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Intents And Navigation Inside App",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intents",
+                        "lectureId": "680c86eb364f718dc17b7334",
+                        "lectureLength": "00:39:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8aUbUzu2xE8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NavGraph",
+                        "lectureId": "680c86eb364f718dc17b7335",
+                        "lectureLength": "00:32:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EhddqyHAbT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Modern UI Components",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Modern UI (Bottom Nav And Side Nav Panel)",
+                        "lectureId": "680c86eb364f718dc17b7337",
+                        "lectureLength": "01:11:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jRB4DNFxYj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "TODO App With MVVM",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "ToDo",
+                        "lectureId": "680c86eb364f718dc17b7339",
+                        "lectureLength": "00:58:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Au7mBqd9UYX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "FitSync (Fitness Tracker App) With OSM And MVVM",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Fitness Tracker App Part 1",
+                        "lectureId": "680c86eb364f718dc17b733b",
+                        "lectureLength": "00:57:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83xCmqyaDcJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fitness Tracker App Part 2",
+                        "lectureId": "680c86eb364f718dc17b733c",
+                        "lectureLength": "00:43:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Br3z8jnExsQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fitness Tracker App Part 3",
+                        "lectureId": "680c86eb364f718dc17b733d",
+                        "lectureLength": "01:50:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6naU2fT8Aab/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Pocket Wise (Expense Tracker App) With MVVM And Room Database",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Expense Tracker App Part 1",
+                        "lectureId": "680c86eb364f718dc17b733f",
+                        "lectureLength": "00:16:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cNfnZHf68JY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Expense Tracker App Part 2",
+                        "lectureId": "680c86eb364f718dc17b7340",
+                        "lectureLength": "00:45:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84CgGN46sC2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Expense Tracker App Part 3",
+                        "lectureId": "680c86eb364f718dc17b7341",
+                        "lectureLength": "01:13:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68YXXPNGBhb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Expense Tracker App Part 4",
+                        "lectureId": "680c86eb364f718dc17b7342",
+                        "lectureLength": "01:12:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hUKUEaquz9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Expense Tracker App Part 5",
+                        "lectureId": "680c86eb364f718dc17b7343",
+                        "lectureLength": "00:37:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4A24rbQXfmJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Advanced Kotlin Concepts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Flows In Kotlin",
+                        "lectureId": "680c86eb364f718dc17b7345",
+                        "lectureLength": "00:48:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MX8Nnshm2S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Higher Order Function And More",
+                        "lectureId": "680c86eb364f718dc17b7346",
+                        "lectureLength": "00:34:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Nd6kcQ73jB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Payment Gateway",
+                        "lectureId": "680c86eb364f718dc17b7347",
+                        "lectureLength": "00:36:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5pGs6Kumfuf/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "News Now (News App) With Dagger Hilt And Google Firebase",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "News App Part 1",
+                        "lectureId": "680c86eb364f718dc17b7349",
+                        "lectureLength": "01:05:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xEExczu9NAr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "News App Part 2",
+                        "lectureId": "680c86eb364f718dc17b734a",
+                        "lectureLength": "01:05:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9sHHNHZbqFa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "News App Part 3",
+                        "lectureId": "680c86eb364f718dc17b734b",
+                        "lectureLength": "00:38:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzXktMaAgxa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "News App Part 4",
+                        "lectureId": "680c86eb364f718dc17b734c",
+                        "lectureLength": "01:18:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SGGr9cBC6Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "News App Part 5",
+                        "lectureId": "680c86eb364f718dc17b734d",
+                        "lectureLength": "00:45:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xFYy7craKb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "News App Part 6",
+                        "lectureId": "680c86eb364f718dc17b734e",
+                        "lectureLength": "00:44:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qEk34Ncd2F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "News App Part 7",
+                        "lectureId": "680c86eb364f718dc17b734f",
+                        "lectureLength": "00:52:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EEQfgn7fRD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "News App Part 8",
+                        "lectureId": "680c86eb364f718dc17b7350",
+                        "lectureLength": "01:29:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABjczqf4Cgg/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Skycast (Weather App) With API Call Using Retrofit And Okhttp, Google Firebase",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Weather App Part 1",
+                        "lectureId": "680c86eb364f718dc17b7352",
+                        "lectureLength": "01:25:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TbdT6Jnd6S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Weather App Part 2",
+                        "lectureId": "680c86eb364f718dc17b7353",
+                        "lectureLength": "00:31:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R4qAHx54gr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Weather App Part 3",
+                        "lectureId": "680c86eb364f718dc17b7354",
+                        "lectureLength": "01:24:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PNjGCgxsyj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Weather App Part 4",
+                        "lectureId": "680c86eb364f718dc17b7355",
+                        "lectureLength": "00:09:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bzuECFapyJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Weather App Part 5",
+                        "lectureId": "680c86eb364f718dc17b7356",
+                        "lectureLength": "00:57:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Qq8KQJP6gm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Weather App Part 6",
+                        "lectureId": "680c86eb364f718dc17b7357",
+                        "lectureLength": "00:38:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zaKcgYGnAp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Kotlin With Jetpack Compose",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro To Jetpack Compose",
+                        "lectureId": "680c86eb364f718dc17b7359",
+                        "lectureLength": "00:15:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgPAAKHCth9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "UI Components In Jetpack Compose",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basic Views In Compose",
+                        "lectureId": "680c86eb364f718dc17b735b",
+                        "lectureLength": "00:49:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MErEzMpg3d/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "UI App's using Jetpack compose",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding compose UI",
+                        "lectureId": "680c86eb364f718dc17b735d",
+                        "lectureLength": "01:29:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZBgEx5mPbf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding navigation in Compose UI",
+                        "lectureId": "680c86eb364f718dc17b735e",
+                        "lectureLength": "02:04:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82KYhphUNBj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Movie App using Koin and RxJava (single.zip) for synchronous API call",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Movie App",
+                        "lectureId": "680c86eb364f718dc17b7360",
+                        "lectureLength": "03:14:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8za6EFuFnT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Recipe App using KOIN and KSP",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Setting up project and adding dependencies",
+                        "lectureId": "680c86eb364f718dc17b7362",
+                        "lectureLength": "00:10:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y8PBtmknmcH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding models and API Interface",
+                        "lectureId": "680c86eb364f718dc17b7363",
+                        "lectureLength": "00:12:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cBCnFuczpc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Debugging and adding services",
+                        "lectureId": "680c86eb364f718dc17b7364",
+                        "lectureLength": "00:33:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZqEGkYyQPH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Add repository and it's implementation",
+                        "lectureId": "680c86eb364f718dc17b7365",
+                        "lectureLength": "00:11:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GGYs24PtsE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Navigation and UI Components",
+                        "lectureId": "680c86eb364f718dc17b7366",
+                        "lectureLength": "00:17:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BcyBCRMJgFr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Implementing and Explaining UI",
+                        "lectureId": "680c86eb364f718dc17b7367",
+                        "lectureLength": "00:20:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UYYT7z6yXD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Git command line and pushing code to git hub",
+                        "lectureId": "680c86eb364f718dc17b7368",
+                        "lectureLength": "00:05:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU4FdrAMGnk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Services in Android",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Accessibility Services in android",
+                        "lectureId": "680c86eb364f718dc17b736a",
+                        "lectureLength": "01:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9zGYHjByuqP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Final Project: E-Commerce Platform Android Application",
+                "assignmentId": "68f2251683492d3c7b6b5536",
+                "assignmentLink": "https://docs.google.com/document/d/1MlTpGcIYNNTUggmfi3v2ofzlKVxrYbRNeReALk-8oKk/edit?tab=t.0#heading=h.eif26a6yixd4"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "68ea03058423ce530155a312",
+                "mentor": "Md Ayaan",
+                "start": 20.5,
+                "end": 22,
+                "time": "8:30 PM - 10:00 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds5",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    3,
+                    5
+                ],
+                "role": "junior",
+                "chatEnd": 0,
+                "chatStart": 0
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

@@ -1,0 +1,665 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6970e1837a4c1d6f20288dbd",
+        "courseName": "Cybersecurity",
+        "slug": "cybersecurity",
+        "category": "Cyber Security",
+        "tpFolderId": "7HZ9xhegqxH",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "697df96f23576e8c37bf9b96",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "(Introduction to me & the Course)",
+                        "lectureId": "69d36d3049153561b6b61f84",
+                        "lectureLength": "00:25:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FgyG4zN4yP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Choose Your CyberSecurity Path",
+                        "lectureId": "69d36d3f49153561b6b61f87",
+                        "lectureLength": "00:36:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xMssuefJQX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "WannaCry Ransomware Introduction",
+                        "lectureId": "69d36d4d49153561b6b61f8a",
+                        "lectureLength": "00:22:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATSgJzRHHhb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "WannaCry Attack (Setting up a Test Enviroment)",
+                        "lectureId": "69d36d6a49153561b6b61f8d",
+                        "lectureLength": "00:21:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7tn2pgmm2X/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "System Hacking & WannaCry Execution",
+                        "lectureId": "69d36de449153561b6b61f91",
+                        "lectureLength": "00:31:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Tende653FS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Linux & Python Fundamentals",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Linux",
+                        "lectureId": "69d3743749153561b6b61fe3",
+                        "lectureLength": "00:31:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ecZK2Ap2eZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "File Permissions Concepts and Text Editors",
+                        "lectureId": "69d3743849153561b6b61fe6",
+                        "lectureLength": "00:19:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mCh2kQ3tzJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Essential Linux File Managements Commands",
+                        "lectureId": "69d3743849153561b6b61fe9",
+                        "lectureLength": "00:35:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4frRxqjtJUc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to servers (HINDI)",
+                        "lectureId": "69d3743849153561b6b61fec",
+                        "lectureLength": "00:21:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JKS5Ka8g3E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bash Scripting - (Variables)",
+                        "lectureId": "69d3743949153561b6b61fef",
+                        "lectureLength": "00:29:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hgTek6f4xy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bash Scripting - (Arrays & Conditional Statements)",
+                        "lectureId": "69d3743949153561b6b61ff2",
+                        "lectureLength": "00:35:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HydeQSuCnb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Python Fundamentals",
+                        "lectureId": "69d3743a49153561b6b61ff5",
+                        "lectureLength": "01:27:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hGd748CZx7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Basic Linux Commands",
+                "assignmentId": "69d4f54e49153561b6b62127",
+                "assignmentLink": "https://docs.google.com/document/d/1P7LNiopELQnsS5QyKuSaHY9HBiCUnsZQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Linux Permissions",
+                "assignmentId": "69d4f59449153561b6b6212c",
+                "assignmentLink": "https://docs.google.com/document/d/1pdmHmmT0hj7IRlwolvPhizRqBpMOaiMH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "File System Commands",
+                "assignmentId": "69d4f5ad49153561b6b62131",
+                "assignmentLink": "https://docs.google.com/document/d/1idpzDX8NXekplBJJCAlEFpPy4azNl_t6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Bash Scripting",
+                "assignmentId": "69d4f5e449153561b6b62136",
+                "assignmentLink": "https://docs.google.com/document/d/1n-itYOAI-rVS8iuw6vs95nbP4gLu6Vye/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Foundations of Information Security",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Information Gathering (Active and Passive)",
+                        "lectureId": "69d3797c49153561b6b61ffe",
+                        "lectureLength": "00:33:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BpCthF4eNb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Common Threat Vectors: Malicious Code and Phishing",
+                        "lectureId": "69d3797d49153561b6b62001",
+                        "lectureLength": "00:29:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35FhpquzCpE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Modern Attack Methodologies: From Social to Technical",
+                        "lectureId": "69d3797d49153561b6b62004",
+                        "lectureLength": "00:37:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uTK7P5Gg6z/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Information Gathering ",
+                "assignmentId": "69d4f5f549153561b6b6213b",
+                "assignmentLink": "https://docs.google.com/document/d/1uyBTcjAIFvtYC7DgbIbdNJxrd0PVGw0h/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Application Security and Penetration Testing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How Websites Works?",
+                        "lectureId": "6970e1837a4c1d6f20288dce",
+                        "lectureLength": "00:24:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zU8f3me5nh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "WebApp Security Concepts (Cookies, Sessions, Authentication Mechanisms)",
+                        "lectureId": "6970e1837a4c1d6f20288dcf",
+                        "lectureLength": "00:23:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5d2UggytqCG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hacking Your First Website",
+                        "lectureId": "6970e1837a4c1d6f20288dd0",
+                        "lectureLength": "00:12:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KB84BU6FYq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ubuntu Setup & Linux File Sharing",
+                        "lectureId": "6970e1837a4c1d6f20288dd1",
+                        "lectureLength": "00:20:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARxjpQXdSA2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Apache: Hosting Your First Website",
+                        "lectureId": "6970e1837a4c1d6f20288dd2",
+                        "lectureLength": "00:16:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ax7Pz9R6Hz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Website Defacement Practical",
+                        "lectureId": "6970e1837a4c1d6f20288dd3",
+                        "lectureLength": "00:47:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QuxnC6gmxK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setting Up Burpsuite",
+                        "lectureId": "6970e1837a4c1d6f20288dd4",
+                        "lectureLength": "00:12:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/87gRjYKZYQg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OWASP TOP 10 (2025 Edition) Part 1",
+                        "lectureId": "6970e1837a4c1d6f20288dd5",
+                        "lectureLength": "00:56:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6brn7JNPbxQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OWASP TOP 10 (2025 Edition) Part 2",
+                        "lectureId": "6970e1837a4c1d6f20288dd6",
+                        "lectureLength": "00:16:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4q6663JrHsm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bug Bounty Workflow Part 1(Reconnaisance & SQL Injection)",
+                        "lectureId": "6970e1837a4c1d6f20288dd7",
+                        "lectureLength": "00:59:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQSjgZNjkk9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bug Bounty Workflow Part 2 (CSRF & RCE)",
+                        "lectureId": "6970e1837a4c1d6f20288dd8",
+                        "lectureLength": "00:46:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Sch7bYQQxG/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Improper Session Management ",
+                "assignmentId": "69d4f60849153561b6b62140",
+                "assignmentLink": "https://docs.google.com/document/d/1n5cuGnDJwKh-hC2eadPxvenx-N5Gp58C/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Admin Panel ",
+                "assignmentId": "69d4f61249153561b6b62145",
+                "assignmentLink": "https://docs.google.com/document/d/1vUWoFsQkJqRHgaGsEl4EDQYu7NEz-W9e/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "IDOR ",
+                "assignmentId": "69d4f62649153561b6b6214a",
+                "assignmentLink": "https://docs.google.com/document/d/17uU7EmVwSueoka8N3LSs8DYm-2Nu6GYY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Reset Password ",
+                "assignmentId": "69d4f63249153561b6b6214f",
+                "assignmentLink": "https://docs.google.com/document/d/1IA8vrvaTtloef064FK8L_VPyDtxCpjzg/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Cross-Site Scripting",
+                "assignmentId": "69d4f65949153561b6b62154",
+                "assignmentLink": "https://docs.google.com/document/d/1ELXhAmlPZEUBl6Odt0mq8q5sQxD_z8cU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "SQL Injection",
+                "assignmentId": "69d4f66749153561b6b62159",
+                "assignmentLink": "https://docs.google.com/document/d/17jiAwOZZzmYKXUzH16Zdk0pNxd6DxkVb/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Network Defense & Penetration Testing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Network Types and Topologies",
+                        "lectureId": "6970e1837a4c1d6f20288dda",
+                        "lectureLength": "00:27:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YyDu7rjk4p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Network Devices & Fundamentals",
+                        "lectureId": "6970e1837a4c1d6f20288ddb",
+                        "lectureLength": "01:03:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFbqpjzzDCX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Network Security Concepts",
+                        "lectureId": "6970e1837a4c1d6f20288ddc",
+                        "lectureLength": "00:36:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TDrpQ4TBT9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Attacker Profiles & Cyber KillChain",
+                        "lectureId": "6970e1837a4c1d6f20288ddd",
+                        "lectureLength": "00:38:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GNukqemPah/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Black Box vs Grey Box VAPT",
+                        "lectureId": "6970e1837a4c1d6f20288dde",
+                        "lectureLength": "00:14:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4K4PnM6snY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nessus Installation & Setup",
+                        "lectureId": "6970e1837a4c1d6f20288ddf",
+                        "lectureLength": "00:08:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32uRybxsnNU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setting Up Metasploitable in VirtualBox",
+                        "lectureId": "6970e1837a4c1d6f20288de0",
+                        "lectureLength": "00:11:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yAZJT2nFCS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scanning : Nmap Service Discovery",
+                        "lectureId": "6970e1837a4c1d6f20288de1",
+                        "lectureLength": "00:32:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SxCq69uuYg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On : End-to-End Black Box VAPT",
+                        "lectureId": "6970e1837a4c1d6f20288de2",
+                        "lectureLength": "01:11:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4u9BzD98SM8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On :End to End Grey Box VAPT",
+                        "lectureId": "6970e1837a4c1d6f20288de3",
+                        "lectureLength": "00:51:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9dRHSCpf8BD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Analysis : Detailed Wireshark Investigation",
+                        "lectureId": "6970e1837a4c1d6f20288de4",
+                        "lectureLength": "00:45:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DFpurY7cfS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Advanced Nmap",
+                "assignmentId": "69d4f67649153561b6b6215e",
+                "assignmentLink": "https://docs.google.com/document/d/1jlBcD-ZUopxWw5Jei8zoLge2D34LAz_a/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "GreyBox VAPT",
+                "assignmentId": "69d4f68749153561b6b62163",
+                "assignmentLink": "https://docs.google.com/document/d/1Rz3KJdWJsgQDuiglmdYPpKxj-p5uPeIJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Network Traffic Analysis",
+                "assignmentId": "69d4f69d49153561b6b62168",
+                "assignmentLink": "https://docs.google.com/document/d/1z6ZRqKCWpvdwbrU10PKZVJblD0yiySPn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Data Protection and Cryptography",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Cryptography Fundamentals",
+                        "lectureId": "6970e1837a4c1d6f20288de6",
+                        "lectureLength": "00:35:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NX7g4JAdZU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Protection and Security Principles (Part 1)",
+                        "lectureId": "6970e1837a4c1d6f20288de7",
+                        "lectureLength": "01:04:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SCCkmTA6cEQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Protection & Security Principles [Part 2]",
+                        "lectureId": "6970e1837a4c1d6f20288de8",
+                        "lectureLength": "00:59:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZB6nUbsamrs/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Governance, Risk & Compliance (ISO, SMS)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "GRC Fundamentals: An Overview",
+                        "lectureId": "6989f2708c786e06ca10d7a7",
+                        "lectureLength": "00:24:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fMNPhEkH2e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Governance: Principles and Frameworks",
+                        "lectureId": "6989f2708c786e06ca10d7aa",
+                        "lectureLength": "00:36:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KPRQ8aJQth/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Risk Management: Identification and Mitigation",
+                        "lectureId": "6989f2718c786e06ca10d7ad",
+                        "lectureLength": "00:12:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uuZkrrp7hk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Compliance: Standards and Regulatory Requirements",
+                        "lectureId": "6989f2718c786e06ca10d7b0",
+                        "lectureLength": "00:08:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yn27G6aPFAR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The DPDP Act 2023: Privacy and Data Protection",
+                        "lectureId": "6989f2728c786e06ca10d7b4",
+                        "lectureLength": "00:14:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NbRxd8ySry/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": " Investigating an Attack",
+                "assignmentId": "69d4f6bc49153561b6b62173",
+                "assignmentLink": "https://docs.google.com/document/d/18i_7lP_4ea77WOlqUAc8ilT7zTtfORT8/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Securing Emerging Technologies",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "The Dual-Edge of AI: Offensive Evolution and Defensive Pillars",
+                        "lectureId": "6989f2728c786e06ca10d7b7",
+                        "lectureLength": "00:13:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aMFjsCXJ8r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Securing LLMs: Understanding Privileged Intermediaries and Prompt Injection",
+                        "lectureId": "6989f2728c786e06ca10d7ba",
+                        "lectureLength": "00:22:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AxuhfA2MQJZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands-on Lab: Breaking Chatbots with Prompt Injection Attacks",
+                        "lectureId": "6989f2738c786e06ca10d7bd",
+                        "lectureLength": "00:44:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TMEtdnGQNm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IoT Security Fundamentals: MQTT Packet Manipulation",
+                        "lectureId": "6989f2738c786e06ca10d7c0",
+                        "lectureLength": "00:50:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PYpqKDFPnU/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Fuzzing ",
+                "assignmentId": "69d4f6d049153561b6b62178",
+                "assignmentLink": "https://docs.google.com/document/d/1UD4Yn2s0OvEEIx71gbHM64y2BJ-DOiTD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Security Operations Center: Overview & Roles",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "SOC Operations: People, Processes, and Defensive Technology",
+                        "lectureId": "6970e1837a4c1d6f20288dea",
+                        "lectureLength": "00:41:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65jqemegsjd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Detection Frameworks and Splunk SIEM Implementation",
+                        "lectureId": "6970e1837a4c1d6f20288deb",
+                        "lectureLength": "00:33:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6F89EM7kttA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "RCA (Root Cause Analysis) & Cyber Breach Investigation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Incident Response Management",
+                        "lectureId": "6989f2748c786e06ca10d7c3",
+                        "lectureLength": "01:16:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByXabMprRea/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Digital Forensics Process",
+                        "lectureId": "6989f2748c786e06ca10d7c6",
+                        "lectureLength": "01:21:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/948TkHkbxXx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Aquisition (Volatile & Non-Volatile)",
+                        "lectureId": "6989f2748c786e06ca10d7c9",
+                        "lectureLength": "00:15:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/chnbpJexF5u/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "SSRF",
+                "assignmentId": "69d4f72849153561b6b6217d",
+                "assignmentLink": "https://docs.google.com/document/d/1ZXb82l-42CvMZ_bGDx43Hr5lkkIXNp2K/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "SIEM Architecture & Hands-On Splunk",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Setting Up Splunk (Installation & Configuration)",
+                        "lectureId": "6970e1837a4c1d6f20288ded",
+                        "lectureLength": "00:35:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hS9EgzEmTG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Investigating Phishing Attack on Splunk",
+                        "lectureId": "6970e1837a4c1d6f20288dee",
+                        "lectureLength": "00:54:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ABkyPsjfH4Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Wazuh Installation and Bruteforce Incident Analysis",
+                        "lectureId": "6970e1837a4c1d6f20288def",
+                        "lectureLength": "00:55:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C85jJefChnY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Job Ready Module -  How to get your first Job",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Cybersecurity Projects (VAPT,SOC,Forensics)",
+                        "lectureId": "6989f2758c786e06ca10d7cc",
+                        "lectureLength": "00:29:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BfDF2Cp7DPd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The Professional Toolkit Resume, Linkedin, Conferences & CTFs",
+                        "lectureId": "6989f2758c786e06ca10d7cf",
+                        "lectureLength": "00:43:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ruYeZp2NdC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Building your Portfolio Website!",
+                        "lectureId": "6989f2768c786e06ca10d7d2",
+                        "lectureLength": "00:20:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AzdDMqedBmZ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Log Analysis ",
+                "assignmentId": "69d4f74349153561b6b62182",
+                "assignmentLink": "https://docs.google.com/document/d/1JHxwmg31F4aybv-Mhmap1aZPlPIivtkI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Capstone Project:",
+                "assignmentId": "69d4f74c49153561b6b62187",
+                "assignmentLink": "https://docs.google.com/document/d/17YrSpKmbAm2ATmSAGi9hfF43PwVjYSAa/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "697363d0959c4775eddb1248",
+                "mentor": "Abhishek",
+                "start": 20,
+                "end": 23,
+                "chatStart": 20,
+                "chatEnd": 23,
+                "time": "8 PM - 11 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db1",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1gRx3cBNCMAvoamyU5RDyihCBhO--rRrG?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

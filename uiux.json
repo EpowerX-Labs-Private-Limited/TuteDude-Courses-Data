@@ -1,0 +1,993 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6809ef7a607b43330283b936",
+        "courseName": "UI/UX",
+        "slug": "uiux",
+        "category": "design",
+        "tpFolderId": "B5BeXJ5Curf",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": true,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "Tutedude Virtual Campus",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Tutedude Virtual Campus",
+                        "lectureId": "690c8dec489973d0dac34366",
+                        "lectureLength": "00:03:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNpe5cQ2Ut/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Demystifying UX Design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is UX",
+                        "lectureId": "6809ef7a607b43330283b938",
+                        "lectureLength": "00:09:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bAhqSC9PBub/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Key Principles of UX Design - Laws of UX",
+                        "lectureId": "6809ef7a607b43330283b939",
+                        "lectureLength": "00:11:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yGqgfdMeCmF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Roles of UX Designer",
+                        "lectureId": "6809ef7a607b43330283b93a",
+                        "lectureLength": "00:08:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDyzmA9Y3Yj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "The UX Problem-Solver's Toolkit",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Design Thinking (DD Method)",
+                        "lectureId": "6809ef7a607b43330283b93c",
+                        "lectureLength": "00:19:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3J7JfYtdjcK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem Identification",
+                        "lectureId": "6809ef7a607b43330283b93d",
+                        "lectureLength": "00:32:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7azFjMk7MdF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem Statement Breakdown",
+                        "lectureId": "6809ef7a607b43330283b93e",
+                        "lectureLength": "00:17:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XHqRbsUbCT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Walking in the Users Shoes",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is User Research and Fundamentals of it",
+                        "lectureId": "6809ef7a607b43330283b940",
+                        "lectureLength": "00:12:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yGx8Hmh5Pb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Methods of User Research",
+                        "lectureId": "6809ef7a607b43330283b941",
+                        "lectureLength": "00:10:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4MDkhn4xnu9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Which UX Method to use ..When?",
+                        "lectureId": "6809ef7a607b43330283b942",
+                        "lectureLength": "00:06:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Sgp5z9QURC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "User Surveys",
+                        "lectureId": "6809ef7a607b43330283b943",
+                        "lectureLength": "00:15:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4P2gG44S6QS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "User Interview",
+                        "lectureId": "6809ef7a607b43330283b944",
+                        "lectureLength": "00:07:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uTM7m8tadyx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "The UX Analysts Approach",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Competitive Analysis",
+                        "lectureId": "6a26b29e8668a9279c14c223",
+                        "lectureLength": "00:09:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CquqhEPFBK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Market Research",
+                        "lectureId": "6a26b29f8668a9279c14c226",
+                        "lectureLength": "00:06:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9F4xZNz62sk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Usability Test",
+                        "lectureId": "6a26b29f8668a9279c14c229",
+                        "lectureLength": "00:09:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mpSqKbKjjU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Notetaking",
+                        "lectureId": "6a26b29f8668a9279c14c22c",
+                        "lectureLength": "00:02:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKzySPx7U38/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Ideation for Exceptional Experiences",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is a Design Strategy and how to create one",
+                        "lectureId": "6809ef7a607b43330283b94b",
+                        "lectureLength": "00:24:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMDBS6pfrus/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ideation Techniques",
+                        "lectureId": "6809ef7a607b43330283b94c",
+                        "lectureLength": "00:16:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yUnMb2r4ah/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Userflow",
+                        "lectureId": "6809ef7a607b43330283b94d",
+                        "lectureLength": "00:22:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BejsjEaeSXm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Information Architecture",
+                        "lectureId": "6809ef7a607b43330283b94e",
+                        "lectureLength": "00:20:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMjQZFDKXD9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 1: Userflows",
+                "assignmentId": "68f2250083492d3c7b6b5488",
+                "assignmentLink": "https://docs.google.com/document/d/17d9UDM5JZndr_fEAxRI4BZt0iw70Lz326qm6G8pctP4/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 2: Sketching",
+                "assignmentId": "68f224ff83492d3c7b6b5486",
+                "assignmentLink": "https://docs.google.com/document/d/1PEb7DnvTNKfnc114_3u0nD8adJkaKg5XWapgxSO5QSQ/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 3: Sitemap",
+                "assignmentId": "68f2250183492d3c7b6b548a",
+                "assignmentLink": "https://docs.google.com/document/d/14T6v1cMeoAtSFq3zwtk85wrFkWH43dpmDDePyS3w674/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Validating Design Decisions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Usability Testing",
+                        "lectureId": "6809ef7a607b43330283b950",
+                        "lectureLength": "00:16:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CYa5BQE5gB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AB Testing",
+                        "lectureId": "6809ef7a607b43330283b951",
+                        "lectureLength": "00:11:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Crysyx6s6A/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Mastering User Interface Design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is User Interface Design",
+                        "lectureId": "6809ef7a607b43330283b953",
+                        "lectureLength": "00:12:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APYQY9JmzDh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Principles of UI Design",
+                        "lectureId": "6809ef7a607b43330283b954",
+                        "lectureLength": "00:16:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtDFKamsf78/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Color Theory for UI",
+                        "lectureId": "6809ef7a607b43330283b955",
+                        "lectureLength": "00:20:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M3dZGqJ9jZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typography",
+                        "lectureId": "6809ef7a607b43330283b956",
+                        "lectureLength": "00:12:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X996QDQY5B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Spacing and Grids",
+                        "lectureId": "6809ef7a607b43330283b957",
+                        "lectureLength": "00:24:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43PUmaPABz7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Wireframing",
+                        "lectureId": "6809ef7a607b43330283b958",
+                        "lectureLength": "00:12:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AnSZxrpQyeS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UI Patterns and Components",
+                        "lectureId": "6809ef7a607b43330283b959",
+                        "lectureLength": "00:11:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QurdmtudtT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interaction Design",
+                        "lectureId": "6809ef7a607b43330283b95a",
+                        "lectureLength": "00:12:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3N2Ccyptmqk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Intro to Figma",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Figma Essentials",
+                        "lectureId": "6809ef7a607b43330283b95c",
+                        "lectureLength": "00:58:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34sfGuRTU3K/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing a simple login flow on Figma",
+                        "lectureId": "6809ef7a607b43330283b95d",
+                        "lectureLength": "00:16:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XQ7ycAr7zY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing a simple hero section on Figma",
+                        "lectureId": "6809ef7a607b43330283b95e",
+                        "lectureLength": "00:16:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FzGTA9eRUN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Advanced Figma",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Autolayout",
+                        "lectureId": "6809ef7a607b43330283b960",
+                        "lectureLength": "00:59:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QRmaJTA5ng/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mastering UI Components",
+                        "lectureId": "6809ef7a607b43330283b961",
+                        "lectureLength": "00:41:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DUed4e9SQK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Micro-Interactions",
+                        "lectureId": "6809ef7a607b43330283b962",
+                        "lectureLength": "00:49:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BARAkdXaC3x/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Responsive Design",
+                        "lectureId": "6809ef7a607b43330283b963",
+                        "lectureLength": "00:45:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NX53ySsQ4E/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 4: Intro to figma",
+                "assignmentId": "68f2250683492d3c7b6b5494",
+                "assignmentLink": "https://docs.google.com/document/d/1r0p3uiXfb8thAYZ68N7XoB7rYok5j2ieZgS1zcYUlG4/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 5: Low Fidelity",
+                "assignmentId": "68f2250283492d3c7b6b548c",
+                "assignmentLink": "https://docs.google.com/document/d/18P3XICCqlS784uiyD9lPndxxRXtwbzqIBbZQI3wrQpY/edit?tab=t.0"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 6: Spacing Grids",
+                "assignmentId": "68f2250383492d3c7b6b548e",
+                "assignmentLink": "https://docs.google.com/document/d/1geFQ6DNiJto8q2ff66kNqtr6jeH-Ej2G6hf_-HQHcag/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Cool stuff",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Design for smart watch and Smart TV",
+                        "lectureId": "6809ef7a607b43330283b965",
+                        "lectureLength": "00:39:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eKgsf2gB56/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to design Normal Website",
+                        "lectureId": "6809ef7a607b43330283b968",
+                        "lectureLength": "01:01:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQHmGz2hzEp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to design Apps",
+                        "lectureId": "6809ef7a607b43330283b969",
+                        "lectureLength": "00:02:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zQ5tcq7zeeB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Design System",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is a Design System",
+                        "lectureId": "6809ef7a607b43330283b96b",
+                        "lectureLength": "00:12:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5T8c3G85Zyf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Showcasing Other Brands Design Systems",
+                        "lectureId": "6809ef7a607b43330283b96c",
+                        "lectureLength": "00:16:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/67sEm7SKFtp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Your Own Design System",
+                        "lectureId": "6809ef7a607b43330283b96d",
+                        "lectureLength": "01:36:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EdRuNy5qDF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Documenting the Design System",
+                        "lectureId": "6809ef7a607b43330283b96e",
+                        "lectureLength": "00:27:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9qE87xuUqn/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 7: Typography",
+                "assignmentId": "68f2250483492d3c7b6b5490",
+                "assignmentLink": "https://docs.google.com/document/d/1wAxDp-BV8rRaOs9j2KbPFXYkzwdyzxGrnpGlHAunNc4/edit?tab=t.0"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 8: Colors",
+                "assignmentId": "68f2250583492d3c7b6b5492",
+                "assignmentLink": "https://docs.google.com/document/d/1xcnbHKRWFgMi1t-h-MLCSaA13xW811P9Avs6eYurHhk/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 9: High Fidelity Design",
+                "assignmentId": "68f2250783492d3c7b6b5496",
+                "assignmentLink": "https://docs.google.com/document/d/1Ib9Et37F7mW4WIN63_zn4xkR7uUQMYJL7vjBq-3MN5Y/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Developer Handoff",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is a Developer Handoff",
+                        "lectureId": "6809ef7a607b43330283b970",
+                        "lectureLength": "00:07:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CFf6m4TqXb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing a simple dashboard",
+                        "lectureId": "6809ef7a607b43330283b971",
+                        "lectureLength": "00:26:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4BNQd2FCz5x/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Portfolio Creation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Portfolio Creation",
+                        "lectureId": "6809ef7a607b43330283b973",
+                        "lectureLength": "00:07:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UGCMFkCK63/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case studies and job application",
+                        "lectureId": "6809ef7a607b43330283b974",
+                        "lectureLength": "00:23:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AgMBAs8t4E/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Design and Ideation using ChatGPT",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Finding Design Ideas using ChatGPT",
+                        "lectureId": "6809ef7a607b43330283b976",
+                        "lectureLength": "00:15:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SQg7kecCnC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a User Flow for a Real-World Use Case with ChatGPT",
+                        "lectureId": "6809ef7a607b43330283b977",
+                        "lectureLength": "00:11:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BunaRdpZX6H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a Sitemap for a Real-World Use Case with ChatGPT",
+                        "lectureId": "6809ef7a607b43330283b978",
+                        "lectureLength": "00:07:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5caZfG3HbEJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "User Research and Analysis Using ChatGPT",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "User Surveys using ChatGPT",
+                        "lectureId": "6809ef7a607b43330283b97a",
+                        "lectureLength": "00:09:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5shbYNz4zSB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "User Interviews using ChatGPT",
+                        "lectureId": "6809ef7a607b43330283b97b",
+                        "lectureLength": "00:10:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KT9xTXB4ZP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "User Persona using ChatGPT",
+                        "lectureId": "6809ef7a607b43330283b97c",
+                        "lectureLength": "00:13:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qqSsdCtGhd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "User Journey Mapping",
+                        "lectureId": "6809ef7a607b43330283b97d",
+                        "lectureLength": "00:12:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6X4aPGnspUc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Empathy Mapping using ChatGPT",
+                        "lectureId": "6809ef7a607b43330283b97e",
+                        "lectureLength": "00:07:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34pKfBz3qT4/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "AI:UX Writing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "UX Writing using ChatGPT",
+                        "lectureId": "6809ef7a607b43330283b980",
+                        "lectureLength": "00:10:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7SacTRCF2Qe/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 10: Case Study",
+                "assignmentId": "68f2250883492d3c7b6b5498",
+                "assignmentLink": "https://docs.google.com/document/d/1YHwkOdJ00qaYvAEw9RD6SQ-K9O0JbYcHuJtthXjEEA8/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Case Study, Resume and Portfolio",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Project Sourcing & Frameworks",
+                        "lectureId": "6a26b2988668a9279c14c1ed",
+                        "lectureLength": "00:25:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3srnDX3bM6E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Strategies for Discovering High-Value Projects",
+                        "lectureId": "6a26b2988668a9279c14c1f0",
+                        "lectureLength": "00:23:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69cPYj7GfY4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project Execution & Core Case Study Walkthrough",
+                        "lectureId": "6a26b2998668a9279c14c1f3",
+                        "lectureLength": "00:18:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7E7EkAgq2xc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ideal case study",
+                        "lectureId": "6a26b2998668a9279c14c1f6",
+                        "lectureLength": "00:33:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxQMjJMM8MT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Resume Mastery: Structural Foundations",
+                        "lectureId": "6a26b2998668a9279c14c1f9",
+                        "lectureLength": "00:13:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c9YPbe22RS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Formatting Your Resume (Top Section)",
+                        "lectureId": "6a26b29a8668a9279c14c1fc",
+                        "lectureLength": "00:10:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3NMpsq7ZZ3y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Crafting Impactful Content for Core Resume Sections",
+                        "lectureId": "6a26b29a8668a9279c14c1ff",
+                        "lectureLength": "00:13:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T7pftNGb7c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The Ultimate Pre-Submission Resume Checklist",
+                        "lectureId": "6a26b29a8668a9279c14c202",
+                        "lectureLength": "00:07:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A24GK79JyGn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Crucial Portfolio Mistakes to Avoid: Layout & Structure",
+                        "lectureId": "6a26b29b8668a9279c14c205",
+                        "lectureLength": "00:10:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BF9JkgRqZFX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "How to crack Interview",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Optimizing Your LinkedIn Profile for Inbound Leads",
+                        "lectureId": "6a26b29b8668a9279c14c208",
+                        "lectureLength": "00:28:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8y3kRxDGJju/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Networking Frameworks: Reaching Out to Professionals",
+                        "lectureId": "6a26b29b8668a9279c14c20b",
+                        "lectureLength": "00:29:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xEuRFJH2zh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cold Emailing Mastery: Subject Lines to Follow-Ups",
+                        "lectureId": "6a26b29c8668a9279c14c20e",
+                        "lectureLength": "00:23:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74BAsgRnbu8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Benchmarking Your Profile & Job Search Funnel",
+                        "lectureId": "6a26b29c8668a9279c14c211",
+                        "lectureLength": "00:10:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7eQDZNneu2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tackling Technical & Practical Take-Home Assignments",
+                        "lectureId": "6a26b29c8668a9279c14c214",
+                        "lectureLength": "00:35:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6D778tZKXe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Identifying Red Flags & Scam Interview Tasks",
+                        "lectureId": "6a26b29d8668a9279c14c217",
+                        "lectureLength": "00:20:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5amc88f4xtf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nailing the Initial Recruiter Intro Call",
+                        "lectureId": "6a26b29d8668a9279c14c21a",
+                        "lectureLength": "00:21:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R5cAx3uHps/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deconstructing the Complete Application",
+                        "lectureId": "6a26b29d8668a9279c14c21d",
+                        "lectureLength": "00:10:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32KQ8bZN6jU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interviewing",
+                        "lectureId": "6a26b29e8668a9279c14c220",
+                        "lectureLength": "00:13:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PjECFZURr3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "AI for Modern Designers",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Will-ai-replace-designers",
+                        "lectureId": "6a2fe3ca8668a9279c14d444",
+                        "lectureLength": "00:06:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GpkgYSCZX3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creativity-vs-ai",
+                        "lectureId": "6a2fe3cb8668a9279c14d447",
+                        "lectureLength": "00:07:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pG4M3Fn9Y7E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Why-designers-who-ignore-ai-fall-behind",
+                        "lectureId": "6a2fe3cb8668a9279c14d44a",
+                        "lectureLength": "00:07:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gR4h2bCgCgf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How-top-designers-use-ai",
+                        "lectureId": "6a2fe3cb8668a9279c14d44d",
+                        "lectureLength": "00:06:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brg8sNqmPf9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Design Research & Problem Framing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Breaking-down-the-problems",
+                        "lectureId": "6a2fe4c48668a9279c14d492",
+                        "lectureLength": "00:41:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ar3AfSa487d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Secondary-research-and-mapping",
+                        "lectureId": "6a2fe4c58668a9279c14d495",
+                        "lectureLength": "00:26:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tcs8badP6B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stress-testing-your-thinking-with-ai",
+                        "lectureId": "6a2fe4c78668a9279c14d498",
+                        "lectureLength": "00:29:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5syKB5tqMBr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "From-insights-to-requirements-and-ai-ready-briefs",
+                        "lectureId": "6a2fe5258668a9279c14d4c4",
+                        "lectureLength": "00:30:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeCHbCRqssN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Ideation & Concept Development",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Expanding-the-solution-space",
+                        "lectureId": "6a2fe6c78668a9279c14d553",
+                        "lectureLength": "00:31:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MANA2ps9fZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Structured-idea-generation-techniques",
+                        "lectureId": "6a2fe3cd8668a9279c14d455",
+                        "lectureLength": "00:38:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6raT4mbQzUY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Evaluating-and-strengthening-concepts",
+                        "lectureId": "6a2fe3cd8668a9279c14d458",
+                        "lectureLength": "00:27:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQzeH7H54xH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Converging-toward-a-strong-direction",
+                        "lectureId": "6a2fe3cd8668a9279c14d45b",
+                        "lectureLength": "00:25:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pUU728Cb3Y/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Prototyping, Validation & UX Writing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "From-ideas-to-interface-products",
+                        "lectureId": "6a2fe4c98668a9279c14d4a8",
+                        "lectureLength": "00:11:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Q86qA46gA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design-to-working-prototype",
+                        "lectureId": "6a2fe5f68668a9279c14d4c7",
+                        "lectureLength": "00:18:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bu69AJtcDhX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Validating-flows-quickly",
+                        "lectureId": "6a2fe4c98668a9279c14d4ac",
+                        "lectureLength": "00:24:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68ZXr4Xpbny/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ux-writing-with-ai-crash-course",
+                        "lectureId": "6a2fe4c98668a9279c14d4af",
+                        "lectureLength": "01:20:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9grMA2TcqT7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Design Review & Optimization",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Ai-as-design-critic",
+                        "lectureId": "6a2fe3cf8668a9279c14d466",
+                        "lectureLength": "00:49:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hSGq6gfp96/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Accessibility-and-usability-checks",
+                        "lectureId": "6a2fe3cf8668a9279c14d469",
+                        "lectureLength": "00:21:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A37d6YdpqmS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data-driven-design-decisions",
+                        "lectureId": "6a2fe3cf8668a9279c14d46c",
+                        "lectureLength": "00:42:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kNBAQdQa4R/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Portfolio Building & Career Growth",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Turning-your-work-into-a-casestudy",
+                        "lectureId": "6a2fe4ca8668a9279c14d4bb",
+                        "lectureLength": "01:25:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73FGnynDJ82/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using-ai-to-improve-storytelling",
+                        "lectureId": "6a2fe4ca8668a9279c14d4be",
+                        "lectureLength": "00:33:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kATGSRCq7H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ai-as-your-career-assistant",
+                        "lectureId": "6a2fe4ca8668a9279c14d4c1",
+                        "lectureLength": "00:29:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kZmpKrcUTP/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "687f82b64cffeabaa9bfe2c4",
+                "mentor": "Aman Singh",
+                "start": 18.5,
+                "end": 21.5,
+                "time": "6:30 PM - 9:30 PM",
+                "url": "https://campus.tutedude.com/uiux?room=mr1",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "chatEnd": 22,
+                "chatStart": 19,
+                "role": "senior"
+            },
+            {
+                "_id": "691b27ebe9b4f17df71c1436",
+                "mentor": "Aatreyee",
+                "start": 19,
+                "end": 21,
+                "chatStart": 20,
+                "chatEnd": 20,
+                "time": "7:00 PM - 9:00 PM",
+                "url": "https://campus.tutedude.com/uiux?room=mr2",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "junior"
+            }
+        ],
+        "resource": [],
+        "notes": [],
+        "name": "UI/UX Designing",
+        "infoName": "UI/UX",
+        "title": "UI/UX Design Course: Learn Essential Skills for Web Design",
+        "description": "Enroll in our UI/UX Design Course to master effective design. Enjoy lifetime access, personalized mentorship, and a full refund after completing the course.",
+        "video": "https://www.youtube.com/embed/xmmzG6aiWJE",
+        "introStats": {
+            "ratings": "4.9+",
+            "learners": "90000+",
+            "duration": "32Hrs"
+        },
+        "icon": "ComboPackIcons_UI_UX",
+        "paymentInfo": " Learn how to become a professional UX/UI Designer and create Beautiful websites And Applications from scratch.",
+        "details": {
+            "ratings": 4.9,
+            "lectures": 179,
+            "duration": "31h 54m",
+            "enrolled": "90000+"
+        },
+        "reviews": [
+            {
+                "img": "https://As Multiverse.com/images/reviews/Manish%20Yadav.webp",
+                "name": "Manish Yadav",
+                "review": "The best part about As Multiverse courses are their mentors, they actually help to the extreme. I am glad I took this course and enjoyed learning throughout. The instant 1:1 help I got is what i liked the most and will recommend everyone to go for it."
+            },
+            {
+                "img": "https://As Multiverse.com/images/reviews/Himachal%20Gupta.webp",
+                "name": "Himachal Gupta",
+                "review": "I have been a graphic designer previously but I wanted to switch to UI/UX as it has been recently more rewarding as a field. So took up this course and I am very happy that it matched all my expectations and I am now a professional UI/UX designer. Thanks As Multiverse!"
+            },
+            {
+                "img": "https://As Multiverse.com/images/reviews/Gaurav%20Kumar.webp",
+                "name": "Gaurav Kumar",
+                "review": "Explanation of the concepts is too good, many real world examples have been to used to explain the things. The course feels very interesting, throughout the course I was excited to learn new concepts and apply them. Also mentors have been a really great support for me, helping me wherever I got stuck. Thanks!"
+            },
+            {
+                "img": "https://As Multiverse.com/images/reviews/Harshit%20Joshi.webp",
+                "name": "Harshit Joshi",
+                "review": "The instructor of this course is very sweet, she explains all the concepts very elaboratively. Also mentors are actually the best, if I asked something they will make sure I understand my doubt till the end. Also the assignments and projects they gave me, made sure that I get the industry exposure."
+            }
+        ]
+    },
+    "fromCache": false
+}

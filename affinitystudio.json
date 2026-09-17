@@ -1,0 +1,1918 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "69bd015e49153561b6b60448",
+        "courseName": "Affinity Studio",
+        "slug": "affinitystudio",
+        "category": "Design",
+        "tpFolderId": "C4TxBfTa3FA",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6a610ae78668a9279c162924",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction of Affinity Studio and Comparisation",
+                        "lectureId": "69bd015e49153561b6b6044a",
+                        "lectureLength": "00:11:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5c6rpdfPk3F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Download and Installation Process Step by Step",
+                        "lectureId": "69bd015e49153561b6b6044b",
+                        "lectureLength": "00:05:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59bxhy2czb2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the User Interface & Workspace",
+                        "lectureId": "69bd015e49153561b6b6044c",
+                        "lectureLength": "00:19:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62hTt63udsD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setup of Document According to Projects",
+                        "lectureId": "69bd015e49153561b6b6044d",
+                        "lectureLength": "00:34:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83RZaFfqPCt/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Vector Fundamentals",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Vector vs Raster",
+                        "lectureId": "69bd015e49153561b6b6044f",
+                        "lectureLength": "00:06:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMZryaqFsjY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Document setup for Vector Design",
+                        "lectureId": "69bd015e49153561b6b60450",
+                        "lectureLength": "00:04:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97pZ2YrrGAb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Artboards and their Featues",
+                        "lectureId": "69bd015e49153561b6b60451",
+                        "lectureLength": "00:26:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Zcjj9HQXu7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Optimization of Tools and Panel",
+                        "lectureId": "69bd015e49153561b6b60452",
+                        "lectureLength": "00:21:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95nunxgMgQt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Uses of Grid, Guides and Snapping",
+                        "lectureId": "69bd015e49153561b6b60453",
+                        "lectureLength": "00:22:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MgBKBfhAKU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Basic Shapes",
+                        "lectureId": "69bd015e49153561b6b60454",
+                        "lectureLength": "00:32:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkpNrhXSyR3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cut, Copy, Paste and Duplicate",
+                        "lectureId": "69bd015e49153561b6b60455",
+                        "lectureLength": "00:22:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8efJXNjKQBK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Import and Export",
+                        "lectureId": "69bd015e49153561b6b60456",
+                        "lectureLength": "01:00:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sXdTu8UqsZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Arrangement of Multiple Shapes, Image and Graphics",
+                        "lectureId": "69bd015e49153561b6b60457",
+                        "lectureLength": "00:23:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JjY8C8A747/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Alignment Property",
+                        "lectureId": "69bd015e49153561b6b60458",
+                        "lectureLength": "00:26:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xHJmzsqqmz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Shape Geometry like Pathfinder",
+                        "lectureId": "69bd015e49153561b6b60459",
+                        "lectureLength": "00:19:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PAysMSbFMh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PenTool Usecase and Hidden Features",
+                        "lectureId": "69bd015e49153561b6b6045a",
+                        "lectureLength": "00:17:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7gDR9uxZJME/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Compound Shpes and Geometry",
+                        "lectureId": "69bd015e49153561b6b6045b",
+                        "lectureLength": "00:16:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUQhJm7mJ64/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Stroke Usecase and it's Property",
+                        "lectureId": "69bd015e49153561b6b6045c",
+                        "lectureLength": "00:14:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbcmJCUebcN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Layer Panel Property",
+                        "lectureId": "69bd015e49153561b6b6045d",
+                        "lectureLength": "00:20:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HZbr37SUQA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Layer Effects",
+                        "lectureId": "69bd015e49153561b6b6045e",
+                        "lectureLength": "00:44:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yMhuGg3QX3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Color Picker & Style Picker Tool",
+                        "lectureId": "69bd015e49153561b6b6045f",
+                        "lectureLength": "00:42:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B53zusMdAzp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Clipping Mask",
+                        "lectureId": "69bd015e49153561b6b60460",
+                        "lectureLength": "00:16:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeYGCuNjBk7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Shapes & Boolean Operations",
+                "assignmentId": "6a32421a8668a9279c14d645",
+                "assignmentLink": "https://docs.google.com/document/d/1-xR5GmMuVar6TfNXbBdSgNiL75_S_j8m/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Object Duplication & Repeat Patterns",
+                "assignmentId": "6a3242408668a9279c14d64a",
+                "assignmentLink": "https://docs.google.com/document/d/1GASPe8xAp6PHCELtwecB_yYecdZxvc_x/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Layers & Object Organization",
+                "assignmentId": "6a3242648668a9279c14d64f",
+                "assignmentLink": "https://docs.google.com/document/d/1VuseXjTlxE-aI98Iq1PBLRKhutJ7BOXo/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Clipping & Masking Basics",
+                "assignmentId": "6a32427c8668a9279c14d654",
+                "assignmentLink": "https://docs.google.com/document/d/1TkdXqCR4lym8I_rrD8cb0ywb4zkoHksF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Precision Drawing & Workflow",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Using Basic Shpaes and PenTool to Design Icons",
+                        "lectureId": "69bd015e49153561b6b60462",
+                        "lectureLength": "00:59:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fJrdkByE2EN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Node Editing, Smoothing, Corner Tool, JoinClose Paths",
+                        "lectureId": "69bd015e49153561b6b60463",
+                        "lectureLength": "00:18:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/P8QPPBNBRSn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Uses of ShapeBuilder Tool",
+                        "lectureId": "69bd015e49153561b6b60464",
+                        "lectureLength": "00:26:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yapPahTeMg/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Pen Tool Mastery & Node Editing",
+                "assignmentId": "6a3242998668a9279c14d659",
+                "assignmentLink": "https://docs.google.com/document/d/17wp1ArXLdNq50zJl2dmEadq33RXHhmaZ/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Color, Fills & Gradients",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Color, Fills & Gradients",
+                        "lectureId": "69bd015e49153561b6b60466",
+                        "lectureLength": "00:28:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uZ3AJtbDF5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Gradient Uses",
+                        "lectureId": "69bd015e49153561b6b60467",
+                        "lectureLength": "00:32:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSSxQZ95bRG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Learn to Design New Patterns",
+                        "lectureId": "69bd015e49153561b6b60468",
+                        "lectureLength": "00:27:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7964R8YPyZT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Graphics for Pattern",
+                        "lectureId": "69bd015e49153561b6b60469",
+                        "lectureLength": "00:34:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96tDy3Sba2h/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Gradients & Transparency",
+                "assignmentId": "6a3243268668a9279c14d65e",
+                "assignmentLink": "https://docs.google.com/document/d/1p38up58urkr7DFg7i5XHEVHlWWJBP9V0/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Color Variations & Recolor Practice",
+                "assignmentId": "6a3243488668a9279c14d663",
+                "assignmentLink": "https://docs.google.com/document/d/172vTw6Lj8wIHYeHTA6jvdYB5ayW2qgnw/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Color Palette & Swatches",
+                "assignmentId": "6a32436c8668a9279c14d668",
+                "assignmentLink": "https://docs.google.com/document/d/1Ya0zj1-ELarN4j78PeYWemumgxmckCPi/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Type & Typography for Vector",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Text Tools Usecase",
+                        "lectureId": "69bd015e49153561b6b6046b",
+                        "lectureLength": "00:49:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rQsuZdRUUz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Features of Paragraph",
+                        "lectureId": "69bd015e49153561b6b6046c",
+                        "lectureLength": "00:16:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gZZQ7bAzq6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Download, Install and Uses of New Fonts",
+                        "lectureId": "69bd015e49153561b6b6046d",
+                        "lectureLength": "00:19:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EsSS68QPpa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to work with Text on Path",
+                        "lectureId": "69bd015e49153561b6b6046e",
+                        "lectureLength": "00:18:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7J5k5C3Bcas/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Basics of Typography",
+                        "lectureId": "69bd015e49153561b6b6046f",
+                        "lectureLength": "00:20:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PJHN4XUH7g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typography Poster Design",
+                        "lectureId": "69bd015e49153561b6b60470",
+                        "lectureLength": "00:52:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4drAbP98h8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Typography & Text on Path",
+                "assignmentId": "6a3243ce8668a9279c14d82a",
+                "assignmentLink": "https://docs.google.com/document/d/1-YSG7G9V5YFZelOwvM4KWgVPZx-wJ9lK/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Text Formatting & Paragraph Styling",
+                "assignmentId": "6a3243f08668a9279c14d82f",
+                "assignmentLink": "https://docs.google.com/document/d/1ubXV-wYr5i-K5763ehKcAGW6pBpz8H_f/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Brushes, Symbols & Repeaters",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Existing Brushes of Affinity",
+                        "lectureId": "69bd015e49153561b6b60472",
+                        "lectureLength": "00:17:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/638BgBf6Gky/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Symbols and it's properties",
+                        "lectureId": "69bd015e49153561b6b60473",
+                        "lectureLength": "00:04:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZksPbxAPfb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Custom Brushes & Decorative Borders",
+                "assignmentId": "6a3244368668a9279c14d834",
+                "assignmentLink": "https://docs.google.com/document/d/1FPP0P7HTmBfRpuwaWB8t3h5D63hQ66Zv/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Advanced Vector Effects & Appearance",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Appearance panel",
+                        "lectureId": "69bd015e49153561b6b60475",
+                        "lectureLength": "00:19:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kdFcEh8RbC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mesh Fill and Customize options with Fill Tool",
+                        "lectureId": "69bd015e49153561b6b60476",
+                        "lectureLength": "00:15:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58cp9gsrbFc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Layer Blending Modes",
+                        "lectureId": "69bd015e49153561b6b60477",
+                        "lectureLength": "00:07:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pbnpA9bTxC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "New Warp Group Features",
+                        "lectureId": "69bd015e49153561b6b60478",
+                        "lectureLength": "00:12:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BF2PxDN7ua2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vector Menu important featues",
+                        "lectureId": "69bd015e49153561b6b60479",
+                        "lectureLength": "00:28:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApfdJRFcQa2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Stroke Styles & Appearance Panel",
+                "assignmentId": "6a3244528668a9279c14d839",
+                "assignmentLink": "https://docs.google.com/document/d/1vUQ0ThfGvyDz6G8PUhwfLMDaCgkM4P8e/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Image Trace  Vectorization",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating Simple Vector Graphics by using Basic Shapes",
+                        "lectureId": "69bd015e49153561b6b6047b",
+                        "lectureLength": "01:08:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B42n4aT8t2Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tree and Plant Illustration",
+                        "lectureId": "69bd015e49153561b6b6047c",
+                        "lectureLength": "00:46:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xr9JhTKUyR6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vector Floral Deisgn",
+                        "lectureId": "69bd015e49153561b6b6047d",
+                        "lectureLength": "00:23:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dh4Ua7rHn6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nature Illustration Scene Creation",
+                        "lectureId": "69bd015e49153561b6b6047e",
+                        "lectureLength": "01:47:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bqr9M2dZc4g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Learn to Design Character",
+                        "lectureId": "69bd015e49153561b6b6047f",
+                        "lectureLength": "00:44:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6S9tJufshBh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sketch to Vector",
+                        "lectureId": "69bd015e49153561b6b60480",
+                        "lectureLength": "00:49:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nBH8tDtTpK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Image Tracing Method",
+                        "lectureId": "69bd015e49153561b6b60481",
+                        "lectureLength": "00:30:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53MbGASrkxM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Image Track with one Click",
+                        "lectureId": "69bd015e49153561b6b60482",
+                        "lectureLength": "00:13:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89d275QePYu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Image Tracing",
+                        "lectureId": "69bd015e49153561b6b60483",
+                        "lectureLength": "00:35:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nB5pjHZfr7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Simple Character Face Design",
+                "assignmentId": "6a3244cd8668a9279c14d843",
+                "assignmentLink": "https://docs.google.com/document/d/1yoHuYqkv5uQ9UpXJMpg87f_MXM9Ga0-d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Vector Graphcis & UI Asset Design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Lowpolly Vector Art Design",
+                        "lectureId": "69bd015e49153561b6b60485",
+                        "lectureLength": "00:17:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgkpcGUjk2S/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Infographics Design",
+                        "lectureId": "69bd015e49153561b6b60486",
+                        "lectureLength": "00:38:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhZr4D66qTz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Buttons",
+                        "lectureId": "69bd015e49153561b6b60487",
+                        "lectureLength": "00:33:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qgBRDua6aX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Example of UI Design",
+                        "lectureId": "69bd015e49153561b6b60488",
+                        "lectureLength": "00:37:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mA8cueuRjqp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Simple Infographic Layout",
+                "assignmentId": "6a3244a98668a9279c14d83e",
+                "assignmentLink": "https://docs.google.com/document/d/11pLpozbHYcPXfSzHk0_3FXQtpjbvdJrL/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Using Grids to Create Graphics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Using Square Grid to Design Graphics",
+                        "lectureId": "69bd015e49153561b6b6048a",
+                        "lectureLength": "00:18:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ak3uY42Rkqf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Isometric Grid",
+                        "lectureId": "69bd015e49153561b6b6048b",
+                        "lectureLength": "00:37:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JHbXUrJjAkK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Triangular Grid for 3D Graphics",
+                        "lectureId": "69bd015e49153561b6b6048c",
+                        "lectureLength": "00:20:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmZ53qKpECY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Grid System & Alignment Practice",
+                "assignmentId": "6a3245068668a9279c14d848",
+                "assignmentLink": "https://docs.google.com/document/d/1U7HaTbVwoP37nGmaNpLwIobpR9-5zq8P/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Logo Design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Logo",
+                        "lectureId": "69bd015e49153561b6b6048e",
+                        "lectureLength": "00:25:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GM4hQx6UaF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logo Design Example",
+                        "lectureId": "69bd015e49153561b6b6048f",
+                        "lectureLength": "00:29:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3s3YNtmXuxC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logo Design Process",
+                        "lectureId": "69bd015e49153561b6b60490",
+                        "lectureLength": "00:24:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kQtZxusc56/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Pentool to Create Logo Symbol",
+                        "lectureId": "69bd015e49153561b6b60491",
+                        "lectureLength": "00:42:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jDnMB6246QK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Badge & Emblem Design",
+                "assignmentId": "6a3245538668a9279c14da20",
+                "assignmentLink": "https://docs.google.com/document/d/1mGLrux-Vf0hauAm3KMCVOhc8PU_-lkkr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Icon Design by using grid",
+                "assignmentId": "6a3245688668a9279c14da25",
+                "assignmentLink": "https://docs.google.com/document/d/11-bixL7SGIktrIdNR42cFrEkcwWsZB97/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Projects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Ads Design for Websites",
+                        "lectureId": "69bd015e49153561b6b60493",
+                        "lectureLength": "00:43:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aa8nZCeGjc3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Instagram Post and Story Design2",
+                        "lectureId": "69bd015e49153561b6b60494",
+                        "lectureLength": "00:53:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZXtDmhE43J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Coverpage Designing",
+                        "lectureId": "69bd015e49153561b6b60495",
+                        "lectureLength": "00:41:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BG4aSQ4mnE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Corporate Flyer Design",
+                        "lectureId": "69bd015e49153561b6b60496",
+                        "lectureLength": "00:58:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bf4YaMtN6SP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Workshop Posters Desiging",
+                        "lectureId": "69bd015e49153561b6b60497",
+                        "lectureLength": "00:41:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96ThAhpynnM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Desiging Rollup Standee Flex for Print",
+                        "lectureId": "69bd015e49153561b6b60498",
+                        "lectureLength": "00:41:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATfnZ7bmmmK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Flat Vector Character Design",
+                        "lectureId": "69bd015e49153561b6b60499",
+                        "lectureLength": "01:21:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5c9Fr3Cy5dY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Social Media Post Design",
+                "assignmentId": "6a3245cb8668a9279c14dbf9",
+                "assignmentLink": "https://docs.google.com/document/d/1exOixV8_pX-VK1v4EDpnOX3ertl_FU4E/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Logo Redesign",
+                "assignmentId": "6a3245ec8668a9279c14dbfe",
+                "assignmentLink": "https://docs.google.com/document/d/1SJC1b1qmJGYo6OSafLoh7OXy7He7gFEY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Flat Illustration (Nature Scene)",
+                "assignmentId": "6a3246048668a9279c14dc03",
+                "assignmentLink": "https://docs.google.com/document/d/1TUaadOwQy_-9inWcvAqLh_s4rFTfOtU_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Layout Studio Intro & Document Setup",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Document Presets and Customization",
+                        "lectureId": "69bd015e49153561b6b6049b",
+                        "lectureLength": "00:18:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uBqMMbqStQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interface of Layout Studio and Tools Optimization",
+                        "lectureId": "69bd015e49153561b6b6049c",
+                        "lectureLength": "00:14:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9He7eStDDre/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Managing Multiple Pages",
+                        "lectureId": "69bd015e49153561b6b6049d",
+                        "lectureLength": "00:31:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38ycZyAye6q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Master Page Options and Uses",
+                        "lectureId": "69bd015e49153561b6b6049e",
+                        "lectureLength": "00:35:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zUk3kTK8fc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Color and Texture on Page",
+                        "lectureId": "69bd015e49153561b6b6049f",
+                        "lectureLength": "00:15:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ehkNr9Y4mM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Layer Management",
+                        "lectureId": "69bd015e49153561b6b604a0",
+                        "lectureLength": "00:42:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FnBs2ee4ks/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "New Document Setup & Margins",
+                "assignmentId": "6a3246758668a9279c14dcf2",
+                "assignmentLink": "https://docs.google.com/document/d/1PoOlfNRYOaCmnN8qzPcwehEZ3EQpl0h5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Master Page Creation",
+                "assignmentId": "6a3246b88668a9279c14dcf7",
+                "assignmentLink": "https://docs.google.com/document/d/1QeGw3Cmf6eDvKSDt5oDOoSv9jVkcALfY/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Working with Pages Panel",
+                "assignmentId": "6a3246cd8668a9279c14dcfc",
+                "assignmentLink": "https://docs.google.com/document/d/1bNOJ_SExCB3dUIZeoIFzwg3bmQSyH6cm/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Working with Frames & Linked Content",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Image frame",
+                        "lectureId": "69bd015e49153561b6b604a2",
+                        "lectureLength": "00:24:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zRGtpDSGqH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Text Tool and Frames",
+                        "lectureId": "69bd015e49153561b6b604a3",
+                        "lectureLength": "00:21:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nTtrcHYKU7j/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Wrapping",
+                        "lectureId": "69bd015e49153561b6b604a4",
+                        "lectureLength": "00:15:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BKxsNNZ2SCY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PlaceReplace & Relink the Image",
+                        "lectureId": "69bd015e49153561b6b604a5",
+                        "lectureLength": "00:06:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqmDS2bAxPK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Working with Images & Picture Frames",
+                "assignmentId": "6a3246fd8668a9279c14dd01",
+                "assignmentLink": "https://docs.google.com/document/d/1UEWBIiwvrM7vIfy1VG0rtTNhCVewJOPl/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Advanced Typography & Grids",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Text Tool & Character Panel Features",
+                        "lectureId": "69bd015e49153561b6b604a7",
+                        "lectureLength": "00:20:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/fJF6FXY4SXr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Text Menu Options",
+                        "lectureId": "69bd015e49153561b6b604a8",
+                        "lectureLength": "00:27:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C22gGCjTx5N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typography Basics",
+                        "lectureId": "69bd015e49153561b6b604a9",
+                        "lectureLength": "00:24:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kGqxBH8JHY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Manipulating Text",
+                        "lectureId": "69bd015e49153561b6b604aa",
+                        "lectureLength": "00:31:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkMRckB28AR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typography-Focused Layout Project",
+                        "lectureId": "69bd015e49153561b6b604ab",
+                        "lectureLength": "00:32:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79CnDgnjJjc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Text Frames & Linking",
+                "assignmentId": "6a3247308668a9279c14dd06",
+                "assignmentLink": "https://docs.google.com/document/d/1_xPQnRdoPzKYhktyGlFBABnsbmCyX72t/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Character & Paragraph Styles",
+                "assignmentId": "6a32474e8668a9279c14dd0b",
+                "assignmentLink": "https://docs.google.com/document/d/1YRbAbMVTf-1StXBtTb5fJl_BAPcB9rYm/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Exploring Tools & Menu Options of Layout Studio",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating Graphics by using basic shapes",
+                        "lectureId": "69bd015e49153561b6b604ad",
+                        "lectureLength": "00:53:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Dnbbeqg3NZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Graphics by Using PenTool",
+                        "lectureId": "69bd015e49153561b6b604ae",
+                        "lectureLength": "01:01:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKED9U4gffb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hidden Features of Vector Crop Tool",
+                        "lectureId": "69bd015e49153561b6b604af",
+                        "lectureLength": "00:28:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbYSAs3sTB7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring all the Color Options",
+                        "lectureId": "69bd015e49153561b6b604b0",
+                        "lectureLength": "00:23:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yn62urJhN2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fill and Transparent Tool Usecase",
+                        "lectureId": "69bd015e49153561b6b604b1",
+                        "lectureLength": "00:18:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATYmSQ6s9rM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Color & Style Picker Tool",
+                        "lectureId": "69bd015e49153561b6b604b2",
+                        "lectureLength": "00:23:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rPKc5hpJbJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Develop, Liquify and Tone Map",
+                        "lectureId": "69bd015e49153561b6b604b3",
+                        "lectureLength": "00:25:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59yuMZK8CxF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying Clipping Mask",
+                        "lectureId": "69bd015e49153561b6b604b4",
+                        "lectureLength": "00:35:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bmux5qSznFD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Flipping, Alignment and Arrangement",
+                        "lectureId": "69bd015e49153561b6b604b5",
+                        "lectureLength": "00:54:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EQSYgtkfkf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Optimizing the Essential Settings",
+                        "lectureId": "69bd015e49153561b6b604b6",
+                        "lectureLength": "00:22:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hHZBsKADjE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grid, Ruler & Guides",
+                        "lectureId": "69bd015e49153561b6b604b7",
+                        "lectureLength": "00:45:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8M2rtbYbEU2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generating Custom QR Codes",
+                        "lectureId": "69bd015e49153561b6b604b8",
+                        "lectureLength": "00:13:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4u6rTsgffEH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Grids & Guides Setup",
+                "assignmentId": "6a3247a88668a9279c14dd10",
+                "assignmentLink": "https://docs.google.com/document/d/10SvcjbYr-1DKzsxnPEc2DYfLiP7dbyPE/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Vector+Pixel Coverstion & Color Exploration",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Importing vector assets",
+                        "lectureId": "69bd015e49153561b6b604ba",
+                        "lectureLength": "00:33:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5R58xN7H4T/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Placing Photoshop Composited Files and Manage",
+                        "lectureId": "69bd015e49153561b6b604bb",
+                        "lectureLength": "00:47:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HBAe5KmNAS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Importing InDesign File Inside Affinity Layout",
+                        "lectureId": "69bd015e49153561b6b604bc",
+                        "lectureLength": "00:26:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ruey9NcHnu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Fundamental of Color",
+                        "lectureId": "69bd015e49153561b6b604bd",
+                        "lectureLength": "00:47:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5s24BmMrNg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RGB to CMYK Conversion & Optimazing for Print",
+                        "lectureId": "69bd015e49153561b6b604be",
+                        "lectureLength": "00:08:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bhq66YGnd8y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of Printers Availabe in Market",
+                        "lectureId": "69bd015e49153561b6b604bf",
+                        "lectureLength": "00:28:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7t54dmtbxyR/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Understanding Vector vs Pixel Comparison",
+                "assignmentId": "6a3249f88668a9279c14dd15",
+                "assignmentLink": "https://docs.google.com/document/d/1S35ZNmaLVqS48_1aI2VgfkIzsZXp3360/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Interactive Optimization for Export Settings",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "PDF Optimzation for Export",
+                        "lectureId": "69bd015e49153561b6b604c1",
+                        "lectureLength": "00:16:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5r6FQTDbRNX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Image Output Optimization",
+                        "lectureId": "69bd015e49153561b6b604c2",
+                        "lectureLength": "00:23:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xnGz8ZshZM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Saving & Exporting the Package",
+                        "lectureId": "69bd015e49153561b6b604c3",
+                        "lectureLength": "00:20:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAXjeKZJExY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Print vs Web Export Optimization",
+                "assignmentId": "6a324a3c8668a9279c14dd1a",
+                "assignmentLink": "https://docs.google.com/document/d/18kH5iK3DCGqI8cnejtPwmERifhaeXge9/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Branding & Multi-asset Production",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Branding MasteryClass",
+                        "lectureId": "69bd015e49153561b6b604c5",
+                        "lectureLength": "00:58:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UCknJPqCfzZ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Typography System Layout",
+                "assignmentId": "6a324ac98668a9279c14dd1f",
+                "assignmentLink": "https://docs.google.com/document/d/1DQRxGmK_4hNqwpwxUCImkN7LVIME4bdW/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Understanding Brand Identity Structure",
+                "assignmentId": "6a324add8668a9279c14dd24",
+                "assignmentLink": "https://docs.google.com/document/d/1_GIlxtS7umaEFxOn7IQDGNL5zzfA-VIn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Large Format Design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Adding and Managing Table",
+                        "lectureId": "69bd015e49153561b6b604c7",
+                        "lectureLength": "00:28:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73PQZfYCHut/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Corporate Brochure Desiging",
+                        "lectureId": "69bd015e49153561b6b604c8",
+                        "lectureLength": "01:05:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3prRMdSYMeG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Magazine Layout (Cover + Inner Pages)",
+                        "lectureId": "69bd015e49153561b6b604c9",
+                        "lectureLength": "00:25:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3SY37era6H5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Brochure (Bi-Fold)",
+                "assignmentId": "6a324b028668a9279c14dd29",
+                "assignmentLink": "https://docs.google.com/document/d/1j8EW1TEM4wDdaY_SMz1GxIlE8bl6jgWD/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Magazine Layout",
+                "assignmentId": "6a324b168668a9279c14dd2e",
+                "assignmentLink": "https://docs.google.com/document/d/1W279hXZWwlMwcccee0p7AoexxPrayxtL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Table Creation & Formatting",
+                "assignmentId": "6a324b508668a9279c14dd33",
+                "assignmentLink": "https://docs.google.com/document/d/1UQybE7vYW8TuvqMq59f0Czex0p0WnZmB/edit?usp=sharing&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Project of Layout Studio",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Professional Business Flyer Design",
+                        "lectureId": "69bd015e49153561b6b604cb",
+                        "lectureLength": "01:02:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6P5TGZ5UZH3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Printable Magazine Ads Design",
+                        "lectureId": "69bd015e49153561b6b604cc",
+                        "lectureLength": "01:11:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cZ6e2eApyG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Web Ads Design & Customization",
+                        "lectureId": "69bd015e49153561b6b604cd",
+                        "lectureLength": "01:10:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5EZprDBDzxA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Facebook Coverpage Design",
+                        "lectureId": "69bd015e49153561b6b604ce",
+                        "lectureLength": "00:44:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pabebx68Ba/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Event Poster Design",
+                        "lectureId": "69bd015e49153561b6b604cf",
+                        "lectureLength": "00:52:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8URTfQrDDD7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Food Menu Card Design for Resturant",
+                        "lectureId": "69bd015e49153561b6b604d0",
+                        "lectureLength": "00:49:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/48dqxHfSkTP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tri Fold Leaflet Design for Print",
+                        "lectureId": "69bd015e49153561b6b604d1",
+                        "lectureLength": "01:08:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8tGq9TtEh43/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Roller Banner Design for Marketing & Branding",
+                        "lectureId": "69bd015e49153561b6b604d2",
+                        "lectureLength": "00:56:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kB7b5BY4E3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Basic Flyer Design",
+                "assignmentId": "6a324b9c8668a9279c14dd38",
+                "assignmentLink": "https://docs.google.com/document/d/14_XiC9ZQO54MHD6qXRoIxrRz-rf0-bu2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Basic Resume Layout",
+                "assignmentId": "6a324bb98668a9279c14dd3d",
+                "assignmentLink": "https://docs.google.com/document/d/1yenhGpho4wXxk3WpE7U0a8fKQtfTApQv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Pixel Studio Intro & Essentials",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Pixel Studio User Interface",
+                        "lectureId": "69bd015e49153561b6b604db",
+                        "lectureLength": "00:29:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HnQUkzra8F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Document Setup Basics",
+                        "lectureId": "69bd015e49153561b6b604dc",
+                        "lectureLength": "00:37:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqSaAUcBZET/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Layers for nondestructive workflow",
+                        "lectureId": "69bd015e49153561b6b604dd",
+                        "lectureLength": "00:24:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/p5gGyj8YHQZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Shapes and Optimization",
+                        "lectureId": "69bd015e49153561b6b604de",
+                        "lectureLength": "00:34:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FjzQpEFcfU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pathfinder Arrangement and Alignment",
+                        "lectureId": "69bd015e49153561b6b604df",
+                        "lectureLength": "00:25:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SXmdD7kZJQt/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Working with Shapes & Pixel Integration",
+                "assignmentId": "6a3251ae8668a9279c14dd42",
+                "assignmentLink": " https://docs.google.com/document/d/1rGDfI5hZ511d3KSMK6rMW8XdLOXNbghh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Layers Panel & Non-Destructive Editing",
+                "assignmentId": "6a3251c28668a9279c14dd47",
+                "assignmentLink": "https://docs.google.com/document/d/1W7YzbN3A1FiA2FV9kpUVedLNi4JlAF0z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Exploring Type Tool",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Uses of Type Tool",
+                        "lectureId": "69bd015e49153561b6b604e1",
+                        "lectureLength": "00:22:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nGKgFgt8nh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding and Download New Fonts",
+                        "lectureId": "69bd015e49153561b6b604e2",
+                        "lectureLength": "00:24:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s32Hed9mAz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typing on Path",
+                        "lectureId": "69bd015e49153561b6b604e3",
+                        "lectureLength": "00:14:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXKNKBgaj6N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Frames and Filling Text Inside Frames",
+                        "lectureId": "69bd015e49153561b6b604e4",
+                        "lectureLength": "00:10:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B338XPJkPbt/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Text on Path Exploration",
+                "assignmentId": "6a3251e28668a9279c14dd4c",
+                "assignmentLink": "https://docs.google.com/document/d/1kmzT3pCTLJRffg4az2-sxhu5SF8pl9w5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Artistic Text Tool Exploration",
+                "assignmentId": "6a3251f48668a9279c14dd51",
+                "assignmentLink": "https://docs.google.com/document/d/155tERp8SKD2aL08lyfpxUM2Y5vHiiMBw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Exploring the Selections & Masking Features",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Selection Tools (marquee & lasso)",
+                        "lectureId": "69bd015e49153561b6b604e6",
+                        "lectureLength": "00:41:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UnpMy36Urb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Object & Flood Selection Tool",
+                        "lectureId": "69bd015e49153561b6b604e7",
+                        "lectureLength": "00:32:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aqcbh5JxAUr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Important Websites for Resourses",
+                        "lectureId": "69bd015e49153561b6b604e8",
+                        "lectureLength": "00:24:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EQSja5rrQJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Layer Masking",
+                        "lectureId": "69bd015e49153561b6b604e9",
+                        "lectureLength": "00:44:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UHBNxRfcB7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Create Clip Mask",
+                        "lectureId": "69bd015e49153561b6b604ea",
+                        "lectureLength": "00:14:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3cudHBttft/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Image Manipulations",
+                        "lectureId": "69bd015e49153561b6b604eb",
+                        "lectureLength": "00:31:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AKAuP4TRud/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Brush Tool",
+                        "lectureId": "69bd015e49153561b6b604ec",
+                        "lectureLength": "00:27:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9StfQKkcfU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Different Blending Modes",
+                        "lectureId": "69bd015e49153561b6b604ed",
+                        "lectureLength": "00:31:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YmHSFaCyCZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Shadows & Reflection",
+                        "lectureId": "69bd015e49153561b6b604ee",
+                        "lectureLength": "00:48:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xMFEkTCMmx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Marquee Tool Selection",
+                "assignmentId": "6a3252a38668a9279c14dd65",
+                "assignmentLink": "https://docs.google.com/document/d/1vAh8TFVkfcihQTMOpa4GRJQG4MSvqU3D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Selection Tools & Refinement",
+                "assignmentId": "6a3252258668a9279c14dd56",
+                "assignmentLink": "https://docs.google.com/document/d/1YH9GY6N3RqeBsG7uOm0hchT5YbIlimAc/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Text Mask Effect",
+                "assignmentId": "6a32526d8668a9279c14dd5b",
+                "assignmentLink": "https://docs.google.com/document/d/11h-f34UBpp05OKsw40QROkd1Z_tW3YcX/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Mask Layers & Clipping",
+                "assignmentId": "6a3252808668a9279c14dd60",
+                "assignmentLink": "https://docs.google.com/document/d/1pGgS-e1DioS6926mqMXBYih8EN1-r0Tt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Export Project & File Optimization",
+                "assignmentId": "6a3252cb8668a9279c14de6c",
+                "assignmentLink": "https://docs.google.com/document/d/1NjD8i8XYCCEqqeIjb7TQsVNUcnnBKbO0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Cropping Tool & Straightening Image",
+                "assignmentId": "6a3252dd8668a9279c14de71",
+                "assignmentLink": "https://docs.google.com/document/d/1Xf560ZYxXNJELW49_F3iSJ4gyd2o-wBK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Adjustment Layer Clipping",
+                "assignmentId": "6a3252ed8668a9279c14de76",
+                "assignmentLink": "https://docs.google.com/document/d/1eZAxq6BvxsCRTdFD8rZii8Ya_mN51TX3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Retouching & Photo Correction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Retouching Image with Healing Brush Tool Set",
+                        "lectureId": "69bd015e49153561b6b604f0",
+                        "lectureLength": "00:19:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9hK6q3B5ph/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Uses of Clone Stamp Tool",
+                        "lectureId": "69bd015e49153561b6b604f1",
+                        "lectureLength": "00:22:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JN594jn8qF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Eraser Tool Set",
+                        "lectureId": "69bd015e49153561b6b604f2",
+                        "lectureLength": "00:16:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64eNX5UQK8R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dodge and Burn using for skin retouching",
+                        "lectureId": "69bd015e49153561b6b604f3",
+                        "lectureLength": "00:17:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8by64ypneJh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Filter, Blur, Sharpen, Median and Smudge",
+                        "lectureId": "69bd015e49153561b6b604f4",
+                        "lectureLength": "00:20:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7r67UGdKuT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using all Blur Filters",
+                        "lectureId": "69bd015e49153561b6b604f5",
+                        "lectureLength": "00:34:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3Ka8zZfp4Y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sharpen Filter",
+                        "lectureId": "69bd015e49153561b6b604f6",
+                        "lectureLength": "00:10:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5b9BUdY5EdK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Distort Filter",
+                        "lectureId": "69bd015e49153561b6b604f7",
+                        "lectureLength": "00:35:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7R4KDFgZUJf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Noise Filter to Images",
+                        "lectureId": "69bd015e49153561b6b604f8",
+                        "lectureLength": "00:13:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YY9cfrTM6R5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Detect and Lighting Filter",
+                        "lectureId": "69bd015e49153561b6b604f9",
+                        "lectureLength": "00:11:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EGesdy447F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Color FIters for Image Enhancement",
+                        "lectureId": "69bd015e49153561b6b604fa",
+                        "lectureLength": "00:19:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9x4Es6YHzx9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Develop Filter Options for Photo Editing",
+                        "lectureId": "69bd015e49153561b6b604fb",
+                        "lectureLength": "00:11:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BppYsB4ZZnd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Liquify",
+                        "lectureId": "69bd015e49153561b6b604fc",
+                        "lectureLength": "00:14:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9MH5Z42fQs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tonemapping for image Enhancement",
+                        "lectureId": "69bd015e49153561b6b604fd",
+                        "lectureLength": "00:09:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kaRakdtFaU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Layer Adjustment Features",
+                        "lectureId": "69bd015e49153561b6b604fe",
+                        "lectureLength": "00:46:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KjF72Rcjub/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Retouching Tools – Healing & Clone",
+                "assignmentId": "6a3253408668a9279c14de7b",
+                "assignmentLink": "https://docs.google.com/document/d/1T98AOKDnFC41Y2J1CwPgYkNW46p4afF6/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Dodge & Burn",
+                "assignmentId": "6a32537e8668a9279c14de80",
+                "assignmentLink": "https://docs.google.com/document/d/16Bx_nymxEtXzahn9J2b2NFbR5I84hvag/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Gradient Tool Practice",
+                "assignmentId": "6a32538d8668a9279c14de85",
+                "assignmentLink": "https://docs.google.com/document/d/13Yqh_NXMk6kV6oNFxVlndkVpqga-Lrje/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Tone Mapping Persona",
+                "assignmentId": "6a3253a58668a9279c14de8a",
+                "assignmentLink": "https://docs.google.com/document/d/1UBGlecduCo3CoOK_h0G4qsyCcCuSNzEq/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Working with Opacity & Blend Options",
+                "assignmentId": "6a3253af8668a9279c14de8f",
+                "assignmentLink": "https://docs.google.com/document/d/1HtF68a9cj_zkvINayJ58bID3QaUz2gsL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Working with RAW Images",
+                "assignmentId": "6a3253d68668a9279c14de94",
+                "assignmentLink": "https://docs.google.com/document/d/1dQTl0gkgrnblkhry9ddT18Rk0at84kI_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Compositing & Advanced Layering",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Crating Photo Collage",
+                        "lectureId": "69bd015e49153561b6b60500",
+                        "lectureLength": "00:33:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fEMkXGCHce/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Composition to Create Double Expoture",
+                        "lectureId": "69bd015e49153561b6b60501",
+                        "lectureLength": "00:14:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FcDt9uDz8F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dripping Effects",
+                        "lectureId": "69bd015e49153561b6b60502",
+                        "lectureLength": "00:18:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nPe7KYTKyM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Slice Effect With Manipulation of Images",
+                        "lectureId": "69bd015e49153561b6b60503",
+                        "lectureLength": "00:20:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8djfuMCKKU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Brush and Clipping Mask for Composition",
+                        "lectureId": "69bd015e49153561b6b60504",
+                        "lectureLength": "00:55:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjqYdNtNXpM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Poster Composition",
+                "assignmentId": "6a3253f68668a9279c14de99",
+                "assignmentLink": "https://docs.google.com/document/d/1PP4uBCKeEgWnFH1BPJy7XKh3E8Pt3YD_/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Working with Pixel Layers & Duplicate Workflow",
+                "assignmentId": "6a32540a8668a9279c14de9e",
+                "assignmentLink": "https://docs.google.com/document/d/1QheG_7pOKK7smpR7fIJh0N7tyHPff0P-/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Brushes, Painting & Texture Work",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Using Brush for Mask and Layer Adjustments",
+                        "lectureId": "69bd015e49153561b6b60506",
+                        "lectureLength": "00:19:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cbgZMTeCZD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Download and Import New Brushes",
+                        "lectureId": "69bd015e49153561b6b60507",
+                        "lectureLength": "00:15:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QfpNtEPT58/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Custom Brush",
+                        "lectureId": "69bd015e49153561b6b60508",
+                        "lectureLength": "00:15:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ad72QYbBQKu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Brush Tool Exploration",
+                "assignmentId": "6a32543e8668a9279c14dea3",
+                "assignmentLink": "https://docs.google.com/document/d/1PIx1DFFdlz_-aeUudgmn00l_7S0MUg3l/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Using Layer Style and Adjustment Property",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Layer Style Property",
+                        "lectureId": "69bd015e49153561b6b6050a",
+                        "lectureLength": "00:25:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QgZ4nyk9me/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Neon Lighting Effects with Layer Style",
+                        "lectureId": "69bd015e49153561b6b6050b",
+                        "lectureLength": "00:30:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cSRHQEA376/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Changing the Color with Layer Adjustment",
+                        "lectureId": "69bd015e49153561b6b6050c",
+                        "lectureLength": "00:22:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AbG499KY7R/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Adjustment Layers – Exposure & Color",
+                "assignmentId": "6a3254758668a9279c14dea8",
+                "assignmentLink": "https://docs.google.com/document/d/1OcPF69ZmTuyL5znT1hApL5WugWkRuXxK/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Blend Modes & Creative Effects",
+                "assignmentId": "6a32589b8668a9279c14dead",
+                "assignmentLink": "https://docs.google.com/document/d/1gebfne3ksxEtab1i3LiHkdwwnwJHA8XE/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Simple Light Enhancement",
+                "assignmentId": "6a3258ad8668a9279c14deb2",
+                "assignmentLink": "https://docs.google.com/document/d/1zNE6_5DlY-gBFPxqYp_BR28HZajH7UaO/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Typography & Layer Effects",
+                "assignmentId": "6a3258c78668a9279c14deb7",
+                "assignmentLink": "https://docs.google.com/document/d/1Q3lHVzUZV7iJ0SRUsOK90zxbem1CzuSN/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Special Effects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Sharpening pipelines, Creative Blur Effects",
+                        "lectureId": "69bd015e49153561b6b6050e",
+                        "lectureLength": "00:16:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUu5mAgKeSu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Remove Watermark",
+                        "lectureId": "69bd015e49153561b6b6050f",
+                        "lectureLength": "00:09:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aGtUUsNDjfB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Simple Background Blur Using Live Filter",
+                "assignmentId": "6a3258ff8668a9279c14debc",
+                "assignmentLink": "https://docs.google.com/document/d/1je7ZKs--qPO2_M6IVj5CKc2MHxjHYrPG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment- Social Media Creative",
+                "assignmentId": "6a3259138668a9279c14dec1",
+                "assignmentLink": "https://docs.google.com/document/d/1nUypSGzc1AYOY9uVgJXQ_tymDF0seGVL/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Projects of Pixel Studio",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Instagram Food Post Design",
+                        "lectureId": "69bd015e49153561b6b60511",
+                        "lectureLength": "00:51:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7ycT4EGhjy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Process to Design Carousel Post",
+                        "lectureId": "69bd015e49153561b6b60512",
+                        "lectureLength": "00:47:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nGunZcdkmy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "YouTube Thumbnail Designing Process",
+                        "lectureId": "69bd015e49153561b6b60513",
+                        "lectureLength": "00:56:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TGXCZxybYR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Ads for Google & Meta",
+                        "lectureId": "69bd015e49153561b6b60514",
+                        "lectureLength": "00:53:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TYMA5eSrsA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Poster Designing",
+                        "lectureId": "69bd015e49153561b6b60515",
+                        "lectureLength": "00:36:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66bPH3jtat2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing Wedding Invites",
+                        "lectureId": "69bd015e49153561b6b60516",
+                        "lectureLength": "00:27:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rKXfTuRUR2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Album Designing Process",
+                        "lectureId": "69bd015e49153561b6b60517",
+                        "lectureLength": "00:40:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4HzRJxGeyQh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typography Poster Design",
+                        "lectureId": "69bd015e49153561b6b60518",
+                        "lectureLength": "00:52:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4drAbP98h8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Graphics for T-shirt",
+                        "lectureId": "69bd015e49153561b6b60519",
+                        "lectureLength": "00:28:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnnNtzTMbFS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Magazine CoverPage Design",
+                        "lectureId": "69bd015e49153561b6b6051a",
+                        "lectureLength": "00:28:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8R9QtyQf37T/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Leaflet from Scratch",
+                        "lectureId": "69bd015e49153561b6b6051b",
+                        "lectureLength": "01:02:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92hyDf6Xj3N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Flex and Hoardings for Print",
+                        "lectureId": "69bd015e49153561b6b6051c",
+                        "lectureLength": "00:47:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nefDP8Pugp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Double Exposure Artistic Composition",
+                "assignmentId": "6a32593c8668a9279c14dec6",
+                "assignmentLink": "https://docs.google.com/document/d/1wBptYLz4iHP0tgx_0rbIBtOa3Q2hInXT/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Movie Poster Design",
+                "assignmentId": "6a32594a8668a9279c14decb",
+                "assignmentLink": "https://docs.google.com/document/d/140mJSBzoxZtSvqpU_XAj7hq9XqqzrZjZ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Product Advertisement for Web",
+                "assignmentId": "6a32595d8668a9279c14ded0",
+                "assignmentLink": "https://docs.google.com/document/d/1g0UmEJK4TCvtpN11akghTIjFqZUAuP3g/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Final Conclusion to Become Pro Designer",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Some Tips and tricks",
+                        "lectureId": "69bd015e49153561b6b604d4",
+                        "lectureLength": "00:21:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95jDzkH86PB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "From where to get inspiration for new work",
+                        "lectureId": "69bd015e49153561b6b604d5",
+                        "lectureLength": "00:28:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3d32trrAbG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Why Portfolio is important",
+                        "lectureId": "69bd015e49153561b6b604d6",
+                        "lectureLength": "00:12:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/aesfyCUABSe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Different types of Printer use in the industry",
+                        "lectureId": "69bd015e49153561b6b604d7",
+                        "lectureLength": "00:28:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aDfYUrBfAr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Freelancing Opportunities for Graphic Designer",
+                        "lectureId": "69bd015e49153561b6b604d8",
+                        "lectureLength": "00:21:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4eqbHt69J2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Final Conclusion of Course",
+                        "lectureId": "69bd015e49153561b6b604d9",
+                        "lectureLength": "00:11:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3knsRQut6XG/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "VECTOR STUDIO",
+                "assignmentId": "6a3259928668a9279c14e333",
+                "assignmentLink": "https://docs.google.com/document/d/1aTokMyfRY1J2hbSfg2GR9XuH7huVDQlH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "LAYOUT STUDIO",
+                "assignmentId": "6a3259c48668a9279c14e338",
+                "assignmentLink": "https://docs.google.com/document/d/1eMeI_xMI4wXRltmBlHuKrImG7x-Y9hU0/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "PIXEL STUDIO",
+                "assignmentId": "6a3259d88668a9279c14e33d",
+                "assignmentLink": "https://docs.google.com/document/d/1sdyzW7iK0LdleBBwXxzF8oVMUG5aoTFV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "69c56f8f959c4775ed11cfee",
+                "mentor": "Sudhanshu Joshi",
+                "start": 21,
+                "end": 23,
+                "chatStart": 0,
+                "chatEnd": 0,
+                "time": "9 PM - 11 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds10",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

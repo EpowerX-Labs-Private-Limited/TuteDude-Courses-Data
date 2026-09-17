@@ -1,0 +1,2561 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "698efe98b16a195e5354b0c3",
+        "courseName": "Business Analytics",
+        "slug": "businessanalytics",
+        "category": "Data Science & Analytics",
+        "tpFolderId": "BSdxUe7kA52",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6a833168b6907e7275be0334",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Business Analytics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Business Analytics",
+                        "lectureId": "698efe98b16a195e5354b0c5",
+                        "lectureLength": "00:30:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9S7Uh4AjSpP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Environment Setup and Dataset Preparation",
+                "assignmentId": "69b53ff649153561b6b5d5d2",
+                "assignmentLink": "https://docs.google.com/document/d/1njRFNpzzE3N37x66eAy_jWhzpvA4iPuPVfVdz2dHROk/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "Installation Videos",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Anaconda Installation",
+                        "lectureId": "698efe98b16a195e5354b0c7",
+                        "lectureLength": "00:09:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3k9KxYBdDjN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "MySQL Installation",
+                        "lectureId": "698efe98b16a195e5354b0c8",
+                        "lectureLength": "00:11:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mKhZcFSr3b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PowerBI Installation",
+                        "lectureId": "698efe98b16a195e5354b0c9",
+                        "lectureLength": "00:09:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9azM7TJgT7Z/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Exploring and Understanding the Customer Churn Dataset",
+                "assignmentId": "69b5400549153561b6b5d5d7",
+                "assignmentLink": "https://docs.google.com/document/d/1JnZx-tJkDzpquD_GpRdPOdEEsRZfo5aKQjMYrQ1Hd34/edit?tab=t.0#heading=h.yxnx10dfiv6n"
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Spreadsheets, Data and Analysis",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Spreadsheets, Data and Analysis",
+                        "lectureId": "698efe98b16a195e5354b0cb",
+                        "lectureLength": "00:58:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByuQgRRNtac/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment",
+                "assignmentId": "69b7a14c49153561b6b5d5e1",
+                "assignmentLink": "https://docs.google.com/document/d/1f5_ZBIzBtvHggHXax1_i8xTfsZMODfF00woun9bY7vE/edit?tab=t.0#heading=h.todcaikp2d2q"
+            },
+            {
+                "type": "section",
+                "name": "Data Preparation Techniques",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Cell Referencing",
+                        "lectureId": "698efe98b16a195e5354b0cd",
+                        "lectureLength": "00:17:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6yFSgkQU4bK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "QA",
+                        "lectureId": "698efe98b16a195e5354b0ce",
+                        "lectureLength": "00:06:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c3YYAQEUzX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Filtering",
+                        "lectureId": "698efe98b16a195e5354b0cf",
+                        "lectureLength": "00:09:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3Tsy4TJN3m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Find and Replace, Remove Duplicates, Missing Data, Data Validation",
+                        "lectureId": "698efe98b16a195e5354b0d0",
+                        "lectureLength": "00:20:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9QU9FAmXJ2n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Business Metrics Analysis Using Spreadsheet Functions",
+                "assignmentId": "69b7a16849153561b6b5d5e6",
+                "assignmentLink": "https://docs.google.com/document/d/1FCrq651AyyZtLUpMaac4WkCtRNcklmzRm4x0p5M_f24/edit?tab=t.0#heading=h.ze5yva2y1950"
+            },
+            {
+                "type": "section",
+                "name": "Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Count Functions",
+                        "lectureId": "698efe98b16a195e5354b0d2",
+                        "lectureLength": "00:05:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nCEPQ96U8a/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Aggregate Functions",
+                        "lectureId": "698efe98b16a195e5354b0d3",
+                        "lectureLength": "00:23:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMAS76XAxXB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "String Functions",
+                        "lectureId": "698efe98b16a195e5354b0d4",
+                        "lectureLength": "00:10:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xCpNq6ertmJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DateTime Functions",
+                        "lectureId": "698efe98b16a195e5354b0d5",
+                        "lectureLength": "00:11:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AncXpBT3chB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Find, Replace, Substitute",
+                        "lectureId": "698efe98b16a195e5354b0d6",
+                        "lectureLength": "00:13:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/y4hxcYKC7yP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Customer Behavior Analysis Using Advanced Spreadsheet Functions",
+                "assignmentId": "69b7a17649153561b6b5d5eb",
+                "assignmentLink": "https://docs.google.com/document/d/1IS6GumqFns0MAyntyWvjo8_4cUO-WwEt-QdnxZkqaac/edit?tab=t.0#heading=h.ddvplcjf0qlg"
+            },
+            {
+                "type": "section",
+                "name": "Advanced Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Conditional Functions",
+                        "lectureId": "698efe98b16a195e5354b0d8",
+                        "lectureLength": "00:17:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5udbYRS2Mh3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scenario",
+                        "lectureId": "698efe98b16a195e5354b0d9",
+                        "lectureLength": "00:17:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZsR7SgFd6B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conditional Aggregation Functions",
+                        "lectureId": "698efe98b16a195e5354b0da",
+                        "lectureLength": "00:12:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4J8kjhaHU5t/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conditional Formatting Techniques",
+                        "lectureId": "698efe98b16a195e5354b0db",
+                        "lectureLength": "00:03:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N6GH5CXF9k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Match and Index Functions",
+                        "lectureId": "698efe98b16a195e5354b0dc",
+                        "lectureLength": "00:11:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nphgSqYMBc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Lookups",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Lookup Functions (VLookup, HLookup, XLookup)",
+                        "lectureId": "698efe98b16a195e5354b0de",
+                        "lectureLength": "00:27:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mFAQYtU4HTS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Pivot Tables and Charts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Pivot Tables",
+                        "lectureId": "698efe98b16a195e5354b0e0",
+                        "lectureLength": "00:40:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NDE3rNJB2e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Charts",
+                        "lectureId": "698efe98b16a195e5354b0e1",
+                        "lectureLength": "00:44:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYc5k3MUGed/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Surprise Q",
+                        "lectureId": "698efe98b16a195e5354b0e2",
+                        "lectureLength": "00:18:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HscbJgrd5x/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Customer Segmentation and Insights Using Lookups and Pivot Tables",
+                "assignmentId": "69d74e6549153561b6b64438",
+                "assignmentLink": "https://docs.google.com/document/d/1tZjQwz0kjOetz6Fgfb1xJOMYrGcmeGPqmUjt2H5pzq8/edit?tab=t.0#heading=h.bslz1sn02q6g"
+            },
+            {
+                "type": "section",
+                "name": "What If Analysis",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Goal Seek",
+                        "lectureId": "698efe98b16a195e5354b0e4",
+                        "lectureLength": "00:35:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bm6nmbbMXRp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scenario Manager",
+                        "lectureId": "698efe98b16a195e5354b0e5",
+                        "lectureLength": "00:25:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3b5fyjtFrgP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Table",
+                        "lectureId": "698efe98b16a195e5354b0e6",
+                        "lectureLength": "00:13:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uRd2QexajF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Business Scenario Simulation Using What-If Analysis",
+                "assignmentId": "69b7a1a349153561b6b5d5fa",
+                "assignmentLink": "https://docs.google.com/document/d/1cWVlXpOeMVmd9p2Y4L33kc5eCRLlH71VP9iA2i9E8RE/edit?tab=t.0#heading=h.7w70byod4o62"
+            },
+            {
+                "type": "section",
+                "name": "Data Analysis in Excel",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Data Analysis",
+                        "lectureId": "698efe98b16a195e5354b0e8",
+                        "lectureLength": "00:31:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAkRDfPUb5d/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Customer Churn Analysis Using Excel",
+                "assignmentId": "69b7a1bd49153561b6b5d5ff",
+                "assignmentLink": "https://docs.google.com/document/d/18Y7_hK6jVLZaA99MhATnAnITdEY7DBBqiTJa_QQKdCc/edit?tab=t.0#heading=h.kh64eslfxlgd"
+            },
+            {
+                "type": "section",
+                "name": "Introduction to DBMS",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "DBMS",
+                        "lectureId": "698efe98b16a195e5354b0ea",
+                        "lectureLength": "00:45:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xR4FXmEynA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "SQL Commands",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "SQL Basics",
+                        "lectureId": "698efe98b16a195e5354b0ec",
+                        "lectureLength": "00:52:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uEAmsMcMBc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SQL Commands",
+                        "lectureId": "698efe98b16a195e5354b0ed",
+                        "lectureLength": "00:42:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xaktRSDKX7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "SQL Basics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "SQL Basics",
+                        "lectureId": "698efe98b16a195e5354b0ef",
+                        "lectureLength": "01:21:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KBT9tjF7tj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Customer Data Exploration Using SQL",
+                "assignmentId": "69b7a1cc49153561b6b5d604",
+                "assignmentLink": "https://docs.google.com/document/d/1g9vpjAYWKd51GblYzxpqEzix-jQzslRt8k_25e4oUMg/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "Aggregate Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Aggregate Functions",
+                        "lectureId": "698efe98b16a195e5354b0f1",
+                        "lectureLength": "01:11:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9gQ4xf2mtGy/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Joins",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Joins",
+                        "lectureId": "698efe98b16a195e5354b0f3",
+                        "lectureLength": "00:53:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ms6es8SqxJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Type of Joins",
+                        "lectureId": "698efe98b16a195e5354b0f4",
+                        "lectureLength": "00:48:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NAG8etgtfD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Joins Questions",
+                        "lectureId": "698efe98b16a195e5354b0f5",
+                        "lectureLength": "00:28:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Q3Q8FZChR8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Case Statements",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Case Statements",
+                        "lectureId": "698efe98b16a195e5354b0f7",
+                        "lectureLength": "01:21:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3phMBgupuas/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Date Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Date Functions",
+                        "lectureId": "698efe98b16a195e5354b0f9",
+                        "lectureLength": "00:50:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmeQhjzDnhj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Set Operators",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Set Operators",
+                        "lectureId": "698efe98b16a195e5354b0fb",
+                        "lectureLength": "00:32:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JPYY6eqEG5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Sub-Query",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Sub-Query",
+                        "lectureId": "698efe98b16a195e5354b0fd",
+                        "lectureLength": "00:57:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXY6hyFMadd/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "CTE & View",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "CTE & View",
+                        "lectureId": "698efe98b16a195e5354b0ff",
+                        "lectureLength": "01:09:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7k2Z7PcrujR/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Window Functions",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Window Functions Part 1",
+                        "lectureId": "698efe98b16a195e5354b101",
+                        "lectureLength": "01:01:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cebXcJuSgx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Window Functions Part 2",
+                        "lectureId": "698efe98b16a195e5354b102",
+                        "lectureLength": "00:25:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4F3CbzkzGPB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Project",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Project_1",
+                        "lectureId": "698efe98b16a195e5354b104",
+                        "lectureLength": "00:58:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5tUm7ZaQ2Bu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project_2",
+                        "lectureId": "698efe98b16a195e5354b105",
+                        "lectureLength": "00:48:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FPXARjCuUN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project_3",
+                        "lectureId": "698efe98b16a195e5354b106",
+                        "lectureLength": "00:33:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J6b6yhUAYR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project_4",
+                        "lectureId": "698efe98b16a195e5354b107",
+                        "lectureLength": "00:38:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83K6e2RQyRj/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Customer Data Exploration Using SQL",
+                "assignmentId": "69b7a1e649153561b6b5d609",
+                "assignmentLink": "https://docs.google.com/document/d/1BwAzKLyNPfsktyBKjw0tUmgIhUedRSyYDJOVt7cAT4U/edit?tab=t.0#heading=h.pokvd8tcn65p"
+            },
+            {
+                "type": "section",
+                "name": "Introduction to BI",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Power BI",
+                        "lectureId": "698efe98b16a195e5354b10a",
+                        "lectureLength": "00:45:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZrk8sTHMnJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Power Query Editor",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Data Transformation + Data Types",
+                        "lectureId": "698efe98b16a195e5354b10c",
+                        "lectureLength": "00:31:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARGPCtcJTCj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Replace Text + Extract + Split",
+                        "lectureId": "698efe98b16a195e5354b10d",
+                        "lectureLength": "00:18:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7brtcu42xTD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Trim + Clean",
+                        "lectureId": "698efe98b16a195e5354b10e",
+                        "lectureLength": "00:08:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5jK79NEGf3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assignment",
+                        "lectureId": "698efe98b16a195e5354b10f",
+                        "lectureLength": "00:26:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DGTScfxBhC/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Data Preparation and Transformation Using Power BI",
+                "assignmentId": "69b7a1f549153561b6b5d60e",
+                "assignmentLink": "https://docs.google.com/document/d/1QNI3O4okWIwjpJrP_WXiWIaDG1E20Js8yKZAqQL3GHc/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "Data Modelling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Data Modelling",
+                        "lectureId": "698efe98b16a195e5354b111",
+                        "lectureLength": "01:08:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QgjjrFqE4x/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Data Visualization",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Visualization",
+                        "lectureId": "698efe98b16a195e5354b113",
+                        "lectureLength": "00:37:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhS3HHfnprS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ETL",
+                        "lectureId": "698efe98b16a195e5354b114",
+                        "lectureLength": "00:12:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bs5q47xxMxN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Column Chart",
+                        "lectureId": "698efe98b16a195e5354b115",
+                        "lectureLength": "00:12:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/94sSuG69E4Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pie Chart",
+                        "lectureId": "698efe98b16a195e5354b116",
+                        "lectureLength": "00:06:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5fxgY9fa42/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Line Chart",
+                        "lectureId": "698efe98b16a195e5354b117",
+                        "lectureLength": "00:11:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HEpttSAuJmg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Table",
+                        "lectureId": "698efe98b16a195e5354b118",
+                        "lectureLength": "00:07:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8AuaE3fjTxY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Slicers",
+                        "lectureId": "698efe98b16a195e5354b119",
+                        "lectureLength": "00:05:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mYfHSXRj7m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Filters",
+                        "lectureId": "698efe98b16a195e5354b11a",
+                        "lectureLength": "00:07:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/s4z6apj4n3Y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tree Visualization",
+                        "lectureId": "698efe98b16a195e5354b11b",
+                        "lectureLength": "00:05:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fuT5zsuY7X/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": " Customer Churn Dashboard Development Using Power BI",
+                "assignmentId": "69b7a20549153561b6b5d613",
+                "assignmentLink": "https://docs.google.com/document/d/1W78izgoGElYRfA7F8c9QXG11-KgxSPkSqgStxlxqxik/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "DAX",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Logical DAX",
+                        "lectureId": "698efe98b16a195e5354b121",
+                        "lectureLength": "00:24:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M8MNgN2BRX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text DAX",
+                        "lectureId": "698efe98b16a195e5354b122",
+                        "lectureLength": "00:11:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/c2bhtrENy5p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "DateTime DAX",
+                        "lectureId": "698efe98b16a195e5354b123",
+                        "lectureLength": "00:04:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9T8bcGnMhTP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Business Cases with Advanced DAX",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Problem-1",
+                        "lectureId": "698efe98b16a195e5354b125",
+                        "lectureLength": "00:23:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YZDPSE6XNy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem-2",
+                        "lectureId": "698efe98b16a195e5354b126",
+                        "lectureLength": "00:18:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9X8TCdyad94/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem-3",
+                        "lectureId": "698efe98b16a195e5354b127",
+                        "lectureLength": "00:10:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TgQmJDSTbX9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem-4 Extended",
+                        "lectureId": "698efe98b16a195e5354b128",
+                        "lectureLength": "00:03:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tBX77TkJsd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem-4",
+                        "lectureId": "698efe98b16a195e5354b129",
+                        "lectureLength": "00:10:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Dj8KtfbKSd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem-5",
+                        "lectureId": "698efe98b16a195e5354b12a",
+                        "lectureLength": "00:10:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rbRFQBJNt36/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem-6",
+                        "lectureId": "698efe98b16a195e5354b12b",
+                        "lectureLength": "00:06:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bKjP42cMPq/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Business KPI Development Using DAX",
+                "assignmentId": "69b7a21f49153561b6b5d618",
+                "assignmentLink": "https://docs.google.com/document/d/14pfkS5fRonqE8LV0oEdwKkQ6ewl4o_dT1jw5o5076oI/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "Advanced PowerBI Features",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Bookmarks",
+                        "lectureId": "698efe98b16a195e5354b12d",
+                        "lectureLength": "00:09:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pSUxK84tpt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RLS",
+                        "lectureId": "698efe98b16a195e5354b12e",
+                        "lectureLength": "00:07:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ctDFaas4DE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Field Parameters",
+                        "lectureId": "698efe98b16a195e5354b12f",
+                        "lectureLength": "00:06:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Y36DHqEfST/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI Visuals + Quick Measures",
+                        "lectureId": "698efe98b16a195e5354b130",
+                        "lectureLength": "00:07:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FBsE48KTHA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Advanced Power BI Dashboard Enhancements",
+                "assignmentId": "69b7a22c49153561b6b5d61d",
+                "assignmentLink": "https://docs.google.com/document/d/1EoybCSHxnicxkYoGjzKgIMxC2jPNdR0DS539Otpdye0/edit?tab=t.0#heading=h.v508sswyda60"
+            },
+            {
+                "type": "section",
+                "name": "Folder Problem",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Folder Problem",
+                        "lectureId": "698efe98b16a195e5354b17a",
+                        "lectureLength": "00:07:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Fr6k3neeGBz/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "SQL+PowerBI",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "SQL+PowerBI",
+                        "lectureId": "698efe98b16a195e5354b17c",
+                        "lectureLength": "00:11:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9buf2KHaYzk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Exploratory Data Analysis (EDA) for Customer Churn Dataset",
+                "assignmentId": "69b7a2ef49153561b6b5d640",
+                "assignmentLink": "https://docs.google.com/document/d/177h1B7L8LTNso-pNHA0x9Ag4SVXBPIGHhQUxBZniTf4/edit?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Introduction_To_Python",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction_To_Python",
+                        "lectureId": "698efe98b16a195e5354b132",
+                        "lectureLength": "00:14:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44XyKrhGCm9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Python Variables",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Python Variables",
+                        "lectureId": "698efe98b16a195e5354b134",
+                        "lectureLength": "00:28:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BksNa3FyeJm/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Python Data Types",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Python Data Types",
+                        "lectureId": "698efe98b16a195e5354b136",
+                        "lectureLength": "00:24:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ktBP3Ea5aE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Python Operators",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Python Operators",
+                        "lectureId": "698efe98b16a195e5354b138",
+                        "lectureLength": "00:32:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/t7ge5KGC7mx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Getting Started with Python for Data Analysis",
+                "assignmentId": "69b7a24149153561b6b5d622",
+                "assignmentLink": "https://docs.google.com/document/d/1nIuaByL9cjxz8o36iYIxthUKEyf9owWYUa97rItr2sg/edit?tab=t.0#heading=h.elcya5a9c4er"
+            },
+            {
+                "type": "section",
+                "name": "Python Strings",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Python Strings-1",
+                        "lectureId": "698efe98b16a195e5354b13a",
+                        "lectureLength": "00:26:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qD7QgPTfgu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Python Strings-2",
+                        "lectureId": "698efe98b16a195e5354b13b",
+                        "lectureLength": "00:46:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NPdper6TF3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Python Conditional Statements",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Python Conditional Statements",
+                        "lectureId": "698efe98b16a195e5354b13d",
+                        "lectureLength": "00:32:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jkDEYuHU27/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Python Loops",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Python Loops",
+                        "lectureId": "698efe98b16a195e5354b13f",
+                        "lectureLength": "00:17:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CfRmbSTajc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Python Data Structures",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Data Structures",
+                        "lectureId": "698efe98b16a195e5354b141",
+                        "lectureLength": "00:14:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89Y6MXFJcg2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "List",
+                        "lectureId": "698efe98b16a195e5354b142",
+                        "lectureLength": "00:35:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3abaaETQ4Z4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tuple",
+                        "lectureId": "698efe98b16a195e5354b143",
+                        "lectureLength": "00:13:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCEyzYS9Qdn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Set",
+                        "lectureId": "698efe98b16a195e5354b144",
+                        "lectureLength": "00:20:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58buHU3ekt3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dictionary",
+                        "lectureId": "698efe98b16a195e5354b145",
+                        "lectureLength": "00:20:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbZmMmJxSSk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comprehension",
+                        "lectureId": "698efe98b16a195e5354b146",
+                        "lectureLength": "00:10:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75dRhxbZ9Db/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Data Processing Using Python Programming Concepts",
+                "assignmentId": "69b7a25a49153561b6b5d627",
+                "assignmentLink": "https://docs.google.com/document/d/17IFI3jXSJOcRa5tGjrS5KrJv8vraN4_omDxOoVedRqo/edit?tab=t.0#heading=h.c1lt50qgdiim"
+            },
+            {
+                "type": "section",
+                "name": "Functions in Python",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Functions",
+                        "lectureId": "698efe98b16a195e5354b148",
+                        "lectureLength": "00:33:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hx29qJuNz5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lambda Functions",
+                        "lectureId": "698efe98b16a195e5354b149",
+                        "lectureLength": "00:13:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7J5h9UY7rQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Special Functions",
+                        "lectureId": "698efe98b16a195e5354b14a",
+                        "lectureLength": "00:15:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59xtsfTuYDh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "In-Built Function and Recursion",
+                        "lectureId": "698efe98b16a195e5354b14b",
+                        "lectureLength": "00:13:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8KZGjfpysCp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "OOPs in Python",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Oops",
+                        "lectureId": "698efe98b16a195e5354b14d",
+                        "lectureLength": "00:44:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7d6PkCAqa9E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pillars of OOPs",
+                        "lectureId": "698efe98b16a195e5354b14e",
+                        "lectureLength": "00:27:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ucryC3jTZ8/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Building Reusable Analysis Functions in Python",
+                "assignmentId": "69b7a26e49153561b6b5d62c",
+                "assignmentLink": "https://docs.google.com/document/d/1_4K6LN5QjJCvPDB38oapcPgT0nu_FuX44VqXjs6lpIg/edit?tab=t.0#heading=h.a7546pghwlab"
+            },
+            {
+                "type": "section",
+                "name": "NumPy Basics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating Numpy Arrays",
+                        "lectureId": "698efe98b16a195e5354b17e",
+                        "lectureLength": "00:36:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bebfbxA4gx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Attributes of a NumPy Array",
+                        "lectureId": "698efe98b16a195e5354b17f",
+                        "lectureLength": "00:15:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4C8BEkpGPH3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating NumPy of Different Dimensions",
+                        "lectureId": "698efe98b16a195e5354b180",
+                        "lectureLength": "00:17:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyzYk3hKfq8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Accessing Elements",
+                        "lectureId": "698efe98b16a195e5354b181",
+                        "lectureLength": "00:11:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gTK5cUszQ7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Why NumPy",
+                        "lectureId": "698efe98b16a195e5354b182",
+                        "lectureLength": "00:20:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApQn5dFHEtQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case-Study-1",
+                        "lectureId": "698efe98b16a195e5354b183",
+                        "lectureLength": "00:19:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/P9U7yjbGQgC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case-Study-2",
+                        "lectureId": "698efe98b16a195e5354b184",
+                        "lectureLength": "00:16:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M4eFS9d9Kn/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "NumPy Operations",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Comparison Operators",
+                        "lectureId": "698efe98b16a195e5354b186",
+                        "lectureLength": "00:08:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TKaHunAZg9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mathematical Operators",
+                        "lectureId": "698efe98b16a195e5354b187",
+                        "lectureLength": "00:10:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hnGYTQ3RYf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Statistical Operators",
+                        "lectureId": "698efe98b16a195e5354b188",
+                        "lectureLength": "00:15:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dU55dkpPdaY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sorting Operators",
+                        "lectureId": "698efe98b16a195e5354b189",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rFagAQBDbB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Combining Operators",
+                        "lectureId": "698efe98b16a195e5354b18a",
+                        "lectureLength": "00:02:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ndsjxmJuyGE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Manipulation Operators",
+                        "lectureId": "698efe98b16a195e5354b18b",
+                        "lectureLength": "00:43:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3T2aepPRzbk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Random Operators",
+                        "lectureId": "698efe98b16a195e5354b18c",
+                        "lectureLength": "00:07:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AH6zDM99xB8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Miscellaneous Opeartors",
+                        "lectureId": "698efe98b16a195e5354b18d",
+                        "lectureLength": "00:09:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3upU2PdsJ3y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case Study 1",
+                        "lectureId": "698efe98b16a195e5354b18e",
+                        "lectureLength": "00:19:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/P9U7yjbGQgC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case Study 2",
+                        "lectureId": "698efe98b16a195e5354b18f",
+                        "lectureLength": "00:16:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M4eFS9d9Kn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Correction",
+                        "lectureId": "698efe98b16a195e5354b190",
+                        "lectureLength": "00:01:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9d5aEH8D2qB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Business Metrics Analysis Using NumPy",
+                "assignmentId": "69b7a30349153561b6b5d645",
+                "assignmentLink": "https://docs.google.com/document/d/1M6TVodNf7GfUE0cgkozc5WwiF8QQtObRNNEO8tIlyBo/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Pandas Basics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Pandas Basics",
+                        "lectureId": "698efe98b16a195e5354b192",
+                        "lectureLength": "00:29:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUrz7dkGBPE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pandas Data Structures",
+                        "lectureId": "698efe98b16a195e5354b193",
+                        "lectureLength": "00:04:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cMXC2HMMZT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Column Operations",
+                        "lectureId": "698efe98b16a195e5354b194",
+                        "lectureLength": "00:17:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3B77F4fKUSB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Row Operation",
+                        "lectureId": "698efe98b16a195e5354b195",
+                        "lectureLength": "00:41:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3HeJCuxGnmm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case Study",
+                        "lectureId": "698efe98b16a195e5354b196",
+                        "lectureLength": "00:38:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdcjZYreaSH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Pandas Analysis",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Accessing specific rows",
+                        "lectureId": "698efe98b16a195e5354b198",
+                        "lectureLength": "00:13:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86qCPsuZRxf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Miscellaneous functions",
+                        "lectureId": "698efe98b16a195e5354b199",
+                        "lectureLength": "00:06:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/a6UGeaYerpk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "String functions",
+                        "lectureId": "698efe98b16a195e5354b19a",
+                        "lectureLength": "00:10:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xCpNq6ertmJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case Study",
+                        "lectureId": "698efe98b16a195e5354b19b",
+                        "lectureLength": "00:38:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdcjZYreaSH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Group By",
+                        "lectureId": "698efe98b16a195e5354b19c",
+                        "lectureLength": "00:13:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MHMmFPzTyc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pivot Table",
+                        "lectureId": "698efe98b16a195e5354b19d",
+                        "lectureLength": "00:07:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YDz9psjsU8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Group By vs Pivot Table",
+                        "lectureId": "698efe98b16a195e5354b19e",
+                        "lectureLength": "00:12:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4RqAZTmR2JS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case Study - 2",
+                        "lectureId": "698efe98b16a195e5354b19f",
+                        "lectureLength": "00:16:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M4eFS9d9Kn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Melt",
+                        "lectureId": "698efe98b16a195e5354b1a0",
+                        "lectureLength": "00:14:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PKKCS9gMTm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CrossTab",
+                        "lectureId": "698efe98b16a195e5354b1a1",
+                        "lectureLength": "00:03:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hJ4A5uFhkb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pandas Cut",
+                        "lectureId": "698efe98b16a195e5354b1a2",
+                        "lectureLength": "00:13:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35kh5rSNb43/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Date Time Function",
+                        "lectureId": "698efe98b16a195e5354b1a3",
+                        "lectureLength": "00:14:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BtJtsR6FSY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Pandas Merge and Concat",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Concat",
+                        "lectureId": "698efe98b16a195e5354b1a5",
+                        "lectureLength": "00:18:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BaP5z9Ym3F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Merge",
+                        "lectureId": "698efe98b16a195e5354b1a6",
+                        "lectureLength": "00:10:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MMx6AHcGnm/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Missing Values",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "None vs Nan",
+                        "lectureId": "698efe98b16a195e5354b1a8",
+                        "lectureLength": "00:10:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84uqDrHgK3Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "isnull vs isna",
+                        "lectureId": "698efe98b16a195e5354b1a9",
+                        "lectureLength": "00:05:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tyJqMFjycf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Treating Missing Values",
+                        "lectureId": "698efe98b16a195e5354b1aa",
+                        "lectureLength": "00:03:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aaXcsKzyyr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Apply vs Transform",
+                        "lectureId": "698efe98b16a195e5354b1ab",
+                        "lectureLength": "00:10:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5yJFYZeRjkj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case Study",
+                        "lectureId": "698efe98b16a195e5354b1ac",
+                        "lectureLength": "00:38:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdcjZYreaSH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Customer Insights Discovery Using Pandas",
+                "assignmentId": "69b7a35249153561b6b5d650",
+                "assignmentLink": "https://docs.google.com/document/d/1BrolDMkWRnppwtcwVTR6P-IvxL40227EgYKUswXkK24/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "EDA Data Visualization",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction",
+                        "lectureId": "69d63d1749153561b6b62e11",
+                        "lectureLength": "00:14:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BYMUeXmt9Z2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Univariate Analysis",
+                        "lectureId": "69d63da149153561b6b62e1a",
+                        "lectureLength": "00:17:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98Tur8yaUPE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bivariate Analysis",
+                        "lectureId": "69d63dc849153561b6b62e1d",
+                        "lectureLength": "00:15:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jaEXPPkEAB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multivariate Analysis",
+                        "lectureId": "69d63dd949153561b6b62e20",
+                        "lectureLength": "00:12:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A87adZDJst5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Matplotlib",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Matplotlib - Line Plot",
+                        "lectureId": "698efe98b16a195e5354b1ae",
+                        "lectureLength": "00:30:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XPQRRNzXAz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Matplotlib - Bar Plot",
+                        "lectureId": "698efe98b16a195e5354b1af",
+                        "lectureLength": "00:07:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Cfckb8PZfH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Matplotlib - Pie Plot",
+                        "lectureId": "698efe98b16a195e5354b1b0",
+                        "lectureLength": "00:15:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rXykx86yNc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Matplotlib - Histograms",
+                        "lectureId": "698efe98b16a195e5354b1b1",
+                        "lectureLength": "00:09:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ezpdbuJXdb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Matplotlib - Scatter Plot",
+                        "lectureId": "698efe98b16a195e5354b1b2",
+                        "lectureLength": "00:07:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ZtT3d8DEkr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Matplotlib - Sub Plots",
+                        "lectureId": "698efe98b16a195e5354b1b3",
+                        "lectureLength": "00:12:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3z2CKRaXsgn/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Seaborn",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Seaborn - Introduction",
+                        "lectureId": "698efe98b16a195e5354b1b5",
+                        "lectureLength": "00:06:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Qg3g7EGxQn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Seaborn - Line Plot",
+                        "lectureId": "698efe98b16a195e5354b1b6",
+                        "lectureLength": "00:24:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96sDkFfxcQy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Seaborn - Bar Plot",
+                        "lectureId": "698efe98b16a195e5354b1b7",
+                        "lectureLength": "00:07:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkArsshbkkF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Seaborn - Count Plot vs Histogram vs Distplot",
+                        "lectureId": "698efe98b16a195e5354b1b8",
+                        "lectureLength": "00:16:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyS9X2bzYzy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Seaborn - BoxPlot",
+                        "lectureId": "698efe98b16a195e5354b1b9",
+                        "lectureLength": "00:10:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/38HGa77T4B4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Seaborn - Vioin Plot",
+                        "lectureId": "698efe98b16a195e5354b1ba",
+                        "lectureLength": "00:11:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BbqycNHkC7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Seaborn - Scatter Plot",
+                        "lectureId": "698efe98b16a195e5354b1bb",
+                        "lectureLength": "00:13:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93urFdSqzSd/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Plotly",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Plotly - Line Plot",
+                        "lectureId": "698efe98b16a195e5354b1bd",
+                        "lectureLength": "00:06:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SmpgPN4xju/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Plotly - Area Plot",
+                        "lectureId": "698efe98b16a195e5354b1be",
+                        "lectureLength": "00:05:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GaEkBtes3at/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Plotly -Scatter Plot",
+                        "lectureId": "698efe98b16a195e5354b1bf",
+                        "lectureLength": "00:02:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtGbAsQCYZk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Plotly - Box + Violin Plot",
+                        "lectureId": "698efe98b16a195e5354b1c0",
+                        "lectureLength": "00:03:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AB9dEZKHTf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Plotly - 3-D Plot",
+                        "lectureId": "698efe98b16a195e5354b1c1",
+                        "lectureLength": "00:04:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7JjcQuKdz2A/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Visualizing Customer Behavior Using Python",
+                "assignmentId": "69b7a36549153561b6b5d655",
+                "assignmentLink": "https://docs.google.com/document/d/1S2ooefaFhtOoNKOt_8WajYLRIOeUa7Ic4XUPpjDCAHk/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "Probability",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Probablity",
+                        "lectureId": "698efe98b16a195e5354b150",
+                        "lectureLength": "00:02:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GTK4QfQuQY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Probability",
+                        "lectureId": "698efe98b16a195e5354b151",
+                        "lectureLength": "00:21:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6A9SAsnt4tz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Permutation",
+                        "lectureId": "698efe98b16a195e5354b152",
+                        "lectureLength": "00:13:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r2MMqHY5BNA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Combination",
+                        "lectureId": "698efe98b16a195e5354b153",
+                        "lectureLength": "00:10:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7H55f5G3D9g/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Baye's Theorem",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Baye_s Theorem",
+                        "lectureId": "698efe98b16a195e5354b155",
+                        "lectureLength": "00:34:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyG22ySs3J6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Discrete Probability (Probability Mass Function)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Discrete Probability",
+                        "lectureId": "698efe98b16a195e5354b157",
+                        "lectureLength": "00:18:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SGqCadk2mzR/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Continuous Probability (Probability Dist Function)",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Continuous Probability",
+                        "lectureId": "698efe98b16a195e5354b159",
+                        "lectureLength": "00:57:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cApuxeDy6p/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Central Limit Theorem",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Central Limit Theorem",
+                        "lectureId": "698efe98b16a195e5354b15b",
+                        "lectureLength": "00:56:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AaActnBtTg3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Customer Behavior Analysis Using Statistical Concepts",
+                "assignmentId": "69b7a2b649153561b6b5d631",
+                "assignmentLink": "https://docs.google.com/document/d/1nHjNl6omgiVTgXmF2svBuvo8kPLl1NHUU-TBoWXIjNM/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "Hypothesis Testing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Hypothesis Testing",
+                        "lectureId": "698efe98b16a195e5354b15d",
+                        "lectureLength": "00:10:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34R6eMhKEHF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Establish Hypothesis + Tests",
+                        "lectureId": "698efe98b16a195e5354b15e",
+                        "lectureLength": "00:18:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92UhYjKpfFD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hypothesis Testing - Z,T Test",
+                        "lectureId": "698efe98b16a195e5354b15f",
+                        "lectureLength": "00:43:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8T2CaxzABY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hypothesis Testing - ANOVA",
+                        "lectureId": "698efe98b16a195e5354b160",
+                        "lectureLength": "00:13:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52zDsTqygZG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hypothesis Testing - KS Test",
+                        "lectureId": "698efe98b16a195e5354b161",
+                        "lectureLength": "00:12:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8bDtyuSnsMY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hypothesis Testing - Chi Square Test",
+                        "lectureId": "698efe98b16a195e5354b162",
+                        "lectureLength": "00:26:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dqx8Q7aeNz/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "AB Testing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "AB Testing",
+                        "lectureId": "698efe98b16a195e5354b164",
+                        "lectureLength": "00:16:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65uuu2xgxZr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "EDA Project",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Project",
+                        "lectureId": "698efe98b16a195e5354b108",
+                        "lectureLength": "01:24:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C37Sxrf8uEp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Guestimates",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Gustimates Overview",
+                        "lectureId": "698efe98b16a195e5354b166",
+                        "lectureLength": "00:28:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hzJdtpcDHM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Guestimate in detail + Problem-1",
+                        "lectureId": "698efe98b16a195e5354b167",
+                        "lectureLength": "00:38:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7t59Jk3zNkN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem-2",
+                        "lectureId": "698efe98b16a195e5354b168",
+                        "lectureLength": "00:18:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9X8TCdyad94/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem-3",
+                        "lectureId": "698efe98b16a195e5354b169",
+                        "lectureLength": "00:10:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TgQmJDSTbX9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem-4",
+                        "lectureId": "698efe98b16a195e5354b16a",
+                        "lectureLength": "00:10:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Dj8KtfbKSd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem-5",
+                        "lectureId": "698efe98b16a195e5354b16b",
+                        "lectureLength": "00:10:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rbRFQBJNt36/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem-6",
+                        "lectureId": "698efe98b16a195e5354b16c",
+                        "lectureLength": "00:06:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6bKjP42cMPq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Problem-7",
+                        "lectureId": "698efe98b16a195e5354b16d",
+                        "lectureLength": "00:23:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PNdepRTHQeJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Hypothesis Testing for Customer Churn Analysis",
+                "assignmentId": "69b7a2c849153561b6b5d636",
+                "assignmentLink": "https://docs.google.com/document/d/1FEAi611D2EqNtLjFSlL08xcXePgNEU-j-oYLrPcyqys/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "Introduction To ML",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction To ML",
+                        "lectureId": "698efe98b16a195e5354b16f",
+                        "lectureLength": "00:40:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hjTSYDeAkB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Framing an ML Problem",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Framing an ML Problem",
+                        "lectureId": "698efe98b16a195e5354b171",
+                        "lectureLength": "00:29:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HZf9rkZ7cu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Data Cleansing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Data Cleansing Theory",
+                        "lectureId": "698efe98b16a195e5354b1c3",
+                        "lectureLength": "00:03:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7TXqAbZ7zX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Cleansing Practical - 1",
+                        "lectureId": "698efe98b16a195e5354b1c4",
+                        "lectureLength": "00:26:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nJG3Tg3Jpy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Cleansing Practical - 2",
+                        "lectureId": "698efe98b16a195e5354b1c5",
+                        "lectureLength": "00:15:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7GhsedaJx4A/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Cleansing Practical - 3",
+                        "lectureId": "698efe98b16a195e5354b1c6",
+                        "lectureLength": "00:09:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ngRAxmqg5R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Data Cleansing Practical - 4",
+                        "lectureId": "698efe98b16a195e5354b1c7",
+                        "lectureLength": "00:09:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RqKr4ub43a/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Treating Missing Values",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Treating Missing Values",
+                        "lectureId": "698efe98b16a195e5354b1c9",
+                        "lectureLength": "00:03:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7aaXcsKzyyr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "CCA",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "CCA Theory",
+                        "lectureId": "698efe98b16a195e5354b201",
+                        "lectureLength": "00:10:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xCtH7GAEZE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CCA Practical",
+                        "lectureId": "698efe98b16a195e5354b202",
+                        "lectureLength": "00:24:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFryBSqqPt3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Comparing Predictive Models for Customer Churn",
+                "assignmentId": "69b7a3ad49153561b6b5d669",
+                "assignmentLink": "https://docs.google.com/document/d/1dJfHwAOBz8hqKuPHZlsLstj_LRf109dpeC75ThfYVfA/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "Mean Median Mode",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Mean Median Mode Theory",
+                        "lectureId": "698efe98b16a195e5354b204",
+                        "lectureLength": "00:09:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HCxXPK5s6g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mean Median Mode Practical",
+                        "lectureId": "698efe98b16a195e5354b205",
+                        "lectureLength": "00:38:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9jfSgnCEtfx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Random Sample Imputation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Random Sample Imputation Theory",
+                        "lectureId": "698efe98b16a195e5354b207",
+                        "lectureLength": "00:02:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8DPHxY4KrbC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Random Sample Imputation Practical",
+                        "lectureId": "698efe98b16a195e5354b208",
+                        "lectureLength": "00:08:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84fsPKdXJTE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Missing Indicators",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Missing Indicators Theory",
+                        "lectureId": "698efe98b16a195e5354b20a",
+                        "lectureLength": "00:02:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3D7kdpcT9Xe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Missing Indicators Practical",
+                        "lectureId": "698efe98b16a195e5354b20b",
+                        "lectureLength": "00:11:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ5QU8NGTkD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "KNN Imputation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "KNN  Imputation Theory",
+                        "lectureId": "698efe98b16a195e5354b20d",
+                        "lectureLength": "00:14:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88UumqGsPE5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "KNN  Imputation Practical",
+                        "lectureId": "698efe98b16a195e5354b20e",
+                        "lectureLength": "00:04:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88HH3u7eRFa/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "MICE",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "MICE Theory",
+                        "lectureId": "698efe98b16a195e5354b210",
+                        "lectureLength": "00:05:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtdNsGdd3Tj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "MICE Practical",
+                        "lectureId": "698efe98b16a195e5354b211",
+                        "lectureLength": "00:07:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88Mdut94gST/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Handling Missing Data Using Advanced Imputation Techniques",
+                "assignmentId": "69b7a3c249153561b6b5d66e",
+                "assignmentLink": "https://docs.google.com/document/d/1mnubyJq_5wFcF9qdWhzmfEZOYPclttzzQphMeDh1KsY/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "Outlier Detection",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Outlier Detection Theory",
+                        "lectureId": "698efe98b16a195e5354b1cb",
+                        "lectureLength": "00:13:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/768S5RnpTSa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Z-Score based Filter",
+                        "lectureId": "698efe98b16a195e5354b1cc",
+                        "lectureLength": "00:14:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXb9SjThAZG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IQR based Filter",
+                        "lectureId": "698efe98b16a195e5354b1cd",
+                        "lectureLength": "00:09:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4tt5z3fyJ2f/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Data Quality Assessment and Data Cleaning",
+                "assignmentId": "69b7a37549153561b6b5d65a",
+                "assignmentLink": "https://docs.google.com/document/d/1UOOsG4Q4zKdZ0UOgHkHA3aW6pvwUXkaPbjODWHYh2uc/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "EDA",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "EDA Theory",
+                        "lectureId": "698efe98b16a195e5354b173",
+                        "lectureLength": "00:05:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sQxY3raHBu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Data",
+                        "lectureId": "698efe98b16a195e5354b174",
+                        "lectureLength": "00:31:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fGuGrnyryu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Univariate Analysis",
+                        "lectureId": "698efe98b16a195e5354b175",
+                        "lectureLength": "00:17:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98Tur8yaUPE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bivariate Analysis",
+                        "lectureId": "698efe98b16a195e5354b176",
+                        "lectureLength": "00:15:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jaEXPPkEAB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multivariate Analysis",
+                        "lectureId": "698efe98b16a195e5354b177",
+                        "lectureLength": "00:12:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A87adZDJst5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sweetviz",
+                        "lectureId": "698efe98b16a195e5354b178",
+                        "lectureLength": "00:07:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A6ZR6MSFuNJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Handling Categorical Values",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Theory",
+                        "lectureId": "698efe98b16a195e5354b213",
+                        "lectureLength": "00:25:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58HeGzQ774t/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Practical",
+                        "lectureId": "698efe98b16a195e5354b214",
+                        "lectureLength": "00:41:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT3FH9fYfzh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case Study",
+                        "lectureId": "698efe98b16a195e5354b215",
+                        "lectureLength": "00:38:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdcjZYreaSH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Feature Scaling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Theory",
+                        "lectureId": "698efe98b16a195e5354b217",
+                        "lectureLength": "00:25:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/58HeGzQ774t/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Practical",
+                        "lectureId": "698efe98b16a195e5354b218",
+                        "lectureLength": "00:41:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AT3FH9fYfzh/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Preparing Data for Machine Learning Models",
+                "assignmentId": "69b7a3d249153561b6b5d673",
+                "assignmentLink": "https://docs.google.com/document/d/14feXKj2te1nlrFNAKyJFpg0M42-9MtQuqQLOjRsCww0/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "Feature Construction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Feature Construction",
+                        "lectureId": "698efe98b16a195e5354b1cf",
+                        "lectureLength": "00:10:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3G97cAb6n4R/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Feature Selection",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Correlation",
+                        "lectureId": "698efe98b16a195e5354b1d1",
+                        "lectureLength": "00:27:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9u2kypPFM45/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mutual Information Score",
+                        "lectureId": "698efe98b16a195e5354b1d2",
+                        "lectureLength": "00:13:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jrmHJuUYj3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Variance Inflation Factor",
+                        "lectureId": "698efe98b16a195e5354b1d3",
+                        "lectureLength": "00:10:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FBEmRgXkEB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ANOVA",
+                        "lectureId": "698efe98b16a195e5354b1d4",
+                        "lectureLength": "00:05:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53YnMSyuFes/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Chi-Square",
+                        "lectureId": "698efe98b16a195e5354b1d5",
+                        "lectureLength": "00:07:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9X3D7Sr7R7a/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Recursive Feature Elimination",
+                        "lectureId": "698efe98b16a195e5354b1d6",
+                        "lectureLength": "00:34:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8qmu6jmR3eS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Feature Extraction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Feature Extraction",
+                        "lectureId": "698efe98b16a195e5354b1d8",
+                        "lectureLength": "00:17:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6JmdDsdtRja/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Customer Segmentation and Feature Engineering",
+                "assignmentId": "69b7a38249153561b6b5d65f",
+                "assignmentLink": "https://docs.google.com/document/d/1K1JmKOvD8gv4s7BelUXgX8yHak74DeHqWsRzpbW-340/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "All Supervised Models",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Types of ML",
+                        "lectureId": "698efe98b16a195e5354b1da",
+                        "lectureLength": "00:35:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ET4ZJzNApP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "All Supervised Models",
+                        "lectureId": "698efe98b16a195e5354b1db",
+                        "lectureLength": "00:58:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9A3qxNTdc7z/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Linear Regression",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Simple LR Theory",
+                        "lectureId": "698efe98b16a195e5354b1dd",
+                        "lectureLength": "00:11:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57Jkj2QeeyR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Assumptions for LR",
+                        "lectureId": "698efe98b16a195e5354b1de",
+                        "lectureLength": "00:09:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4js3geBXRkb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Evaluation Metrics for Regression",
+                        "lectureId": "698efe98b16a195e5354b1df",
+                        "lectureLength": "00:21:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4CqtZfXckMM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of LR",
+                        "lectureId": "698efe98b16a195e5354b1e0",
+                        "lectureLength": "00:06:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44tngtaCST4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "LR Practical",
+                        "lectureId": "698efe98b16a195e5354b1e1",
+                        "lectureLength": "00:31:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuKKRSGu3Tp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Gradient Descent",
+                        "lectureId": "698efe98b16a195e5354b1e2",
+                        "lectureLength": "00:48:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cNa7SNSxzh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bias Variance Tradeoff",
+                        "lectureId": "698efe98b16a195e5354b1e3",
+                        "lectureLength": "00:19:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9fHdp6XY2qP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Regularization Theory",
+                        "lectureId": "698efe98b16a195e5354b1e4",
+                        "lectureLength": "00:23:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3t4zYJ57QKG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Regularization Practical",
+                        "lectureId": "698efe98b16a195e5354b1e5",
+                        "lectureLength": "00:13:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93RKNxXxgze/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Logistic Regression",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Logistic Regression Theory",
+                        "lectureId": "698efe98b16a195e5354b1e7",
+                        "lectureLength": "00:22:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KmeAdNUrd6A/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logistic Regression Practical",
+                        "lectureId": "698efe98b16a195e5354b1e8",
+                        "lectureLength": "00:13:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EfRMrfRbFE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Evaluation Metrics for Classification Theory",
+                        "lectureId": "698efe98b16a195e5354b1e9",
+                        "lectureLength": "00:40:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5P8yexSKND/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Evaluation Metrics for Classification Practical",
+                        "lectureId": "698efe98b16a195e5354b1ea",
+                        "lectureLength": "00:15:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68raB9gSemZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Imbalanced Data",
+                        "lectureId": "698efe98b16a195e5354b1eb",
+                        "lectureLength": "00:21:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8deffmYA9XA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Decision Tree",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Decision Tree Theory",
+                        "lectureId": "698efe98b16a195e5354b1ed",
+                        "lectureLength": "00:52:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8pC6ttTqjsA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Decision Tree Practical",
+                        "lectureId": "698efe98b16a195e5354b1ee",
+                        "lectureLength": "00:22:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JZRu5CcyGG/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Customer Churn Prediction Analysis",
+                "assignmentId": "69b7a39549153561b6b5d664",
+                "assignmentLink": "https://docs.google.com/document/d/1rWT2Cu4ybkDVbFdBUTGgk84Xn9L0n-mASTesUlP81FI/edit?tab=t.0"
+            },
+            {
+                "type": "section",
+                "name": "KNN",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "KNN Theory",
+                        "lectureId": "698efe98b16a195e5354b1f8",
+                        "lectureLength": "00:20:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3NrGEnNDX5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "KNN Practical",
+                        "lectureId": "698efe98b16a195e5354b1f9",
+                        "lectureLength": "00:16:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7hprRmffCDh/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Ensemble Techniques",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Ensemble Techniques",
+                        "lectureId": "698efe98b16a195e5354b1f0",
+                        "lectureLength": "00:21:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5H9yu6bp6aF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Random Forest Theory",
+                        "lectureId": "698efe98b16a195e5354b1f1",
+                        "lectureLength": "00:22:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YtePQp6MGS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Random Forest Practical",
+                        "lectureId": "698efe98b16a195e5354b1f2",
+                        "lectureLength": "00:14:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56UUkpXgzDS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Boosting Algorithms Theory",
+                        "lectureId": "698efe98b16a195e5354b1f3",
+                        "lectureLength": "00:24:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ANaJj39MNcS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Boosting Algorithms Practical",
+                        "lectureId": "698efe98b16a195e5354b1f4",
+                        "lectureLength": "00:22:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/CeRksfynpZU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stacking Theory",
+                        "lectureId": "698efe98b16a195e5354b1f5",
+                        "lectureLength": "00:06:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gPmMxaHe25/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stacking Practical",
+                        "lectureId": "698efe98b16a195e5354b1f6",
+                        "lectureLength": "00:09:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMB65gzdGJJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Naive Bayes",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Naive Bayes Theory",
+                        "lectureId": "698efe98b16a195e5354b1fb",
+                        "lectureLength": "00:20:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99eJqA8DCkc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Naive Bayes Practical",
+                        "lectureId": "698efe98b16a195e5354b1fc",
+                        "lectureLength": "00:13:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/97hQAz6h5ay/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "SVM",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "SVM Theory",
+                        "lectureId": "698efe98b16a195e5354b1fe",
+                        "lectureLength": "00:20:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nD4cF97fxk8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "SVM Practical",
+                        "lectureId": "698efe98b16a195e5354b1ff",
+                        "lectureLength": "00:11:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FTYhjq72j2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Capstone-1",
+                "assignmentId": "69b7a3dc49153561b6b5d678",
+                "assignmentLink": "https://docs.google.com/document/d/1X_tU5LeVc-0mjZXuXyr9Ly3YKEx4xxA-4vlCuC5rvJc/edit?tab=t.0#heading=h.ich9gvb5bbrk"
+            },
+            {
+                "type": "assignment",
+                "name": "Capstone Project-2",
+                "assignmentId": "69b7a3e749153561b6b5d67d",
+                "assignmentLink": "https://docs.google.com/document/d/1OLKy76Y8FdS7rSa-eijXv0NZFuNiQ-8MXe8qfjayPEk/edit?tab=t.0"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "69ba86fa959c4775ed11ca0e",
+                "mentor": "Rahul ",
+                "start": 21,
+                "end": 23.5,
+                "chatStart": 20.5,
+                "chatEnd": 23.5,
+                "time": "9:00 PM - 11:30 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db7",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "junior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1pJR7vNwyUKzLPBL6QplHp59B8I7zKPRI?usp=sharing"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

@@ -1,0 +1,941 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "68ce0cb9265a541c97170b68",
+        "courseName": "AfterEffects",
+        "slug": "aftereffects",
+        "category": "Technical",
+        "tpFolderId": "UPXU4YT82Sn",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": true,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "68ec9afdc9cf3d230ba66a14",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Introduction to Motion Graphics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction To The course",
+                        "lectureId": "68ce0cb9265a541c97170b6a",
+                        "lectureLength": "00:11:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63XJAQ4M366/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Motion graphics",
+                        "lectureId": "68ce0cb9265a541c97170b6b",
+                        "lectureLength": "00:15:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MGGC3SrBQk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding UI",
+                        "lectureId": "68ce0cb9265a541c97170b6c",
+                        "lectureLength": "00:13:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HkQJdFs2Pp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "More about UI",
+                        "lectureId": "68ce0cb9265a541c97170b6d",
+                        "lectureLength": "00:17:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qMC868cRKJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Timeline Panel",
+                        "lectureId": "68ce0cb9265a541c97170b6e",
+                        "lectureLength": "00:25:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99UdfK8pYFB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Kinetic motion graphics part 1",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Writing Text",
+                        "lectureId": "68ce0cb9265a541c97170b70",
+                        "lectureLength": "00:20:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tf8jQ5ZABy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animating Text",
+                        "lectureId": "68ce0cb9265a541c97170b71",
+                        "lectureLength": "00:15:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CCXac7yE5T/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typography Animation",
+                        "lectureId": "68ce0cb9265a541c97170b72",
+                        "lectureLength": "00:11:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yMbYpJtK2n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Kinetic motion graphics",
+                        "lectureId": "68ce0cb9265a541c97170b73",
+                        "lectureLength": "00:21:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpD6tKN5pHB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Animating Slide Show",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Animation",
+                        "lectureId": "68ce0cb9265a541c97170b75",
+                        "lectureLength": "00:16:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SsD9MB5pEr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Preparing for Slideshow",
+                        "lectureId": "68ce0cb9265a541c97170b76",
+                        "lectureLength": "00:16:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93cG54Ffhsc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animating Images",
+                        "lectureId": "68ce0cb9265a541c97170b77",
+                        "lectureLength": "00:16:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3cf75aSRTTG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating depth base slide show",
+                        "lectureId": "68ce0cb9265a541c97170b78",
+                        "lectureLength": "00:15:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AE2Y8Bba9fq/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Understanding Layers",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Importing Images",
+                        "lectureId": "68ce0cb9265a541c97170b7a",
+                        "lectureLength": "00:14:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5833ssxkZDq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Depth",
+                        "lectureId": "68ce0cb9265a541c97170b7c",
+                        "lectureLength": "00:15:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4QuTpembRFN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding color correction",
+                        "lectureId": "68ce0cb9265a541c97170b7d",
+                        "lectureLength": "00:15:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8S9fTa2K79g/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics -  Working with masks and VFX",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Blending modes",
+                        "lectureId": "68ce0cb9265a541c97170b7f",
+                        "lectureLength": "00:14:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/At7rRE2DDXm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Masking in After Effects",
+                        "lectureId": "68ce0cb9265a541c97170b80",
+                        "lectureLength": "00:16:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/faB8RrKB88m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Blending fog",
+                        "lectureId": "68ce0d43265a541c97170bd5",
+                        "lectureLength": "00:14:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/68Tg4Z5PKRk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Color maching and Rendering",
+                        "lectureId": "68ce0cb9265a541c97170b81",
+                        "lectureLength": "00:13:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5RyTnQtNEkq/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 1: Motion & Timing Animation Project",
+                "assignmentId": "68f2254e83492d3c7b6b6032",
+                "assignmentLink": "https://drive.google.com/file/d/1cxgFmhuEcjiTwtEGj8rDIRTShSCaJ5Un/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Text effects in after effects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Special effects in After Effects",
+                        "lectureId": "68ce0cb9265a541c97170b83",
+                        "lectureLength": "00:16:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8drjzdREqGs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Effects part 1",
+                        "lectureId": "68ce0cb9265a541c97170b84",
+                        "lectureLength": "00:14:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADdXfa9U4TM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Effects part 2",
+                        "lectureId": "68ce0cb9265a541c97170b85",
+                        "lectureLength": "00:15:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4M2kN3sDGz9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Effects part 3",
+                        "lectureId": "68ce0cb9265a541c97170b86",
+                        "lectureLength": "00:18:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Az7tPcRgY7a/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Vector Shapes in After effects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Vector shapes",
+                        "lectureId": "68ce0cb9265a541c97170b88",
+                        "lectureLength": "00:15:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cD5NZRG8E8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animating Vector Shapes",
+                        "lectureId": "68ce0cb9265a541c97170b89",
+                        "lectureLength": "00:09:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UPyUtnSNuU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation with Repeaters",
+                        "lectureId": "68ce0cb9265a541c97170b8a",
+                        "lectureLength": "00:09:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9caXNHzednR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Combining multiple animations",
+                        "lectureId": "68ce0cb9265a541c97170b8b",
+                        "lectureLength": "00:13:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZCsQKdfYea/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animating Social media Icons",
+                        "lectureId": "68ce0cb9265a541c97170b8c",
+                        "lectureLength": "00:08:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34HTkSRH2qC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Finalizing Vector Ad",
+                        "lectureId": "68ce0cb9265a541c97170b8d",
+                        "lectureLength": "00:12:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Afu8sQXddJC/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 2: Animated Mobile Weather App Promo",
+                "assignmentId": "68f2254e83492d3c7b6b6034",
+                "assignmentLink": "https://drive.google.com/file/d/17GP8sw5VRiSjt9bn3Js2bkvJlYfkDy1c/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Logo Animation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Blending Modes",
+                        "lectureId": "68ce0cb9265a541c97170b8f",
+                        "lectureLength": "00:13:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bjRjc4jXAx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Mask in After effects",
+                        "lectureId": "68ce0cb9265a541c97170b90",
+                        "lectureLength": "00:10:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8crgRgq5KHn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying Effect animation on logo",
+                        "lectureId": "68ce0cb9265a541c97170b91",
+                        "lectureLength": "00:08:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3SXRhj6GYR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation Brand Text",
+                        "lectureId": "68ce0cb9265a541c97170b92",
+                        "lectureLength": "00:14:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8f4QhcSbKqQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying Special Effects on logo",
+                        "lectureId": "68ce0cb9265a541c97170b93",
+                        "lectureLength": "00:08:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mxN9FdaSSG/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Lower Thirds Design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating Vector Shapes in After Effects",
+                        "lectureId": "68ce0cb9265a541c97170b95",
+                        "lectureLength": "00:09:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79U3UCU9ZPe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation Vector Shapes",
+                        "lectureId": "68ce0cb9265a541c97170b96",
+                        "lectureLength": "00:14:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nhFnDaAa4e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Trim paths for Arrow Animation",
+                        "lectureId": "68ce0cb9265a541c97170b97",
+                        "lectureLength": "00:08:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ynDdfmcPtM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Lower thirds",
+                        "lectureId": "68ce0cb9265a541c97170b98",
+                        "lectureLength": "00:21:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/MaDCJQEMcQd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Highlights",
+                        "lectureId": "68ce0cb9265a541c97170b99",
+                        "lectureLength": "00:14:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5haPjaf7zQs/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Explainer Video Icons",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Animation Explainer videos",
+                        "lectureId": "68ce0cb9265a541c97170b9b",
+                        "lectureLength": "00:10:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qqNCEu4fsc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Preparing Vector Shapes",
+                        "lectureId": "68ce0cb9265a541c97170b9c",
+                        "lectureLength": "00:10:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7myFyy2fhQS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Refining Animation",
+                        "lectureId": "68ce0cb9265a541c97170b9d",
+                        "lectureLength": "00:10:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UFcq8Gah2y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation Character",
+                        "lectureId": "68ce0cb9265a541c97170b9e",
+                        "lectureLength": "00:16:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32HzerFNrXY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation Apps features",
+                        "lectureId": "68ce0cb9265a541c97170b9f",
+                        "lectureLength": "00:12:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rhr5kpR7HK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Infographic Animation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Infographic Animation in After Effects",
+                        "lectureId": "68ce0cb9265a541c97170ba1",
+                        "lectureLength": "00:13:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9teBXAuTSNe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Loop Expressions in Effcter Effects",
+                        "lectureId": "68ce0cb9265a541c97170ba2",
+                        "lectureLength": "00:12:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6hgu5cht9xM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Expression Animation in After effects",
+                        "lectureId": "68ce0cb9265a541c97170ba3",
+                        "lectureLength": "00:09:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3P8yqzCAHAY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animating Graphs n AFX",
+                        "lectureId": "68ce0cb9265a541c97170ba4",
+                        "lectureLength": "00:11:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/S6qXApbj6yH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dynamic Expressions in  After effects",
+                        "lectureId": "68ce0cb9265a541c97170ba5",
+                        "lectureLength": "00:13:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGncSUYQEMk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - City Exploration",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating City exploration motion graphics",
+                        "lectureId": "68ce0cb9265a541c97170ba7",
+                        "lectureLength": "00:14:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89PZ6AKkHN3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Car loop Animation",
+                        "lectureId": "68ce0cb9265a541c97170ba8",
+                        "lectureLength": "00:15:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77PRZeadMda/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding more cars in the scene",
+                        "lectureId": "68ce0cb9265a541c97170ba9",
+                        "lectureLength": "00:11:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/HBymyTe4673/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animating Rods and rails for the scene",
+                        "lectureId": "68ce0cb9265a541c97170baa",
+                        "lectureLength": "00:17:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Kg6ehDCFYB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding foreground elements",
+                        "lectureId": "68ce0cb9265a541c97170bab",
+                        "lectureLength": "00:10:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXZGq4BafZF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying fog effects in the scene",
+                        "lectureId": "68ce0cb9265a541c97170bac",
+                        "lectureLength": "00:14:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9bc5rbz87Er/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Parallax Photo Animation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding 3d layers in Afx",
+                        "lectureId": "68ce0cb9265a541c97170bae",
+                        "lectureLength": "00:12:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM2DtpdBSpQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "3d Camera In After Effects",
+                        "lectureId": "68ce0de1265a541c97170c46",
+                        "lectureLength": "00:16:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Y3NXFA7Btf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation 3d Camera in AFX",
+                        "lectureId": "68ce0cb9265a541c97170baf",
+                        "lectureLength": "00:05:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qSdpjfjeYQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Window in a 3d scene",
+                        "lectureId": "68ce0cb9265a541c97170bb0",
+                        "lectureLength": "00:07:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hxZBFmNdPc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Lights in 3d",
+                        "lectureId": "68ce0cb9265a541c97170bb1",
+                        "lectureLength": "00:15:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhbR8HtfHBZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "adding 3d Fog effect in the scene",
+                        "lectureId": "68ce0cb9265a541c97170bb2",
+                        "lectureLength": "00:12:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57d8KgpkQGm/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 3: Journey Through Space",
+                "assignmentId": "68f2254e83492d3c7b6b6036",
+                "assignmentLink": "https://drive.google.com/file/d/1saEupedmzdWRfV636gIwuC5rRBXb_cc8/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Creating Loopable Backgrounds",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating Background Elements",
+                        "lectureId": "68ce0cb9265a541c97170bb4",
+                        "lectureLength": "00:19:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5z4HjK4NcHR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tiling background Animation",
+                        "lectureId": "68ce0cb9265a541c97170bb5",
+                        "lectureLength": "00:13:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8Xz32dXgnN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "3D background effects",
+                        "lectureId": "68ce0cb9265a541c97170bb6",
+                        "lectureLength": "00:11:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/642DxMBdGjS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Special Effects Background",
+                        "lectureId": "68ce0d9d265a541c97170c43",
+                        "lectureLength": "00:20:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARABT6Fc9A5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Motion Graphics + Video",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Learning Chroma techniques in Afx",
+                        "lectureId": "68ce0cb9265a541c97170bb8",
+                        "lectureLength": "00:14:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ZzepgA4zgc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advance Chroma techniques in Afx",
+                        "lectureId": "68ce0cb9265a541c97170bb9",
+                        "lectureLength": "00:11:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7ZuZtGKRKH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "working for chroma .vfx",
+                        "lectureId": "68ce0cb9265a541c97170bba",
+                        "lectureLength": "00:10:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CgHQTPtmjF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Integrating Real footages in MG",
+                        "lectureId": "68ce0cb9265a541c97170bbb",
+                        "lectureLength": "00:08:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJxgUXFYa2E/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Refining and Finalizing",
+                        "lectureId": "68ce0cb9265a541c97170bbc",
+                        "lectureLength": "00:23:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tHU5YeCUpsb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Creating Audio driven Animation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating Graphics for Audio animation",
+                        "lectureId": "68ce0cb9265a541c97170bbe",
+                        "lectureLength": "00:14:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3yJKSKBHEU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Syncing Animation with audio Keyframes",
+                        "lectureId": "68ce0cb9265a541c97170bbf",
+                        "lectureLength": "00:12:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3NHzM5kAYz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Text and Curtains",
+                        "lectureId": "68ce0cb9265a541c97170bc0",
+                        "lectureLength": "00:17:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qRkq7jTqeu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Social Media Video Templates",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "creating social media post",
+                        "lectureId": "68ce0cb9265a541c97170bc2",
+                        "lectureLength": "00:10:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hQQcctsRgt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "vector mask effect",
+                        "lectureId": "68ce0cb9265a541c97170bc3",
+                        "lectureLength": "00:14:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pJgMSASADB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Vector Animation",
+                        "lectureId": "68ce0cb9265a541c97170bc4",
+                        "lectureLength": "00:18:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8r7nzktA8Ch/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating 3d Reflection",
+                        "lectureId": "68ce0cb9265a541c97170bc5",
+                        "lectureLength": "00:13:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7n8YR9agBe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Copy text animation",
+                        "lectureId": "68ce0cb9265a541c97170bc6",
+                        "lectureLength": "00:14:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6j2JhqURyk5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Working with Particle effects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "VFX Particle system",
+                        "lectureId": "68ce0cb9265a541c97170bc8",
+                        "lectureLength": "00:10:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/847pYNyMn2f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating fire and Smoke",
+                        "lectureId": "68ce0cb9265a541c97170bc9",
+                        "lectureLength": "00:11:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bz3qPCz54E4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Falling Leaves effect",
+                        "lectureId": "68ce0cb9265a541c97170bca",
+                        "lectureLength": "00:12:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C85EyndZqFh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sky Fireworks",
+                        "lectureId": "68ce0cb9265a541c97170bcb",
+                        "lectureLength": "00:21:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AGhKMaDeRt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating CG rain effects",
+                        "lectureId": "68ce0cb9265a541c97170bcc",
+                        "lectureLength": "00:08:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mDJ8uNhNg7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 4: City Life An Animated Motion Scene",
+                "assignmentId": "68f2254e83492d3c7b6b6038",
+                "assignmentLink": "https://drive.google.com/file/d/1SybCLCWxA3K13OigY-vNhWEoGLE8KG6I/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Motion graphics - Using external plugins in after effects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Plugins in Aftereffects",
+                        "lectureId": "68ce0cb9265a541c97170bce",
+                        "lectureLength": "00:12:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHuHRAF6FeC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation composer presets",
+                        "lectureId": "68ce0cb9265a541c97170bcf",
+                        "lectureLength": "00:08:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83B7n3d4nSC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation composer Transitions1",
+                        "lectureId": "68ce0cb9265a541c97170bd0",
+                        "lectureLength": "00:06:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63YsByXa46y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animation composer transitions2",
+                        "lectureId": "68ce0cb9265a541c97170bd1",
+                        "lectureLength": "00:05:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rzmGzQSgNU/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Basics of VFX in After Effects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to vfx",
+                        "lectureId": "68cfcd3d265a541c971714d1",
+                        "lectureLength": "00:13:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3EpPcr7PHQp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Get familiar with the Interface",
+                        "lectureId": "68cfcd4c265a541c971714d4",
+                        "lectureLength": "01:03:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9T8RMS7Arj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating first visual effects scene",
+                        "lectureId": "68cfcd61265a541c971714d7",
+                        "lectureLength": "01:01:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6sQYNsep4RS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating a space Scene Vfx",
+                        "lectureId": "68cfcd6e265a541c971714da",
+                        "lectureLength": "01:01:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G5JzBPGk6x/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Road scene helicoptor jump",
+                        "lectureId": "68cfcd80265a541c971714dd",
+                        "lectureLength": "01:03:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ta9ExrDUMu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 5",
+                "assignmentId": "68f2254e83492d3c7b6b603a",
+                "assignmentLink": "https://drive.google.com/file/d/1eO_wD8Kfb07CLqPbjs18YlatIhqDDaJH/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Intermediate VFX in After effect",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating rainfall in city",
+                        "lectureId": "68cfcde3265a541c97171555",
+                        "lectureLength": "01:02:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3uY384FPhGE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating your own clone",
+                        "lectureId": "68cfcdf0265a541c97171558",
+                        "lectureLength": "00:58:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/unF7S7nskeS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Magically Disappear from the scene",
+                        "lectureId": "68cfcdfe265a541c9717155b",
+                        "lectureLength": "01:04:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53XPQQan6fN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Free flow objects in the air",
+                        "lectureId": "68cfce0b265a541c9717155e",
+                        "lectureLength": "01:01:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53UDJdbrpA2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Changing scene with Chroma techniques",
+                        "lectureId": "68cfce18265a541c97171561",
+                        "lectureLength": "01:08:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8hBSrgYYKc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Advance VFX Tecniques",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Adding Fire in the Scene",
+                        "lectureId": "68d03575265a541c97171568",
+                        "lectureLength": "01:00:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Cj6Ug8UgGY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating CG Set",
+                        "lectureId": "68d0358a265a541c9717156b",
+                        "lectureLength": "00:49:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMpb2357UaB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tracking objects in live video",
+                        "lectureId": "68d0359f265a541c9717156e",
+                        "lectureLength": "01:07:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsuaTB3c94G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Particles in Visual effects",
+                        "lectureId": "68d035b3265a541c97171571",
+                        "lectureLength": "01:03:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cJJXRkcKgdK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 6 - Final Voyage",
+                "assignmentId": "68f2254e83492d3c7b6b603c",
+                "assignmentLink": "https://drive.google.com/file/d/186WKMvM1oOJ3zeMq35K2MReHpuu5TAkT/view?usp=drive_link"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "687f82b64cffeabaa9bfe2ce",
+                "mentor": "Kaartikey",
+                "start": 19,
+                "end": 20.5,
+                "time": "7:00 PM - 8.30PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db5",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "junior",
+                "chatEnd": 22,
+                "chatStart": 20.5
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1paR42KNGPan3ZdFkNshTWlcMT-ApqRMm?usp=sharing"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

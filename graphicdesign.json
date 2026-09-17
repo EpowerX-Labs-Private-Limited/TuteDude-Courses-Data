@@ -1,0 +1,2219 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "68a9e4dcaa7b36a50095bdf5",
+        "courseName": "Graphic Design",
+        "slug": "graphicdesign",
+        "category": "Technical",
+        "tpFolderId": "njkdj8qZCCY",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "68ee9394c9cf3d230ba68413",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Graphic Design Basics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Graphic Design",
+                        "lectureId": "68a9e4dcaa7b36a50095bdf7",
+                        "lectureLength": "00:08:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5X7nyGjR6gG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to the Principles and Elements of Design",
+                        "lectureId": "68a9e4dcaa7b36a50095bdf8",
+                        "lectureLength": "00:10:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ap9dteRaz4U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Print & Digital Media",
+                        "lectureId": "68a9e4dcaa7b36a50095bdf9",
+                        "lectureLength": "00:09:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4T6Z2rYpnzU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typography",
+                        "lectureId": "68a9e4dcaa7b36a50095bdfa",
+                        "lectureLength": "00:10:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3bhpFqdGdt3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Color Theory",
+                        "lectureId": "68a9e4dcaa7b36a50095bdfb",
+                        "lectureLength": "00:06:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AsQukDEstkS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Photoshop : Getting Started with Photoshop",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Interface Overview & Workspace",
+                        "lectureId": "68a9e4dcaa7b36a50095bdfd",
+                        "lectureLength": "00:19:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADeGCCm87Td/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Document Setup Resolution & Sizes",
+                        "lectureId": "68a9e4dcaa7b36a50095bdfe",
+                        "lectureLength": "00:20:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zZtYY8yDFH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Layers, Groups & Smart Objects",
+                        "lectureId": "68a9e4dcaa7b36a50095bdff",
+                        "lectureLength": "00:27:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C62FRHZMx84/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "File Formats and Exporting for Web and Print",
+                        "lectureId": "68a9e4dcaa7b36a50095be00",
+                        "lectureLength": "00:23:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/f53pCbBdFFf/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Photoshop :Selections & Masking Techniques",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Marquee, Lasso, Magic Wand, Quick Selection",
+                        "lectureId": "68a9e4dcaa7b36a50095be02",
+                        "lectureLength": "00:28:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Yjex4PKY7F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Clipping Mask",
+                        "lectureId": "68a9e4dcaa7b36a50095be03",
+                        "lectureLength": "00:23:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/53Ge5k3hf8U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Layer Masking",
+                        "lectureId": "68a9e4dcaa7b36a50095be04",
+                        "lectureLength": "00:20:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjTHjy9YnAF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Select Subject and Select Mask",
+                        "lectureId": "68a9e4dcaa7b36a50095be05",
+                        "lectureLength": "00:20:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8xrZBfFGHy/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Photoshop : Color Correction, Adjustments & Fill",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Solid Color & Gradient Color Options",
+                        "lectureId": "68a9e4dcaa7b36a50095be07",
+                        "lectureLength": "00:22:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AckHJ6QHZ2p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Pattern inside Photoshop",
+                        "lectureId": "68a9e4dcaa7b36a50095be08",
+                        "lectureLength": "00:25:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xNpaxKdfpH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adjustment Layers - Uses of Levels & Curves",
+                        "lectureId": "68a9e4dcaa7b36a50095be09",
+                        "lectureLength": "00:15:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Anp63z6bAz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hue & Saturation",
+                        "lectureId": "68a9e4dcaa7b36a50095be0a",
+                        "lectureLength": "00:16:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sUJXsP8jyEM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Color Balance",
+                        "lectureId": "68a9e4dcaa7b36a50095be0b",
+                        "lectureLength": "00:13:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Efqh66BFN5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Gradient Maps",
+                        "lectureId": "68a9e4dcaa7b36a50095be0c",
+                        "lectureLength": "00:12:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ArgXSUcDG5e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Black and White Conversion",
+                        "lectureId": "68a9e4dcaa7b36a50095be0d",
+                        "lectureLength": "00:21:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4uuGk6kpnYu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Color Grading with Camera Raw Filter",
+                        "lectureId": "68a9e4dcaa7b36a50095be0e",
+                        "lectureLength": "00:27:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/u6f2MAnzKzP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Simple Photo Edit",
+                "assignmentId": "68f2253c83492d3c7b6b5ffa",
+                "assignmentLink": "https://drive.google.com/file/d/1ERVj99OT5F01vZSf4CN3I8gnZuu0waVC/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Photoshop : Working with Text & Shapes",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Basic Shapes & Their Property",
+                        "lectureId": "68a9e4dcaa7b36a50095be10",
+                        "lectureLength": "00:18:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76gEsDkGqEq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Type Tool in Photoshop",
+                        "lectureId": "68a9e4dcaa7b36a50095be11",
+                        "lectureLength": "00:27:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6uUSBpdNnru/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Warping Text and Effects",
+                        "lectureId": "68a9e4dcaa7b36a50095be12",
+                        "lectureLength": "00:32:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7957pprr7EQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Layer Style Effects with Shapes & Images",
+                        "lectureId": "68a9e4dcaa7b36a50095be13",
+                        "lectureLength": "00:14:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ZyZAAJmzY3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PenTool UseCase & Custom Shapes",
+                        "lectureId": "68a9e4dcaa7b36a50095be14",
+                        "lectureLength": "00:35:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yhC93zpmT6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Photoshop : Brushes, Retouching & Healing Tools",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Brush Tool, Settings and Customization",
+                        "lectureId": "68a9e4dcaa7b36a50095be16",
+                        "lectureLength": "00:26:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93y7rCAxJUB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Healing Brush, Clone Stamp & Patch Tool",
+                        "lectureId": "68a9e4dcaa7b36a50095be17",
+                        "lectureLength": "00:19:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhxgPYHHTEd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Dodge, Burn and Smudge Tool",
+                        "lectureId": "68a9e4dcaa7b36a50095be18",
+                        "lectureLength": "00:17:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4hfYDPHAyR/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Photoshop : Smart Objects, Filters & Effects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Smart Objects, Filters & Effects",
+                        "lectureId": "68a9e4dcaa7b36a50095be1a",
+                        "lectureLength": "00:19:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82dyqT2ARya/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Liquify",
+                        "lectureId": "68a9e4dcaa7b36a50095be1b",
+                        "lectureLength": "00:22:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4UQkQRed5FT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Gaussian Blur & Motion Blur",
+                        "lectureId": "68a9e4dcaa7b36a50095be1c",
+                        "lectureLength": "00:29:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CxQ6RsGY7Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Displacement Map Concept for Mockup Designing",
+                        "lectureId": "68a9e4dcaa7b36a50095be1d",
+                        "lectureLength": "00:24:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4hT4P87UEy5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Texture Overlays",
+                        "lectureId": "68a9e4dcaa7b36a50095be1e",
+                        "lectureLength": "00:22:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Bc3R7tSpRS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Photoshop : Understanding the Photo Manipulation Techniques",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Working with Multiple Images",
+                        "lectureId": "68a9e4dcaa7b36a50095be20",
+                        "lectureLength": "00:24:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8sc5hJ3yBYq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Realistic Shadows",
+                        "lectureId": "68a9e4dcaa7b36a50095be21",
+                        "lectureLength": "00:20:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7faDzcHXaKY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Unlock the Process to Create Reflection",
+                        "lectureId": "68a9e4dcaa7b36a50095be22",
+                        "lectureLength": "00:18:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32JJ2j7pCp7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Lighting Effects",
+                        "lectureId": "68a9e4dcaa7b36a50095be23",
+                        "lectureLength": "00:28:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8u4GGJgZ8At/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Manipulation Techniques With Examples",
+                        "lectureId": "68a9e4dcaa7b36a50095be24",
+                        "lectureLength": "00:22:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4brfnJusAku/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Photoshop : Compositing & Blending",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Match Color & Lighting",
+                        "lectureId": "68a9e4dcaa7b36a50095be26",
+                        "lectureLength": "00:17:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NRCC265RAp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Blending Multiple Photos Seamlessly",
+                        "lectureId": "68a9e4dcaa7b36a50095be27",
+                        "lectureLength": "00:24:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9JspEbBRYak/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Blending of Text and Graphics",
+                        "lectureId": "68a9e4dcaa7b36a50095be28",
+                        "lectureLength": "00:16:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33edr7hNuae/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Clean the face and Make them Smooth and Attractive",
+                        "lectureId": "68a9e4dcaa7b36a50095be29",
+                        "lectureLength": "00:10:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6zmjrbNPKDb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Double Exposure Effect",
+                        "lectureId": "68a9e4dcaa7b36a50095be2a",
+                        "lectureLength": "00:21:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5B7N5hsnXkD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dispersation Effect",
+                        "lectureId": "68a9e4dcaa7b36a50095be2b",
+                        "lectureLength": "00:15:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nU9bTZhnun/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Photoshop : Product Mockups & Branding",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Free Rources of Mockups and their Uses",
+                        "lectureId": "68a9e4dcaa7b36a50095be2d",
+                        "lectureLength": "00:20:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GJcArNNeXCC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing T-shirt Grahics and Using Mockup to Showcase",
+                        "lectureId": "68a9e4dcaa7b36a50095be2e",
+                        "lectureLength": "00:28:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qQJHETeaq5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Process of Create Mockup inside Photoshop",
+                        "lectureId": "68a9e4dcaa7b36a50095be2f",
+                        "lectureLength": "00:24:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dfJJMD9kjS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Product Mockup",
+                "assignmentId": "68f2253d83492d3c7b6b5ffc",
+                "assignmentLink": "https://drive.google.com/file/d/1dSdJG_9vNByWjZlL3jB5tzXuE701PsGn/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Photoshop : Projects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Instagram Post Design",
+                        "lectureId": "68a9e4dcaa7b36a50095be31",
+                        "lectureLength": "01:01:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SxbrnErYYF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Facebook Banner Design Process",
+                        "lectureId": "68a9e4dcaa7b36a50095be32",
+                        "lectureLength": "00:40:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qq7gQYkdY4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "YouTube Thumbnail Design Tips",
+                        "lectureId": "68a9e4dcaa7b36a50095be33",
+                        "lectureLength": "00:32:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/726tYQ7QFqS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ads Banner Design for Web Campaigns",
+                        "lectureId": "68a9e4dcaa7b36a50095be34",
+                        "lectureLength": "00:42:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33k2GraJuj7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Event Poster Design",
+                        "lectureId": "68a9e4dcaa7b36a50095be35",
+                        "lectureLength": "00:33:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pfprPstfCA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creative Marketing Agency Flyer Designing",
+                        "lectureId": "68a9e4dcaa7b36a50095be36",
+                        "lectureLength": "00:46:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/78UPN3XZ8j5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Magazine CoverPage Design Process",
+                        "lectureId": "68a9e4dcaa7b36a50095be37",
+                        "lectureLength": "00:21:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nkkmXpuBsA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typography Poster Making",
+                        "lectureId": "68a9e4dcaa7b36a50095be38",
+                        "lectureLength": "00:11:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9G2b4eU85H4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing a Movie Poster",
+                        "lectureId": "68a9e4dcaa7b36a50095be39",
+                        "lectureLength": "00:24:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YkAKH79sqM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Basic Social Media Post",
+                "assignmentId": "68f2253e83492d3c7b6b5ffe",
+                "assignmentLink": "https://drive.google.com/file/d/17r_2BbALr_EMz79bgc1QCUblXmdzNURY/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Photoshop : Motion Designing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Timeline",
+                        "lectureId": "68a9e4dcaa7b36a50095be3b",
+                        "lectureLength": "00:33:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RbnQ4MFUSqN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animating Basic Shapes",
+                        "lectureId": "68a9e4dcaa7b36a50095be3c",
+                        "lectureLength": "00:12:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MfaZzJxmXr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Blending of Image and Video",
+                        "lectureId": "68a9e4dcaa7b36a50095be3d",
+                        "lectureLength": "00:19:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Y3rk26nbhG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Animated Banner",
+                        "lectureId": "68a9e4dcaa7b36a50095be3e",
+                        "lectureLength": "00:20:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ac5EPjqqDq9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Animating Scene in Photoshop",
+                        "lectureId": "68a9e4dcaa7b36a50095be3f",
+                        "lectureLength": "00:07:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ngrNttfxKT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Adobe Illustrator : Getting Started with Illustrator",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Illustrator Interface & Workspace",
+                        "lectureId": "68a9e4dcaa7b36a50095be41",
+                        "lectureLength": "00:23:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BX2S6cp9qJt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating and Managing Documents",
+                        "lectureId": "68a9e4dcaa7b36a50095be42",
+                        "lectureLength": "00:26:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8X8Ds6EZaB6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Basic Shpes2",
+                        "lectureId": "68a9e4dcaa7b36a50095be43",
+                        "lectureLength": "00:26:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6TYxtFsMBaf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cut, Copy, Paste and Duplicate",
+                        "lectureId": "68a9e4dcaa7b36a50095be44",
+                        "lectureLength": "00:11:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4e7URd9csYd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Uses of Arrangement Options",
+                        "lectureId": "68a9e4dcaa7b36a50095be45",
+                        "lectureLength": "00:08:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SMKd38k5b4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Alignments of Shapes and Graphics",
+                        "lectureId": "68a9e4dcaa7b36a50095be46",
+                        "lectureLength": "00:21:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37BnnC4SU46/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Clipping Mask",
+                        "lectureId": "68a9e4dcaa7b36a50095be47",
+                        "lectureLength": "00:12:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6czqSMnd3eP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Importing and Exporting",
+                        "lectureId": "68a9e4dcaa7b36a50095be48",
+                        "lectureLength": "00:21:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FDgf3kqTsS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Graphics by Using Basic Shapes",
+                        "lectureId": "68a9e4dcaa7b36a50095be49",
+                        "lectureLength": "00:17:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7R5zuntQ8QT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Adobe Illustrator : Working with Shapes and Tools",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Uses of Pen Tool",
+                        "lectureId": "68a9e4dcaa7b36a50095be4b",
+                        "lectureLength": "00:24:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AycFCe678A9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Curvature Tool",
+                        "lectureId": "68a9e4dcaa7b36a50095be4c",
+                        "lectureLength": "00:08:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4523kA24s2c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Pencil Tool Set",
+                        "lectureId": "68a9e4dcaa7b36a50095be4d",
+                        "lectureLength": "00:15:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9N4mhqu684P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Type of Brush Tools",
+                        "lectureId": "68a9e4dcaa7b36a50095be4e",
+                        "lectureLength": "00:15:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sxdeyMA4MQF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Process to Add and Manage Addition Brushes",
+                        "lectureId": "68a9e4dcaa7b36a50095be4f",
+                        "lectureLength": "00:27:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EZKsRkG23Y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Uses of Shape Builder Tool",
+                        "lectureId": "68a9e4dcaa7b36a50095be50",
+                        "lectureLength": "00:23:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96xxbjm6gyN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Pathfinder",
+                        "lectureId": "68a9e4dcaa7b36a50095be51",
+                        "lectureLength": "00:15:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Eehuss5r4J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Icons Designing",
+                        "lectureId": "68a9e4dcaa7b36a50095be52",
+                        "lectureLength": "00:32:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BznrymBRYbF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Vector Graphics",
+                        "lectureId": "68a9e4dcaa7b36a50095be53",
+                        "lectureLength": "00:41:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/82kQAqEhmjG/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Adobe Illustrator : Colors and Appearance",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Fill and Stroke Options",
+                        "lectureId": "68a9e4dcaa7b36a50095be55",
+                        "lectureLength": "00:20:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AcRprCbmA2t/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Color Swatches and Gradients",
+                        "lectureId": "68a9e4dcaa7b36a50095be56",
+                        "lectureLength": "00:39:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8ENBjF3rgN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transparency and Blending Options",
+                        "lectureId": "68a9e4dcaa7b36a50095be57",
+                        "lectureLength": "00:28:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nCrZaegHPH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Hidden Features of Appearance Panel",
+                        "lectureId": "68a9e4dcaa7b36a50095be58",
+                        "lectureLength": "00:10:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZZfeya3RmUd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Mesh Tool",
+                        "lectureId": "68a9e4dcaa7b36a50095be59",
+                        "lectureLength": "00:17:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B8kK2s4R24Y/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Adobe Illustrator : Typography Style in Illustrator",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Working with Type Tool",
+                        "lectureId": "68a9e4dcaa7b36a50095be5b",
+                        "lectureLength": "00:15:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ag75uHJTG6d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Downloading Installation and Uses of fonts",
+                        "lectureId": "68a9e4dcaa7b36a50095be5c",
+                        "lectureLength": "00:15:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BsKTJ59c4tG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Paragraph Style Property",
+                        "lectureId": "68a9e4dcaa7b36a50095be5d",
+                        "lectureLength": "00:19:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3f3qf3jhgjY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Different Fill Options for Text",
+                        "lectureId": "68a9e4dcaa7b36a50095be5e",
+                        "lectureLength": "00:22:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72ejm9MJtK5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Area Type Tool",
+                        "lectureId": "68a9e4dcaa7b36a50095be5f",
+                        "lectureLength": "00:10:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52PSCjP9BBt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Verticle Type Tool Features",
+                        "lectureId": "68a9e4dcaa7b36a50095be60",
+                        "lectureLength": "00:05:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZZkYAgN7Px/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Type on Path",
+                        "lectureId": "68a9e4dcaa7b36a50095be61",
+                        "lectureLength": "00:09:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/52JTTamu5kp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Effects and Outlining Text",
+                        "lectureId": "68a9e4dcaa7b36a50095be62",
+                        "lectureLength": "00:47:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXQxPMybMzm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Random Text Distortion",
+                        "lectureId": "68a9e4dcaa7b36a50095be63",
+                        "lectureLength": "00:30:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xyh7a8kJHdt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typography Style Poster Designs",
+                        "lectureId": "68a9e4dcaa7b36a50095be64",
+                        "lectureLength": "00:37:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A3ZKSXuR6bP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Adobe Illustrator : Important Tools and Panels of Illustrator",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Layer Panel Options",
+                        "lectureId": "68a9e4dcaa7b36a50095be66",
+                        "lectureLength": "00:21:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AhAjRcCFnZb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Uses of Selection Tools",
+                        "lectureId": "68a9e4dcaa7b36a50095be67",
+                        "lectureLength": "00:16:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RnMyfY8eFc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Distortion Tools Set",
+                        "lectureId": "68a9e4dcaa7b36a50095be68",
+                        "lectureLength": "00:14:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7KFTCfBuz62/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Eraser Scissors and Knife Tool",
+                        "lectureId": "68a9e4dcaa7b36a50095be69",
+                        "lectureLength": "00:11:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Kg8eeYseHP6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scale Shear and Reshape Tool",
+                        "lectureId": "68a9e4dcaa7b36a50095be6a",
+                        "lectureLength": "00:12:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5HCp6saT57/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Free Transform and Puppet Wrap Tool Set",
+                        "lectureId": "68a9e4dcaa7b36a50095be6b",
+                        "lectureLength": "00:10:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59Hd9PQ4eSK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Live Paint Bucket Tool",
+                        "lectureId": "68a9e4dcaa7b36a50095be6c",
+                        "lectureLength": "00:04:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8PxnmXtjDm9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Objects on Path",
+                        "lectureId": "68a9e4dcaa7b36a50095be6d",
+                        "lectureLength": "00:06:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7g62hjY7Qq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hidden Features of Sprayer Tool  Set",
+                        "lectureId": "68a9e4dcaa7b36a50095be6e",
+                        "lectureLength": "00:25:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dCSJ4pY9Jx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using the Repeat Command in Object Menu",
+                        "lectureId": "68a9e4dcaa7b36a50095be6f",
+                        "lectureLength": "00:10:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/65TptUxq4SY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Stylize Effects",
+                        "lectureId": "68a9e4dcaa7b36a50095be70",
+                        "lectureLength": "00:29:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9aHmxfGMk95/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying Artistic Effects",
+                        "lectureId": "68a9e4dcaa7b36a50095be71",
+                        "lectureLength": "00:19:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/47zGqQUaQjS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Photoshop : Pattern Design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Pattern Designing Process",
+                        "lectureId": "68a9e4dcaa7b36a50095be73",
+                        "lectureLength": "00:34:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6N2PmsXuS8c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Seamless Pattern",
+                        "lectureId": "68a9e4dcaa7b36a50095be74",
+                        "lectureLength": "00:16:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yD8RBKeRaK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Adobe Illustrator : 3D and Materials",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basics of 3D",
+                        "lectureId": "68a9e4dcaa7b36a50095be76",
+                        "lectureLength": "00:17:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mhgYFsM79M/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "3D Objects Types and Properties",
+                        "lectureId": "68a9e4dcaa7b36a50095be77",
+                        "lectureLength": "00:33:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6a76PkgDPCN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying Materials to 3D Objects",
+                        "lectureId": "68a9e4dcaa7b36a50095be78",
+                        "lectureLength": "00:25:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TSu57t6f6H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Lighting and Shadow to 3D Models then Render",
+                        "lectureId": "68a9e4dcaa7b36a50095be79",
+                        "lectureLength": "00:10:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kR5X885Qa4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "3D Object and Mockup Designing Process",
+                        "lectureId": "68a9e4dcaa7b36a50095be7a",
+                        "lectureLength": "00:47:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A7cae28AtZE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "3D Typography Post and Poster Style",
+                        "lectureId": "68a9e4dcaa7b36a50095be7b",
+                        "lectureLength": "00:25:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mSPbdMyggb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Isometric Grid and Usecase",
+                        "lectureId": "68a9e4dcaa7b36a50095be7c",
+                        "lectureLength": "00:28:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uU4fDAUxPFD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interior design with isometric grid",
+                        "lectureId": "68a9f1e8aa7b36a50095c083",
+                        "lectureLength": "01:01:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4t8gCqJDQED/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Adobe Illustrator : Vector Illustration Techniques",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Flat Vector Graphics Designing",
+                        "lectureId": "68a9e4dcaa7b36a50095be7e",
+                        "lectureLength": "00:48:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5bqhgEfJ2gM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating animal illustration",
+                        "lectureId": "68a9f001aa7b36a50095bfdf",
+                        "lectureLength": "00:36:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3JsUD64u7Kd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Fruits Illustration for Kids Story Book",
+                        "lectureId": "68a9e4dcaa7b36a50095be7f",
+                        "lectureLength": "00:25:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AEaKqM7K7pz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Human Character Illustration",
+                        "lectureId": "68a9e4dcaa7b36a50095be80",
+                        "lectureLength": "00:58:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2CPxFqjd8c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cartoon Character illustration",
+                        "lectureId": "68a9e4dcaa7b36a50095be81",
+                        "lectureLength": "00:27:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8MG9fCJgupB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vector Scenery Illustration",
+                        "lectureId": "68a9e4dcaa7b36a50095be82",
+                        "lectureLength": "00:40:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ePmfQs6bgq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Duplex Design Illustration",
+                        "lectureId": "68a9e4dcaa7b36a50095be83",
+                        "lectureLength": "01:46:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3TT58xks7Xk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating vector character by tracing image",
+                        "lectureId": "68a9ebc1aa7b36a50095bf3d",
+                        "lectureLength": "00:55:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHT4S7fsudR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Converting Sketch to Vector with Tracing",
+                        "lectureId": "68a9e4dcaa7b36a50095be84",
+                        "lectureLength": "00:37:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/hQE7KPB8e8T/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Converting Raster Graphics to Vector",
+                        "lectureId": "68a9e4dcaa7b36a50095be85",
+                        "lectureLength": "00:09:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AU7qBySBh4U/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Adobe Illustrator : Logo Designing Process",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Logo Design Fundamentals",
+                        "lectureId": "68a9e4dcaa7b36a50095be87",
+                        "lectureLength": "00:14:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95nKfBf8tzp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logo Designing Process",
+                        "lectureId": "68a9e4dcaa7b36a50095be88",
+                        "lectureLength": "00:33:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bzAreXErqAA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Grids and Guides for Logo Design",
+                        "lectureId": "68a9e4dcaa7b36a50095be89",
+                        "lectureLength": "00:40:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7jxZttf55pr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "️ Logo Design",
+                "assignmentId": "68f2253f83492d3c7b6b6000",
+                "assignmentLink": "https://drive.google.com/file/d/1v5Oc6D2WNEPTadQDGz6-EWFG7ZbkeskG/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Adobe Illustrator : Real-world Projects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Business Card Design",
+                        "lectureId": "68a9e4dcaa7b36a50095be8b",
+                        "lectureLength": "00:30:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8G99rypSZsf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ads Banner Design and Customization",
+                        "lectureId": "68a9e4dcaa7b36a50095be8c",
+                        "lectureLength": "00:37:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AEKrAJay7m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "YouTube Thumbnail Design",
+                        "lectureId": "68a9e4dcaa7b36a50095be8d",
+                        "lectureLength": "00:27:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9P22hDXyFXq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Travel Poster Designing",
+                        "lectureId": "68a9e4dcaa7b36a50095be8e",
+                        "lectureLength": "00:35:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6RaMHBeEcQA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CoverPage Design for Print",
+                        "lectureId": "68a9e4dcaa7b36a50095be8f",
+                        "lectureLength": "00:20:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/gbSByE7uySN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Infographics Designing",
+                        "lectureId": "68a9e4dcaa7b36a50095be90",
+                        "lectureLength": "00:37:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eXeUb62un3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "T-Shirt Graphics Designing",
+                        "lectureId": "68a9e4dcaa7b36a50095be91",
+                        "lectureLength": "00:28:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3BEYcdp3t9K/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Leaflet Design Process",
+                        "lectureId": "68a9e4dcaa7b36a50095be92",
+                        "lectureLength": "00:49:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8c6zN6kBQQt/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Final Assignment – Mini Branding Project",
+                "assignmentId": "68f2254083492d3c7b6b6002",
+                "assignmentLink": "https://drive.google.com/file/d/1p_WchW8KIjvtsNfoBs8O9JyEkz9dKdQo/view?usp=drive_link"
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Adobe InDesign",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Adobe InDesign & It's Role in Publishing",
+                        "lectureId": "6919d4b23431bf8c3cb619bf",
+                        "lectureLength": "00:03:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uAEd7hJ4Zq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring  Homescreen Interface, Tools & Panels",
+                        "lectureId": "6919d4b43431bf8c3cb619c2",
+                        "lectureLength": "00:07:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AdSjmrZ7EGX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Optimization of Workspace",
+                        "lectureId": "6919d4b63431bf8c3cb619c5",
+                        "lectureLength": "00:20:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mQZEFfMbbn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating & Managing New Documents (Print, Web, Mobile)",
+                        "lectureId": "6919d4b73431bf8c3cb619c8",
+                        "lectureLength": "00:25:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3yc7JkCpjd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setting Up Bleed, Slug, Margins, and Columns",
+                        "lectureId": "6919d4b93431bf8c3cb619cb",
+                        "lectureLength": "00:23:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM2gnGRb66f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding File Formats",
+                        "lectureId": "6919d4bb3431bf8c3cb619ce",
+                        "lectureLength": "00:11:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BtCZmRJXhr7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Selection, Navigation & Basic Shapes",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Selection Tool & Direct Selection Tool",
+                        "lectureId": "69a87707db44913abd4ca808",
+                        "lectureLength": "00:06:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cC8KdCDX52/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Basic Shapes and Their Property",
+                        "lectureId": "69a87707db44913abd4ca80b",
+                        "lectureLength": "00:38:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98X4MCnkHs7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Group, Lock and Hide Option",
+                        "lectureId": "69a87707db44913abd4ca80e",
+                        "lectureLength": "00:13:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B89ASZxx5T9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Arranging the Shapes and Graphics",
+                        "lectureId": "69a87707db44913abd4ca811",
+                        "lectureLength": "00:06:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/a8mErjhBZYn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Alignment Options",
+                        "lectureId": "69a87708db44913abd4ca814",
+                        "lectureLength": "00:35:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sGxkmjjJJ8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Page Tool, Gap Tool, Hand Tool, Zoom Tool",
+                        "lectureId": "69a87708db44913abd4ca817",
+                        "lectureLength": "00:17:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D63aqpeHYE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Type Tools Features",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Type Tool & Type on a Path Tool",
+                        "lectureId": "69a87708db44913abd4ca81a",
+                        "lectureLength": "00:37:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YnsMnGzxkM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Type on a Path Tool",
+                        "lectureId": "69a87708db44913abd4ca81d",
+                        "lectureLength": "00:13:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ECpMS5zMjU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vertical Type Options",
+                        "lectureId": "69a87708db44913abd4ca820",
+                        "lectureLength": "00:04:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae2ED4SRa7d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying Textwrapping while working with paragraph",
+                        "lectureId": "69a87708db44913abd4ca823",
+                        "lectureLength": "00:25:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtU85aagRf6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Drawing & Shape Tools",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "PenTool, Add Anchor and Delete Anchor Point Tool Feature",
+                        "lectureId": "69a87708db44913abd4ca826",
+                        "lectureLength": "00:22:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sBeqAGd9Q4n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PenTool UseCase with Example",
+                        "lectureId": "69a87708db44913abd4ca829",
+                        "lectureLength": "00:16:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ubg9PncqcH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pencil Tool, Smooth Tool & Eraser Tool",
+                        "lectureId": "69a87708db44913abd4ca82c",
+                        "lectureLength": "00:06:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5k59tUPrcZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scissors Tool, Free Transform Tool",
+                        "lectureId": "69a87709db44913abd4ca82f",
+                        "lectureLength": "00:19:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44CmGMrMf5e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Pathfinder to Manipulate Shapes",
+                        "lectureId": "69a87709db44913abd4ca832",
+                        "lectureLength": "00:12:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bdbBAzNPdp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Path Optimization Optijons (Join, Open, Close & Reverse Path)",
+                        "lectureId": "69a87709db44913abd4ca835",
+                        "lectureLength": "00:20:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5AASsefX3pa/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Managing Frames, Content Collector Tool Set, Blur and Feather Feature",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Different Type of  Frame Tool (for Images)",
+                        "lectureId": "6919efab3431bf8c3cb61aa3",
+                        "lectureLength": "00:38:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pNymqXnpJb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Content Collector Tool & Content Placer Tool",
+                        "lectureId": "6919efad3431bf8c3cb61aa6",
+                        "lectureLength": "00:19:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6qAFz2H7Z7F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mange Opacity and Gradient Feather Tool",
+                        "lectureId": "6919efaf3431bf8c3cb61aa9",
+                        "lectureLength": "00:17:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s4sHsKXTS9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Navigation & Measure Tools",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Uses of Measure Tool",
+                        "lectureId": "6919f03a3431bf8c3cb61ab2",
+                        "lectureLength": "00:05:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kttCbTHY5H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Ruler, Guides & Grids Options",
+                        "lectureId": "6919f03b3431bf8c3cb61ab5",
+                        "lectureLength": "00:20:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BbQ37fh7ZSb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Multiple Columns",
+                        "lectureId": "6919f03d3431bf8c3cb61ab8",
+                        "lectureLength": "00:17:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHyS3AGS6gQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding, Deleting and Arranging Multiple Pages",
+                        "lectureId": "6919f03d3431bf8c3cb61abb",
+                        "lectureLength": "00:22:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HHZKsTbc48/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Applying Color & Effects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Working with Solid & Gradient Color",
+                        "lectureId": "6919f03e3431bf8c3cb61abe",
+                        "lectureLength": "00:34:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96pSYFzTxuS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Color Theme Tool",
+                        "lectureId": "6919f03e3431bf8c3cb61ac1",
+                        "lectureLength": "00:10:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C49JGqgeehz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Eyedropper Tool and Exploring Some Hidden Features",
+                        "lectureId": "6919f03f3431bf8c3cb61ac4",
+                        "lectureLength": "00:15:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeNdafUX6c8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Note Tool (for annotations)",
+                        "lectureId": "6919f0403431bf8c3cb61ac7",
+                        "lectureLength": "00:04:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YA2YPcnxsz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Effects for Graphics Optimization",
+                        "lectureId": "6919f0413431bf8c3cb61aca",
+                        "lectureLength": "00:36:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DEeZYsxpfF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Document & Page Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Pages Panel Overview",
+                        "lectureId": "6919f0433431bf8c3cb61acd",
+                        "lectureLength": "00:28:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FkdnDHdNm2F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Master Sheets & Parent Pages Concept",
+                        "lectureId": "6919f0443431bf8c3cb61ad0",
+                        "lectureLength": "00:37:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/mqsekK2XZjh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Formating with Liquid Layouts",
+                        "lectureId": "6919f0453431bf8c3cb61ad3",
+                        "lectureLength": "00:22:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eQeMty2rbf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adjust Layout Feature",
+                        "lectureId": "6919f0463431bf8c3cb61ad6",
+                        "lectureLength": "00:16:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sQnx9sP72C/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sections & Numbering Styles",
+                        "lectureId": "6919f0473431bf8c3cb61ad9",
+                        "lectureLength": "00:24:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XmkX6X4enH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Multiple Page Sizes in One Document",
+                        "lectureId": "6919f0483431bf8c3cb61adc",
+                        "lectureLength": "00:05:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFNqAsjbRRN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Typography & Advanced Text Handling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Text Frames & Threading Text",
+                        "lectureId": "6919f1313431bf8c3cb61af1",
+                        "lectureLength": "00:19:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3skKXuprKJ3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Character Formatting (Fonts, Kerning, Tracking)",
+                        "lectureId": "6919f1333431bf8c3cb61af4",
+                        "lectureLength": "00:08:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9abfrDyshz7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Converting Fonts to Outline and Adding ImageTexture",
+                        "lectureId": "6919f1353431bf8c3cb61af7",
+                        "lectureLength": "00:10:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/g5EpJ7f4sMh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "OpenType Features, Glyphs & Special Characters",
+                        "lectureId": "6919f1373431bf8c3cb61afa",
+                        "lectureLength": "00:09:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qAje9umr4N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Paragraph and Character Style",
+                        "lectureId": "6919f1393431bf8c3cb61afd",
+                        "lectureLength": "00:33:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpnS6FGusGZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Explore the Line Style",
+                        "lectureId": "6919f13b3431bf8c3cb61b00",
+                        "lectureLength": "00:19:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YeP5UhFfEX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "FindChange for Text Corrections",
+                        "lectureId": "6919f13d3431bf8c3cb61b03",
+                        "lectureLength": "00:15:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BDdBgXKh65B/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Working with Images & Graphics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Importing & Placing Images",
+                        "lectureId": "6919f13f3431bf8c3cb61b06",
+                        "lectureLength": "00:11:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62SNGYTFj5r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Links Panel & Relinking Missing Files",
+                        "lectureId": "6919f1413431bf8c3cb61b09",
+                        "lectureLength": "00:16:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NZ6Ed3xXJn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Image Fitting Options & Frame Adjustments",
+                        "lectureId": "6919f1433431bf8c3cb61b0c",
+                        "lectureLength": "00:11:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gEUEtmnj9t/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Anchored Objects & Inline Graphics",
+                        "lectureId": "6919f1453431bf8c3cb61b0f",
+                        "lectureLength": "00:24:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SKdr5qUhmN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Frame Effects & Transparency",
+                        "lectureId": "6919f1473431bf8c3cb61b12",
+                        "lectureLength": "00:19:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5uQPF8FZmYX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Color, Swatches & Effects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "CMYK, RGB & Spot Colors",
+                        "lectureId": "6919f1493431bf8c3cb61b15",
+                        "lectureLength": "00:17:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/83QFfRx9qs9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating & Managing Swatches",
+                        "lectureId": "6919f14b3431bf8c3cb61b18",
+                        "lectureLength": "00:29:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95f6bnAKct4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding New Gradients to Swatches",
+                        "lectureId": "6919f14d3431bf8c3cb61b1b",
+                        "lectureLength": "00:13:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BhAXAsSTPzd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transparency & Blending Options",
+                        "lectureId": "6919f14f3431bf8c3cb61b1e",
+                        "lectureLength": "00:18:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGZjQ3fzTnR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Object Styles for Consistency",
+                        "lectureId": "6919f1513431bf8c3cb61b21",
+                        "lectureLength": "00:28:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ccq7gd5QrU/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Tables & Data Handling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating & Formatting Tables",
+                        "lectureId": "6919f1533431bf8c3cb61b24",
+                        "lectureLength": "00:39:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gTgBrJfr6y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Table of Contents",
+                        "lectureId": "6919f1553431bf8c3cb61b27",
+                        "lectureLength": "00:16:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ6ReTnefZY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Calendear by using Table",
+                        "lectureId": "6919f1573431bf8c3cb61b2a",
+                        "lectureLength": "00:21:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AfZCgrS6FAE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Importing Tables from Excel",
+                        "lectureId": "6919f1593431bf8c3cb61b2d",
+                        "lectureLength": "00:36:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/XFjzrtyXbUm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Learn to Design Table",
+                        "lectureId": "6919f15b3431bf8c3cb61b30",
+                        "lectureLength": "00:26:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7X6t3S5U2t4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Table & Cell Styles",
+                        "lectureId": "6919f15d3431bf8c3cb61b33",
+                        "lectureLength": "00:19:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TTfg4G7zY3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Certificates",
+                        "lectureId": "6919f15f3431bf8c3cb61b36",
+                        "lectureLength": "00:45:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8AKZSu6qBM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Advanced Layout Techniques",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Layers & Organizing Design Elements",
+                        "lectureId": "6919f1613431bf8c3cb61b39",
+                        "lectureLength": "00:23:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63Da3HYm222/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Snippets",
+                        "lectureId": "6919f1633431bf8c3cb61b3c",
+                        "lectureLength": "00:09:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5fTmMYbrCs4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Object Grids & Uses of Step-and-Repeat",
+                        "lectureId": "6919f1653431bf8c3cb61b3f",
+                        "lectureLength": "00:18:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ADGxr5D944H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Create Infographics with Shapes & Styles",
+                        "lectureId": "6919f1673431bf8c3cb61b42",
+                        "lectureLength": "00:36:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45tMEu43ECM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Projects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Business Card Design",
+                        "lectureId": "6919f1693431bf8c3cb61b45",
+                        "lectureLength": "00:32:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bzfda6fAh2q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Process of CoverPage Design",
+                        "lectureId": "6919f16c3431bf8c3cb61b48",
+                        "lectureLength": "00:30:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2AkUDXpCqQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Event Poster Design",
+                        "lectureId": "6919f16e3431bf8c3cb61b4b",
+                        "lectureLength": "01:05:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6jsA6jHtYHR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing the Social Media Banner",
+                        "lectureId": "6919f1703431bf8c3cb61b4e",
+                        "lectureLength": "01:01:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ybPbEakKAt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tri-Fold Leaflet Design",
+                        "lectureId": "6919f1723431bf8c3cb61b51",
+                        "lectureLength": "00:53:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F4N9c858YR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Restaurant Menu Design",
+                        "lectureId": "6919f1743431bf8c3cb61b54",
+                        "lectureLength": "00:27:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/88pqBa2Z7h2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Flyer for Marketing Campaign",
+                        "lectureId": "6919f1763431bf8c3cb61b57",
+                        "lectureLength": "00:43:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bns4zbaTCh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Resume Designing",
+                        "lectureId": "6919f1793431bf8c3cb61b5a",
+                        "lectureLength": "00:33:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3fQKPBzqrtP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to Design Hoarding",
+                        "lectureId": "6919f2023431bf8c3cb61b60",
+                        "lectureLength": "00:58:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4sKZZ8Sprky/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Learn to Design Flex of Standee",
+                        "lectureId": "6919f2043431bf8c3cb61b63",
+                        "lectureLength": "01:07:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByqKGUDs6AK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "NewsPaper Ads Design",
+                        "lectureId": "6919f2063431bf8c3cb61b66",
+                        "lectureLength": "00:41:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4KHa78AM5AA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Web Banner Ads Design",
+                        "lectureId": "6919f2083431bf8c3cb61b69",
+                        "lectureLength": "00:53:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFshErudcZm/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Digital Publishing & Interactive Features",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Interactive PDFs (Buttons, Links, Forms)",
+                        "lectureId": "6919f20a3431bf8c3cb61b6c",
+                        "lectureLength": "00:43:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3ZAbPkj4Gz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Audio, Video, Animations",
+                        "lectureId": "6919f20c3431bf8c3cb61b6f",
+                        "lectureLength": "00:28:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7qgMxt3djGY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customize and Export the Design Documents",
+                        "lectureId": "6919f20e3431bf8c3cb61b72",
+                        "lectureLength": "00:23:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZYTBKxfKhY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Accessibility & Inclusive Design",
+                        "lectureId": "6919f2103431bf8c3cb61b75",
+                        "lectureLength": "00:29:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sMadPcDueHU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "QR Code Generator",
+                        "lectureId": "6919f2123431bf8c3cb61b78",
+                        "lectureLength": "00:13:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qftKmy4jja/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Hyperlink Design and Documents",
+                        "lectureId": "6919f2143431bf8c3cb61b7b",
+                        "lectureLength": "00:52:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MSnsTa3kX6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Interactive Buttons",
+                        "lectureId": "6919f2163431bf8c3cb61b7e",
+                        "lectureLength": "00:33:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hYHFZrJtu8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Custom Google Map Over the Venue",
+                        "lectureId": "6919f2183431bf8c3cb61b81",
+                        "lectureLength": "00:18:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACzjbkGeZrN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Prepress, Printing & Exporting",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Preflight Check & Fixing Errors",
+                        "lectureId": "6919f21a3431bf8c3cb61b84",
+                        "lectureLength": "00:12:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C25nu9JSDxH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Packaging Files (Fonts, Images, Assets)",
+                        "lectureId": "6919f21c3431bf8c3cb61b87",
+                        "lectureLength": "00:08:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3prkHn8typb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Print Export Settings (PDFX Standards)",
+                        "lectureId": "6919f21e3431bf8c3cb61b8a",
+                        "lectureLength": "00:09:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7CG5pj2uaYD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exporting for Web & Social Media",
+                        "lectureId": "6919f2203431bf8c3cb61b8d",
+                        "lectureLength": "00:21:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79TbQyDUkef/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Collaboration & Workflow",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Adobe Integration & Applications",
+                        "lectureId": "6919f2223431bf8c3cb61b90",
+                        "lectureLength": "00:07:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Y3m5NRQbDc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Import and Export from Other Softwares",
+                        "lectureId": "6919f2243431bf8c3cb61b93",
+                        "lectureLength": "00:09:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APbfKKt8j95/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Versioning & File Management Best Practices",
+                        "lectureId": "6919f2263431bf8c3cb61b96",
+                        "lectureLength": "00:05:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B82k9g7yydy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Course Completion",
+                        "lectureId": "6919f2283431bf8c3cb61b99",
+                        "lectureLength": "00:01:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BQEKPXtU9BC/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction of AI and Graphic Design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "AI Graphic Design",
+                        "lectureId": "694a7d2b211399259c6541db",
+                        "lectureLength": "00:54:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AjnUax2F6mk/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "The AI Operator’s Playbook",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Mastering AI Tools",
+                        "lectureId": "694a7d2c211399259c6541de",
+                        "lectureLength": "01:44:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jGzmt3BxGe/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "AI Graphic Designing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "The Psychology of Design: Understanding How Visuals Influence Minds",
+                        "lectureId": "694a7d2c211399259c6541e1",
+                        "lectureLength": "00:29:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nRhZh8Akq6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI in Graphic Design: Crafting Creative Work",
+                        "lectureId": "694a7d2d211399259c6541e4",
+                        "lectureLength": "00:41:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NPM6RyGtEs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI Image Generation: Transforming Ideas into Visuals",
+                        "lectureId": "694a7d2d211399259c6541e7",
+                        "lectureLength": "00:45:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MzfmRfChjD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "AI for Photoshop – The New Era of Creation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Adobe Photoshop Essentials: Mastering the Basics",
+                        "lectureId": "694a7d2e211399259c6541ea",
+                        "lectureLength": "00:31:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/466nGP33fRD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Crafting in Photoshop: From Concept to Creation",
+                        "lectureId": "694a7d2e211399259c6541ed",
+                        "lectureLength": "00:37:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XFKny9MShU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Blending Creativity with AI Using AI While Designing in Photoshop",
+                        "lectureId": "694a8122211399259c65424c",
+                        "lectureLength": "00:45:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Zrcn5FXMP8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Psychology & Inspiration: Creating with Purpose",
+                        "lectureId": "694a7d2f211399259c6541f1",
+                        "lectureLength": "00:40:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7mY3PFg2Mg8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Photoshop AI Explained: How Adobe’s AI Really Works",
+                        "lectureId": "694a7d30211399259c6541f4",
+                        "lectureLength": "00:34:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rh9K75754cT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "AI for Adobe Illustrator – The New Era of Creation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Adobe Illustrator: What It Is and Why It Matters",
+                        "lectureId": "694a7d30211399259c6541f7",
+                        "lectureLength": "00:29:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MU8jTz7S3Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Illustrator Basics: Building Your Creative Foundation",
+                        "lectureId": "694a7d31211399259c6541fa",
+                        "lectureLength": "00:49:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7U5cJFhDDn4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mastering Illustrator Tools: The Core of Vector Design",
+                        "lectureId": "694a7d32211399259c6541fd",
+                        "lectureLength": "00:26:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxuNM2srMq6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Designing with Illustrator & AI: Merging Precision with Intelligence",
+                        "lectureId": "694a7d32211399259c654200",
+                        "lectureLength": "00:37:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2ZHNeEEadr/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Branding 3.0 – Mastering the Art of AI-Driven Design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Branding with AI & Design Psychology: Building Meaningful Identities",
+                        "lectureId": "694a7e5c211399259c65421e",
+                        "lectureLength": "00:45:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QH5JBYDBAy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logo Creation: Crafting Symbols That Speak",
+                        "lectureId": "694a7e5c211399259c654221",
+                        "lectureLength": "00:44:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3t7guAq6Q78/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI-Driven Branding in Photoshop: Turning Ideas into Visual Impact",
+                        "lectureId": "694a7e5d211399259c654224",
+                        "lectureLength": "00:44:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xY9777qxfe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Branding with AI: Blending Creativity and Strategy",
+                        "lectureId": "694a7e5d211399259c654227",
+                        "lectureLength": "00:37:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YgGy6AjexqH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The Psychology Behind Brand Design: Creating Emotionally Resonant Brands",
+                        "lectureId": "694a7e5e211399259c65422a",
+                        "lectureLength": "00:40:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Z6xddypB5J/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Ethics & Intelligence – Mastering AI Tools Responsibly",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "AI Ethics in Design: Creating Responsibly in the Age of Automation",
+                        "lectureId": "694a7d33211399259c654203",
+                        "lectureLength": "00:32:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4fRpa3535tP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Clients & Invoicing: The Business Side of Design",
+                        "lectureId": "694a7d33211399259c654206",
+                        "lectureLength": "00:33:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9UYF8rHmsDk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Essential AI Tools & Software Accelerating Your Creative Growth",
+                        "lectureId": "694a7d34211399259c654209",
+                        "lectureLength": "00:29:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5gGNEC6dpgd/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "360° Marketing & Branding Mastery",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to 360° Branding Building Brands That Speak Everywhere",
+                        "lectureId": "694a7f9c211399259c654231",
+                        "lectureLength": "00:45:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B56Qx7uQ9aA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "From Brainstorming to Brand Creation Logo, Identity & Concept Development",
+                        "lectureId": "694a7f9d211399259c654234",
+                        "lectureLength": "00:41:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7t8T7nCZYN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Finalizing the Brand Cohesive Visual Systems & Brand Consistency",
+                        "lectureId": "694a7f9d211399259c654237",
+                        "lectureLength": "00:42:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ajQf7nYuPB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI Powered Mockups & Real World Applications Bringing Your Brand to Life",
+                        "lectureId": "694a7f9e211399259c65423a",
+                        "lectureLength": "00:36:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKKAhQSSYet/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The Psychology of Branding How Brands Grow Through Strategy, Design & Character Creation (With Case Studies)",
+                        "lectureId": "694a7f9e211399259c65423d",
+                        "lectureLength": "00:37:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASFyageqesa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Viral Content Designing for Reach, Emotion & Shareability",
+                        "lectureId": "694a7f9f211399259c654240",
+                        "lectureLength": "00:41:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BRxuXtkKUe2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Market Psychology & Marketing Strategy Understanding What Truly Works",
+                        "lectureId": "694a7f9f211399259c654243",
+                        "lectureLength": "00:34:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gYMpzsPubk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI for Creative Growth Tools, Client Experiences & Course Wrap Up",
+                        "lectureId": "694a7f9f211399259c654246",
+                        "lectureLength": "00:32:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4mXsG4hbzzZ/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "68b9a02d8021aedb8a5aee83",
+                "mentor": "Sudhanshu Joshi",
+                "start": 21,
+                "end": 23,
+                "time": "9 PM - 11 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds10",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "junior",
+                "chatEnd": 0,
+                "chatStart": 0
+            }
+        ],
+        "resource": [
+            "https://docs.google.com/document/d/1J0novIt5w6J-OUDdFPTmDwmUeHcI9MkRUIOBywRCwRo/edit?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

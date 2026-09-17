@@ -1,0 +1,856 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680c86ea364f718dc17b669e",
+        "courseName": "Java",
+        "slug": "java",
+        "category": "technical",
+        "tpFolderId": "5NK4erdzPbg",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "693e5a472b7555b4c98f8aa8",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction To The Course",
+                        "lectureId": "6971ceae7a4c1d6f20288e03",
+                        "lectureLength": "00:07:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4s7G8eSNRag/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installation",
+                        "lectureId": "6971e9817a4c1d6f202896cf",
+                        "lectureLength": "00:07:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8x6AgRG46FN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "First Java Program",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Writing our first Java program",
+                        "lectureId": "6971cf3d7a4c1d6f20288e29",
+                        "lectureLength": "00:07:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yQMDCAg3Ys/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Java Basics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Vars And Data Types-1",
+                        "lectureId": "6971ceaf7a4c1d6f20288e0a",
+                        "lectureLength": "00:15:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3h6243afCYc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Variables And Data Types-2",
+                        "lectureId": "6971ceaf7a4c1d6f20288e0d",
+                        "lectureLength": "00:08:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q6ckzUsCjC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Arrays",
+                        "lectureId": "6971ceb07a4c1d6f20288e10",
+                        "lectureLength": "00:17:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZFY2qYt3UD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "If-Else",
+                        "lectureId": "6971ceb07a4c1d6f20288e13",
+                        "lectureLength": "00:17:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kF4bra6gMHh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nested If-Else And Switch Case",
+                        "lectureId": "6971ceb17a4c1d6f20288e16",
+                        "lectureLength": "00:10:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ae6ZFKP2Kpc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Essentials",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Strings",
+                        "lectureId": "680c86ea364f718dc17b66ba",
+                        "lectureLength": "00:16:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9m44dF75tR6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "While-loops",
+                        "lectureId": "680c86ea364f718dc17b66bb",
+                        "lectureLength": "00:10:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3GzKE83ckM7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "For-loop",
+                        "lectureId": "680c86ea364f718dc17b66bc",
+                        "lectureLength": "00:13:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qHp66FpzTkU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nested Loops and Debugger",
+                        "lectureId": "680c86ea364f718dc17b66bd",
+                        "lectureLength": "00:11:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8JzEg4qFJgK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 1",
+                "assignmentId": "68f224eb83492d3c7b6b5461",
+                "assignmentLink": "https://docs.google.com/document/d/1khIVQC5jJzAwi4ANGZZIKiQi9K3_KVSI/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Methods",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating Our First Method",
+                        "lectureId": "6971ceb17a4c1d6f20288e19",
+                        "lectureLength": "00:10:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rGMgH5UqCk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Return Types And Arguments",
+                        "lectureId": "6971ceb27a4c1d6f20288e1c",
+                        "lectureLength": "00:12:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fr965d2ytq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Public Static Void Main Explained",
+                        "lectureId": "6971ceb27a4c1d6f20288e1f",
+                        "lectureLength": "00:10:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q5bYgxBFRg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Public Static Void Main Explained",
+                        "lectureId": "6971ceb27a4c1d6f20288e22",
+                        "lectureLength": "00:10:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Q5bYgxBFRg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "More On Public Static Void Main",
+                        "lectureId": "6971ceb37a4c1d6f20288e25",
+                        "lectureLength": "00:07:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ru7RZgxRAK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Classes and objects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Starting with classes and objects",
+                        "lectureId": "6971ea4c7a4c1d6f20289742",
+                        "lectureLength": "00:13:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EZteFJJ5FY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Constructors",
+                        "lectureId": "6971ea4d7a4c1d6f20289745",
+                        "lectureLength": "00:13:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5J5dBtGgUQc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project Structure and Runtime",
+                        "lectureId": "6971ea4d7a4c1d6f20289748",
+                        "lectureLength": "00:03:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/998YdxrRNGA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The Java Stack",
+                        "lectureId": "6971ea4e7a4c1d6f2028974b",
+                        "lectureLength": "00:10:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AChxqZPJ3Ht/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Java Heap",
+                        "lectureId": "6971ea4e7a4c1d6f2028974e",
+                        "lectureLength": "00:15:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/xphp26Bysy2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inheritance",
+                        "lectureId": "6971ea4f7a4c1d6f20289751",
+                        "lectureLength": "00:08:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Kq3Paqm6XB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interfaces and Method Overriding",
+                        "lectureId": "6971ea4f7a4c1d6f20289754",
+                        "lectureLength": "00:10:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77GM72zs3z8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Abstract Classes",
+                        "lectureId": "6971ea507a4c1d6f20289757",
+                        "lectureLength": "00:13:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7nZkSRZg4pa/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 2",
+                "assignmentId": "68f224ec83492d3c7b6b5463",
+                "assignmentLink": "https://docs.google.com/document/d/1E2h7Spha8Va8opiJwD6hdsUMcxlxl1zV/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Java Programs and JAR",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Using CMD to run java files",
+                        "lectureId": "680c86ea364f718dc17b66bf",
+                        "lectureLength": "00:08:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HrmY8pKMzk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Into to JAR files",
+                        "lectureId": "680c86ea364f718dc17b66c0",
+                        "lectureLength": "00:02:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7FqfeQj6sDq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "JAR Files using CMD",
+                        "lectureId": "680c86ea364f718dc17b66c1",
+                        "lectureLength": "00:10:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QCu6KMyymT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Exceptions-Errors and File Handling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "User Input and Reading Files",
+                        "lectureId": "680c86ea364f718dc17b66c3",
+                        "lectureLength": "00:14:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/DHUFgEbkCsq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exceptions",
+                        "lectureId": "680c86ea364f718dc17b66c4",
+                        "lectureLength": "00:09:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZM4YnmdgFq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Buffered Reader",
+                        "lectureId": "680c86ea364f718dc17b66c5",
+                        "lectureLength": "00:12:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92Emb2aDbzG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Auto Closeable Interface",
+                        "lectureId": "680c86ea364f718dc17b66c6",
+                        "lectureLength": "00:11:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7A5cxKyxtKb/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Collections Framework",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "ArrayLists And LinkedLists",
+                        "lectureId": "680c86ea364f718dc17b66c8",
+                        "lectureLength": "00:19:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8cCkdt5EEgd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Custom ArrayLists and Linked Lists",
+                        "lectureId": "680c86ea364f718dc17b66c9",
+                        "lectureLength": "00:14:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/75zZ4nkY4HA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "HashSet, LinkedHashSet and HashCode",
+                        "lectureId": "680c86ea364f718dc17b66ca",
+                        "lectureLength": "00:14:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4PE626NQKCP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Custom Comparators",
+                        "lectureId": "680c86ea364f718dc17b66cb",
+                        "lectureLength": "00:20:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y3KAu2HsaA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Maps",
+                        "lectureId": "680c86ea364f718dc17b66cc",
+                        "lectureLength": "00:15:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/69F83tx7Jm3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 3",
+                "assignmentId": "68f224ed83492d3c7b6b5465",
+                "assignmentLink": "https://docs.google.com/document/d/1fykmSsJXfkqbQMhOlbDO9gZiGNVd4oOC/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Generics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intoduction and Creating a Generic Class",
+                        "lectureId": "680c86ea364f718dc17b66ce",
+                        "lectureLength": "00:14:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eY9nxTEG9G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generic Methods",
+                        "lectureId": "680c86ea364f718dc17b66cf",
+                        "lectureLength": "00:09:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8H8jC6jfCZg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Wildcards",
+                        "lectureId": "680c86ea364f718dc17b66d0",
+                        "lectureLength": "00:09:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8fY5yZURKdz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "More on Wildcards",
+                        "lectureId": "680c86ea364f718dc17b66d1",
+                        "lectureLength": "00:08:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57hNb9py4uF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Jshell",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Jshell",
+                        "lectureId": "6971d0547a4c1d6f20288ed2",
+                        "lectureLength": "00:11:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KdzqNF8K3f/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Concurrency",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to Threads",
+                        "lectureId": "680c86ea364f718dc17b66d5",
+                        "lectureLength": "00:11:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5S2gsX2ydk7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Methods on Threads",
+                        "lectureId": "680c86ea364f718dc17b66d6",
+                        "lectureLength": "00:10:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/588nXHePefh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Synchronized Threads",
+                        "lectureId": "680c86ea364f718dc17b66d7",
+                        "lectureLength": "00:12:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FHGNsaj8hg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Concurrency with Collections",
+                        "lectureId": "680c86ea364f718dc17b66d8",
+                        "lectureLength": "00:12:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BmxTe8yG3Sq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Producer-Consumer using wait and notify",
+                        "lectureId": "680c86ea364f718dc17b66d9",
+                        "lectureLength": "00:12:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/An7CK3KY4Y5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Producer-Consumer using Array Blocking Queue",
+                        "lectureId": "680c86ea364f718dc17b66da",
+                        "lectureLength": "00:07:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EHsXpTtYBzn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Thread pool",
+                        "lectureId": "680c86ea364f718dc17b66db",
+                        "lectureLength": "00:10:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7g4HHRqSGhF/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 4",
+                "assignmentId": "68f224ee83492d3c7b6b5467",
+                "assignmentLink": "https://docs.google.com/document/d/1zPgAQ7-AjeiZadUYR1mUuzK9Gxm_CkRG/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "JDBC",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Setting up Everything!",
+                        "lectureId": "680c86ea364f718dc17b66dd",
+                        "lectureLength": "00:09:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtD2fSYNScT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Databases and SQL",
+                        "lectureId": "680c86ea364f718dc17b66de",
+                        "lectureLength": "00:12:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNaB9rBEyrH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "JDBC and SQL",
+                        "lectureId": "680c86ea364f718dc17b66df",
+                        "lectureLength": "00:12:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/827m4A6rrEZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Insert_Update_Delete using JDBC",
+                        "lectureId": "680c86ea364f718dc17b66e0",
+                        "lectureLength": "00:10:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8xtYju4nJhY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Lambda Expressions and Streams",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Function Interfaces and Lambdas",
+                        "lectureId": "680c86ea364f718dc17b66e2",
+                        "lectureLength": "00:10:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ASCEy2PMtJH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Examples of Lambda Expressions",
+                        "lectureId": "680c86ea364f718dc17b66e3",
+                        "lectureLength": "00:13:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AJm6e9Ax9FG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Built-in Functional Interfaces",
+                        "lectureId": "680c86ea364f718dc17b66e4",
+                        "lectureLength": "00:12:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39xtRmKJXaE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Streams",
+                        "lectureId": "680c86ea364f718dc17b66e5",
+                        "lectureLength": "00:11:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cnBYc3upgx/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Project _ Phone Dealership",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Project",
+                        "lectureId": "680c86ea364f718dc17b66e7",
+                        "lectureLength": "00:16:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9M5e5N2RXGH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 5",
+                "assignmentId": "68f224ef83492d3c7b6b5469",
+                "assignmentLink": "https://docs.google.com/document/d/1eEMLzmkP8AOLA6f6_Mj7WoTP2Yc4aN8y/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Intro to Servlets",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Tomcat Setup",
+                        "lectureId": "680c86ea364f718dc17b66e9",
+                        "lectureLength": "00:07:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rR4FsmHjTk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is a servlet_",
+                        "lectureId": "680c86ea364f718dc17b66ea",
+                        "lectureLength": "00:02:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM6AQtmRCzK/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Getting started with Servlets",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basics + Our First Servlet",
+                        "lectureId": "680c86ea364f718dc17b66ec",
+                        "lectureLength": "00:13:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7c66BGGXGbR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "doGet and doPost",
+                        "lectureId": "680c86ea364f718dc17b66ed",
+                        "lectureLength": "00:06:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6u7cCxeXArR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Request Dispatcher",
+                        "lectureId": "680c86ea364f718dc17b66ee",
+                        "lectureLength": "00:13:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eAFKffFhKs2/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Session Tracking in servlets",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Using HttpSession",
+                        "lectureId": "680c86ea364f718dc17b66f0",
+                        "lectureLength": "00:05:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7EH59PhKHan/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Cookies",
+                        "lectureId": "680c86ea364f718dc17b66f1",
+                        "lectureLength": "00:06:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6n2cH34ZpMn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Url Rewriting",
+                        "lectureId": "680c86ea364f718dc17b66f2",
+                        "lectureLength": "00:05:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4theG6s5JSC/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Servlet Context and Config",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "ServletConfig",
+                        "lectureId": "680c86ea364f718dc17b66f4",
+                        "lectureLength": "00:06:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SR9TGN85uM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ServletContext",
+                        "lectureId": "680c86ea364f718dc17b66f5",
+                        "lectureLength": "00:05:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UJhHsEAFt7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Filter",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Filters Explained with Example",
+                        "lectureId": "680c86ea364f718dc17b66f7",
+                        "lectureLength": "00:07:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Zyr2ZjmMmD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "JSP Scripting",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "JSP Scripting Elements",
+                        "lectureId": "680c86ea364f718dc17b66f9",
+                        "lectureLength": "00:05:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6QT4qEaxznT/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "JSP implicit objects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Response Implicit Object",
+                        "lectureId": "680c86ea364f718dc17b66fb",
+                        "lectureLength": "00:04:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2P76ryQQb4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Config implicit object",
+                        "lectureId": "680c86ea364f718dc17b66fc",
+                        "lectureLength": "00:02:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AM8C6rSKHTN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Application Implicit Object",
+                        "lectureId": "680c86ea364f718dc17b66fd",
+                        "lectureLength": "00:03:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NNRxdtrQSU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Session implicit Object",
+                        "lectureId": "680c86ea364f718dc17b66fe",
+                        "lectureLength": "00:06:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3yngk9uuF94/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "PageContext, page and Exception implicit object",
+                        "lectureId": "680c86ea364f718dc17b66ff",
+                        "lectureLength": "00:05:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5TqJ3QG3NsK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "JSP implicit objects",
+                        "lectureId": "680c86ea364f718dc17b6700",
+                        "lectureLength": "00:05:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/84hDUBHjTCS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Jsp Directives",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "JSP Page Directives",
+                        "lectureId": "680c86ea364f718dc17b6702",
+                        "lectureLength": "00:05:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8r8kYRC6YSy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "JSP Include and Taglib Directive",
+                        "lectureId": "680c86ea364f718dc17b6703",
+                        "lectureLength": "00:04:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9GjC8KHTGCY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "JSP Action Tags",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "JSP Forward, Param, Include Tag",
+                        "lectureId": "680c86ea364f718dc17b6705",
+                        "lectureLength": "00:05:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nK69aupXJhA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "UseBean Action Tag",
+                        "lectureId": "680c86ea364f718dc17b6706",
+                        "lectureLength": "00:05:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3r48t5dM5Z/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "JSP MVC",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Expression Language",
+                        "lectureId": "680c86ea364f718dc17b6708",
+                        "lectureLength": "00:04:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/95bC9zaSbAd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Model View And Controller",
+                        "lectureId": "680c86ea364f718dc17b6709",
+                        "lectureLength": "00:06:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kadX2a7c3R/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Login App using JSP",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Login App -1",
+                        "lectureId": "680c86ea364f718dc17b670b",
+                        "lectureLength": "00:06:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CGanJ3gHDp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Login App -2",
+                        "lectureId": "680c86ea364f718dc17b670c",
+                        "lectureLength": "00:12:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rAJsdZzKGd/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 6",
+                "assignmentId": "68f224f083492d3c7b6b546b",
+                "assignmentLink": "https://docs.google.com/document/d/10djLgNqKxNPyUhc4eluxqhWZVa5rJ7Z1/edit?usp=sharing&ouid=102010730193388181417&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "693e59e5777bd074332875d2",
+                "mentor": "Ashish",
+                "start": 20,
+                "end": 23,
+                "chatStart": 19,
+                "chatEnd": 22,
+                "time": "8 PM - 11 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds4",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [
+            "https://docs.google.com/document/d/1sb-4ygPYK5s_4fOqCWBwyJZZ9Wm9T-M6KbPQ-ZIUOpc/edit?usp=drive_link"
+        ],
+        "notes": [],
+        "name": "Java",
+        "infoName": "Java",
+        "title": "Java Course",
+        "description": "Learn Java",
+        "video": "https://www.youtube.com/embed/vOrpu9qYqMY",
+        "introStats": {
+            "ratings": "4.9+",
+            "learners": "90000+",
+            "duration": "30Hrs"
+        },
+        "icon": "ComboPackIcons_JAVA",
+        "details": {
+            "ratings": 4.9,
+            "lectures": 50,
+            "duration": "30h 00m",
+            "enrolled": "90000+"
+        }
+    },
+    "fromCache": false
+}

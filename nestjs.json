@@ -1,0 +1,449 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "68550975d958156ff8d38129",
+        "courseName": "Nestjs",
+        "slug": "nestjs",
+        "category": "technical",
+        "tpFolderId": "B8rAyCMrA7G",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "NestJs course",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction SetUp",
+                        "lectureId": "68550975d958156ff8d3812b",
+                        "lectureLength": "00:16:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Qz4tkbrC5T/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to NestJS and Setup",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Course introduction and overview",
+                        "lectureId": "68550975d958156ff8d3812d",
+                        "lectureLength": "00:04:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HCHegUBkJt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding NestJS architecture",
+                        "lectureId": "68550975d958156ff8d3812e",
+                        "lectureLength": "00:06:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6znquTYu3Mp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setting up the development environment",
+                        "lectureId": "68550975d958156ff8d3812f",
+                        "lectureLength": "00:07:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APpEg8GJAa2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Starting up a NestJS application",
+                        "lectureId": "68550975d958156ff8d38130",
+                        "lectureLength": "00:10:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUUBxHUfPCm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IDE configuration and tools",
+                        "lectureId": "68550975d958156ff8d38131",
+                        "lectureLength": "00:09:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GX5tX5eb4x/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 1",
+                "assignmentId": "68f2251483492d3c7b6b54f9",
+                "assignmentLink": "https://www.canva.com/design/DAGzrx2H8hU/WnoRxODMNrUG9b2BiMq5AQ/edit?utm_content=DAGzrx2H8hU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "section",
+                "name": "NestJS Fundamentals",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Core concepts_ Controllers, Services, and Modules",
+                        "lectureId": "68550975d958156ff8d38133",
+                        "lectureLength": "00:28:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/74pQMUHUQjs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Request Handling and Routing with Decorators",
+                        "lectureId": "68550975d958156ff8d38134",
+                        "lectureLength": "00:55:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AgTxkXZzxyR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Validation Pipes and DTOs",
+                        "lectureId": "68550975d958156ff8d38135",
+                        "lectureLength": "01:00:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9trZMmkkAeP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RESTful API with NestJS (CRUD Operations)",
+                        "lectureId": "68550975d958156ff8d38136",
+                        "lectureLength": "00:50:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/77FCq2Kffad/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 2",
+                "assignmentId": "68f2251483492d3c7b6b54fb",
+                "assignmentLink": "https://www.canva.com/design/DAGzrzvPCpw/NYAdYzPk6NltBnxtnSfOAQ/edit?utm_content=DAGzrzvPCpw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "section",
+                "name": "Dependency Injection and Modules",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Inversion of Control principle",
+                        "lectureId": "68550975d958156ff8d38138",
+                        "lectureLength": "00:52:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kHcZrGQ2hc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dependency Injection in NestJS",
+                        "lectureId": "68550975d958156ff8d38139",
+                        "lectureLength": "00:21:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PT3KexQAcq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating and using Services",
+                        "lectureId": "68550975d958156ff8d3813a",
+                        "lectureLength": "00:19:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2JKfGDFaPd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating feature modules",
+                        "lectureId": "68550975d958156ff8d3813b",
+                        "lectureLength": "00:25:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5sBUtfgXxJx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to Repositories pattern",
+                        "lectureId": "68550975d958156ff8d3813c",
+                        "lectureLength": "00:21:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8q4gCNpezqd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Module communication and DI between modules",
+                        "lectureId": "68550975d958156ff8d3813d",
+                        "lectureLength": "00:45:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cDAEazPfUE/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 3",
+                "assignmentId": "68f2251483492d3c7b6b54fd",
+                "assignmentLink": "https://www.canva.com/design/DAGzr-whil8/Tn02u3SS0agr0WDABxuafA/edit?utm_content=DAGzr-whil8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            },
+            {
+                "type": "section",
+                "name": "Data Persistence with TypeORM",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Environment-specific database configuration",
+                        "lectureId": "68550975d958156ff8d38161",
+                        "lectureLength": "00:09:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hxpP9Jzynj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to TypeORM and how it works",
+                        "lectureId": "68550975d958156ff8d3813f",
+                        "lectureLength": "00:07:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98m97NDnAuE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Setting Up MySQL and Installing TypeORM",
+                        "lectureId": "68550975d958156ff8d38140",
+                        "lectureLength": "00:13:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Kr6kj29CaC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating entity classes using typeorm decorators",
+                        "lectureId": "68550975d958156ff8d38141",
+                        "lectureLength": "00:08:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pFuh5q8zFH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What are repositories and how to use them in nestjs with typeorm",
+                        "lectureId": "68550975d958156ff8d38142",
+                        "lectureLength": "00:12:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5nYZTGUmtak/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Implementing full crud operations with repository methods",
+                        "lectureId": "68550975d958156ff8d38143",
+                        "lectureLength": "00:18:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHzKxZnEazA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Query Building and filtering  in nestjs with typeORM",
+                        "lectureId": "68550975d958156ff8d38144",
+                        "lectureLength": "00:18:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C4qsFHX96Xd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Relationship Mappings In nestjs with typeorm",
+                        "lectureId": "68550975d958156ff8d38145",
+                        "lectureLength": "00:42:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8zPPPdZPAuM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 4",
+                "assignmentId": "68f2251483492d3c7b6b54ff",
+                "assignmentLink": "https://www.canva.com/design/DAGzr2MoMhU/Gk5Tr88hXrHNMB3hpYczgQ/edit"
+            },
+            {
+                "type": "section",
+                "name": "Authentication and Authorization",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Authentication and Authorization  Project SetUp",
+                        "lectureId": "68550975d958156ff8d38147",
+                        "lectureLength": "00:12:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzpJhYu3TK6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Secure Password Handling",
+                        "lectureId": "68550975d958156ff8d38148",
+                        "lectureLength": "00:21:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGfQu6UstgC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "JWT Authentication",
+                        "lectureId": "68550975d958156ff8d38149",
+                        "lectureLength": "00:23:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A64P8CpEXH6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Session-based Authentication",
+                        "lectureId": "68550975d958156ff8d3814a",
+                        "lectureLength": "00:30:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6NcqeuGsg2q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Auth Guards",
+                        "lectureId": "68550975d958156ff8d3814b",
+                        "lectureLength": "00:18:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATKgHPetNpQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Role Based Access Control (RBAC)",
+                        "lectureId": "68550975d958156ff8d3814c",
+                        "lectureLength": "01:30:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8dJsDC93Ujp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Advanced Request Handling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Custom parameter decorators",
+                        "lectureId": "68550975d958156ff8d3814e",
+                        "lectureLength": "00:19:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pXDSKFUYGZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Interceptors for requestresponse transformation",
+                        "lectureId": "68550975d958156ff8d3814f",
+                        "lectureLength": "00:22:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pfZsMEeaQnr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Response serialization and DTO transformation",
+                        "lectureId": "68550975d958156ff8d38150",
+                        "lectureLength": "00:18:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dc6QErpTDe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exception filters and custom exceptions",
+                        "lectureId": "68550975d958156ff8d38151",
+                        "lectureLength": "00:24:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4deygb2jYAE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Middleware implementation",
+                        "lectureId": "68550975d958156ff8d38152",
+                        "lectureLength": "00:24:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/667y5trG222/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Testing in NestJS",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to testing in NestJS",
+                        "lectureId": "68550975d958156ff8d38154",
+                        "lectureLength": "00:29:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rtp83EHHYX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Unit testing controllers and services",
+                        "lectureId": "68550975d958156ff8d38155",
+                        "lectureLength": "00:30:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7uB6kcZpeZ4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using mocks effectively",
+                        "lectureId": "68550975d958156ff8d38156",
+                        "lectureLength": "00:38:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63gAceE8EXB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "End-to-end (E2E) testing",
+                        "lectureId": "68550975d958156ff8d38157",
+                        "lectureLength": "00:21:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ez9kdDnmBC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Test database setup and management",
+                        "lectureId": "68550975d958156ff8d38158",
+                        "lectureLength": "00:36:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zCJJJM35Cbp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Testing authentication flows",
+                        "lectureId": "68550975d958156ff8d38159",
+                        "lectureLength": "01:12:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/KpBK4damRRQ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Project Structure and Best Practices",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Scalable project organization",
+                        "lectureId": "68550975d958156ff8d3815b",
+                        "lectureLength": "00:06:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DxS6uFJhhg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Environment-specific configuration",
+                        "lectureId": "68550975d958156ff8d3815c",
+                        "lectureLength": "00:05:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8EDnZDMHxk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logging and error handling best practices",
+                        "lectureId": "68550975d958156ff8d3815d",
+                        "lectureLength": "00:08:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/92Nq2CaUMbx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Performance optimization techniques",
+                        "lectureId": "68550975d958156ff8d3815e",
+                        "lectureLength": "00:19:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5PZKNQBf5kX/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Deployment and Production",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Database migrations with TypeORM",
+                        "lectureId": "68550975d958156ff8d38160",
+                        "lectureLength": "00:07:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3CZn2rTYjxY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Preparing for production deployment",
+                        "lectureId": "68550975d958156ff8d38162",
+                        "lectureLength": "00:09:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3RxQsp9H5ek/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deployment options and CICD overview",
+                        "lectureId": "68550975d958156ff8d38163",
+                        "lectureLength": "00:13:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6tN8upzEKsn/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 5",
+                "assignmentId": "68f2251483492d3c7b6b5501",
+                "assignmentLink": "https://www.canva.com/design/DAGzr9QSANA/sHO4tydouKiK43m4_RT4NQ/edit?utm_content=DAGzr9QSANA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+            }
+        ],
+        "liveMentorship": null,
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

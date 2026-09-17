@@ -1,0 +1,1326 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6a392d4c8668a9279c1530c3",
+        "courseName": "Canva",
+        "slug": "canva",
+        "category": "Design",
+        "tpFolderId": "BeBrN2xEArJ",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6a6109838668a9279c1623f9",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to Canva & Design Foundations",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Canva & Why It’s So Popular",
+                        "lectureId": "6a392d4c8668a9279c1530c5",
+                        "lectureLength": "00:08:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9ts7qEBDmXT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Canva Free vs Canva Pro Comparison",
+                        "lectureId": "6a392d4c8668a9279c1530c6",
+                        "lectureLength": "00:19:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54xhCX2xsj9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sign Up in Canva Web and App",
+                        "lectureId": "6a392d4c8668a9279c1530c7",
+                        "lectureLength": "00:17:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3PES3fH9kzB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Canva Interface & Workspace",
+                        "lectureId": "6a392d4c8668a9279c1530c8",
+                        "lectureLength": "00:39:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BnUksaXTSk8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Canvas Size & Design Types",
+                        "lectureId": "6a392d4c8668a9279c1530c9",
+                        "lectureLength": "00:24:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZMusktFCTGE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Graphic Design Basics",
+                        "lectureId": "6a392d4c8668a9279c1530ca",
+                        "lectureLength": "00:19:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UpfxJfje9R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "The Principles and Elements of Design",
+                        "lectureId": "6a392d4c8668a9279c1530cb",
+                        "lectureLength": "00:19:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55sst2ty5Jx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding the Color Theory & Using Color Palettes",
+                        "lectureId": "6a392d4c8668a9279c1530cc",
+                        "lectureLength": "00:21:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UjbqFBuGFf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typography Basic for Effective Design",
+                        "lectureId": "6a392d4c8668a9279c1530cd",
+                        "lectureLength": "00:25:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cmdHHn4f5T/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Brand Consistency",
+                        "lectureId": "6a392d4c8668a9279c1530ce",
+                        "lectureLength": "00:29:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6eTkDQPpDsP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Canva Free vs Canva Pro Comparison",
+                "assignmentId": "6a4cafe18668a9279c156a22",
+                "assignmentLink": "https://docs.google.com/document/d/1Hq0-SUogkRTdNq3iNywYF5pOzvMwt6FI/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Canvas Size & Design Types",
+                "assignmentId": "6a4cb00c8668a9279c156a27",
+                "assignmentLink": "https://docs.google.com/document/d/12ehT6b0ddv9zb_J7h1TNX8CavBt3ha-c/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Typography Basic for Effective Design",
+                "assignmentId": "6a4cb0198668a9279c156a2c",
+                "assignmentLink": "https://docs.google.com/document/d/1xS_eAofMAyOeGw5LPTJ2-IYyDnqsDLdS/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Getting Started with Canva Tools",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Working with Shapes & Elements",
+                        "lectureId": "6a392d4c8668a9279c1530d0",
+                        "lectureLength": "00:39:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6D4ytHkFe7r/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Color Options",
+                        "lectureId": "6a392d4c8668a9279c1530d1",
+                        "lectureLength": "00:13:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AKy9huTcN95/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Alignment Property",
+                        "lectureId": "6a392d4c8668a9279c1530d2",
+                        "lectureLength": "00:19:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/GbgjsNcnPHk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using the Arrangement Options",
+                        "lectureId": "6a392d4c8668a9279c1530d3",
+                        "lectureLength": "00:15:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/46n4KfTAZNy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Group, Ungroup, Lock & Unlock",
+                        "lectureId": "6a392d4c8668a9279c1530d4",
+                        "lectureLength": "00:13:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZUuRhp9Qqz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cut, Copy, Paste & Duplicate",
+                        "lectureId": "6a392d4c8668a9279c1530d5",
+                        "lectureLength": "00:12:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XS6FaynENh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Text Tool",
+                        "lectureId": "6a392d4c8668a9279c1530d6",
+                        "lectureLength": "00:19:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6knA6eej37x/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Applying Effects",
+                        "lectureId": "6a392d4c8668a9279c1530d7",
+                        "lectureLength": "00:24:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dFTxuGg2x33/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using White Board",
+                        "lectureId": "6a392d4c8668a9279c1530d8",
+                        "lectureLength": "00:15:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ftYYrgSRAr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Features of Elements",
+                        "lectureId": "6a392d4c8668a9279c1530d9",
+                        "lectureLength": "00:32:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Pr3xCffBYh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Uploading & Managing Assets",
+                        "lectureId": "6a392d4c8668a9279c1530da",
+                        "lectureLength": "00:20:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bdQDfDXbMr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Custom Background Options",
+                        "lectureId": "6a392d4c8668a9279c1530db",
+                        "lectureLength": "00:15:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6nr6Ub4cr8n/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using Frames & Grids",
+                        "lectureId": "6a392d4c8668a9279c1530dc",
+                        "lectureLength": "00:32:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3XA3qZNZXEX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "JPEG, PNG, SVG & PDF",
+                        "lectureId": "6a392d4c8668a9279c1530dd",
+                        "lectureLength": "00:17:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bj6BxXDeeYG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How to Export",
+                        "lectureId": "6a392d4c8668a9279c1530de",
+                        "lectureLength": "00:35:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8e6rsdCB2jG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working with Photos (Photo Editing)",
+                        "lectureId": "6a392d4c8668a9279c1530df",
+                        "lectureLength": "01:04:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Rh8tpX84HN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Apps Category Features of Canva",
+                        "lectureId": "6a392d4c8668a9279c1530e0",
+                        "lectureLength": "00:32:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rJ4Pn299EZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Icons",
+                        "lectureId": "6a392d4c8668a9279c1530e1",
+                        "lectureLength": "00:27:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qQ7R3HEynSd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using the Whiteboard",
+                        "lectureId": "6a392d4c8668a9279c1530e2",
+                        "lectureLength": "00:19:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KM7r722ffy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using the Doc in Canva",
+                        "lectureId": "6a392d4c8668a9279c1530e3",
+                        "lectureLength": "00:25:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/pNyKhEkF6j2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Sheet for Data Management",
+                        "lectureId": "6a392d4c8668a9279c1530e4",
+                        "lectureLength": "00:37:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5NamsMmg7jD/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Alignment Property",
+                "assignmentId": "6a4caf488668a9279c156a0e",
+                "assignmentLink": "https://docs.google.com/document/d/19200SuofSWi2yjRnNJcwDn1N741JZ6Ka/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Creating Icons",
+                "assignmentId": "6a4caf588668a9279c156a13",
+                "assignmentLink": "https://docs.google.com/document/d/13Sh0QJUyuLSEptAmLngDTsjExosYA1ol/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Exploring Text Tool",
+                "assignmentId": "6a4caf668668a9279c156a18",
+                "assignmentLink": "https://docs.google.com/document/d/1sIHk5iZ_jAEyx6vccljOXRmE4_Fo4xbQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Exploring the Features of Elements",
+                "assignmentId": "6a4caf738668a9279c156a1d",
+                "assignmentLink": "https://docs.google.com/document/d/1qMV-lVvTkb_83cV4N1ETsMYnt8Zt_ipU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Canva for Social Media Design",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Instagram Post Design",
+                        "lectureId": "6a392d4c8668a9279c1530e6",
+                        "lectureLength": "01:02:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sc2MbhruKa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Instagram Story",
+                        "lectureId": "6a392d4c8668a9279c1530e7",
+                        "lectureLength": "00:32:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCjNBmr3b9M/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "YouTube Thumbnail Design",
+                        "lectureId": "6a392d4c8668a9279c1530e8",
+                        "lectureLength": "00:48:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4Fy5dR3jgBk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Facebook Cover Design",
+                        "lectureId": "6a392d4c8668a9279c1530e9",
+                        "lectureLength": "00:42:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tKA6T9eN9N/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "LinkedIn Banner Design",
+                        "lectureId": "6a392d4c8668a9279c1530ea",
+                        "lectureLength": "00:26:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4g9Q3hnYfJe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pinterest Pin Design",
+                        "lectureId": "6a392d4c8668a9279c1530eb",
+                        "lectureLength": "00:33:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSCHSnGtyXk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Calendar Design",
+                        "lectureId": "6a392d4c8668a9279c1530ec",
+                        "lectureLength": "00:34:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6xMnn8zx6qH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Email Graphics Design",
+                        "lectureId": "6a392d4c8668a9279c1530ed",
+                        "lectureLength": "00:39:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zyGJ77QJdr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Google Web Ads Design for Website",
+                        "lectureId": "6a392d4c8668a9279c1530ee",
+                        "lectureLength": "00:43:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/57rCpnSuyRc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Photo Collage",
+                        "lectureId": "6a392d4c8668a9279c1530ef",
+                        "lectureLength": "00:36:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4D2XE67z6PF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Presentation",
+                        "lectureId": "6a392d4c8668a9279c1530f0",
+                        "lectureLength": "00:56:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HKunyTA8Ce/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating with Website UI",
+                        "lectureId": "6a392d4c8668a9279c1530f1",
+                        "lectureLength": "00:49:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3FdTEq7EM4g/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Save the Date Card & Wedding Invites",
+                        "lectureId": "6a392d4c8668a9279c1530f2",
+                        "lectureLength": "00:41:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AUQYbhEZj47/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Email Graphics Design",
+                "assignmentId": "6a4caa6c8668a9279c1569bf",
+                "assignmentLink": "https://docs.google.com/document/d/1ss3B8z8dnOvgEiLBs0hE2VKQjipdxTb3/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Instagram Post Design",
+                "assignmentId": "6a4caa988668a9279c1569c4",
+                "assignmentLink": "https://docs.google.com/document/d/1uWDqFjrjhKvJHeHy-SYVVBVY_Uc3rVSl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Photo Collage",
+                "assignmentId": "6a4caaa68668a9279c1569c9",
+                "assignmentLink": "https://docs.google.com/document/d/19VqI3GSE0_MhYb7MeLoSe7KCjsThbUP5/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "YouTube Thumbnail Design",
+                "assignmentId": "6a4caab48668a9279c1569ce",
+                "assignmentLink": "https://docs.google.com/document/d/1Mxe2R_4d55X69kspMO3a_efNeDrKYhjR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Print & Marketing Designs",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Basics of Printing and Industry",
+                        "lectureId": "6a392d4c8668a9279c1530f4",
+                        "lectureLength": "00:51:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9chKpePTSP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Business Card Design",
+                        "lectureId": "6a392d4c8668a9279c1530f5",
+                        "lectureLength": "00:47:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UUGhUKzGUt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "ID Card Design Process",
+                        "lectureId": "6a392d4c8668a9279c1530f6",
+                        "lectureLength": "00:52:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TsCxJHZsqq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Flyer Design",
+                        "lectureId": "6a392d4c8668a9279c1530f7",
+                        "lectureLength": "00:53:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9DDHCmrDTxs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Poster Design",
+                        "lectureId": "6a392d4c8668a9279c1530f8",
+                        "lectureLength": "01:01:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5esDKhXkxFK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Brochure Step by step",
+                        "lectureId": "6a392d4c8668a9279c1530f9",
+                        "lectureLength": "01:04:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5MNsjjakU75/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Menu Design",
+                        "lectureId": "6a392d4c8668a9279c1530fa",
+                        "lectureLength": "00:55:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/33NUydNkg3z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Certificate Design",
+                        "lectureId": "6a392d4c8668a9279c1530fb",
+                        "lectureLength": "00:51:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9BeuhEFtfp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CoverPage Design",
+                        "lectureId": "6a392d4c8668a9279c1530fc",
+                        "lectureLength": "00:43:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ZZefxdRy4FN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Resume Design",
+                        "lectureId": "6a392d4c8668a9279c1530fd",
+                        "lectureLength": "00:42:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xG3gGXYkNb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Letter Head & Invoice Design",
+                        "lectureId": "6a392d4c8668a9279c1530fe",
+                        "lectureLength": "00:56:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3tp53F7gyUM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Invitation Card Design",
+                        "lectureId": "6a392d4c8668a9279c1530ff",
+                        "lectureLength": "00:44:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3rzgbpcBPXy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Infographics Design",
+                        "lectureId": "6a392d4c8668a9279c153100",
+                        "lectureLength": "00:36:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9cz6a36ttnC/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Business Card Design",
+                "assignmentId": "6a4cb07c8668a9279c156a33",
+                "assignmentLink": "https://docs.google.com/document/d/1elIFfetQZI0C5sAHfiIjP_ONaqicr-dQ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Cover Page Design",
+                "assignmentId": "6a4cb0ab8668a9279c156a38",
+                "assignmentLink": "https://docs.google.com/document/d/1QZvzVLAoy5p60Sz45fQLN0WRzElsjIMM/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Infographics Design",
+                "assignmentId": "6a4cb0c58668a9279c156a3d",
+                "assignmentLink": "https://docs.google.com/document/d/1S0r7MplVpZT06JBZxTNs4DiYsFzvFz00/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Poster Design",
+                "assignmentId": "6a4cb0d18668a9279c156a42",
+                "assignmentLink": "https://docs.google.com/document/d/1S6gH2UyXEAyq42Cw80U5Mr14wJ1rzeZw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Brand Design Contents in Canva",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Branding",
+                        "lectureId": "6a392d4c8668a9279c153102",
+                        "lectureLength": "00:46:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BxpDGrTNXXj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logo Design Basics",
+                        "lectureId": "6a392d4c8668a9279c153103",
+                        "lectureLength": "00:21:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A9u5p9AHmpc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logo Design in Canva",
+                        "lectureId": "6a392d4c8668a9279c153104",
+                        "lectureLength": "00:42:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pPkDg2kK8z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typography for Brands",
+                        "lectureId": "6a392d4c8668a9279c153105",
+                        "lectureLength": "00:46:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/64zGG85r4mS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Brand Guidelines pdf",
+                        "lectureId": "6a392d4c8668a9279c153106",
+                        "lectureLength": "00:16:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rrEXGnJupD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Overview of Brand Package Design",
+                        "lectureId": "6a392d4c8668a9279c153107",
+                        "lectureLength": "00:11:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98tZEjPK8GB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Sample & Inspiration",
+                        "lectureId": "6a392d4c8668a9279c153108",
+                        "lectureLength": "00:07:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Q2SxakhmNg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mockup for Presentation",
+                        "lectureId": "6a392d4c8668a9279c153109",
+                        "lectureLength": "00:23:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7XzAxxb6Z6h/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Logo Design in Canva",
+                "assignmentId": "6a4b63698668a9279c15698d",
+                "assignmentLink": "https://docs.google.com/document/d/1XaW5f1Zykj5g2IqHDWZdASAO81li70cV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Mockup for Presentation",
+                "assignmentId": "6a4b637b8668a9279c156992",
+                "assignmentLink": "https://docs.google.com/document/d/1kWvzfeFihGqe8wdb108hNzD7eY-T0wP7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Canva Video Editing",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Working with Timeline and Exploring Features",
+                        "lectureId": "6a392d4c8668a9279c15310b",
+                        "lectureLength": "00:00:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3C8SNUpZn7s/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Music & Audio Editing",
+                        "lectureId": "6a392d4c8668a9279c15310c",
+                        "lectureLength": "00:00:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sxcSbb7dBh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Transitions, Effects & Animation",
+                        "lectureId": "6a392d4c8668a9279c15310d",
+                        "lectureLength": "00:32:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AQzxNgPxjRa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Animation",
+                        "lectureId": "6a392d4c8668a9279c15310e",
+                        "lectureLength": "00:15:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5g3URYqRnAS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Green Screen or Background Editing",
+                        "lectureId": "6a392d4c8668a9279c15310f",
+                        "lectureLength": "00:18:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5px7nAfc49b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating the Video Collage",
+                        "lectureId": "6a392d4c8668a9279c153110",
+                        "lectureLength": "00:18:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66mpZTccstk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Invites Design Idea Discussion",
+                        "lectureId": "6a392d4c8668a9279c153111",
+                        "lectureLength": "00:09:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rEF58DnCckD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Video Mockups for Designing",
+                        "lectureId": "6a392d4c8668a9279c153112",
+                        "lectureLength": "00:00:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BFNuh7ejdhn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Motion Banner Ads Design",
+                        "lectureId": "6a392d4c8668a9279c153113",
+                        "lectureLength": "00:47:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Brgq7sR6rZg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Customize and Exploring the AI Videos",
+                        "lectureId": "6a392d4c8668a9279c153114",
+                        "lectureLength": "00:32:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2xD8UNJchP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Export Settings for web & Print (Along with Basics for file formats)",
+                        "lectureId": "6a392d4c8668a9279c153115",
+                        "lectureLength": "01:12:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AkDfpZKuhFM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using the Animated Presets & Templates",
+                        "lectureId": "6a392d4c8668a9279c153116",
+                        "lectureLength": "00:17:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gJ73pTqKKB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Green Screen or Background Editing",
+                "assignmentId": "6a4caae08668a9279c1569d3",
+                "assignmentLink": "https://docs.google.com/document/d/1LGuQ5ICsLMLb-lLBzRhvv0IgGd0Q6Jsl/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Motion Banner Ads Design",
+                "assignmentId": "6a4cacba8668a9279c1569d8",
+                "assignmentLink": "https://docs.google.com/document/d/1vF--43ZhF8J9GyWeA-7MocaKprQowTFh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Text Animation",
+                "assignmentId": "6a4caccd8668a9279c1569dd",
+                "assignmentLink": "https://docs.google.com/document/d/19mVjQcMoTR3ej0bUkofUPlTGCoOUncFn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Transitions, Effects & Animation",
+                "assignmentId": "6a4cacdb8668a9279c1569e2",
+                "assignmentLink": "https://docs.google.com/document/d/1aAvFk__Gsr_YhS56jsm2XQmZtm4QbmJF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Using Animated Presets & Templates",
+                "assignmentId": "6a4cace88668a9279c1569e7",
+                "assignmentLink": "https://docs.google.com/document/d/174moMtwG9IQwwqxzMebmc68uFMjGvF_z/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Canva for Freelancers",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Freelancing & How it works",
+                        "lectureId": "6a392d4c8668a9279c153118",
+                        "lectureLength": "01:04:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFSPUUFxGBf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Presentation for Clients",
+                        "lectureId": "6a392d4c8668a9279c153119",
+                        "lectureLength": "00:14:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79MsuQJTmT7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sharing Designs Professionally",
+                        "lectureId": "6a392d4c8668a9279c15311a",
+                        "lectureLength": "00:33:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6pgRushPmF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comment & Collaboration Tools",
+                        "lectureId": "6a392d4c8668a9279c15311b",
+                        "lectureLength": "00:31:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rXD9BUUkej/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pricing Strategy for Canva Designers",
+                        "lectureId": "6a392d4c8668a9279c15311c",
+                        "lectureLength": "00:24:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7q7FKF9JnUD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Finding Clients Using Social Media and Websites",
+                        "lectureId": "6a392d4c8668a9279c15311d",
+                        "lectureLength": "00:24:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8HBh9ZnszxJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Important Websites for Assets & Resources",
+                        "lectureId": "6a392d4c8668a9279c15311e",
+                        "lectureLength": "00:28:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4aqqfPYfqkk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Portfolio & Design Inspiration",
+                        "lectureId": "6a392d4c8668a9279c15311f",
+                        "lectureLength": "00:45:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TyAtZDK7Xg/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Advanced Canva Techniques",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Typography Tips & Tricks for Design",
+                        "lectureId": "6a392d4c8668a9279c153121",
+                        "lectureLength": "00:53:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5a5zRHs6p2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring the Apps for the Typography Style",
+                        "lectureId": "6a392d4c8668a9279c153122",
+                        "lectureLength": "00:00:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7crFqF3HuYM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Custom Elements",
+                        "lectureId": "6a392d4c8668a9279c153123",
+                        "lectureLength": "00:56:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aqba9EAzS9R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using AI Apps Features, to Enhance, Transparency & Frames",
+                        "lectureId": "6a392d4c8668a9279c153124",
+                        "lectureLength": "01:00:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2QEtFZgBCh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Comparison of Apps & Canva Filters",
+                        "lectureId": "6a392d4c8668a9279c153125",
+                        "lectureLength": "00:27:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bp5fRjnSmUR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Drawing and Pixel Art by using Apps",
+                        "lectureId": "6a392d4c8668a9279c153126",
+                        "lectureLength": "00:37:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8FEqhfYz77A/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Apps for Voice Modulation and Generation",
+                        "lectureId": "6a392d4c8668a9279c153127",
+                        "lectureLength": "00:06:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7geSr69ZuP3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Apps for Graphics Static and Animation",
+                        "lectureId": "6a392d4c8668a9279c153128",
+                        "lectureLength": "00:19:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7rYMcr8cSxh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Working Faster with Shortcuts",
+                        "lectureId": "6a392d4c8668a9279c153129",
+                        "lectureLength": "00:49:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BAUZJUumEbh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Mobile UI ProtoType Design",
+                        "lectureId": "6a392d4c8668a9279c15312a",
+                        "lectureLength": "01:08:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7RcMgNd28S9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Content Creation Strategy",
+                        "lectureId": "6a392d4c8668a9279c15312b",
+                        "lectureLength": "00:27:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZtF3ha74T7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Working Faster with Shortcuts",
+                "assignmentId": "6a4b62fb8668a9279c156979",
+                "assignmentLink": "https://docs.google.com/document/d/1oLDbG2zJBigVhwgcW30be8MMbsM4GtST/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Using AI Apps Features Enhance, Transparency & Frames",
+                "assignmentId": "6a4b630d8668a9279c15697e",
+                "assignmentLink": "https://docs.google.com/document/d/13sUvG8LTZKbAmE16qKeh_ZzaYBgiIUjP/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Typography Tips & Tricks for Design",
+                "assignmentId": "6a4b63208668a9279c156983",
+                "assignmentLink": "https://docs.google.com/document/d/1v-1OnyWn4XUA6Kx1xeuzk2fRvY_Sx77U/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Mobile UI Prototype Design",
+                "assignmentId": "6a4b63338668a9279c156988",
+                "assignmentLink": "https://docs.google.com/document/d/1Dc_rCNtGLSCfanw4Coj7CrwZKAWhLawJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Canva for Educators & Course Creators",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Overview of Affinity Studio by Canva",
+                        "lectureId": "6a392d4c8668a9279c15312d",
+                        "lectureLength": "00:06:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7zTe5BKskff/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating PPT for Courses",
+                        "lectureId": "6a392d4c8668a9279c15312e",
+                        "lectureLength": "00:54:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6meGmnm6ruA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Worksheets for Kids",
+                        "lectureId": "6a392d4c8668a9279c15312f",
+                        "lectureLength": "00:57:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/m3dBrtHraDh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "E-book Design",
+                        "lectureId": "6a392d4c8668a9279c153130",
+                        "lectureLength": "01:03:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C7uExPC3QM9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design CoverPage",
+                        "lectureId": "6a392d4c8668a9279c153131",
+                        "lectureLength": "00:46:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3nuQGm7rc44/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ads Design Idea Exploration",
+                        "lectureId": "6a392d4c8668a9279c153132",
+                        "lectureLength": "00:07:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/RzSKhJXe5f7/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Exporting & Optimization",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "PNG vs JPG vs PDF (Which to Use)",
+                        "lectureId": "6a392d4c8668a9279c153134",
+                        "lectureLength": "00:39:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98eq9tRqPRX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "CMYK vs RGB (Understanding Color Modes)",
+                        "lectureId": "6a392d4c8668a9279c153135",
+                        "lectureLength": "00:44:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSZ9tQE5sa2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Print Settings",
+                        "lectureId": "6a392d4c8668a9279c153136",
+                        "lectureLength": "00:34:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6GExe8tM2uq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Compressing Files Without Quality Loss",
+                        "lectureId": "6a392d4c8668a9279c153137",
+                        "lectureLength": "00:26:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5GmhRdgThmJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exporting for Clients Professionally",
+                        "lectureId": "6a392d4c8668a9279c153138",
+                        "lectureLength": "00:37:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BZ9ET5GFExc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "CMYK vs RGB Understanding",
+                "assignmentId": "6a4caf038668a9279c156a04",
+                "assignmentLink": "https://docs.google.com/document/d/1iViERPg44eJkMvemUMF37yatYkAo_1rt/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Compressing Files Without Quality Loss",
+                "assignmentId": "6a4caf178668a9279c156a09",
+                "assignmentLink": "https://docs.google.com/document/d/1tFNvzmbbqcQis5tWJGfSYKsg1Evpymbw/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Capstone Projects & Concept Discussion",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Complete Brand Kit",
+                        "lectureId": "6a392d4c8668a9279c15313a",
+                        "lectureLength": "00:00:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NPxgBbBheJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Design Communication with Clients",
+                        "lectureId": "6a392d4c8668a9279c15313b",
+                        "lectureLength": "00:31:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7HTtEDQDXr2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Client-Based Marketing Campaign",
+                        "lectureId": "6a392d4c8668a9279c15313c",
+                        "lectureLength": "00:52:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jmrjB6TxRN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Print & Digital Design Difference",
+                        "lectureId": "6a392d4c8668a9279c15313d",
+                        "lectureLength": "00:18:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7tn6k2rYRKn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Launching of a New Product",
+                        "lectureId": "6a392d4c8668a9279c15313e",
+                        "lectureLength": "00:45:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BMzyrb7PNhB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Types of Printer Used in the Industry",
+                        "lectureId": "6a392d4c8668a9279c15313f",
+                        "lectureLength": "00:00:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7A3G4rCARhC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How Design Influences Human Behavior",
+                        "lectureId": "6a392d4c8668a9279c153140",
+                        "lectureLength": "00:35:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8SzmdTumFXE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fear of Being Judged",
+                        "lectureId": "6a392d4c8668a9279c153141",
+                        "lectureLength": "00:30:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AYzMaqB8Hu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Build your Personal Brand",
+                        "lectureId": "6a392d4c8668a9279c153142",
+                        "lectureLength": "00:34:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/PZEhKtBJbaS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Build your Personal Brand",
+                "assignmentId": "6a4cad3e8668a9279c1569ec",
+                "assignmentLink": "https://docs.google.com/document/d/1y7CKllbSvm-p9YIVse7BS8RiFxAHlf1N/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Client-Based Marketing Campaign",
+                "assignmentId": "6a4cad4d8668a9279c1569f1",
+                "assignmentLink": "https://docs.google.com/document/d/1kDBGBe0goo-y3jRekhRTXEbAfhOWzBQH/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "How Design Influences Human Behavior",
+                "assignmentId": "6a4cad5d8668a9279c1569f6",
+                "assignmentLink": "https://docs.google.com/document/d/1Shmfdpt7xyuiHU8OTzUcNmRieLjMXByB/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Print & Digital Design Difference",
+                "assignmentId": "6a4cad6d8668a9279c1569fb",
+                "assignmentLink": "https://docs.google.com/document/d/1JL1UrK3NnMWY33xkxtmPi1U3tbCD-NcV/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Canva AI Features",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Prompt Engineering for Better Results",
+                        "lectureId": "6a392d4c8668a9279c153144",
+                        "lectureLength": "00:30:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9HncpKQ7qF8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Designs from Prompts",
+                        "lectureId": "6a392d4c8668a9279c153145",
+                        "lectureLength": "00:21:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xJXRxGJFBG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Image to Video Generation",
+                        "lectureId": "6a392d4c8668a9279c153146",
+                        "lectureLength": "00:20:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Hny2ubazK2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI Content Writing with Magic Write",
+                        "lectureId": "6a392d4c8668a9279c153147",
+                        "lectureLength": "00:16:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bdc3yY8QGBd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Writing Email or Script",
+                        "lectureId": "6a392d4c8668a9279c153148",
+                        "lectureLength": "00:10:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7s2chhTyb3R/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Artistic Image Generation with Text",
+                        "lectureId": "6a392d4c8668a9279c153149",
+                        "lectureLength": "00:20:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACHcKmqh6QS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generator QR",
+                        "lectureId": "6a392d4c8668a9279c15314a",
+                        "lectureLength": "00:10:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KEC8NftzCY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Exploring Magic Layer",
+                        "lectureId": "6a392d4c8668a9279c15314b",
+                        "lectureLength": "00:25:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5FHkuCnmNnh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Extend the Image with Magic Extender",
+                        "lectureId": "6a392d4c8668a9279c15314c",
+                        "lectureLength": "00:11:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/62tkzG48MSH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using AI for Enhancement",
+                        "lectureId": "6a392d4c8668a9279c15314d",
+                        "lectureLength": "00:25:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cxYs4U3Jg2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Background Remover",
+                        "lectureId": "6a392d4c8668a9279c15314e",
+                        "lectureLength": "00:25:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BgBjsEAcupt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generate Background with A.I.",
+                        "lectureId": "6a392d4c8668a9279c15314f",
+                        "lectureLength": "00:36:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5hzXc9URz4M/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Generate Images of Character, Scenery",
+                        "lectureId": "6a392d4c8668a9279c153150",
+                        "lectureLength": "00:49:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ6nd5U4z3q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AI Avatar for Professional Look",
+                        "lectureId": "6a392d4c8668a9279c153151",
+                        "lectureLength": "00:10:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73x33HxuQeg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text to Video Generation",
+                        "lectureId": "6a392d4c8668a9279c153152",
+                        "lectureLength": "00:23:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KNG2caHRcJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Audio Generation",
+                        "lectureId": "6a392d4c8668a9279c153153",
+                        "lectureLength": "00:13:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7p8agCyTnu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "One-Click Background Removal",
+                "assignmentId": "6a4b63a28668a9279c156997",
+                "assignmentLink": "https://docs.google.com/document/d/1_wVsrBXDJ1E0HqajtFwxtYL-0Yr1QCqR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Writing Email or Essay",
+                "assignmentId": "6a4b63b68668a9279c15699c",
+                "assignmentLink": "https://docs.google.com/document/d/1bqfN-6if62RzYPlbNFkON0kq_GtzZKKh/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Image to Video Generation",
+                "assignmentId": "6a4b63cc8668a9279c1569a1",
+                "assignmentLink": "https://docs.google.com/document/d/1v9sxyka0y8BAG6nM9pWl6X08zZE7tBw7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Generate QR Code with AI Apps",
+                "assignmentId": "6a4b63db8668a9279c1569a6",
+                "assignmentLink": "https://docs.google.com/document/d/1eHjxHmdB6vgpt04nLp-8ZNJIEci8CrC7/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Extend Image by Using Magic Extender",
+                "assignmentId": "6a4b63e78668a9279c1569ab",
+                "assignmentLink": "https://docs.google.com/document/d/15dWrbOqCL3i7Rl7mQ_JC0kcI71wXoEw9/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Exploring Magic Layer",
+                "assignmentId": "6a4b63f48668a9279c1569b0",
+                "assignmentLink": "https://docs.google.com/document/d/1Wn0uAxIiAbPFYlVwlrCgWJTalaCqKD5d/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "AI Avatar for Professional Look",
+                "assignmentId": "6a4b64038668a9279c1569b5",
+                "assignmentLink": "https://docs.google.com/document/d/1FEdwP08i-wDdfvbhE7JTkdrh7rhkTmmf/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Placement",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Interview Preparation",
+                        "lectureId": "6a392d4c8668a9279c153155",
+                        "lectureLength": "00:46:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A4FuQXCdfan/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Interview Preparation",
+                "assignmentId": "6a4cb1de8668a9279c156a58",
+                "assignmentLink": "https://docs.google.com/document/d/1fYN_nFjzJ_8oezDYzdu9LlILyhtUZQcF/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Creating Presentation for Clients",
+                "assignmentId": "6a4cb1918668a9279c156a49",
+                "assignmentLink": "https://docs.google.com/document/d/1pB7Xs2C7k9cMtq_2Ch-Gb_pKfGsXvuIn/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Portfolio & Design Inspiration",
+                "assignmentId": "6a4cb19a8668a9279c156a4e",
+                "assignmentLink": "https://docs.google.com/document/d/1IH0r8LfMUNX9cly7LkuXpwhaRm8odmy2/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Pricing Strategy for Canva Designers",
+                "assignmentId": "6a4cb1a88668a9279c156a53",
+                "assignmentLink": "https://docs.google.com/document/d/1XoBXn1O-kvzFLatKEcOd-nNBL5VellQv/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6a51195afc66b37ef64a6264",
+                "mentor": "Sushanshu",
+                "start": 21,
+                "end": 23,
+                "chatStart": 21,
+                "chatEnd": 23,
+                "time": "9:00 PM - 11:00 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds10",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/11a4KBTHIlPHLsofWbSN2HWIarDg_H6I9?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

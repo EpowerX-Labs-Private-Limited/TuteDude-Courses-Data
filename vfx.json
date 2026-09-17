@@ -1,0 +1,187 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "68d11824265a541c9717158a",
+        "courseName": "VFX",
+        "slug": "vfx",
+        "category": "Technical",
+        "tpFolderId": "BbykqrpuT9P",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "69709b957a4c1d6f202889c0",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "VFX Fundamentals ",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Intro to vfx",
+                        "lectureId": "68d11851265a541c97171610",
+                        "lectureLength": "00:13:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NspuKEZFnq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Get familiar with the Interface",
+                        "lectureId": "68d1185c265a541c97171613",
+                        "lectureLength": "01:03:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqKFzZAFHne/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating first visual effects scene",
+                        "lectureId": "68d11866265a541c97171616",
+                        "lectureLength": "01:01:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Gq9fZuXTTU/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Scene Creation & Environments",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating a space Scene Vfx",
+                        "lectureId": "68d11890265a541c97171621",
+                        "lectureLength": "01:01:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45m9YqK82gX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Road scene helicoptor jump",
+                        "lectureId": "68d1189b265a541c97171624",
+                        "lectureLength": "01:03:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6CTnMPzdCB7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating rainfall in city",
+                        "lectureId": "68d118a1265a541c97171627",
+                        "lectureLength": "01:02:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AndE7HKDqef/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Free flow objects in the air",
+                        "lectureId": "68d118b0265a541c9717162a",
+                        "lectureLength": "01:01:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ueZYu8CPD9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Creative Techniques",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Creating your own clone",
+                        "lectureId": "68d118cb265a541c97171632",
+                        "lectureLength": "00:58:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B9Hff2Ysxfj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Magically Disappear from the scene",
+                        "lectureId": "68d118d1265a541c97171635",
+                        "lectureLength": "01:04:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AFQBk7C4Yj6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Changing scene with Chroma techniques",
+                        "lectureId": "68d118da265a541c97171638",
+                        "lectureLength": "01:08:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7bUFjJk3UP3/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Advance Visual Effects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Adding Fire in the Scene",
+                        "lectureId": "68e78987c9cf3d230ba64d86",
+                        "lectureLength": "01:00:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EGPXtcmTTd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating CG Set",
+                        "lectureId": "68e78992c9cf3d230ba64d89",
+                        "lectureLength": "00:49:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6MtzFYzTtYh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tracking objects in live video",
+                        "lectureId": "68e7899cc9cf3d230ba64d8c",
+                        "lectureLength": "01:07:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5F6NmT9h33C/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Particles in Visual effects",
+                        "lectureId": "68e789a4c9cf3d230ba64d8f",
+                        "lectureLength": "01:03:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SPEBazyHNy/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Final Assignment",
+                "assignmentId": "6916faada2ff0abdda44d2ee",
+                "assignmentLink": "https://docs.google.com/document/d/1SDNHPEyo1pVg8Lhp_HE5PImbxbj6-Nva-gEurS3PGkY/edit?usp=sharing"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "69285eebddcb4ba39424e705",
+                "mentor": "Kaartikey",
+                "start": 19,
+                "end": 20.5,
+                "chatStart": 0,
+                "chatEnd": 0,
+                "time": "7:00 PM - 8:30 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=db5",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1b0j7yHgc8RBa_fVyCtKwztzQEcHY6rsz?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}

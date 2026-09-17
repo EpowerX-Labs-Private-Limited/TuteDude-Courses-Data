@@ -1,0 +1,821 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "6a37a7418668a9279c152ed1",
+        "courseName": "Infrastructure as Code",
+        "slug": "iac",
+        "category": "DevOps & Cloud",
+        "tpFolderId": "5axgTaxk3TY",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts",
+                        "lectureId": "6a6109a48668a9279c1624c0",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction to IaC",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to IaC",
+                        "lectureId": "6a37a7418668a9279c152ed3",
+                        "lectureLength": "00:10:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8EKKKntEZre/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IaC vs Traditional (manual) provisioning",
+                        "lectureId": "6a37a7418668a9279c152ed4",
+                        "lectureLength": "00:06:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YcE6EaFBRY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Declarative vs Imperative Approach",
+                        "lectureId": "6a37a7418668a9279c152ed5",
+                        "lectureLength": "00:06:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBXAJUK4YeN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Declarative workflow",
+                        "lectureId": "6a37a7418668a9279c152ed6",
+                        "lectureLength": "00:02:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/eF7ztS93jYA/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction Infrastructure Resources",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section Overview",
+                        "lectureId": "6a37a7418668a9279c152ed8",
+                        "lectureLength": "00:02:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Bxm5reJ7Qa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is a cloud provider",
+                        "lectureId": "6a37a7418668a9279c152ed9",
+                        "lectureLength": "00:05:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7xEqPrMUMJA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3",
+                        "lectureId": "6a37a7418668a9279c152eda",
+                        "lectureLength": "00:05:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5XHRT7Pxfak/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EC2",
+                        "lectureId": "6a37a7418668a9279c152edb",
+                        "lectureLength": "00:05:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/tGK33y4r2er/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "VPC",
+                        "lectureId": "6a37a7418668a9279c152edc",
+                        "lectureLength": "00:08:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/G5yRUpQ44Nf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "RDS",
+                        "lectureId": "6a37a7418668a9279c152edd",
+                        "lectureLength": "00:03:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5UJDSsE5Ukx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EKS & ECS",
+                        "lectureId": "6a37a7418668a9279c152ede",
+                        "lectureLength": "00:05:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mRBa3sBHC8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nginx & Apache",
+                        "lectureId": "6a37a7418668a9279c152edf",
+                        "lectureLength": "00:05:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ryxFkTq3kF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Making an AWS account",
+                        "lectureId": "6a37a7418668a9279c152ee0",
+                        "lectureLength": "00:02:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KC9u6NJsdq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On- Launching an EC2 instance to install tools using bash scripting",
+                        "lectureId": "6a37a7418668a9279c152ee1",
+                        "lectureLength": "00:18:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8snkX7G2Kpe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installing VS Code",
+                        "lectureId": "6a37a7418668a9279c152ee2",
+                        "lectureLength": "00:04:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Ns2HmZnhNQ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Terraform",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "IAC with Terraform",
+                        "lectureId": "6a37a7418668a9279c152ee4",
+                        "lectureLength": "00:01:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ue2gCXqQFG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Life cycle and CLI",
+                        "lectureId": "6a37a7418668a9279c152ee5",
+                        "lectureLength": "00:10:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Ey6KEST35H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "HCL",
+                        "lectureId": "6a37a7418668a9279c152ee6",
+                        "lectureLength": "00:11:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TJSK7KcfSzT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "HCL Blocks",
+                        "lectureId": "6a37a7418668a9279c152ee7",
+                        "lectureLength": "00:03:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8kNquQS359Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Benefits",
+                        "lectureId": "6a37a7418668a9279c152ee8",
+                        "lectureLength": "00:10:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMh8Zd2R53a/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "TF Providers",
+                        "lectureId": "6a37a7418668a9279c152ee9",
+                        "lectureLength": "00:06:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SuTtQsdZBr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Main.tf",
+                        "lectureId": "6a37a7418668a9279c152eea",
+                        "lectureLength": "00:25:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8yKYKreMTN7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Deploying Main.tf",
+                        "lectureId": "6a37a7418668a9279c152eeb",
+                        "lectureLength": "00:18:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXmmz8uhXhf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terraform File Structure",
+                        "lectureId": "6a37a7418668a9279c152eec",
+                        "lectureLength": "00:11:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/882unFHY4eP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "State Management",
+                        "lectureId": "6a37a7418668a9279c152eed",
+                        "lectureLength": "00:04:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8m7369Axpz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - State Management",
+                        "lectureId": "6a37a7418668a9279c152eee",
+                        "lectureLength": "00:17:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9pNmQzqRcJ2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IAM Roles using Terraform",
+                        "lectureId": "6a37a7418668a9279c152eef",
+                        "lectureLength": "00:15:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ZFBFYgXd7X/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "IAM users using Terraform",
+                        "lectureId": "6a37a7418668a9279c152ef0",
+                        "lectureLength": "00:10:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aNSJejBHSR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploying IAM users using Terraform",
+                        "lectureId": "6a37a7418668a9279c152ef1",
+                        "lectureLength": "00:12:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4zDn4EK6G5C/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Workspaces",
+                        "lectureId": "6a37a7418668a9279c152ef2",
+                        "lectureLength": "00:09:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUyszc9EqdM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On - Workspaces",
+                        "lectureId": "6a37a7418668a9279c152ef3",
+                        "lectureLength": "00:23:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9mnXzxJXpx7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Best Practices",
+                        "lectureId": "6a37a7418668a9279c152ef4",
+                        "lectureLength": "00:06:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Sa2z8NNTe6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT]- CI/CD pipeline development of EKS Cluster with Terraform",
+                        "lectureId": "6a37a7418668a9279c152ef5",
+                        "lectureLength": "02:08:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/FzrYZDaXzE6/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment: Create a Simple EC2 Instance Using Terraform on EC2",
+                "assignmentId": "6a3917808668a9279c152fed",
+                "assignmentLink": "https://docs.google.com/document/d/1R23WRyL9aY97NAj0VP3qrLTfgSmU_78D/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment: Demonstrate Workspace Management on Terraform on EC2",
+                "assignmentId": "6a3917918668a9279c152ff2",
+                "assignmentLink": "https://docs.google.com/document/d/1RoXviGCiFdGXFuTkooG9Id5ijn6TR5AG/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Ansible",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is Ansible",
+                        "lectureId": "6a37a7418668a9279c152ef7",
+                        "lectureLength": "00:16:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzqZkUPgAtA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding YAML",
+                        "lectureId": "6a37a7418668a9279c152ef8",
+                        "lectureLength": "00:09:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B3samSJb6FZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ansible Playbooks",
+                        "lectureId": "6a37a7418668a9279c152ef9",
+                        "lectureLength": "00:04:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4NBjunzrQ6f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Simple Ansible PLaybook",
+                        "lectureId": "6a37a7418668a9279c152efa",
+                        "lectureLength": "00:05:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9T7cC6c9TRC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Creating Resources",
+                        "lectureId": "6a37a7418668a9279c152efb",
+                        "lectureLength": "00:06:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/592d6PRSQ2f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On Deployment Playbook",
+                        "lectureId": "6a37a7418668a9279c152efc",
+                        "lectureLength": "00:13:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/37nBZmzYYH7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT-1]- AWS Infrastructure Deployment",
+                        "lectureId": "6a37a7418668a9279c152efd",
+                        "lectureLength": "00:08:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Ff7DQjeQny/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT-1] - Understanding Playbooks",
+                        "lectureId": "6a37a7418668a9279c152efe",
+                        "lectureLength": "00:18:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/535RUmqudZs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT-1] - Deployment",
+                        "lectureId": "6a37a7418668a9279c152eff",
+                        "lectureLength": "00:22:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/J72rQX3j7tK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT-1] - Verifying Infrastructure",
+                        "lectureId": "6a37a7418668a9279c152f00",
+                        "lectureLength": "00:06:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5KDcmgmBrnE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT-2] - Web App Deployment with Ansible",
+                        "lectureId": "6a37a7418668a9279c152f01",
+                        "lectureLength": "00:10:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7UNF5EZBTUJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT-2]- Understanding directory structure, playbooks and configs",
+                        "lectureId": "6a37a7418668a9279c152f02",
+                        "lectureLength": "00:20:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9KQ7kEqjCbf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT-2]- Deployment of web app",
+                        "lectureId": "6a37a7418668a9279c152f03",
+                        "lectureLength": "00:14:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AyC8gHqGpf4/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment: Deploy a Simple S3 Bucket Using Ansible on EC2",
+                "assignmentId": "6a3917af8668a9279c152ff7",
+                "assignmentLink": "https://docs.google.com/document/d/1fgevNfsiK1bYFFNn7xMhUwi46riK3_59/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment: Deploy an EC2 Instance Using Ansible on EC2",
+                "assignmentId": "6a3917c58668a9279c152ffc",
+                "assignmentLink": "https://docs.google.com/document/d/1QKjbA4w3kWd6CSZ4XjTMypWDMUP62z7O/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "CloudFormation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "AWS Cloud Formation",
+                        "lectureId": "6a37a7418668a9279c152f05",
+                        "lectureLength": "00:09:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/n5J7J2J2aqt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Conditions & Outputs",
+                        "lectureId": "6a37a7418668a9279c152f06",
+                        "lectureLength": "00:02:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ATKAuEFYuu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Parameters & Mapping",
+                        "lectureId": "6a37a7418668a9279c152f07",
+                        "lectureLength": "00:02:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aZq7uqP2Ae/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stack Lifecycle",
+                        "lectureId": "6a37a7418668a9279c152f08",
+                        "lectureLength": "00:12:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/39ZsDy6rMk6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On- Simple EC2 instance JSON",
+                        "lectureId": "6a37a7418668a9279c152f09",
+                        "lectureLength": "00:19:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ARGyhNaXmTx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On- Simple EC2 instance YAML",
+                        "lectureId": "6a37a7418668a9279c152f0a",
+                        "lectureLength": "00:18:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C8rSCjBBKpP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On- Deploying EC2 and S3 YAML&JSON files",
+                        "lectureId": "6a37a7418668a9279c152f0b",
+                        "lectureLength": "00:15:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5kgfsZP7xmD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On- Constructing code & Deploying Simple S3 Bucket & VPC ARCH",
+                        "lectureId": "6a37a7418668a9279c152f0c",
+                        "lectureLength": "00:20:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76tqa5YJu8f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "AWS Infrastructure Composer",
+                        "lectureId": "6a37a7418668a9279c152f0d",
+                        "lectureLength": "00:09:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Db5XJ2XZft/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT]- Provisioning Infra with AWS Infrastructure Composer",
+                        "lectureId": "6a37a7418668a9279c152f0e",
+                        "lectureLength": "00:15:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Z26sKCcnxH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment: Deploy an EC2 Instance Using CloudFormation on EC2",
+                "assignmentId": "6a3917db8668a9279c153001",
+                "assignmentLink": "https://docs.google.com/document/d/1TBrbazlTEY4qn747QR7uE74ZJcWkiMcU/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment: Design a Simple VPC Architecture Using AWS Infrastructure Composer",
+                "assignmentId": "6a3917e98668a9279c153006",
+                "assignmentLink": "https://docs.google.com/document/d/1H7_P31aBnMtdCHw71zN5STFEcG98u9hA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "CDK",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Introduction to CDK",
+                        "lectureId": "6a37a7418668a9279c152f10",
+                        "lectureLength": "00:19:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5qCyzhNktCA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typescript s3",
+                        "lectureId": "6a37a7418668a9279c152f11",
+                        "lectureLength": "00:09:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah4RzJZ4gE4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typescript ec2",
+                        "lectureId": "6a37a7418668a9279c152f12",
+                        "lectureLength": "00:10:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4P8BYAA2abg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Javascript s3",
+                        "lectureId": "6a37a7418668a9279c152f13",
+                        "lectureLength": "00:06:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BG49bSUcEHR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Javascript ec2",
+                        "lectureId": "6a37a7418668a9279c152f14",
+                        "lectureLength": "00:06:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8mR5zFj43Hh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Java s3",
+                        "lectureId": "6a37a7418668a9279c152f15",
+                        "lectureLength": "00:10:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZezhHFHG9c/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Java ec2",
+                        "lectureId": "6a37a7418668a9279c152f16",
+                        "lectureLength": "00:09:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXxXBXMRdT2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Python s3",
+                        "lectureId": "6a37a7418668a9279c152f17",
+                        "lectureLength": "00:09:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9y258B3UR3e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Python ec2",
+                        "lectureId": "6a37a7418668a9279c152f18",
+                        "lectureLength": "00:09:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5y4PddBpshX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "C# s3",
+                        "lectureId": "6a37a7418668a9279c152f19",
+                        "lectureLength": "00:12:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7kKgDx46X5e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "C# ec2",
+                        "lectureId": "6a37a7418668a9279c152f1a",
+                        "lectureLength": "00:13:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h7x5mMK4RB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On- Deploying Simple S3 Resource",
+                        "lectureId": "6a37a7418668a9279c152f1b",
+                        "lectureLength": "00:13:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sQUCPXrMHG/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment: Deploy an EC2 Instance Using AWS CDK",
+                "assignmentId": "6a3917fd8668a9279c15300b",
+                "assignmentLink": "https://docs.google.com/document/d/1AHrH42ldgatqCMe9qs-iggEpGYoFt882/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Pulumi",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section Overview",
+                        "lectureId": "6a37a7418668a9279c152f1d",
+                        "lectureLength": "00:00:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/55XfT7xzeSg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Pulumi",
+                        "lectureId": "6a37a7418668a9279c152f1e",
+                        "lectureLength": "00:09:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/rSQktpqdnTM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stacks & Environments",
+                        "lectureId": "6a37a7418668a9279c152f1f",
+                        "lectureLength": "00:10:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/36GN6zhNm7u/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typescript S3",
+                        "lectureId": "6a37a7418668a9279c152f20",
+                        "lectureLength": "00:09:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Ah4RzJZ4gE4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Typescript EC2",
+                        "lectureId": "6a37a7418668a9279c152f21",
+                        "lectureLength": "00:10:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4P8BYAA2abg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Javascript S3+EC2",
+                        "lectureId": "6a37a7418668a9279c152f22",
+                        "lectureLength": "00:10:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4cHFj8tNkh5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ruby S3+EC2",
+                        "lectureId": "6a37a7418668a9279c152f23",
+                        "lectureLength": "00:13:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6972KNEY7Q8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Python S3+EC2",
+                        "lectureId": "6a37a7418668a9279c152f24",
+                        "lectureLength": "00:12:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9FBd7eHtqyQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On- Deploying Infrastructure using pulumi",
+                        "lectureId": "6a37a7418668a9279c152f25",
+                        "lectureLength": "00:22:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7yGAQukSsmd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Pulumi Best Practices",
+                        "lectureId": "6a37a7418668a9279c152f26",
+                        "lectureLength": "00:02:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3kgs4qkKxXC/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment: Create an S3 Bucket Using Pulumi",
+                "assignmentId": "6a3918108668a9279c153010",
+                "assignmentLink": "https://docs.google.com/document/d/1UNDY5csynn43XmHYcnueU1SDSf0D91jA/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment: Deploy an EC2 Instance Using Pulumi",
+                "assignmentId": "6a3918238668a9279c153015",
+                "assignmentLink": "https://docs.google.com/document/d/18vsyBID-_9KKT3kIqAb_20accjhFSfCJ/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "section",
+                "name": "Puppet & Chef",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "What is puppet?",
+                        "lectureId": "6a37a7418668a9279c152f28",
+                        "lectureLength": "00:08:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/qtUJ93Ssdde/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Puppet DSL",
+                        "lectureId": "6a37a7418668a9279c152f29",
+                        "lectureLength": "00:10:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/b3g6C5SFyGc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Simple S3 bucket on puppet DSL",
+                        "lectureId": "6a37a7418668a9279c152f2a",
+                        "lectureLength": "00:12:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3aCABzerEzT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EC2 on puppet DSL",
+                        "lectureId": "6a37a7418668a9279c152f2b",
+                        "lectureLength": "00:17:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SDtYhMmSbD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On- Deploying S3 Bucket using Puppet",
+                        "lectureId": "6a37a7418668a9279c152f2c",
+                        "lectureLength": "00:12:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/YNEE56hRDN6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hands On- Deploying EC2 instance using Puppet",
+                        "lectureId": "6a37a7418668a9279c152f2d",
+                        "lectureLength": "00:10:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AYEnG6KTeUe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is Chef?",
+                        "lectureId": "6a37a7418668a9279c152f2e",
+                        "lectureLength": "00:00:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8bsz3SPEnF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Chef Ruby DSL",
+                        "lectureId": "6a37a7418668a9279c152f2f",
+                        "lectureLength": "00:08:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5zsXn7CAk4h/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "S3 bucket on Chef Ruby DSL",
+                        "lectureId": "6a37a7418668a9279c152f30",
+                        "lectureLength": "00:11:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByHqAJuX3UK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "EC2 instance on Chef Ruby DSL",
+                        "lectureId": "6a37a7418668a9279c152f31",
+                        "lectureLength": "00:05:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/jygjqAqmNTf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Deploy EC2 instance using Chef",
+                        "lectureId": "6a37a7418668a9279c152f32",
+                        "lectureLength": "00:11:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4nZTH8nHEg6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT]- Understanding vpc-deploy.sh",
+                        "lectureId": "6a37a7418668a9279c152f33",
+                        "lectureLength": "00:09:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CN8GdcKDy7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT]- Understanding vpc-destroy.sh",
+                        "lectureId": "6a37a7418668a9279c152f34",
+                        "lectureLength": "00:03:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApFuPASKDXd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "[PROJECT] - VPC Architecture with Chef",
+                        "lectureId": "6a37a7418668a9279c152f35",
+                        "lectureLength": "00:08:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DrCez4Ba5z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Chef vs Puppet vs Manual provisioning",
+                        "lectureId": "6a37a7418668a9279c152f36",
+                        "lectureLength": "00:03:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3eDMhQaDKcu/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment: Provision an AWS S3 Bucket Using Puppet",
+                "assignmentId": "6a3918368668a9279c15301a",
+                "assignmentLink": "https://docs.google.com/document/d/18qEhq7NsWGNE7CEv0PVnYELGoftwXATR/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment: Provision S3 Bucket Infrastructure Using Chef",
+                "assignmentId": "6a3918488668a9279c15301f",
+                "assignmentLink": "https://docs.google.com/document/d/1dZPFkTGhr9oBF5_ZxJNZ0olcSRVqrbeu/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6a53fdd4fc66b37ef64a62be",
+                "mentor": "Rohit",
+                "start": 20,
+                "end": 23,
+                "chatStart": 20,
+                "chatEnd": 23,
+                "time": "8:00 PM - 11:00 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds3",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

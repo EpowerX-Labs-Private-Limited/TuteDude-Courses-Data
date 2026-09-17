@@ -1,0 +1,610 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "680c86ea364f718dc17b6866",
+        "courseName": "React Native",
+        "slug": "reactnative",
+        "category": "technical",
+        "tpFolderId": "5GaQ6hYk8RE",
+        "s3BackupPlay": false,
+        "isAutomated": false,
+        "aiEvaluationEnabled": false,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": true,
+        "content": [
+            {
+                "type": "section",
+                "name": "Introduction",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Why React Native",
+                        "lectureId": "680c86ea364f718dc17b6868",
+                        "lectureLength": "00:02:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98jGPkrY7Fp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "What is React Native",
+                        "lectureId": "680c86ea364f718dc17b6869",
+                        "lectureLength": "00:02:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6A3N4zgrcPJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Inner Working of React Native",
+                        "lectureId": "680c86ea364f718dc17b686a",
+                        "lectureLength": "00:01:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/76G3n8CAMKM/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "React Native Basics",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Installing CLI",
+                        "lectureId": "680c86ea364f718dc17b686c",
+                        "lectureLength": "00:03:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6dy9JABncmU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Project",
+                        "lectureId": "680c86ea364f718dc17b686d",
+                        "lectureLength": "00:05:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BGzgPAmpc4k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Running on Emulator and Physical Device",
+                        "lectureId": "680c86ea364f718dc17b686e",
+                        "lectureLength": "00:04:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4N8r3XtsbFS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hello World Component",
+                        "lectureId": "680c86ea364f718dc17b686f",
+                        "lectureLength": "00:05:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9btEDzQ7QmY/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Styling",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Styling",
+                        "lectureId": "680c86ea364f718dc17b6871",
+                        "lectureLength": "00:10:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5QadpbFXxnj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Styling-2",
+                        "lectureId": "680c86ea364f718dc17b6872",
+                        "lectureLength": "00:13:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bsck6xSmeCK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Components Revised",
+                        "lectureId": "680c86ea364f718dc17b6873",
+                        "lectureLength": "00:09:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkX7tpraFTZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using FlatList",
+                        "lectureId": "680c86ea364f718dc17b6874",
+                        "lectureLength": "00:09:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EcX9hfyurb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Using FlatList -2",
+                        "lectureId": "680c86ea364f718dc17b6875",
+                        "lectureLength": "00:08:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7PUTCTRpRdc/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "React Native Navigation",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Navigation Part 1",
+                        "lectureId": "680c86ea364f718dc17b6877",
+                        "lectureLength": "00:10:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4EgmGtfsS6m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Navigation Part 2",
+                        "lectureId": "680c86ea364f718dc17b6878",
+                        "lectureLength": "00:09:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AqrnuaAgeyx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Navigation Exercise Solution 1",
+                        "lectureId": "680c86ea364f718dc17b6879",
+                        "lectureLength": "00:04:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5feXmaqHR8H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Navigation Exercise Solution Part 2",
+                        "lectureId": "680c86ea364f718dc17b687a",
+                        "lectureLength": "00:17:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4gYGJ85EDMf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Navigation Exercise Solution Part 3",
+                        "lectureId": "680c86ea364f718dc17b687b",
+                        "lectureLength": "00:13:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7YuJZTYjHaC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bottom Tab Navigator",
+                        "lectureId": "680c86ea364f718dc17b687c",
+                        "lectureLength": "00:01:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9YCfS7ptdc8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Folder structure",
+                        "lectureId": "680c86ea364f718dc17b687d",
+                        "lectureLength": "00:02:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TG8xsp5yUz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tweaking App Navigator",
+                        "lectureId": "680c86ea364f718dc17b687e",
+                        "lectureLength": "00:05:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7TdxXuzQtsS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Configuring Home",
+                        "lectureId": "680c86ea364f718dc17b687f",
+                        "lectureLength": "00:09:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BA983KRreNF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Additional Components",
+                        "lectureId": "680c86ea364f718dc17b6880",
+                        "lectureLength": "00:10:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4XueEM7SAsY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Finalizing Application",
+                        "lectureId": "680c86ea364f718dc17b6881",
+                        "lectureLength": "00:09:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dCNBtbAKBS/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Authentication",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "App Intro",
+                        "lectureId": "680c86ea364f718dc17b6883",
+                        "lectureLength": "00:01:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73GeatD2YGu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Firebase Project",
+                        "lectureId": "680c86ea364f718dc17b6884",
+                        "lectureLength": "00:03:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8e9MMgUCspE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Folder Structure of App",
+                        "lectureId": "680c86ea364f718dc17b6885",
+                        "lectureLength": "00:02:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4eSdGda3FTC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating AuthProvider (Context API)",
+                        "lectureId": "680c86ea364f718dc17b6886",
+                        "lectureLength": "00:05:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/888N5z7Famc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tweaking AppNavigator",
+                        "lectureId": "680c86ea364f718dc17b6887",
+                        "lectureLength": "00:07:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8NkEnAAR6fc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Layout",
+                        "lectureId": "680c86ea364f718dc17b6888",
+                        "lectureLength": "00:06:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6PT5hHqcuS8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating login",
+                        "lectureId": "680c86ea364f718dc17b6889",
+                        "lectureLength": "00:05:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AMR68aENgtG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Login Part 2",
+                        "lectureId": "680c86ea364f718dc17b688a",
+                        "lectureLength": "00:08:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SkXkN7Gp3xf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Auth Layout",
+                        "lectureId": "680c86ea364f718dc17b688b",
+                        "lectureLength": "00:13:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BXPgt7q6kD8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Properties to Components",
+                        "lectureId": "680c86ea364f718dc17b688c",
+                        "lectureLength": "00:08:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KUpdRrZfCg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding SignUP",
+                        "lectureId": "680c86ea364f718dc17b688d",
+                        "lectureLength": "00:04:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6BYSXHp7PXY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating User Profile",
+                        "lectureId": "680c86ea364f718dc17b688e",
+                        "lectureLength": "00:05:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yDR2sFhhYF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Logging In User",
+                        "lectureId": "680c86ea364f718dc17b688f",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9g7A8REdE47/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Forget Password Function",
+                        "lectureId": "680c86ea364f718dc17b6890",
+                        "lectureLength": "00:05:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3gncZdf64Kh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Final Fix",
+                        "lectureId": "680c86ea364f718dc17b6891",
+                        "lectureLength": "00:02:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4qs9n6rHp2s/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Major Project - Expense Tracker App",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "App Introduction",
+                        "lectureId": "680c86ea364f718dc17b6893",
+                        "lectureLength": "00:04:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4YCKRqQP23d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Folder Structure",
+                        "lectureId": "680c86ea364f718dc17b6894",
+                        "lectureLength": "00:02:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A2yYS7tM7SZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Login",
+                        "lectureId": "680c86ea364f718dc17b6895",
+                        "lectureLength": "00:05:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ACfuq6Qp7gP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sigining In",
+                        "lectureId": "680c86ea364f718dc17b6896",
+                        "lectureLength": "00:04:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7dE6AbUkyjF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Methods",
+                        "lectureId": "680c86ea364f718dc17b6897",
+                        "lectureLength": "00:09:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pEBUPpcNgr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Unsubscribing to Auth State Changes",
+                        "lectureId": "680c86ea364f718dc17b6898",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9NxFy3ME7bX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Completing Login Screen",
+                        "lectureId": "680c86ea364f718dc17b6899",
+                        "lectureLength": "00:04:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Uhj6HUXdad/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Register Screen",
+                        "lectureId": "680c86ea364f718dc17b689a",
+                        "lectureLength": "00:09:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ZBxP3R4Agd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Connecting Database",
+                        "lectureId": "680c86ea364f718dc17b689b",
+                        "lectureLength": "00:09:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3hQDGQQGBP7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Home Screen",
+                        "lectureId": "680c86ea364f718dc17b689c",
+                        "lectureLength": "00:11:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A8f7XaXhAan/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Home Screen Layout",
+                        "lectureId": "680c86ea364f718dc17b689d",
+                        "lectureLength": "00:09:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4AU8TTPzrt6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Compeleting Home Screen",
+                        "lectureId": "680c86ea364f718dc17b689e",
+                        "lectureLength": "00:07:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AXepn9bkNS4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Methods- 3",
+                        "lectureId": "680c86ea364f718dc17b689f",
+                        "lectureLength": "00:05:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3zacUDCBf2b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Home Screens Methods",
+                        "lectureId": "680c86ea364f718dc17b68a0",
+                        "lectureLength": "00:09:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3mYgrdjcKQP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Add Screen",
+                        "lectureId": "680c86ea364f718dc17b68a1",
+                        "lectureLength": "00:10:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3UYMxBrGtze/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Methods to AddScreen",
+                        "lectureId": "680c86ea364f718dc17b68a2",
+                        "lectureLength": "00:12:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RCKM9BfPGd/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Methods Part 2",
+                        "lectureId": "680c86ea364f718dc17b68a3",
+                        "lectureLength": "00:08:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BSqDFqBtadJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating ALL Transactions",
+                        "lectureId": "680c86ea364f718dc17b68a4",
+                        "lectureLength": "00:09:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4t2QP8KSfrR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Update Screen",
+                        "lectureId": "680c86ea364f718dc17b68a5",
+                        "lectureLength": "00:11:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G9yYshcktG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding State to Update",
+                        "lectureId": "680c86ea364f718dc17b68a6",
+                        "lectureLength": "00:04:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9CtfC4S8qxK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Methods Update Screen",
+                        "lectureId": "680c86ea364f718dc17b68a7",
+                        "lectureLength": "00:10:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Qhh5b2tAmGA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Delete Method",
+                        "lectureId": "680c86ea364f718dc17b68a8",
+                        "lectureLength": "00:04:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHuEGPduqdb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Bug Fix",
+                        "lectureId": "680c86ea364f718dc17b68a9",
+                        "lectureLength": "00:01:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/SNz7NxGHDjJ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Local Notifications in React Native",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Notifications",
+                        "lectureId": "680c86ea364f718dc17b68ab",
+                        "lectureLength": "00:03:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6Bb9TJmMPu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scheduling Notification",
+                        "lectureId": "680c86ea364f718dc17b68ac",
+                        "lectureLength": "00:03:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AHJZmY535Y9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Recieving Notifications",
+                        "lectureId": "680c86ea364f718dc17b68ad",
+                        "lectureLength": "00:05:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATGYZYZGCNR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Event Listeners",
+                        "lectureId": "680c86ea364f718dc17b68ae",
+                        "lectureLength": "00:04:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D9ZkFu2ueN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Major Project - Tic Tac Toe App",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "App Intro",
+                        "lectureId": "680c86ea364f718dc17b68b0",
+                        "lectureLength": "00:01:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5xpbCYb4PEy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Code Tour",
+                        "lectureId": "680c86ea364f718dc17b68b1",
+                        "lectureLength": "00:03:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9RDrD4ScyRQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Methods",
+                        "lectureId": "680c86ea364f718dc17b68b2",
+                        "lectureLength": "00:04:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8YBFBmAz8xP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Layout",
+                        "lectureId": "680c86ea364f718dc17b68b3",
+                        "lectureLength": "00:05:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeKfTGxMuJt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Imports",
+                        "lectureId": "680c86ea364f718dc17b68b4",
+                        "lectureLength": "00:03:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5jEFyMknSYj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding States",
+                        "lectureId": "680c86ea364f718dc17b68b5",
+                        "lectureLength": "00:05:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9yGDQJDjKH5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding Methods to Board",
+                        "lectureId": "680c86ea364f718dc17b68b6",
+                        "lectureLength": "00:06:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DpuN5uJsEH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Board Layout",
+                        "lectureId": "680c86ea364f718dc17b68b7",
+                        "lectureLength": "00:07:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6aRrAt4uEQY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Final Application",
+                        "lectureId": "680c86ea364f718dc17b68b8",
+                        "lectureLength": "00:04:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6pJjGDTF4Bn/video.m3u8"
+                    }
+                ]
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "69be72fd959c4775ed11cac4",
+                "mentor": "Udit",
+                "start": 20.5,
+                "end": 22,
+                "chatStart": 20.5,
+                "chatEnd": 22,
+                "time": "8:30 PM - 10 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds8",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5,
+                    6
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [],
+        "notes": []
+    },
+    "fromCache": false
+}

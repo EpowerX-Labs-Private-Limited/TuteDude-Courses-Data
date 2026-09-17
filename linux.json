@@ -1,0 +1,1798 @@
+{
+    "success": true,
+    "message": "Course content retrieved successfully",
+    "data": {
+        "_id": "696b8fbef982c2e11e09ede1",
+        "courseName": "Linux",
+        "slug": "linux",
+        "category": "technical",
+        "tpFolderId": "5pGzc42Z8uN",
+        "s3BackupPlay": false,
+        "isAutomated": true,
+        "aiEvaluationEnabled": true,
+        "hasOldCourse": false,
+        "liveMentorshipEnabled": false,
+        "chatWithMentorEnabled": false,
+        "content": [
+            {
+                "type": "section",
+                "name": "How to connect with mentors and Resolve doubts",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "How to connect with mentors and Resolve doubts ",
+                        "lectureId": "697df91023576e8c37bf9a91",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Course Overview",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Course Overview",
+                        "lectureId": "696b8fbef982c2e11e09ede3",
+                        "lectureLength": "00:01:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/99ssAnm7caB/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Introduction To Linux",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section 1 Overview",
+                        "lectureId": "696b8fbef982c2e11e09ede5",
+                        "lectureLength": "00:00:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6kxAUFtTPzr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction To Linux",
+                        "lectureId": "696b8fbef982c2e11e09ede6",
+                        "lectureLength": "00:17:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fXzm75E2ZD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Key Functions, Linux Distributions And History",
+                        "lectureId": "696b8fbef982c2e11e09ede7",
+                        "lectureLength": "00:10:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AggBt38dajm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linux Vs Unix",
+                        "lectureId": "696b8fbef982c2e11e09ede8",
+                        "lectureLength": "00:08:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5HGKXeRqRQc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linux Flavours",
+                        "lectureId": "696b8fbef982c2e11e09ede9",
+                        "lectureLength": "00:21:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/45cF7fsbpgC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linux Flavours Tabular Comparison",
+                        "lectureId": "696b8fbef982c2e11e09edea",
+                        "lectureLength": "00:04:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5rxEzpdmcxF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linux Users",
+                        "lectureId": "696b8fbef982c2e11e09edeb",
+                        "lectureLength": "00:04:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7nGSh2uCAP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linux Vs Windows",
+                        "lectureId": "696b8fbef982c2e11e09edec",
+                        "lectureLength": "00:06:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHrBEfNY2Nr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating An Aws Account",
+                        "lectureId": "696b8fbef982c2e11e09eded",
+                        "lectureLength": "00:02:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6mj9Eyy6Spp/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Virtualization",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section 2 Overview",
+                        "lectureId": "696b8fbef982c2e11e09edef",
+                        "lectureLength": "00:00:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/93yJx7ZtKCP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Virtualization",
+                        "lectureId": "696b8fbef982c2e11e09edf0",
+                        "lectureLength": "00:14:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3KYnCtKcyZK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Virtualization Types",
+                        "lectureId": "696b8fbef982c2e11e09edf1",
+                        "lectureLength": "00:15:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8hDFTXj6D9P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Virtual Box",
+                        "lectureId": "696b8fbef982c2e11e09edf2",
+                        "lectureLength": "00:08:44",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eERuDhDD4f/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Aws Virtualization",
+                        "lectureId": "696b8fbef982c2e11e09edf3",
+                        "lectureLength": "00:13:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DAdt73pxJe/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Ec2",
+                        "lectureId": "696b8fbef982c2e11e09edf4",
+                        "lectureLength": "00:08:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ApUjH4Z5fs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Amis",
+                        "lectureId": "696b8fbef982c2e11e09edf5",
+                        "lectureLength": "00:04:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AbjNs3UJRXZ/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "System Access & File System",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section 3 Overview",
+                        "lectureId": "696b8fbef982c2e11e09edf7",
+                        "lectureLength": "00:00:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9uyXMFYqQmE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "File System Structure And Description",
+                        "lectureId": "696b8fbef982c2e11e09edf8",
+                        "lectureLength": "00:04:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/yDKbz36GBhY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Navigation Through Files",
+                        "lectureId": "696b8fbef982c2e11e09edf9",
+                        "lectureLength": "00:03:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B6TTG4pXztJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "File Navigation Hands On",
+                        "lectureId": "696b8fbef982c2e11e09edfa",
+                        "lectureLength": "00:04:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uZ8ZpUaM4d9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Relative And Absolute Paths Hands On",
+                        "lectureId": "696b8fbef982c2e11e09edfb",
+                        "lectureLength": "00:02:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3sU75bYqCQE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Files And Directories",
+                        "lectureId": "696b8fbef982c2e11e09edfc",
+                        "lectureLength": "00:03:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/752XRqSb8BR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Removing Files",
+                        "lectureId": "696b8fbef982c2e11e09edfd",
+                        "lectureLength": "00:02:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3M663QaqZre/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating Files Hands On",
+                        "lectureId": "696b8fbef982c2e11e09edfe",
+                        "lectureLength": "00:10:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/89F7uUC6t9x/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating / Removing Files And Directories Hands On",
+                        "lectureId": "696b8fbef982c2e11e09edff",
+                        "lectureLength": "00:03:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4bHKu2BGPKb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Wildcards",
+                        "lectureId": "696b8fbef982c2e11e09ee00",
+                        "lectureLength": "00:03:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nm7FaKbT6q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Wildcards Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee01",
+                        "lectureLength": "00:10:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BHr4eTQNQnE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Soft And Hard Links",
+                        "lectureId": "696b8fbef982c2e11e09ee02",
+                        "lectureLength": "00:01:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6G6p7X7rSD5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Find & Locate Command",
+                        "lectureId": "696b8fbef982c2e11e09ee03",
+                        "lectureLength": "00:01:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6KAhBB3tb3U/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Copy Command",
+                        "lectureId": "696b8fbef982c2e11e09ee04",
+                        "lectureLength": "00:01:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6du2B6248q2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Copy Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee05",
+                        "lectureLength": "00:05:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4TufFy84d8c/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 1",
+                "assignmentId": "69a86069db44913abd4c99a7",
+                "assignmentLink": "https://docs.google.com/document/d/18eZd1tmUtKCaWt4kvlN6tTHukZAgCsD30L8u0NN9jxI/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 2",
+                "assignmentId": "69a8613adb44913abd4c99b6",
+                "assignmentLink": "https://docs.google.com/document/d/181d1mfcvJbLleXRp2i6pRDAnjusQ_8TD1IB-PTbpIYg/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Assignment 3",
+                "assignmentId": "69a8615bdb44913abd4c99bb",
+                "assignmentLink": "https://docs.google.com/document/d/1XbHiAYBQ-cBmhO_8ZSZ-lZuJfYKsIQfjThwI7Wicpyo/edit?usp=sharing"
+            },
+            {
+                "type": "section",
+                "name": "Linux Fundamentals",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section 4 Overview",
+                        "lectureId": "696b8fbef982c2e11e09ee07",
+                        "lectureLength": "00:00:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B5AasQQX9rb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Command Syntax",
+                        "lectureId": "696b8fbef982c2e11e09ee08",
+                        "lectureLength": "00:02:56",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AA6D4rzbZY6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Command Syntax Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee09",
+                        "lectureLength": "00:04:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9c7NPr5aNrr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "User And Permission Management",
+                        "lectureId": "696b8fbef982c2e11e09ee10",
+                        "lectureLength": "00:16:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Bjqp75bfFAB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Chmod Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee11",
+                        "lectureLength": "00:13:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5ptKDpNP82D/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Chown Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee12",
+                        "lectureLength": "00:04:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7GEE4cZsYT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Help Command + Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee0d",
+                        "lectureLength": "00:06:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5teQ45K9qbM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Input And Output Redirections Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee0e",
+                        "lectureLength": "00:05:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9rUkyN3d9mX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Executing Multiple Commands With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee0f",
+                        "lectureLength": "00:05:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7BrgJuY7guu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Acl (Access Control List)",
+                        "lectureId": "696b8fbef982c2e11e09ee0a",
+                        "lectureLength": "00:01:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5SDn8PmYyKD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Acl Basic Commands",
+                        "lectureId": "696b8fbef982c2e11e09ee0b",
+                        "lectureLength": "00:01:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9euXfB5M9qb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Acl Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee0c",
+                        "lectureLength": "00:04:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5CHU7XKmNq4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tab Completion And Up Arrow Keys With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee13",
+                        "lectureLength": "00:07:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5BaryMz7yY3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linux Pipe With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee14",
+                        "lectureLength": "00:07:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8gYQrNf56pP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Compressing & Uncompressing.Mp4",
+                        "lectureId": "696b8fbef982c2e11e09ee15",
+                        "lectureLength": "00:03:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8rRZXmz3nbE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Compressing And Uncompressing Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee16",
+                        "lectureLength": "00:08:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bEZDQuaKaXj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "File Display Commands With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee17",
+                        "lectureLength": "00:10:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4JTaG7fTSXK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Diff & Cmp",
+                        "lectureId": "696b8fbef982c2e11e09ee18",
+                        "lectureLength": "00:01:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9BnUrhprF27/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Diff And Cmp Commands Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee19",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8BCyz4D7fdF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Gzip & Gunzip Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee1a",
+                        "lectureLength": "00:15:37",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5ZH2K3e5AA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Filters / Text Processing Commands",
+                        "lectureId": "696b8fbef982c2e11e09ee1b",
+                        "lectureLength": "00:01:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3enyCGc7bAE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Processing Command Cat",
+                        "lectureId": "696b8fbef982c2e11e09ee1c",
+                        "lectureLength": "00:01:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/dghZg2YJsjZ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cat Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee1d",
+                        "lectureLength": "00:10:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BrADGXX4uJY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Processing Command Awk",
+                        "lectureId": "696b8fbef982c2e11e09ee1e",
+                        "lectureLength": "00:01:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BJ7C6j7Q5ZK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Awk Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee1f",
+                        "lectureLength": "00:14:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/862MBqbPy7B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Processing Command Grep",
+                        "lectureId": "696b8fbef982c2e11e09ee20",
+                        "lectureLength": "00:01:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C6XynkPC9sh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Grep Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee21",
+                        "lectureLength": "00:08:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9MXF8h3tmzh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Text Processing Command Uniq",
+                        "lectureId": "696b8fbef982c2e11e09ee22",
+                        "lectureLength": "00:01:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3jm5RG7qq2j/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Uniq Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee23",
+                        "lectureLength": "00:06:00",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpeMzTK5K38/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sort Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee24",
+                        "lectureLength": "00:08:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/j37Nu6qc9GU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Wc Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee25",
+                        "lectureLength": "00:05:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AGcdqRuC9EG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Truncate Command With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee26",
+                        "lectureLength": "00:05:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72TbDtZdSRK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "File Editing",
+                        "lectureId": "696b8fbef982c2e11e09ee27",
+                        "lectureLength": "00:08:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7pTAxsPk6eS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Vi File Editor Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee28",
+                        "lectureLength": "00:13:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9U4am2XUkAP/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "System Management",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section 5 Overview",
+                        "lectureId": "696b8fbef982c2e11e09ee2a",
+                        "lectureLength": "00:01:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4ybkqPscbFx/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Stream Editor",
+                        "lectureId": "696b8fbef982c2e11e09ee2b",
+                        "lectureLength": "00:01:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/54hMRZBTQn6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sed Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee2c",
+                        "lectureLength": "00:06:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cf6dBDZ3De/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Password Aging",
+                        "lectureId": "696b8fbef982c2e11e09ee2d",
+                        "lectureLength": "00:01:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7cndGEzXaqu/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Password Aging Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee2e",
+                        "lectureLength": "00:05:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/79Jbghrghbp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Process / Services Commands (Systemctl, Ps, Top, Kill, Crontab, At)",
+                        "lectureId": "696b8fbef982c2e11e09ee2f",
+                        "lectureLength": "00:13:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/59PrhQX2enX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Package Management",
+                        "lectureId": "696b8fbef982c2e11e09ee30",
+                        "lectureLength": "00:03:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3U74bpg5qMc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Systemctl Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee31",
+                        "lectureLength": "00:04:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/56Znys2G9tM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ps Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee32",
+                        "lectureLength": "00:02:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6SAn9RB8uu4/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Top Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee33",
+                        "lectureLength": "00:02:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5YpfAGnrq7X/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "At Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee34",
+                        "lectureLength": "00:06:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AeRs7f6y9Sp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Cronjob Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee35",
+                        "lectureLength": "00:05:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QCpe2MaBFex/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Changing System Hostname With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee36",
+                        "lectureLength": "00:03:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/32rGZJJEQMg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Environmental Variables In Linux",
+                        "lectureId": "696b8fbef982c2e11e09ee37",
+                        "lectureLength": "00:03:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cjeR3sEz6q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Finding System Information With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee38",
+                        "lectureLength": "00:07:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7NytPqf78xs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "System Utility Commands (Date, Uptime, Hostname, Uname, Which, Cal)",
+                        "lectureId": "696b8fbef982c2e11e09ee39",
+                        "lectureLength": "00:01:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7thQJEydSr/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "System Utility Commands Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee3a",
+                        "lectureLength": "00:02:47",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9EuupZfhh5k/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Screen Command With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee3b",
+                        "lectureLength": "00:04:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/TtbmrMky4k7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Log Monitoring With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee3c",
+                        "lectureLength": "00:15:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3DqMyaj6PEA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sos Report With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee3d",
+                        "lectureLength": "00:08:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/467k4fsmHge/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "System Maintenance Commands (Shutdown, Init, Reboot, Halt) With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee3e",
+                        "lectureLength": "00:07:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BqAgKFY88BR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "System Monitoring With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee3f",
+                        "lectureLength": "00:18:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C3Gug7mAe8Q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Terminal Commands (Clear, Exit, Script) With Hands",
+                        "lectureId": "696b8fbef982c2e11e09ee40",
+                        "lectureLength": "00:03:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ByApBEphFjf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "User Account Management (Who, Last, W, Finger, Id) With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee41",
+                        "lectureLength": "00:14:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/72cNQckUGr7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Talking To User With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee42",
+                        "lectureLength": "00:08:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4rNXHNfbsze/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tmux Command With Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee43",
+                        "lectureLength": "00:05:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5exkZ9BenDM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Guid Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee44",
+                        "lectureLength": "00:08:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Jpb7SPem2P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Process Management Commands Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee45",
+                        "lectureLength": "00:07:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AAS9Ujc9EJj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "User Management",
+                        "lectureId": "696b8fbef982c2e11e09ee46",
+                        "lectureLength": "00:03:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uNuxR5x3A6d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "User Management Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee47",
+                        "lectureLength": "00:06:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96GPhGmdbad/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Shell Scripting",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section 6 Overview",
+                        "lectureId": "696b8fbef982c2e11e09ee49",
+                        "lectureLength": "00:01:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6XDXUNyehqa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Introduction To Shell",
+                        "lectureId": "696b8fbef982c2e11e09ee4a",
+                        "lectureLength": "00:04:10",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3xQb89RK2he/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Making Our First Shell Script",
+                        "lectureId": "696b8fbef982c2e11e09ee4b",
+                        "lectureLength": "00:06:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Ca8Bh57u6z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "If Else Scripts",
+                        "lectureId": "696b8fbef982c2e11e09ee4c",
+                        "lectureLength": "00:10:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8nasZRCYmeX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "For Loop Script",
+                        "lectureId": "696b8fbef982c2e11e09ee4d",
+                        "lectureLength": "00:08:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BkDesCJZ85z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Do While Loop Script",
+                        "lectureId": "696b8fbef982c2e11e09ee4e",
+                        "lectureLength": "00:13:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9xbTfgBFCRg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Case Statement Script",
+                        "lectureId": "696b8fbef982c2e11e09ee4f",
+                        "lectureLength": "00:20:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4DKmjbdzUt3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Set A User Id Using Shell Script",
+                        "lectureId": "696b8fbef982c2e11e09ee50",
+                        "lectureLength": "00:04:19",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A96uteYmqrf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Some Commonly Used Scripts",
+                        "lectureId": "696b8fbef982c2e11e09ee51",
+                        "lectureLength": "00:14:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BUGQeEeGhUj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "History Of Shell",
+                        "lectureId": "696b8fbef982c2e11e09ee52",
+                        "lectureLength": "00:05:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UA4ScfQqkN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Linux Networking",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section 7 Overview",
+                        "lectureId": "696b8fbef982c2e11e09ee54",
+                        "lectureLength": "00:01:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QSXpUjHh59/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Client Server Relationship",
+                        "lectureId": "696b8fbef982c2e11e09ee55",
+                        "lectureLength": "00:05:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3ZBJrKHggRF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Enabling Internet On Linux",
+                        "lectureId": "696b8fbef982c2e11e09ee56",
+                        "lectureLength": "00:03:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6UmuQuPdmGs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Necessary Network Configurations And Internet Connectivity",
+                        "lectureId": "696b8fbef982c2e11e09ee57",
+                        "lectureLength": "00:07:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/kPYcJgs7s3e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Network Components",
+                        "lectureId": "696b8fbef982c2e11e09ee58",
+                        "lectureLength": "00:07:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8ccRGM77x54/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Understanding Network On Linux Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee59",
+                        "lectureLength": "00:07:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BG8sKMq5dCk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Network Files & Components",
+                        "lectureId": "696b8fbef982c2e11e09ee5a",
+                        "lectureLength": "00:01:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/332NPaGHJS5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Network Files And Components Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee5b",
+                        "lectureLength": "00:07:25",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/35fHDb7XaC7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Common Network Commands",
+                        "lectureId": "696b8fbef982c2e11e09ee5c",
+                        "lectureLength": "00:10:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/44j3n6dPD9e/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Common Network Commands Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee5d",
+                        "lectureLength": "00:14:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3pBsdNdUtqs/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Curl & Wget",
+                        "lectureId": "696b8fbef982c2e11e09ee5e",
+                        "lectureLength": "00:04:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A5sC7cBk52C/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Curl And Wget Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee5f",
+                        "lectureLength": "00:13:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7u2PsnZuNTQ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nic",
+                        "lectureId": "696b8fbef982c2e11e09ee60",
+                        "lectureLength": "00:06:34",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/98xqXrBXZ49/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nic Bonding Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee61",
+                        "lectureLength": "00:13:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6FZEzGtYT7d/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "New Network Utilities",
+                        "lectureId": "696b8fbef982c2e11e09ee62",
+                        "lectureLength": "00:10:57",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BBSpp5gt9M9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "New Network Utilities Summary Table",
+                        "lectureId": "696b8fbef982c2e11e09ee63",
+                        "lectureLength": "00:02:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cFx3m7rYqR9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ssh & Telnet",
+                        "lectureId": "696b8fbef982c2e11e09ee64",
+                        "lectureLength": "00:03:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HEp3shubzT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ssh Configuration Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee65",
+                        "lectureLength": "00:10:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/NYSk5tB6prX/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ss Command",
+                        "lectureId": "696b8fbef982c2e11e09ee66",
+                        "lectureLength": "00:03:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9f9EqYQG93B/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ss Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee67",
+                        "lectureLength": "00:09:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eGs9hpj5JE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Curl & Ping Commands",
+                        "lectureId": "696b8fbef982c2e11e09ee68",
+                        "lectureLength": "00:02:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9Bb6Nm82bKc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Curl Hands On.Mp4",
+                        "lectureId": "696b8fbef982c2e11e09ee69",
+                        "lectureLength": "00:11:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8eyQDbsp8K9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ping Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee6a",
+                        "lectureLength": "00:13:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/823sdSRfKR3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ftp (File Transfer Protocol)",
+                        "lectureId": "696b8fbef982c2e11e09ee6b",
+                        "lectureLength": "00:10:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fC7yENfmRg/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ftp Server Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee6c",
+                        "lectureLength": "00:21:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9SqsMCAnPkP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scp Command",
+                        "lectureId": "696b8fbef982c2e11e09ee6d",
+                        "lectureLength": "00:03:09",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8GYSEKB6u7a/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Scp Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee6e",
+                        "lectureLength": "00:16:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BubDDfsAQHb/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Resync Command",
+                        "lectureId": "696b8fbef982c2e11e09ee6f",
+                        "lectureLength": "00:03:22",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/73aN7UJ523X/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "System Updates And Repos (Rpm)",
+                        "lectureId": "696b8fbef982c2e11e09ee70",
+                        "lectureLength": "00:01:52",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ATMbSpTTbCG/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rpm Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee71",
+                        "lectureLength": "00:13:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BjSqQ7GUh8F/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "System Updates And Repos (Yum)",
+                        "lectureId": "696b8fbef982c2e11e09ee72",
+                        "lectureLength": "00:01:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7fBaFt6FQks/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Yum Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee73",
+                        "lectureLength": "00:14:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9tBpKeNBX9z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "System Updates And Repos (Dnf)",
+                        "lectureId": "696b8fbef982c2e11e09ee74",
+                        "lectureLength": "00:02:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BCRKA7dRhcY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dnf Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee75",
+                        "lectureLength": "00:16:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/bGRHPTN2dHU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dnf Vs Yum",
+                        "lectureId": "696b8fbef982c2e11e09ee76",
+                        "lectureLength": "00:03:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/43C3kq6DYN7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "System Upgrade And Patch Management",
+                        "lectureId": "696b8fbef982c2e11e09ee77",
+                        "lectureLength": "00:05:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7MnaGyrAp8q/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "System Upgrades And Patch Management Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee78",
+                        "lectureLength": "00:21:14",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/772kQfDFYn3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Entire Automated Patching Script For Patch Management",
+                        "lectureId": "696b8fbef982c2e11e09ee79",
+                        "lectureLength": "00:15:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4GrGJn5T4Fh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Local Repository",
+                        "lectureId": "69b53d3a49153561b6b5d4cf",
+                        "lectureLength": "00:03:55",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AR5zFKAnXF7/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Creating A Local Repository Hands",
+                        "lectureId": "696b8fbef982c2e11e09ee7b",
+                        "lectureLength": "00:13:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/QenRqzCzp7p/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Advanced Package Management (Apt-Get)",
+                        "lectureId": "696b8fbef982c2e11e09ee7c",
+                        "lectureLength": "00:03:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9eYehp2tyyh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Apt-Get Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee7d",
+                        "lectureLength": "00:17:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BTRn9n6GC4G/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Hostname / Ip Lookup",
+                        "lectureId": "696b8fbef982c2e11e09ee7e",
+                        "lectureLength": "00:01:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4SfFmQ8qPq6/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nslookup And Dig Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee7f",
+                        "lectureLength": "00:08:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BuAQRt5HecK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dns",
+                        "lectureId": "696b8fbef982c2e11e09ee80",
+                        "lectureLength": "00:06:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9hGNaEEZxKU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Download Install And Configure Dns",
+                        "lectureId": "696b8fbef982c2e11e09ee81",
+                        "lectureLength": "00:21:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ju3xj2EhmY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ntp",
+                        "lectureId": "696b8fbef982c2e11e09ee82",
+                        "lectureLength": "00:09:18",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RgftXmc9en/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Chronyd Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee83",
+                        "lectureLength": "00:12:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AH6Me2aUUS2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nginx",
+                        "lectureId": "696b8fbef982c2e11e09ee84",
+                        "lectureLength": "00:05:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4R3tGxY8hFt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nginx Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee85",
+                        "lectureLength": "00:11:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8RDDbjmTmBj/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "New System Utility Commands",
+                        "lectureId": "696b8fbef982c2e11e09ee86",
+                        "lectureLength": "00:03:53",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/uHCrrKMbgPc/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "New System Utility Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee87",
+                        "lectureLength": "00:09:03",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AZ7yNpCakS9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Squid Server",
+                        "lectureId": "696b8fbef982c2e11e09ee88",
+                        "lectureLength": "00:06:08",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/EKkDMraZqZz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Squid Server Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee89",
+                        "lectureLength": "00:13:40",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8CxSm6BmTag/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Web Servers",
+                        "lectureId": "696b8fbef982c2e11e09ee8a",
+                        "lectureLength": "00:10:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/49qaFpsfU5J/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Web Server Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee8b",
+                        "lectureLength": "00:22:48",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AMNn98EbP8/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Central Logger",
+                        "lectureId": "696b8fbef982c2e11e09ee8c",
+                        "lectureLength": "00:11:58",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/UpheSZ8F7tH/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Rsyslog Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee8d",
+                        "lectureLength": "00:25:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3AqtZqA5qsm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Os Hardening",
+                        "lectureId": "696b8fbef982c2e11e09ee8e",
+                        "lectureLength": "00:06:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BNFhGUfrJeF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Os Hardening Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee8f",
+                        "lectureLength": "00:25:46",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5DtnpNmPJ7H/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Traceroute",
+                        "lectureId": "696b8fbef982c2e11e09ee90",
+                        "lectureLength": "00:03:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4dMSjQr3XGz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Traceroute Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee91",
+                        "lectureLength": "00:10:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3YUUfddcu6A/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tuning System",
+                        "lectureId": "696b8fbef982c2e11e09ee92",
+                        "lectureLength": "00:08:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5u79p68ePhM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Tuning System Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee93",
+                        "lectureLength": "00:05:23",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C5JtFgEHUtT/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Firewall Management",
+                        "lectureId": "696b8fbef982c2e11e09ee94",
+                        "lectureLength": "00:14:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EpYcJsqSPt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Firewall Management Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee95",
+                        "lectureLength": "00:25:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6HkhDhDGkPk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker",
+                        "lectureId": "696b8fbef982c2e11e09ee96",
+                        "lectureLength": "00:14:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8XJxAhBX5G5/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Hands On",
+                        "lectureId": "696b8fbef982c2e11e09ee97",
+                        "lectureLength": "00:17:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9TFUtQqQxYY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Docker Application",
+                        "lectureId": "696b8fbef982c2e11e09ee98",
+                        "lectureLength": "00:11:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6ykeTcrtM2h/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Open Vpn",
+                        "lectureId": "696b8fbef982c2e11e09ee99",
+                        "lectureLength": "00:10:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AmupgRsZsTS/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Dhcp Server",
+                        "lectureId": "696b8fbef982c2e11e09ee9a",
+                        "lectureLength": "00:08:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BT8PTtJ7sdm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Ansible",
+                        "lectureId": "696b8fbef982c2e11e09ee9b",
+                        "lectureLength": "00:16:30",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/334sP7GCEsP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nagios",
+                        "lectureId": "696b8fbef982c2e11e09ee9c",
+                        "lectureLength": "00:12:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BeapEDFhau9/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Disk Partition",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section 8 Overview",
+                        "lectureId": "696b8fbef982c2e11e09ee9e",
+                        "lectureLength": "00:01:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6YkpXE7Xjec/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linux Run Levels",
+                        "lectureId": "696b8fbef982c2e11e09ee9f",
+                        "lectureLength": "00:10:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7Kx9EN8HUXP/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Booting Process",
+                        "lectureId": "696b8fbef982c2e11e09eea0",
+                        "lectureLength": "00:12:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cU2tgmMjyu9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Steps Of Booting",
+                        "lectureId": "696b8fbef982c2e11e09eea1",
+                        "lectureLength": "00:11:49",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9D4urn8NPPU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linux Booting Process",
+                        "lectureId": "696b8fbef982c2e11e09eea2",
+                        "lectureLength": "00:03:12",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3F5xmryNZZ2/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Systemd-Analyze Command",
+                        "lectureId": "696b8fbef982c2e11e09eea3",
+                        "lectureLength": "00:02:39",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/63NSZJ76Jb9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Systemd-Analyze Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09eea4",
+                        "lectureLength": "00:21:24",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/cCJDxruQEbR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Motd (Message Of The Day)",
+                        "lectureId": "696b8fbef982c2e11e09eea5",
+                        "lectureLength": "00:07:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6rSfBUMprZ3/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Motd Hands On",
+                        "lectureId": "696b8fbef982c2e11e09eea6",
+                        "lectureLength": "00:24:05",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B7zQJ5E9qRB/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linux Storage",
+                        "lectureId": "696b8fbef982c2e11e09eea7",
+                        "lectureLength": "00:12:51",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/APDKuytTgzK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Disk Partition",
+                        "lectureId": "696b8fbef982c2e11e09eea8",
+                        "lectureLength": "00:10:32",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6du3PPqSQd9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Df Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09eea9",
+                        "lectureLength": "00:09:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8n8SnSQUYuE/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lvm",
+                        "lectureId": "696b8fbef982c2e11e09eeaa",
+                        "lectureLength": "00:07:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6AHjJ5jN8ZR/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Adding / Extending Lvm",
+                        "lectureId": "696b8fbef982c2e11e09eeab",
+                        "lectureLength": "00:02:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Q8nkDa5GsM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lvm Hands On",
+                        "lectureId": "696b8fbef982c2e11e09eeac",
+                        "lectureLength": "00:16:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6DC4baBHpdD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Swap Space",
+                        "lectureId": "696b8fbef982c2e11e09eead",
+                        "lectureLength": "00:07:29",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3enUHS3pj93/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Swap Hands",
+                        "lectureId": "696b8fbef982c2e11e09eeae",
+                        "lectureLength": "00:08:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9qXyx5uDX9T/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Xfs_Info Command",
+                        "lectureId": "696b8fbef982c2e11e09eeaf",
+                        "lectureLength": "00:07:07",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/34QrPCxgdAN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Xfs_Info Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09eeb0",
+                        "lectureLength": "00:10:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/zEhdYszC2gm/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Raid",
+                        "lectureId": "696b8fbef982c2e11e09eeb1",
+                        "lectureLength": "00:18:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9kBp9J8ynJD/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Raid Hands On",
+                        "lectureId": "696b8fbef982c2e11e09eeb2",
+                        "lectureLength": "00:18:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6h6ujcpgMFY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "File System Check",
+                        "lectureId": "696b8fbef982c2e11e09eeb3",
+                        "lectureLength": "00:06:02",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B4AUB7XkMaC/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Fsck Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09eeb4",
+                        "lectureLength": "00:18:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4c4gQ3nMXDp/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "System Backup And Dd Command",
+                        "lectureId": "696b8fbef982c2e11e09eeb5",
+                        "lectureLength": "00:10:16",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/AtE3mXyKxUz/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lsblk & Dd Command Hands On",
+                        "lectureId": "696b8fbef982c2e11e09eeb6",
+                        "lectureLength": "00:07:13",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2xGaqHJBZF/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nfs (Network File System)",
+                        "lectureId": "696b8fbef982c2e11e09eeb7",
+                        "lectureLength": "00:16:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/66kTEhnEpKf/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nfs Hands On",
+                        "lectureId": "696b8fbef982c2e11e09eeb8",
+                        "lectureLength": "00:19:45",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7ugeh5u9Brt/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Sata & Sas",
+                        "lectureId": "696b8fbef982c2e11e09eeb9",
+                        "lectureLength": "00:12:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6Xrx6FG7fYK/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installing Mysql Server And Mariadb On Linux",
+                        "lectureId": "696b8fbef982c2e11e09eeba",
+                        "lectureLength": "00:12:41",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/sQP8UKAgPru/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Installing Mysql Server And Mariadb On Linux Hands On",
+                        "lectureId": "696b8fbef982c2e11e09eebb",
+                        "lectureLength": "00:10:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6EnfDeETT2M/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Lamp Stack",
+                        "lectureId": "696b8fbef982c2e11e09eebc",
+                        "lectureLength": "00:09:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8uxgJKFPubk/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Important Linux Distribution (Detailed)",
+                        "lectureId": "696b8fbef982c2e11e09eebd",
+                        "lectureLength": "00:11:31",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6fSD6FQT53D/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Projects",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section 9 Overview",
+                        "lectureId": "696b8fbef982c2e11e09eebf",
+                        "lectureLength": "00:00:17",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/96RZJEHbZCA/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Opening An Image File On Linux",
+                        "lectureId": "696b8fbef982c2e11e09eec0",
+                        "lectureLength": "00:11:36",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5F7GDKb2KsU/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project Overview Javaappshellscript",
+                        "lectureId": "696b8fbef982c2e11e09eec1",
+                        "lectureLength": "00:03:59",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6M9J4ZGzex9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project Hands On 1",
+                        "lectureId": "696b8fbef982c2e11e09eec2",
+                        "lectureLength": "00:23:42",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6etXQ5JfJrh/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Project Hands On 2",
+                        "lectureId": "696b8fbef982c2e11e09eec3",
+                        "lectureLength": "00:07:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3Ydj7EkphNq/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Nginx Project Hands On",
+                        "lectureId": "696b8fbef982c2e11e09eec4",
+                        "lectureLength": "00:29:38",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/86ZA7sjTMz5/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "All About Resume",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section 10 Overview",
+                        "lectureId": "696b8fbef982c2e11e09eec6",
+                        "lectureLength": "00:00:50",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9geFFn6k98P/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Resume Workshop",
+                        "lectureId": "696b8fbef982c2e11e09eec7",
+                        "lectureLength": "00:23:27",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8Uzf34kcUKy/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "How To Apply?",
+                        "lectureId": "696b8fbef982c2e11e09eec8",
+                        "lectureLength": "00:06:26",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/nN3mJa7Ug7Z/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Linux Administrator Duties",
+                        "lectureId": "696b8fbef982c2e11e09eec9",
+                        "lectureLength": "00:05:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/9XB9sSkKcFH/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "section",
+                "name": "Exam & Interview Prep",
+                "lectures": [
+                    {
+                        "type": "lecture",
+                        "name": "Section 11 Overview",
+                        "lectureId": "696b8fbef982c2e11e09eecb",
+                        "lectureLength": "00:00:35",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5THyMCHJ7xN/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Easy File & Process Management",
+                        "lectureId": "696b8fbef982c2e11e09eecc",
+                        "lectureLength": "00:05:11",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/JzgSffm62CM/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Easy File Permissions & Searching",
+                        "lectureId": "696b8fbef982c2e11e09eecd",
+                        "lectureLength": "00:05:21",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/7QJfCAKZ7xa/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Easy Compression & Networking",
+                        "lectureId": "696b8fbef982c2e11e09eece",
+                        "lectureLength": "00:05:01",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5mpxkYk885b/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Easy System Info & Shortcuts",
+                        "lectureId": "696b8fbef982c2e11e09eecf",
+                        "lectureLength": "00:04:43",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BzxDJSnbMd9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Medium - File Management",
+                        "lectureId": "696b8fbef982c2e11e09eed0",
+                        "lectureLength": "00:05:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/C2kgbK5BSgn/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Medium Process Management",
+                        "lectureId": "696b8fbef982c2e11e09eed1",
+                        "lectureLength": "00:05:15",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/ApyBnF9Yj2Y/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Medium - File Permissions",
+                        "lectureId": "696b8fbef982c2e11e09eed2",
+                        "lectureLength": "00:04:28",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/734cqHNeXu9/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Medium - Searching",
+                        "lectureId": "696b8fbef982c2e11e09eed3",
+                        "lectureLength": "00:05:04",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/5Fnu5fXD94m/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Medium - Compression",
+                        "lectureId": "696b8fbef982c2e11e09eed4",
+                        "lectureLength": "00:05:06",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/3N5EFC7RrTJ/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Medium - Networking",
+                        "lectureId": "696b8fbef982c2e11e09eed5",
+                        "lectureLength": "00:05:54",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/Aeq7zbB6FcY/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Medium - System Information",
+                        "lectureId": "696b8fbef982c2e11e09eed6",
+                        "lectureLength": "00:05:33",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/r6C9p5Uu85C/video.m3u8"
+                    },
+                    {
+                        "type": "lecture",
+                        "name": "Medium - Shortcuts",
+                        "lectureId": "696b8fbef982c2e11e09eed7",
+                        "lectureLength": "00:04:20",
+                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/B2mghu6d7rN/video.m3u8"
+                    }
+                ]
+            },
+            {
+                "type": "assignment",
+                "name": "Project 1",
+                "assignmentId": "69a860badb44913abd4c99ac",
+                "assignmentLink": "https://docs.google.com/document/d/17Wp0Bolw-bDOo36qACzWQVUSd_0qa_CURCTp5hjAVBs/edit?usp=sharing"
+            },
+            {
+                "type": "assignment",
+                "name": "Project 2",
+                "assignmentId": "69a860cfdb44913abd4c99b1",
+                "assignmentLink": "https://docs.google.com/document/d/13lHy7Fdv3xILDjKD2DGIaqjVGMV_FFZa1yNsPjWQ1cI/edit?usp=sharing"
+            }
+        ],
+        "liveMentorship": [
+            {
+                "_id": "6978cd22959c4775ed128cc8",
+                "mentor": "Rohit",
+                "start": 20,
+                "end": 23,
+                "chatStart": 20,
+                "chatEnd": 23,
+                "time": "8:00 PM - 11:00 PM",
+                "url": "https://campus.tutedude.com/commonspace?room=ds3",
+                "isAvailable": true,
+                "availableDays": [
+                    1,
+                    2,
+                    3,
+                    4,
+                    5
+                ],
+                "role": "senior"
+            }
+        ],
+        "resource": [
+            "https://drive.google.com/drive/folders/1TA9hZcVlYriGRWjvekHpxUQ2A8mE8gMr?usp=drive_link"
+        ],
+        "notes": []
+    },
+    "fromCache": false
+}
