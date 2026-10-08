@@ -16,19 +16,6 @@
         "content": [
             {
                 "type": "section",
-                "name": "How to connect with mentors and Resolve doubts",
-                "lectures": [
-                    {
-                        "type": "lecture",
-                        "name": "How to connect with mentors and Resolve doubts",
-                        "lectureId": "6a610a818668a9279c1626e7",
-                        "lectureLength": "00:02:45",
-                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
-                    }
-                ]
-            },
-            {
-                "type": "section",
                 "name": "Intro to video editing",
                 "lectures": [
                     {
@@ -58,19 +45,6 @@
                         "lectureId": "69cb65e149153561b6b6135b",
                         "lectureLength": "00:16:24",
                         "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/4kqhnmr94UB/video.m3u8"
-                    }
-                ]
-            },
-            {
-                "type": "section",
-                "name": "How to connect with mentors and Resolve doubts",
-                "lectures": [
-                    {
-                        "type": "lecture",
-                        "name": "How to connect with mentors and Resolve doubts",
-                        "lectureId": "69ca7b6249153561b6b610d5",
-                        "lectureLength": "00:03:41",
-                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNpe5cQ2Ut/video.m3u8"
                     }
                 ]
             },

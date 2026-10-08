@@ -16,19 +16,6 @@
         "content": [
             {
                 "type": "section",
-                "name": "How to connect with mentors and Resolve doubts",
-                "lectures": [
-                    {
-                        "type": "lecture",
-                        "name": "How to connect with mentors and Resolve doubts",
-                        "lectureId": "6a3393978668a9279c14e636",
-                        "lectureLength": "00:02:45",
-                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
-                    }
-                ]
-            },
-            {
-                "type": "section",
                 "name": "Intro Video for FMV Course",
                 "lectures": [
                     {

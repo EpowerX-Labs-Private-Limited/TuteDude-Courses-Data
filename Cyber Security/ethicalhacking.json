@@ -16,19 +16,6 @@
         "content": [
             {
                 "type": "section",
-                "name": "How to connect with mentors and Resolve doubts",
-                "lectures": [
-                    {
-                        "type": "lecture",
-                        "name": "How to connect with mentors and Resolve doubts",
-                        "lectureId": "6a801e59b6907e7275bdfb28",
-                        "lectureLength": "00:02:45",
-                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
-                    }
-                ]
-            },
-            {
-                "type": "section",
                 "name": "Introduction to Ethical Hacking",
                 "lectures": [
                     {
@@ -830,19 +817,6 @@
                 "name": "Career Preparation & Hacker Lifestyle",
                 "assignmentId": "6a4e5b5c8668a9279c156e57",
                 "assignmentLink": "https://docs.google.com/document/d/1aasJFPKcIXwE0ZPqa9but5_O8AcNikNr/edit?usp=drive_link&ouid=116445569232729020950&rtpof=true&sd=true"
-            },
-            {
-                "type": "section",
-                "name": "How to connect with mentors and Resolve doubts",
-                "lectures": [
-                    {
-                        "type": "lecture",
-                        "name": "How to connect with mentors and Resolve doubts",
-                        "lectureId": "6a61094c8668a9279c162389",
-                        "lectureLength": "00:03:41",
-                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/8QNpe5cQ2Ut/video.m3u8"
-                    }
-                ]
             }
         ],
         "liveMentorship": [
