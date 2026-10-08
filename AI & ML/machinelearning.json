@@ -16,19 +16,6 @@
         "content": [
             {
                 "type": "section",
-                "name": "How to connect with mentors and Resolve doubts",
-                "lectures": [
-                    {
-                        "type": "lecture",
-                        "name": "How to connect with mentors and Resolve doubts",
-                        "lectureId": "69709a6e7a4c1d6f2028887b",
-                        "lectureLength": "00:02:45",
-                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/BpDhjQxRQ7n/video.m3u8"
-                    }
-                ]
-            },
-            {
-                "type": "section",
                 "name": "Introduction",
                 "lectures": [
                     {
@@ -51,19 +38,6 @@
                         "lectureId": "687b6462aa7b36a500959d55",
                         "lectureLength": "00:01:02",
                         "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/A447XhB2zTb/video.m3u8"
-                    }
-                ]
-            },
-            {
-                "type": "section",
-                "name": "How to connect with mentors and Resolve doubts",
-                "lectures": [
-                    {
-                        "type": "lecture",
-                        "name": "How to connect with mentors and Resolve doubts",
-                        "lectureId": "68ed30a7c9cf3d230ba67602",
-                        "lectureLength": "00:04:21",
-                        "videoUrl": "https://d44tj0kek3n57.cloudfront.net/transcoded/6cx4jtx2d4f/video.m3u8"
                     }
                 ]
             },
